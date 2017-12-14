@@ -10,7 +10,7 @@ msgstr ""
 ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-10 18:38+0100\n"
-"PO-Revision-Date: 2017-12-11 06:48:53+0000\n"
+"PO-Revision-Date: 2017-12-14 07:24:45+0000\n"
 "Language: zh_tw\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1683,7 +1683,7 @@ msgstr "時間表期間清單"
 
 #. tpl/edit_team.html
 msgid "These are the values proposed in the Timetracking page, when adding a timetrack."
-msgstr "這些是在添加一個時間表時；在時間表頁面的建議內容。"
+msgstr "這些是在添加一個時間表時，在時間表頁面的建議內容。"
 
 #. tpl/edit_team.html
 #. tpl/menu/global_menu.html
@@ -2085,7 +2085,7 @@ msgstr "任務已解決，積壓工作應為「0」"
 
 #. tpl/issue_info.html
 msgid "Backlog should not be set if status is : "
-msgstr "積壓工作不應被設定；若狀態為此情況下：\\"
+msgstr "若狀態為此情況下積壓工作不應被設定：\\"
 
 #. tpl/commandset_edit.html
 msgid "New command set"
@@ -2622,7 +2622,7 @@ msgstr "日"
 
 #. tpl/doc.html
 msgid "Documentation is available at "
-msgstr "文件可用；位於\\"
+msgstr "文件可用，位於\\"
 
 #. tpl/doc.html
 msgid "CodevTT Documentation Wiki"
@@ -2924,7 +2924,7 @@ msgstr "從命令集中移除此命令？"
 
 #. tpl/command_edit.html
 msgid "Create the Command first."
-msgstr "首先；先創建任務。"
+msgstr "首先，先創建任務。"
 
 #. tpl/command_edit.html
 msgid "Provisions successfully updated."

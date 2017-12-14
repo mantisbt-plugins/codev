@@ -8,7 +8,7 @@ msgstr ""
 ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-10 18:38+0100\n"
-"PO-Revision-Date: 2017-12-11 06:48:53+0000\n"
+"PO-Revision-Date: 2017-12-14 07:24:45+0000\n"
 "Language: zh_cn\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -911,12 +911,10 @@ msgid "Sorry, you need to be in the admin-team to access this page."
 msgstr "对不起，您需要在管理员团队中以访问该页面。"
 
 #. tpl/mantis_reports.html
-#, fuzzy
 msgid "Bilan mensuel SAUF SuiviOp."
 msgstr "Bilan mensuel SAUF SuiviOp."
 
 #. tpl/mantis_reports.html
-#, fuzzy
 msgid "Bilan mensuel (nbre de fiches / status &agrave; la fin du mois)"
 msgstr "Bilan mensuel (nbre de fiches / status &agrave; la fin du mois)"
 
@@ -1610,11 +1608,11 @@ msgstr ""
 
 #. tpl/edit_team.html
 msgid "Add UserDailyCost"
-msgstr ""
+msgstr "添加用户每日费用"
 
 #. tpl/edit_team.html
 msgid "Add user daily cost"
-msgstr ""
+msgstr "添加用户每日费用"
 
 #. tpl/edit_team.html
 msgid "Team creation date"
@@ -1622,7 +1620,7 @@ msgstr "团队创建日期"
 
 #. tpl/edit_team.html
 msgid "User arrival date"
-msgstr ""
+msgstr "用户到达日期"
 
 #. tpl/edit_team.html
 msgid "User Daily Cost"
@@ -3395,7 +3393,7 @@ msgstr "Mantis中的开启任务列表"
 
 #. tpl/command_info.html
 msgid "MgrEffortEstim + Checked Provisions (days)"
-msgstr ""
+msgstr "Mgr努力估计+已检查规定（日）"
 
 #. tpl/command_info.html
 msgid "Reestimated (days)"
