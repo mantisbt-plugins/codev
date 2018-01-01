@@ -8,7 +8,7 @@ msgstr ""
 ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-10 18:38+0100\n"
-"PO-Revision-Date: 2017-12-14 07:24:45+0000\n"
+"PO-Revision-Date: 2018-01-01 14:22:56+0000\n"
 "Language: zh_cn\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1575,7 +1575,7 @@ msgstr "团队平均每日花费"
 
 #. tpl/edit_team.html
 msgid "Default currency for the team."
-msgstr ""
+msgstr "用于团队的默认货币。"
 
 #. tpl/edit_team.html
 msgid "All indicators will use this currency and all values defined in other currencies will be converted."

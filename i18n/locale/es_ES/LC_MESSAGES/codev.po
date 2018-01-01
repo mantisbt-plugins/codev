@@ -16,7 +16,7 @@ msgstr ""
 ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-10 18:38+0100\n"
-"PO-Revision-Date: 2017-12-11 06:48:43+0000\n"
+"PO-Revision-Date: 2018-01-01 14:22:48+0000\n"
 "Language: es_es\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1583,7 +1583,7 @@ msgstr "Coste promedio diario del equipo"
 
 #. tpl/edit_team.html
 msgid "Default currency for the team."
-msgstr ""
+msgstr "Moneda predeterminada del equipo."
 
 #. tpl/edit_team.html
 msgid "All indicators will use this currency and all values defined in other currencies will be converted."
@@ -1946,12 +1946,11 @@ msgstr "Descripción del error"
 #: scheduler/SchedulerEvent.class.php:116 gantt/gantt_ajax.php:224
 #: tools.php:1458
 msgid "External ID"
-msgstr ""
+msgstr "Id. externo"
 
 #. tpl/issue_info.html
-#, fuzzy
 msgid "Remove task from command"
-msgstr "Quitar del comando"
+msgstr "Quitar tarea de la orden"
 
 #. tpl/issue_info.html
 msgid "Add to command"
