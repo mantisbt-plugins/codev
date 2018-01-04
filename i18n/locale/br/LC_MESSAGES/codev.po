@@ -1,6 +1,7 @@
 # Translation of CodevTT to Breton (brezhoneg)
 # Exported from translatewiki.net
 #
+# Author: Dishual
 # Author: Fulup
 # Author: Gwenn-Ael
 msgid ""
@@ -8,7 +9,7 @@ msgstr ""
 ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-10 18:38+0100\n"
-"PO-Revision-Date: 2017-12-11 06:48:41+0000\n"
+"PO-Revision-Date: 2018-01-04 09:04:18+0000\n"
 "Language: br\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1962,9 +1963,8 @@ msgid "Time tracking"
 msgstr "Heuliañ an obererezh"
 
 #. tpl/issue_info.html
-#, fuzzy
 msgid "Update timetracking"
-msgstr "Heuliañ an obererezh"
+msgstr "Nevesaat heulierezh an amzer"
 
 #. tpl/issue_info.html
 msgid "Task Info"
@@ -2169,7 +2169,7 @@ msgstr ""
 
 #. tpl/scheduler.html
 msgid "User assignment"
-msgstr ""
+msgstr "Dileuridigezhioù an implijer"
 
 #. tpl/scheduler.html
 msgid "Add user"
@@ -2374,7 +2374,7 @@ msgstr ""
 
 #. tpl/statistics.html
 msgid "No Support"
-msgstr ""
+msgstr "Harp ebet"
 
 #. tpl/statistics.html
 #: reports/export_csv_tools.php:61
