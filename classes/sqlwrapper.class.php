@@ -1,3 +1,4 @@
+
 <?php
 /*
    This file is part of CoDev-Timetracking.
@@ -37,7 +38,7 @@ class SqlWrapper {
    }
    
    /**
-    * @var resource a MySQL link identifier on success or false on failure.
+    * @var resource a mysql link identifier on success or false on failure.
     */
    private $link;
 
@@ -58,7 +59,7 @@ class SqlWrapper {
 
    /**
     * Create a SQL connection
-    * @param string $server The MySQL server
+    * @param string $server The mysql server
     * @param string $username The username
     * @param string $password The password
     * @param string $database_name The name of the database that is to be selected.
@@ -69,22 +70,22 @@ class SqlWrapper {
       $this->password = $password;
       $this->database_name = $database_name;
 
-      $this->link = mysql_connect($server, $username, $password, false, MYSQL_CLIENT_COMPRESS);
+      $this->link = ((($GLOBALS["___mysqli_ston"] = mysqli_init()) && (mysqli_real_connect($GLOBALS["___mysqli_ston"], $server,  $username,  $password, NULL, 3306, NULL,  MYSQLI_CLIENT_COMPRESS))) ? $GLOBALS["___mysqli_ston"] : FALSE);
       if (FALSE === $this->link) {
          throw new Exception("Could not connect to database: " . $this->sql_error());
       }
-      $retCode = mysql_select_db($database_name, $this->link);
+      $retCode = mysqli_select_db( $this->link, $database_name);
       if (FALSE === $retCode) {
          throw new Exception("Could not select database: " . $this->sql_error());
       }
-      mysql_query('SET CHARACTER SET utf8');
-      mysql_query('SET NAMES utf8');
+      mysqli_query($GLOBALS["___mysqli_ston"], 'SET CHARACTER SET utf8');
+      mysqli_query($GLOBALS["___mysqli_ston"], 'SET NAMES utf8');
    }
 
    /**
     * Create a SQL connection
     * @static
-    * @param string $server The MySQL server
+    * @param string $server The mysql server
     * @param string $username The username
     * @param string $password The password
     * @param string $database_name The name of the database that is to be selected.
@@ -112,9 +113,9 @@ class SqlWrapper {
    }
 
    /**
-    * Open a connection to a MySQL Server
+    * Open a connection to a mysql Server
     * @static
-    * @param string $server The MySQL server
+    * @param string $server The mysql server
     * @param string $username The username
     * @param string $password The password
     * @param string $database_name The name of the database that is to be selected.
@@ -125,7 +126,7 @@ class SqlWrapper {
    }
 
    /**
-    * Send a MySQL query
+    * Send a mysql query
     * @param string $query  An SQL query
     * @return resource For SELECT, SHOW, DESCRIBE, EXPLAIN and other statements returns a resource on success, or false on error.
     * For other type of SQL statements, INSERT, UPDATE, DELETE, DROP, etc, returns true on success or false on error.
@@ -135,7 +136,7 @@ class SqlWrapper {
          $start = microtime(true);
       }
 
-      $result = mysql_query($query, $this->link);
+      $result = mysqli_query( $this->link, $query);
 
       $this->count++;
          
@@ -165,21 +166,21 @@ class SqlWrapper {
    }
 
    /**
-    * Returns the text of the error message from previous MySQL operation
-    * @return string the error text from the last MySQL function, or '' (empty string) if no error occurred.
+    * Returns the text of the error message from previous mysql operation
+    * @return string the error text from the last mysql function, or '' (empty string) if no error occurred.
     */
    public function sql_error() {
-      return mysql_error($this->link);
+      return mysqli_error($this->link);
    }
 
    /**
     * Get result data
     * @param resource $result
     * @param int $row The row number from the result that's being retrieved. Row numbers start at 0.
-    * @return string The contents of one cell from a MySQL result set on success, or false on failure.
+    * @return string The contents of one cell from a mysql result set on success, or false on failure.
     */
    function sql_result($result, $row = 0) {
-      return mysql_result($result, $row);
+      return mysqli_result($result,  $row);
    }
 
    /**
@@ -188,7 +189,7 @@ class SqlWrapper {
     * @return object an object with string properties that correspond to the fetched row, or false if there are no more rows.
     */
    public function sql_fetch_object($result) {
-      return mysql_fetch_object($result);
+      return mysqli_fetch_object($result);
    }
 
    /**
@@ -197,7 +198,7 @@ class SqlWrapper {
     * @return mixed[] an array of strings that corresponds to the fetched row, or false if there are no more rows.
     */
    public function sql_fetch_array($result) {
-      return mysql_fetch_array($result);
+      return mysqli_fetch_array($result);
    }
 
    /**
@@ -206,7 +207,7 @@ class SqlWrapper {
     * @return mixed[] an associative array of strings that corresponds to the fetched row, or false if there are no more rows.
     */
    public function sql_fetch_assoc($result) {
-      return mysql_fetch_assoc($result);
+      return mysqli_fetch_assoc($result);
    }
 
    /**
@@ -219,15 +220,15 @@ class SqlWrapper {
     * @return string the escaped string, or false on error.
     */
    public static function sql_real_escape_string($unescaped_string) {
-      return mysql_real_escape_string($unescaped_string);
+      return mysqli_real_escape_string($GLOBALS["___mysqli_ston"], $unescaped_string);
    }
 
    /**
     * Get the ID generated in the last query
-    * @return int The ID generated for an AUTO_INCREMENT column by the previous query on success, 0 if the previous query does not generate an AUTO_INCREMENT value, or false if no MySQL connection was established.
+    * @return int The ID generated for an AUTO_INCREMENT column by the previous query on success, 0 if the previous query does not generate an AUTO_INCREMENT value, or false if no mysql connection was established.
     */
    public function sql_insert_id() {
-      return mysql_insert_id($this->link);
+      return ((is_null($___mysqli_res = mysqli_insert_id($this->link))) ? false : $___mysqli_res);
    }
 
    /**
@@ -236,7 +237,7 @@ class SqlWrapper {
     * @return int The number of rows in a result set on success or false on failure.
     */
    public function sql_num_rows($result) {
-      return mysql_num_rows($result);
+      return mysqli_num_rows($result);
    }
 
    /**
@@ -245,15 +246,15 @@ class SqlWrapper {
     * @return bool true on success or false on failure.
     */
    public function sql_free_result($result) {
-      return mysql_free_result($result);
+      return ((mysqli_free_result($result) || (is_object($result) && (get_class($result) == "mysqli_result"))) ? true : false);
    }
 
    /**
-    * Close MySQL connection
+    * Close mysql connection
     * @return bool true on success or false on failure.
     */
    public function sql_close() {
-      return mysql_close($this->link);
+      return ((is_null($___mysqli_res = mysqli_close($this->link))) ? false : $___mysqli_res);
    }
    
    /**
@@ -279,25 +280,25 @@ class SqlWrapper {
          //get all of the tables
          $tables = array();
          $result = $this->sql_query('SHOW TABLES');
-         while($row = mysql_fetch_row($result)) {
+         while($row = mysqli_fetch_row($result)) {
             $tables[] = $row[0];
          }
 
          //cycle through
-         $return = "-- MySQL dump\n";
+         $return = "-- mysql dump\n";
          $return .= "--\n";
          $return .= "-- Host: ".$this->server."    Database: ".$this->database_name."\n";
          $return .= "-- ------------------------------------------------------\n";
          $return .= "-- Server version	\n\n";
          foreach($tables as $table) {
             $result = $this->sql_query('SELECT * FROM '.$table);
-            $num_fields = mysql_num_fields($result);
+            $num_fields = (($___mysqli_tmp = mysqli_num_fields($result)) ? $___mysqli_tmp : false);
 
             $return .= "--\n";
             $return .= "-- Table structure for table `".$table."`\n";
             $return .= "--\n\n";
             $return .= 'DROP TABLE IF EXISTS '.$table.';';
-            $row2 = mysql_fetch_row($this->sql_query('SHOW CREATE TABLE '.$table));
+            $row2 = mysqli_fetch_row($this->sql_query('SHOW CREATE TABLE '.$table));
             $return .= "\n".$row2[1].";\n\n";
             if(self::sql_num_rows($result) > 0) {
                $return .= "--\n";
@@ -305,7 +306,7 @@ class SqlWrapper {
                $return .= "--\n\n";
                $return .= "LOCK TABLES `".$table."` WRITE;\n";
                $return .= "/*!40000 ALTER TABLE `".$table."` DISABLE KEYS */\n";
-               while($row = mysql_fetch_row($result)) {
+               while($row = mysqli_fetch_row($result)) {
                   $return.= 'INSERT INTO '.$table.' VALUES(';
                   for($j=0; $j<$num_fields; $j++) {
                      $row[$j] = addslashes($row[$j]);
@@ -369,13 +370,13 @@ class SqlWrapper {
       return $this->countByQuery;
    }
 
-   public function mysql_num_rows($result) {
-      return mysql_num_rows($result);
+   public function mysqli_num_rows($result) {
+      return mysqli_num_rows($result);
    }
 
    /**
     * Get the connection link
-    * @return resource a MySQL link identifier on success or false on failure.
+    * @return resource a mysql link identifier on success or false on failure.
     */
    public function getLink() {
       return $this->link;
