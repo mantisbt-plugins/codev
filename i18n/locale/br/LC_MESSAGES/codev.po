@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-02-05 12:01:58+0000\n"
+"PO-Revision-Date: 2024-02-22 12:01:26+0000\n"
 "Language: br\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1238,9 +1238,8 @@ msgid "Indicators"
 msgstr "Titourennoù"
 
 #. tpl/user_info.html
-#, fuzzy
 msgid "User info"
-msgstr "Implijer"
+msgstr "Titouroù an mplijer"
 
 #. tpl/user_info.html
 #. tpl/modal/login.html
@@ -1249,16 +1248,15 @@ msgid "Login"
 msgstr "Kevreañ"
 
 #. tpl/user_info.html
-#, fuzzy
 msgid "User ID"
-msgstr "Implijer"
+msgstr "ID an implijer"
 
 #. tpl/user_info.html
 #. tpl/edit_team.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_ajax.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
 msgid "Group"
-msgstr ""
+msgstr "Strollad"
 
 #. tpl/user_info.html
 #. tpl/edit_team.html
@@ -1268,9 +1266,8 @@ msgid "Role"
 msgstr "Roll"
 
 #. tpl/user_info.html
-#, fuzzy
 msgid "Team arrival date"
-msgstr "Deiziat degouezhout"
+msgstr "Deiziat degouezhout er skipailh"
 
 #. tpl/bvi.html
 #, fuzzy
@@ -3126,11 +3123,11 @@ msgstr "disranner"
 
 #. tpl/edit_team.html
 msgid "1st column"
-msgstr ""
+msgstr "Bann 1añ"
 
 #. tpl/edit_team.html
 msgid "2nd column"
-msgstr ""
+msgstr "2l bann"
 
 #. tpl/edit_team.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
@@ -3202,11 +3199,11 @@ msgstr "Dibarzhioù"
 #. tpl/edit_team.html
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 msgid "(no group)"
-msgstr ""
+msgstr "(strollad ebet)"
 
 #. tpl/edit_team.html
 msgid "add new group"
-msgstr ""
+msgstr "ouzhpennañ ur strollad nevez"
 
 #. tpl/edit_team.html
 msgid "Create SideTasksProject"
@@ -4225,14 +4222,13 @@ msgstr "Dilemel ur pad"
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 #. plugins/ResetDashboard/ResetDashboard.html
 msgid "Execute"
-msgstr ""
+msgstr "Seveniñ"
 
 #. plugins/AdminTools/AdminTools.html
 #. plugins/AdminTools/AdminTools_cfg.html
 #: plugins/AdminTools/AdminTools.class.php:65
-#, fuzzy
 msgid "Administration tools"
-msgstr "Melestradur CodevTT"
+msgstr "Ostilhoù mererezh"
 
 #. plugins/AdminTools/AdminTools.html
 #, fuzzy
@@ -4244,9 +4240,8 @@ msgid "Force the display of the \"Message\" plugin on the homepage"
 msgstr ""
 
 #. plugins/AdminTools/AdminTools_ajax.html
-#, fuzzy
 msgid "users"
-msgstr "Implijerien"
+msgstr "implijerien"
 
 #. plugins/AdminTools/AdminTools_ajax.html
 #, fuzzy
@@ -4441,9 +4436,8 @@ msgid "It is not in the philosophy of CodevTT to allow users to enter several ti
 msgstr ""
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
-#, fuzzy
 msgid "Error !"
-msgstr "Fazi"
+msgstr "Fazi!"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 #, fuzzy
@@ -4615,7 +4609,7 @@ msgstr "Trevelloù Kar"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
 msgid "Groups"
-msgstr ""
+msgstr "Strolladoù"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
 msgid "Display the elapsed time for each user group"
@@ -5627,11 +5621,11 @@ msgstr ""
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 msgid "New"
-msgstr ""
+msgstr "Nevez"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 msgid "Open"
-msgstr ""
+msgstr "Digor"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_ajax.html
 msgid "Nb Issues"
@@ -5680,7 +5674,7 @@ msgstr ""
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
 msgid "Average"
-msgstr ""
+msgstr "Keidenn"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
 #, fuzzy
@@ -5689,7 +5683,7 @@ msgstr "Nv a zeizioù"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
 msgid "Median"
-msgstr ""
+msgstr "Median"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
 msgid "Mode"
@@ -5747,9 +5741,8 @@ msgid "Reset selected dashboards"
 msgstr "Dilemel ur pad"
 
 #. plugins/ResetDashboard/ResetDashboard_ajax.html
-#, fuzzy
 msgid "Domain"
-msgstr "Domani(où)"
+msgstr "Domani"
 
 #. plugins/ResetDashboard/ResetDashboard_ajax.html
 msgid "Item"
@@ -5955,7 +5948,7 @@ msgstr ""
 
 #: classes/user.class.php:1564 plugins/ImportUsers/ImportUsers_ajax.php:163
 msgid "Dear "
-msgstr ""
+msgstr "\\ ker/ger"
 
 #: classes/user.class.php:1565
 msgid "Please fill your CodevTT timesheet"
@@ -6709,7 +6702,7 @@ msgstr "Skipailh all"
 #: timetracking/timetracking_lite_ajax.php:139
 #: timetracking/timetracking_lite_ajax.php:144
 msgid "REFUSED"
-msgstr ""
+msgstr "NAC'HET"
 
 #: timetracking/timetracking_lite_ajax.php:154
 msgid "ERROR: Failed to update backlog !"
@@ -7078,35 +7071,35 @@ msgstr ""
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:174
 msgid "Last week"
-msgstr ""
+msgstr "Er sizhun dremenet"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:175
 msgid "+1 week"
-msgstr ""
+msgstr "+1 sizhun"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:176
 msgid "+2 week"
-msgstr ""
+msgstr "+2 sizhun"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:177
 msgid "+3 week"
-msgstr ""
+msgstr "+3 sizhun"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:178
 msgid "+1 months"
-msgstr ""
+msgstr "+1 miz"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:179
 msgid "+2 months"
-msgstr ""
+msgstr "+2 viz"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:180
 msgid "+3 months"
-msgstr ""
+msgstr "+3 miz"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:181
 msgid "+6 months"
-msgstr ""
+msgstr "+6 miz"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:182
 msgid "Over a year"
@@ -7215,11 +7208,11 @@ msgstr ""
 
 #: smarty_tools_ajax.php:35
 msgid "All projects"
-msgstr ""
+msgstr "An holl raktresoù"
 
 #: smarty_tools.php:126
 msgid "W"
-msgstr ""
+msgstr "S"
 
 #: tools.php:1503
 msgid "Delivery Date"
