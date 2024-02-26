@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 #
 # Author: Codenstory
+# Author: Dr1t jg
 # Author: Jerrykim306
 # Author: Jonghaya
 # Author: Ktrst
@@ -14,7 +15,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-02-05 12:02:02+0000\n"
+"PO-Revision-Date: 2024-02-26 12:01:51+0000\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -177,13 +178,12 @@ msgstr "총합"
 
 #. tpl/timetracking_lite.html
 msgid "Hint: Click in a field to edit 'Elapsed time' or 'Backlog'"
-msgstr ""
+msgstr "힌트: '경과시간' 아니면 '백로그'를 편집하려면 필드에 클릭해"
 
 #. tpl/timetracking_lite.html
 #. tpl/time_tracking.html
-#, fuzzy
 msgid "Hide tasks not assigned to me"
-msgstr "사용자가 어느 그룹에도 할당되지 않았습니다"
+msgstr "나한테 주어진 임무가 아닌 일을 숨겨"
 
 #. tpl/timetracking_lite.html
 #. tpl/time_tracking.html
