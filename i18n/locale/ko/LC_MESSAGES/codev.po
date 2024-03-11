@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-03-04 12:01:29+0000\n"
+"PO-Revision-Date: 2024-03-11 12:01:32+0000\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -178,12 +178,12 @@ msgstr "총합"
 
 #. tpl/timetracking_lite.html
 msgid "Hint: Click in a field to edit 'Elapsed time' or 'Backlog'"
-msgstr "힌트: '경과시간' 아니면 '백로그'를 편집하려면 필드에 클릭해"
+msgstr ""
 
 #. tpl/timetracking_lite.html
 #. tpl/time_tracking.html
 msgid "Hide tasks not assigned to me"
-msgstr "나한테 주어진 임무가 아닌 일을 숨겨"
+msgstr "내게 할당되지 않은 작업 숨기기"
 
 #. tpl/timetracking_lite.html
 #. tpl/time_tracking.html
@@ -337,25 +337,25 @@ msgstr "작업"
 #. T_('Priority').':<strong>'.$scheduledTask->getPriorityName().'</strong>,&nbsp; '.
 #. T_('Severity').':<strong>'.$scheduledTask->getSeverityName().'</strong>';
 msgid "Duration"
-msgstr "기간"
+msgstr ""
 
 #. tpl/timetracking_lite.html
 #. tpl/time_tracking.html
 #. tpl/issue_info.html
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Enter a keyword or *** to display all..."
-msgstr "키워드를 입력하거나 ***를 입력하여 모두 표시..."
+msgstr ""
 
 #. tpl/timetracking_lite.html
 msgid "Invalid backlog format"
-msgstr "잘못된 백로그 형식"
+msgstr ""
 
 #. tpl/timetracking_lite.html
 #. tpl/modal/update_issueBacklog.html
 #. tpl/issue_info.html
 #: timetracking/timetracking_lite_ajax.php:139
 msgid "Task not resolved, backlog cannot be '0'"
-msgstr "작업이 해결되지 않았으며, 백로그는 '0'이 될 수 없어"
+msgstr "작업이 해결되지 않았으며, 백로그는 '0'이 될 수 없습니다"
 
 #. tpl/timetracking_lite.html
 #. tpl/modal/update_issueBacklog.html
@@ -638,7 +638,7 @@ msgstr "서비스 계약 삭제"
 
 #. tpl/servicecontract_edit.html
 msgid "Delete this ServiceContract ?"
-msgstr "이 서비스 계약을 삭제할거야?"
+msgstr "이 서비스 계약을 삭제하시겠습니까 ?"
 
 #. tpl/servicecontract_edit.html
 msgid "Nb CommandSets"
@@ -714,7 +714,7 @@ msgstr "명령집합 제거"
 
 #. tpl/servicecontract_edit.html
 msgid "Remove CommandSet from this Contract ?"
-msgstr "이 계약에서 CommandSet을 제거할거야?"
+msgstr "이 계약에서 명령집합을 제거하시겠습니까?"
 
 #. tpl/servicecontract_edit.html
 #. tpl/command_edit.html
@@ -734,7 +734,7 @@ msgstr "프로젝트 제거"
 
 #. tpl/servicecontract_edit.html
 msgid "Remove Project from this Contract ?"
-msgstr "이 계약에서 프로젝트를 제거할거야?"
+msgstr "프로젝트를 계약에서 제거하시겠습니까?"
 
 #. tpl/servicecontract_edit.html
 #. tpl/command_edit.html
