@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-02-05 12:02:01+0000\n"
+"PO-Revision-Date: 2024-03-14 12:02:30+0000\n"
 "Last-Translator: NSV <gianluca@pierri.org>\n"
 "Language-Team: Italian <gianluca.pierri@linfanet.it>\n"
 "Language: it_it\n"
@@ -6516,7 +6516,7 @@ msgstr "Sviluppo"
 
 #: install/install_step3.php:869
 msgid "Tests"
-msgstr "Tests"
+msgstr "Test"
 
 #: install/install_step3.php:956
 msgid "CodevTT_ExternalTasks"
