@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-03-14 12:02:30+0000\n"
+"PO-Revision-Date: 2024-03-28 12:01:55+0000\n"
 "Last-Translator: NSV <gianluca@pierri.org>\n"
 "Language-Team: Italian <gianluca.pierri@linfanet.it>\n"
 "Language: it_it\n"
@@ -2826,7 +2826,7 @@ msgstr "password"
 
 #. tpl/modal/login.html
 msgid "Login failed."
-msgstr "Login fallito"
+msgstr "Accesso non riuscito."
 
 #. tpl/modal/login.html
 #: plugins/ImportUsers/ImportUsers_ajax.php:166
