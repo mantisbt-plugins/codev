@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-02-05 12:02:06+0000\n"
+"PO-Revision-Date: 2024-04-04 12:02:00+0000\n"
 "Language: sd\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -5814,7 +5814,7 @@ msgstr ""
 
 #. plugins/ResetDashboard/ResetDashboard_ajax.html
 msgid "Domain"
-msgstr ""
+msgstr "ڊومين"
 
 #. plugins/ResetDashboard/ResetDashboard_ajax.html
 msgid "Item"
