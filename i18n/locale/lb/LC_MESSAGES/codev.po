@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-04-11 12:01:45+0000\n"
+"PO-Revision-Date: 2024-04-15 12:01:40+0000\n"
 "Language: lb\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -909,7 +909,7 @@ msgstr ""
 #. plugins/DriftAlertIndicator/DriftAlertIndicator.html
 #. plugins/IssueConsistencyCheck/IssueConsistencyCheck.html
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. tpl/ajax/schedulerAffectationSummary.html
 #. tpl/productivity_report.html
@@ -997,7 +997,7 @@ msgstr "Ufanksjoer"
 #. tpl/team_dashboard.html
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 msgid "Compute"
-msgstr ""
+msgstr "Berechnen"
 
 #. tpl/statistics.html
 #. tpl/productivity_report.html
@@ -1038,7 +1038,7 @@ msgstr ""
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.html
 msgid "show values"
-msgstr ""
+msgstr "Wäerter weisen"
 
 #. tpl/statistics.html
 msgid "% Tasks Delivered on time"
@@ -1295,7 +1295,7 @@ msgstr ""
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis.html
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.html
 msgid "No data."
-msgstr ""
+msgstr "Keng Donnéeën."
 
 #. tpl/team_monthly_activity_report.html
 #. tpl/menu/global_menu.html
@@ -3029,7 +3029,7 @@ msgstr ""
 
 #. tpl/edit_team.html
 msgid "import groups"
-msgstr ""
+msgstr "Gruppen importéieren"
 
 #. tpl/edit_team.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
@@ -3070,11 +3070,11 @@ msgstr ""
 
 #. tpl/edit_team.html
 msgid "1st column"
-msgstr ""
+msgstr "1. Kolonn"
 
 #. tpl/edit_team.html
 msgid "2nd column"
-msgstr ""
+msgstr "2. Kolonn"
 
 #. tpl/edit_team.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
@@ -4506,7 +4506,7 @@ msgstr ""
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
 msgid "Groups"
-msgstr ""
+msgstr "Gruppen"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
 msgid "Display the elapsed time for each user group"
