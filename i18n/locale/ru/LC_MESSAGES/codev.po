@@ -5,6 +5,7 @@
 # Author: DDPAT
 # Author: Dimitri Nakashidze
 # Author: Diralik
+# Author: Dirruw'o
 # Author: Gas22original
 # Author: Ice bulldog
 # Author: Irus
@@ -29,7 +30,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-04-11 12:01:48+0000\n"
+"PO-Revision-Date: 2024-04-22 12:01:36+0000\n"
 "Language: ru\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -647,19 +648,16 @@ msgid "Service contract name"
 msgstr "Сервисные контракты"
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "Delete ServiceContract"
-msgstr "Сервисные Контракты"
+msgstr "Удалить сервисный контракт"
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "Delete this ServiceContract ?"
-msgstr "Удалить эту команду ?"
+msgstr "Удалить этот сервисный контракт?"
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "Nb CommandSets"
-msgstr "НаборКоманд"
+msgstr "НБ Команды"
 
 #. tpl/servicecontract_edit.html
 #. tpl/command_edit.html
@@ -668,12 +666,10 @@ msgid "CommandSets"
 msgstr "НаборКоманд"
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "SideTasks Projects"
 msgstr "Проект SideTasks"
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "--- New CommandSet ---"
 msgstr "--- Новая команда ---"
 
@@ -723,9 +719,8 @@ msgid "CommandSet"
 msgstr "Набор команд"
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "delete Contract-CommandSet association"
-msgstr "удалить набор команд-команда ассоциации"
+msgstr "удалить ассоциацию Contract-CommandSet"
 
 #. tpl/servicecontract_edit.html
 #. tpl/command_edit.html
@@ -733,9 +728,8 @@ msgid "Remove CommandSet"
 msgstr "Удалить Набор Команд"
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "Remove CommandSet from this Contract ?"
-msgstr "Удалить команду из этого набор команд ?"
+msgstr "Удалить CommandSet из этого контракта?"
 
 #. tpl/servicecontract_edit.html
 #. tpl/command_edit.html
@@ -746,7 +740,6 @@ msgid "Id"
 msgstr "Id"
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "delete Contract-Project association"
 msgstr "удалить набор команд-команда ассоциации"
 
@@ -755,7 +748,6 @@ msgid "Remove Project"
 msgstr "Удалить Проект"
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "Remove Project from this Contract ?"
 msgstr "Удалить этот проект из команды?"
 
@@ -1035,7 +1027,6 @@ msgid "Efficiency - System Disponibility"
 msgstr ""
 
 #. tpl/statistics.html
-#, fuzzy
 msgid "Reopened Rate"
 msgstr "Возобновить задачи"
 
@@ -1048,9 +1039,8 @@ msgstr ""
 
 #. tpl/statistics.html
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "EffortEstim Reliability"
-msgstr "EffortEstim"
+msgstr "Надежность EffortEstim"
 
 #. tpl/statistics.html
 msgid "% Tasks"
@@ -1127,9 +1117,8 @@ msgid "BS"
 msgstr ""
 
 #. tpl/statistics.html
-#, fuzzy
 msgid "Effort Deviation (ExtRefOnly)"
-msgstr "Отклонение"
+msgstr "Отклонение усилия (ExtRefOnly)"
 
 #. tpl/statistics.html
 #. tpl/productivity_report.html
@@ -1141,9 +1130,8 @@ msgid "Exclude side tasks to get the percent of time spent working on the projec
 msgstr ""
 
 #. tpl/statistics.html
-#, fuzzy
 msgid "Efficiency"
-msgstr "Коэффициент Эффективности"
+msgstr "Эффективность"
 
 #. tpl/statistics.html
 #, c-format
@@ -1172,7 +1160,6 @@ msgid "Compare the number of reopened tasks to the number of resolved tasks"
 msgstr ""
 
 #. tpl/statistics.html
-#, fuzzy
 msgid "Nb Reopened"
 msgstr "Возобновить задачи"
 
@@ -1186,12 +1173,10 @@ msgid "Available man-days on the period (excluding leave and external tasks)"
 msgstr ""
 
 #. tpl/statistics.html
-#, fuzzy
 msgid "Developers Workload"
-msgstr "Привет всем!"
+msgstr "Рабочая нагрузка разработчиков"
 
 #. tpl/statistics.html
-#, fuzzy
 msgid "nb production days"
 msgstr "Производственная дней"
 

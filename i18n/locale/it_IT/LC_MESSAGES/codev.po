@@ -4,6 +4,7 @@
 # Author: Ajeje Brazorf
 # Author: Albe Albe 460
 # Author: Beta16
+# Author: Champ0999
 # Author: Dansita
 # Author: Fitoschido
 # Author: GpieroMW
@@ -21,7 +22,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-04-11 12:01:44+0000\n"
+"PO-Revision-Date: 2024-04-22 12:01:31+0000\n"
 "Last-Translator: NSV <gianluca@pierri.org>\n"
 "Language-Team: Italian <gianluca.pierri@linfanet.it>\n"
 "Language: it_it\n"
@@ -4281,9 +4282,8 @@ msgstr "settimana attuale"
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
 #. plugins/LoadPerProjectIndicator/LoadPerProjectIndicator_cfg.html
 #. plugins/LoadPerProjCategoryIndicator/LoadPerProjCategoryIndicator_cfg.html
-#, fuzzy
 msgid "current month"
-msgstr "settimana attuale"
+msgstr "mese attuale"
 
 #. plugins/LoadPerJobIndicator2/LoadPerJobIndicator2.html
 #: plugins/LoadPerJobIndicator2/LoadPerJobIndicator2.class.php:79
