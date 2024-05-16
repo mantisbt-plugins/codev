@@ -7,6 +7,7 @@
 # Author: Jonghaya
 # Author: Ktrst
 # Author: Revi
+# Author: Suleiman the Magnificent Television
 # Author: Ykhwong
 # Author: 아라
 msgid ""
@@ -15,7 +16,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-04-25 12:01:41+0000\n"
+"PO-Revision-Date: 2024-05-16 12:02:10+0000\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -337,7 +338,7 @@ msgstr "작업"
 #. T_('Priority').':<strong>'.$scheduledTask->getPriorityName().'</strong>,&nbsp; '.
 #. T_('Severity').':<strong>'.$scheduledTask->getSeverityName().'</strong>';
 msgid "Duration"
-msgstr ""
+msgstr "기간"
 
 #. tpl/timetracking_lite.html
 #. tpl/time_tracking.html
@@ -364,7 +365,7 @@ msgstr ""
 
 #. tpl/timetracking_lite.html
 msgid "Please update status before editing timetracks"
-msgstr ""
+msgstr "시간 추적을 편집하기 전에 상태를 업데이트하시기 바랍니다"
 
 #. tpl/timetracking_lite.html
 #. tpl/check.html
@@ -487,7 +488,7 @@ msgstr "오류 설명"
 
 #. tpl/servicecontract_edit.html
 msgid "New service contract"
-msgstr ""
+msgstr "새로운 서비스 계약"
 
 #. tpl/servicecontract_edit.html
 #. tpl/form/teamSelector.html
@@ -630,7 +631,7 @@ msgstr "일부 필드가 존재하지 않습니다:"
 
 #. tpl/servicecontract_edit.html
 msgid "Service contract name"
-msgstr ""
+msgstr "서비스 계약 이름"
 
 #. tpl/servicecontract_edit.html
 msgid "Delete ServiceContract"
@@ -957,7 +958,7 @@ msgstr "분류"
 #. plugins/LoadPerCustomfieldValues/LoadPerCustomfieldValues_ajax.html
 #. plugins/LoadPerProjCategoryIndicator/LoadPerProjCategoryIndicator_ajax.html
 msgid "Nb Days"
-msgstr ""
+msgstr "Nb 일"
 
 #. tpl/ajax/projectDetails.html
 #. tpl/productivity_report.html
@@ -1020,7 +1021,7 @@ msgstr "재개율"
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 #: plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.class.php:71
 msgid "Available Workforce"
-msgstr ""
+msgstr "가용 인력"
 
 #. tpl/statistics.html
 #. tpl/productivity_report.html
