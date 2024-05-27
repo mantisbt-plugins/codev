@@ -10,6 +10,7 @@
 # Author: Gerongfenh
 # Author: GuoPC
 # Author: Lakejason0
+# Author: LittlePaw365
 # Author: Liuxinyu970226
 # Author: Shimamura Sakura
 # Author: SomeyaMako
@@ -28,7 +29,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-04-25 12:01:48+0000\n"
+"PO-Revision-Date: 2024-05-27 12:01:04+0000\n"
 "Language: zh_cn\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -357,7 +358,7 @@ msgstr "期限"
 #. tpl/issue_info.html
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Enter a keyword or *** to display all..."
-msgstr "输入关键字或 *** 来显示全部…"
+msgstr "输入关键词或输入***以显示全部..."
 
 #. tpl/timetracking_lite.html
 msgid "Invalid backlog format"
