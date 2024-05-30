@@ -29,7 +29,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-05-27 12:01:04+0000\n"
+"PO-Revision-Date: 2024-05-30 12:01:15+0000\n"
 "Language: zh_cn\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -6337,7 +6337,7 @@ msgstr "任务外部ID字段"
 
 #: install/install_step3.php:594
 msgid "Create a new CustomField"
-msgstr "创建一个新的自定义字段"
+msgstr "创建新自定义字段"
 
 #: install/install_step3.php:596
 msgid "Use this CustomField :"
