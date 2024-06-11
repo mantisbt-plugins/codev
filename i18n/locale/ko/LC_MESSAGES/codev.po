@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-06-10 12:01:29+0000\n"
+"PO-Revision-Date: 2024-06-11 09:27:33+0000\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -175,7 +175,7 @@ msgstr "BL"
 #. plugins/CostsIndicator/CostsIndicator.html
 #: plugins/BacklogPerUserIndicator/BacklogPerUserIndicator.class.php:267
 msgid "TOTAL"
-msgstr "총합"
+msgstr "전체"
 
 #. tpl/timetracking_lite.html
 msgid "Hint: Click in a field to edit 'Elapsed time' or 'Backlog'"
@@ -189,7 +189,7 @@ msgstr "내게 할당되지 않은 작업 숨기기"
 #. tpl/timetracking_lite.html
 #. tpl/time_tracking.html
 msgid "Hide resolved tasks"
-msgstr "해결된 작업 숨기기"
+msgstr "해결된 작업을 숨기기"
 
 #. tpl/timetracking_lite.html
 #. tpl/check.html
@@ -345,11 +345,11 @@ msgstr "기간"
 #. tpl/issue_info.html
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Enter a keyword or *** to display all..."
-msgstr ""
+msgstr "키워드를 입력하거나 ***을 입력하여 모두 표시하세요..."
 
 #. tpl/timetracking_lite.html
 msgid "Invalid backlog format"
-msgstr ""
+msgstr "잘못된 백로그 형식"
 
 #. tpl/timetracking_lite.html
 #. tpl/modal/update_issueBacklog.html
@@ -819,7 +819,7 @@ msgstr ""
 #: reports/project_info.php:233 tests/filters.php:69
 #: plugins/TasksPivotTable/TasksPivotTable.class.php:293
 msgid "Reestimated"
-msgstr ""
+msgstr "재평가됨"
 
 #. tpl/ajax/issueGeneralInfo.html
 #. tpl/team_monthly_activity_report.html
