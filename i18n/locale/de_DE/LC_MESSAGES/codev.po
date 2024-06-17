@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-04-25 12:01:38+0000\n"
+"PO-Revision-Date: 2024-06-17 12:01:14+0000\n"
 "Last-Translator: Vincent <vmerz@outlook.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de_de\n"
@@ -187,7 +187,7 @@ msgstr "Gesamt"
 
 #. tpl/timetracking_lite.html
 msgid "Hint: Click in a field to edit 'Elapsed time' or 'Backlog'"
-msgstr ""
+msgstr "Tipp: Klicke in ein Feld, um 'Verstrichene Zeit' oder 'Rückstand' zu bearbeiten"
 
 #. tpl/timetracking_lite.html
 #. tpl/time_tracking.html
@@ -353,11 +353,11 @@ msgstr "Dauer"
 #. tpl/issue_info.html
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Enter a keyword or *** to display all..."
-msgstr ""
+msgstr "Tritt ein Stichwort oder *** ein, um alle..."
 
 #. tpl/timetracking_lite.html
 msgid "Invalid backlog format"
-msgstr ""
+msgstr "Ungültiges Backlog-Format"
 
 #. tpl/timetracking_lite.html
 #. tpl/modal/update_issueBacklog.html
@@ -373,7 +373,7 @@ msgstr "Falcher Status :"
 
 #. tpl/timetracking_lite.html
 msgid "Please update status before editing timetracks"
-msgstr ""
+msgstr "Bitte aktualisiere den Status, bevor du die Zeitleisten bearbeitest."
 
 #. tpl/timetracking_lite.html
 #. tpl/check.html
@@ -2376,7 +2376,7 @@ msgstr "Allgemein"
 
 #. tpl/doc.html
 msgid "Task priority in Planning & Gantt"
-msgstr ""
+msgstr "Aufgabenpriorität in Planung & Gantt"
 
 #. tpl/doc.html
 msgid "Documentation is available at "
@@ -2481,9 +2481,8 @@ msgid "Query FAILED"
 msgstr "Datenbankabfrage fehlgeschlagen"
 
 #. tpl/time_tracking.html
-#, fuzzy
 msgid "Add timetrack"
-msgstr "Zeiterfassung bearbeiten"
+msgstr "Zeitleiste hinzufügen"
 
 #. tpl/time_tracking.html
 #. tpl/modal/update_issueBacklog.html
@@ -2502,7 +2501,7 @@ msgstr "Aufgbenauswahl durch Filter einschränken"
 
 #. tpl/time_tracking.html
 msgid "Hide tasks with forbiden status (closed, ...)"
-msgstr ""
+msgstr "Ausblenden von Aufgaben mit verbotenem Status (geschlossen, ...)"
 
 #. tpl/time_tracking.html
 msgid "Week timetracks"
@@ -2538,14 +2537,12 @@ msgstr "Eintrag löschen"
 
 #. tpl/missing_timetracks.html
 #. tpl/menu/global_menu.html
-#, fuzzy
 msgid "Missing Timetracks"
-msgstr "Eintrags-Zeiterfassungen verschieben"
+msgstr "Fehlende Zeitleisten"
 
 #. tpl/missing_timetracks.html
-#, fuzzy
 msgid "Missing timetracks per user"
-msgstr "Eintrags-Zeiterfassungen verschieben"
+msgstr "Fehlende Zeitleisten pro Nutzer"
 
 #. tpl/missing_timetracks.html
 #. tpl/planning_report.html
@@ -2566,9 +2563,8 @@ msgid "workdays"
 msgstr "Arbeitstage"
 
 #. tpl/missing_timetracks.html
-#, fuzzy
 msgid "Missing timetracks"
-msgstr "Eintrags-Zeiterfassungen verschieben"
+msgstr "Fehlende Zeitleisten"
 
 #. tpl/missing_timetracks.html
 msgid "Missing days"
@@ -3251,7 +3247,7 @@ msgstr "Zeiterfassungseinstellungen"
 
 #. tpl/edit_team.html
 msgid "Timetracking disabled if task status in"
-msgstr ""
+msgstr "Zeitleiste deaktiviert, wenn Aufgabenstatus in"
 
 #. tpl/edit_team.html
 msgid "Edit Forbidden status list"
@@ -4181,9 +4177,8 @@ msgid "users"
 msgstr "Mitarbeiter"
 
 #. plugins/AdminTools/AdminTools_ajax.html
-#, fuzzy
 msgid "Change Mantis issue id"
-msgstr "Mantis Notizen erhalten"
+msgstr "Mantis-Problem-ID ändern"
 
 #. plugins/IssueBacklogVariationIndicator/IssueBacklogVariationIndicator.html
 #. plugins/IssueBacklogVariationIndicator/IssueBacklogVariationIndicator_cfg.html
@@ -4319,9 +4314,8 @@ msgid "Available workforce"
 msgstr "Verfügbare Arbeitskräfte"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator_ajax2.html
-#, fuzzy
 msgid "Workforce"
-msgstr "Workflow"
+msgstr "Arbeitskraft"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
@@ -4352,9 +4346,8 @@ msgid "Task backlog"
 msgstr "Aufgabenrückstand"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
-#, fuzzy
 msgid "Fill Period With Timetracks"
-msgstr "Zeiterfassungen auflisten und bearbeiten"
+msgstr "Zeitraum mit Zeitleisten auffüllen"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.class.php:77
@@ -4363,16 +4356,15 @@ msgstr "Mehrere Timetracks auf einmal hinzufügen"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "It is not in the philosophy of CodevTT to allow users to enter several timetracks at the same time. However it is sometimes necessary to enter missing timetracks over large periods (eg. Catch up when CodevTT is installed late on a project).\nThis right is only given to team administrators."
-msgstr ""
+msgstr "Es entspricht nicht der Philosophie von CodevTT, dass Benutzer mehrere Zeitleisten gleichzeitig beitreten können. Manchmal ist es jedoch notwendig, fehlende Zeitleisten über längere Zeiträume beizutreten (z.B. wenn CodevTT erst spät in einem Projekt installiert wird).\nDieses Recht wird nur Teamadministratoren gewährt."
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "Error !"
 msgstr "Fehler!"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
-#, fuzzy
 msgid "days available on period"
-msgstr "Gebuchter Aufwand im Zeitraum"
+msgstr "Verfügbare Tage im Zeitraum"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks_cfg.html
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.class.php:74
@@ -4437,23 +4429,20 @@ msgid "Mngt Provisions"
 msgstr "Provisionen"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
-#, fuzzy
 msgid "Sorry, you need to be manager to use this plugin"
-msgstr "Nur Teammanager können auf diese Seite zugreifen"
+msgstr "Sorry, du musst Manager sein, um dieses Plugin zu verwenden"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
-#, fuzzy
 msgid "Root task"
-msgstr "Keine erledigten Aufgaben..."
+msgstr "Hauptaufgabe"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "comma separated"
 msgstr "durch ein Komma getrennt"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
-#, fuzzy
 msgid "Root task list"
-msgstr "Keine erledigten Aufgaben..."
+msgstr "Stammaufgabenliste"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "comma separated list of mantis tasks"
@@ -4461,20 +4450,20 @@ msgstr ""
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Also include parent-tasks in the tree (unchecked: include as folder only)"
-msgstr ""
+msgstr "Auch übergeordnete Aufgaben in den Baum aufnehmen (nicht markiert: nur als Ordner aufnehmen)"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Include parent-tasks in its own folder (unchecked: include above)"
-msgstr ""
+msgstr "Übergeordnete Aufgaben in einen eigenen Ordner einschließen (nicht markiert: oben einschließen)"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Clear the WBS before import (remove all existing issues from the command)"
-msgstr ""
+msgstr "Lösche den Projektstrukturplan vor dem Import (entferne alle bestehenden Ausgaben aus dem Befehl)"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand_cfg.html
 msgid "Import Relationship tree to command"
-msgstr ""
+msgstr "Beziehungsbaum in Befehl importieren"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "ERROR, Please check"
@@ -4933,9 +4922,8 @@ msgid "Selling price for period"
 msgstr "Verkaufspreis für den Zeitraum"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
-#, fuzzy
 msgid "Elapsed during period"
-msgstr "Gebuchter Aufwand im Zeitraum"
+msgstr "In der Periode verstrichen"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 msgid "Remaining to produce (at end of period)"
@@ -4963,7 +4951,7 @@ msgstr "Verkaufspreis = Tagespreis x Im Zeitraum verstrichen"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 msgid "Remaining = MgrEffortEstim - Elapsed since the beginning of the task to end of period"
-msgstr ""
+msgstr "Verbleibend = MgrEffortEstim - Seit Beginn der Aufgabe bis zum Ende der Periode verstrichene Zeit"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_cfg.html
 msgid "Include sideTasks"
@@ -4981,9 +4969,8 @@ msgstr "Aufgabennname"
 #. plugins/TimetrackList/TimetrackList_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_ajax.html
-#, fuzzy
 msgid "Task ExtRef"
-msgstr "Externe Ref."
+msgstr "Aufgabe ExtRef"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 #. plugins/TimetrackList/TimetrackList_ajax.html
@@ -4995,9 +4982,8 @@ msgstr "Aufgabe Information"
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator.html
 #. plugins/OngoingTasks/OngoingTasks_ajax.html
-#, fuzzy
 msgid "Elapsed on period"
-msgstr "Gebuchter Aufwand im Zeitraum"
+msgstr "Abgelaufene Periode"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 msgid "Remaining to produce at end of period"
@@ -5126,9 +5112,8 @@ msgstr "Gibt die Summe des Mehraufwands seiner zugewiesenen Aufgaben für jeden 
 
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_ajax.html
-#, fuzzy
 msgid "WBS path"
-msgstr "WBS-Export"
+msgstr "WBS-Pfad"
 
 #. plugins/OngoingTasks/OngoingTasks.html
 #, fuzzy
@@ -5136,18 +5121,16 @@ msgid "Ongoing tasks"
 msgstr "Anzahl Aufgaben"
 
 #. plugins/OngoingTasks/OngoingTasks.html
-#, fuzzy
 msgid "Display only the tasks with activity (timetracks) on the period"
-msgstr "Tasks wiedergeöffnet im Zeitraum"
+msgstr "Nur die Aufgaben mit Aktivität (Zeitleisten) in der Periode anzeigen"
 
 #. plugins/OngoingTasks/OngoingTasks.html
 msgid "The time spent on the task during the period (which can be less than the total time spent since the beginning of the task)"
-msgstr ""
+msgstr "Die Zeit, die während des Zeitraums für die Aufgabe aufgewendet wurde (die geringer sein kann als die Gesamtzeit seit Beginn der Aufgabe)"
 
 #. plugins/OngoingTasks/OngoingTasks.html
-#, fuzzy
 msgid "List the users having spent time on the task during the period"
-msgstr "Tasks wiedergeöffnet im Zeitraum"
+msgstr "Liste der Benutzer, die während des Zeitraums Zeit mit der Aufgabe verbracht haben"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator_ajax.html
 msgid "Nb submitted"
@@ -5488,19 +5471,17 @@ msgid "Dest"
 msgstr "Ziel"
 
 #. plugins/BurnDownChart/BurnDownChart.html
-#, fuzzy
 msgid "Backlog history"
-msgstr "Budget Abweichung Historie"
+msgstr "Verlauf des Rückstandes"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
-#, fuzzy
 msgid "Task type filter"
-msgstr "Aufgabenfilter:"
+msgstr "Aufgabentyp-Filter"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 msgid "Check the submission date of the tasks"
-msgstr ""
+msgstr "Überprüfe das Abgabedatum der Aufgaben"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:73
@@ -5529,7 +5510,7 @@ msgstr "Anzahl offen"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
 msgid "Open issues seniority"
-msgstr ""
+msgstr "Offene Fragen Seniorität"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
 msgid "Display task list"
@@ -5555,7 +5536,7 @@ msgstr "Timetracking-Analyse"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis.html
 msgid "Average delay between the timetrack date and it's creation date (in days)"
-msgstr ""
+msgstr "Durchschnittliche Verzögerung zwischen dem Datum der Zeitspur und ihrem Erstellungsdatum (in Tagen)"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
@@ -5616,9 +5597,8 @@ msgid "Tasks pivot table"
 msgstr "Aufgaben-Pivot-Tabelle"
 
 #. plugins/ResetDashboard/ResetDashboard.html
-#, fuzzy
 msgid "Reset selected dashboards"
-msgstr "Ausgwählte Aktionen ausführen"
+msgstr "Ausgewählte Dashboards zurücksetzen"
 
 #. plugins/ResetDashboard/ResetDashboard_ajax.html
 msgid "Domain"
