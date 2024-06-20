@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-06-17 12:01:14+0000\n"
+"PO-Revision-Date: 2024-06-20 12:01:03+0000\n"
 "Last-Translator: Vincent <vmerz@outlook.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de_de\n"
@@ -353,7 +353,7 @@ msgstr "Dauer"
 #. tpl/issue_info.html
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Enter a keyword or *** to display all..."
-msgstr "Tritt ein Stichwort oder *** ein, um alle..."
+msgstr "Gib ein Stichwort oder *** ein, um alle..."
 
 #. tpl/timetracking_lite.html
 msgid "Invalid backlog format"
@@ -4356,7 +4356,7 @@ msgstr "Mehrere Timetracks auf einmal hinzufügen"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "It is not in the philosophy of CodevTT to allow users to enter several timetracks at the same time. However it is sometimes necessary to enter missing timetracks over large periods (eg. Catch up when CodevTT is installed late on a project).\nThis right is only given to team administrators."
-msgstr "Es entspricht nicht der Philosophie von CodevTT, dass Benutzer mehrere Zeitleisten gleichzeitig beitreten können. Manchmal ist es jedoch notwendig, fehlende Zeitleisten über längere Zeiträume beizutreten (z.B. wenn CodevTT erst spät in einem Projekt installiert wird).\nDieses Recht wird nur Teamadministratoren gewährt."
+msgstr "Es entspricht nicht der Philosophie von CodevTT, dass Benutzer mehrere Zeitleisten gleichzeitig beitreten können. Manchmal ist es jedoch notwendig, fehlende Zeitleisten über längere Zeiträume beizutreten (z. B. wenn CodevTT erst spät in einem Projekt installiert wird).\nDieses Recht wird nur Teamadministratoren gewährt."
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "Error !"

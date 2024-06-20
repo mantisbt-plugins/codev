@@ -1,6 +1,7 @@
 # Translation of CodevTT to Traditional Chinese (中文（繁體）)
 # Exported from translatewiki.net
 #
+# Author: Cookai1205
 # Author: HellojoeAoPS
 # Author: Kly
 # Author: LNDDYL
@@ -15,7 +16,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-04-25 12:01:49+0000\n"
+"PO-Revision-Date: 2024-06-20 12:01:12+0000\n"
 "Language: zh_tw\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -7007,11 +7008,11 @@ msgstr "今日"
 
 #: scheduler/scheduler.php:109
 msgid "Monday this week"
-msgstr "此週週一"
+msgstr "本週一"
 
 #: scheduler/scheduler.php:110
 msgid "First week of this month"
-msgstr "此月第一週"
+msgstr "本月第一週"
 
 #: scheduler/scheduler.php:116
 msgid "2 weeks"

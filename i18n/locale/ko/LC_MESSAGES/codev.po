@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-06-17 12:01:16+0000\n"
+"PO-Revision-Date: 2024-06-20 12:01:06+0000\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -301,7 +301,7 @@ msgstr "삭제"
 #. tpl/issue_info.html
 #. plugins/UserTeamList/UserTeamList.html
 msgid "Update"
-msgstr "업데이트"
+msgstr "새로 고침"
 
 #. tpl/timetracking_lite.html
 #. tpl/user_info.html
