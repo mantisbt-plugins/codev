@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-06-20 12:01:06+0000\n"
+"PO-Revision-Date: 2024-07-04 12:01:06+0000\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1269,7 +1269,7 @@ msgstr "팀 도착일"
 
 #. tpl/bvi.html
 msgid "Average Backlog Variation"
-msgstr ""
+msgstr "평균 부하량 변동"
 
 #. tpl/bvi.html
 #. plugins/IssueBacklogVariationIndicator/IssueBacklogVariationIndicator.html
