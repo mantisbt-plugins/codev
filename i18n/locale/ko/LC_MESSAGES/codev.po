@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-07-11 12:01:11+0000\n"
+"PO-Revision-Date: 2024-07-29 12:01:05+0000\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -301,7 +301,7 @@ msgstr "삭제"
 #. tpl/issue_info.html
 #. plugins/UserTeamList/UserTeamList.html
 msgid "Update"
-msgstr "새로 고침"
+msgstr "업데이트"
 
 #. tpl/timetracking_lite.html
 #. tpl/user_info.html
@@ -345,7 +345,7 @@ msgstr "기간"
 #. tpl/issue_info.html
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Enter a keyword or *** to display all..."
-msgstr "키워드를 입력하거나 ***을 입력하여 모두 표시하세요..."
+msgstr "모두 표시하려면 키워드를 입력하거나 ***을 입력하세요..."
 
 #. tpl/timetracking_lite.html
 msgid "Invalid backlog format"
@@ -897,7 +897,7 @@ msgstr "지원이 포함됩니다"
 
 #. tpl/ajax/issueGeneralInfo.html
 msgid "Support NOT included"
-msgstr "지원 포함되지 않습니다"
+msgstr "지원이 포함되지 않습니다"
 
 #. tpl/ajax/schedulerAffectationSummary.html
 #. tpl/productivity_report.html

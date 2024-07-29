@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-07-11 12:01:13+0000\n"
+"PO-Revision-Date: 2024-07-29 12:01:06+0000\n"
 "Language: nl_nl\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -3871,7 +3871,7 @@ msgstr "Taakfilter:"
 
 #. tpl/command_info.html
 msgid "Show resolved tasks"
-msgstr "Opgeloste taken tonen"
+msgstr "Opgeloste taken weergeven"
 
 #. tpl/command_info.html
 #. tpl/gantt.html
