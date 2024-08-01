@@ -9,6 +9,7 @@
 # Author: Frog7301
 # Author: Gerongfenh
 # Author: GuoPC
+# Author: Huajing
 # Author: Lakejason0
 # Author: LittlePaw365
 # Author: Liuxinyu970226
@@ -29,7 +30,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-07-11 12:01:17+0000\n"
+"PO-Revision-Date: 2024-08-01 12:01:01+0000\n"
 "Language: zh_cn\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -192,7 +193,7 @@ msgstr "总计"
 
 #. tpl/timetracking_lite.html
 msgid "Hint: Click in a field to edit 'Elapsed time' or 'Backlog'"
-msgstr ""
+msgstr "提示：点击表单来编辑“已用时间”或“积压工作”。"
 
 #. tpl/timetracking_lite.html
 #. tpl/time_tracking.html
@@ -362,7 +363,7 @@ msgstr "输入关键词或输入***以显示全部..."
 
 #. tpl/timetracking_lite.html
 msgid "Invalid backlog format"
-msgstr ""
+msgstr "积压工作格式无效"
 
 #. tpl/timetracking_lite.html
 #. tpl/modal/update_issueBacklog.html
@@ -378,7 +379,7 @@ msgstr "状态不能是：\\"
 
 #. tpl/timetracking_lite.html
 msgid "Please update status before editing timetracks"
-msgstr ""
+msgstr "请在编辑时间跟踪记录前更新状态。"
 
 #. tpl/timetracking_lite.html
 #. tpl/check.html
@@ -3922,7 +3923,7 @@ msgstr "活动"
 
 #. tpl/menu/global_menu.html
 msgid "Time Tracking (lite)"
-msgstr ""
+msgstr "时间跟踪（精简版）"
 
 #. tpl/menu/global_menu.html
 msgid "Time Tracking"
@@ -6568,19 +6569,19 @@ msgstr "其他团队"
 #: timetracking/timetracking_lite_ajax.php:139
 #: timetracking/timetracking_lite_ajax.php:144
 msgid "REFUSED"
-msgstr ""
+msgstr "拒绝"
 
 #: timetracking/timetracking_lite_ajax.php:154
 msgid "ERROR: Failed to update backlog !"
-msgstr ""
+msgstr "错误：无法更新积压工作！"
 
 #: timetracking/timetracking_lite_ajax.php:178
 msgid "ERROR: Failed to getAvailableStatusList !"
-msgstr ""
+msgstr "错误：无法获取可用状态列表（getAvailableStatusList）！"
 
 #: timetracking/timetracking_lite_ajax.php:219
 msgid "ERROR: Failed to setStatus !"
-msgstr ""
+msgstr "错误：无法设置状态（setStatus）！"
 
 #: timetracking/timetracking_lite_ajax.php:245
 #: timetracking/time_tracking_ajax.php:161
@@ -6594,11 +6595,11 @@ msgstr "禁止时间跟踪，当问题状态为："
 #: timetracking/timetracking_lite_ajax.php:337
 #: timetracking/timetracking_lite_ajax.php:342
 msgid "Sorry, multiple existing timetracks, please use the regular Timetracking page"
-msgstr ""
+msgstr "很抱歉，存在多个时间跟踪记录，请使用常规时间跟踪页面"
 
 #: timetracking/timetracking_lite_ajax.php:358
 msgid "ERROR: Failed to add/update timetrack !"
-msgstr ""
+msgstr "错误：添加/更新时间跟踪记录失败！"
 
 #: timetracking/time_tracking_ajax.php:442
 msgid "ERROR: Failed to delete the timetrack !"
