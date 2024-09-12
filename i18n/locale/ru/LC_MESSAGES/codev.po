@@ -10,6 +10,7 @@
 # Author: Ice bulldog
 # Author: Irus
 # Author: Kareyac
+# Author: Lutece398
 # Author: Mouse21
 # Author: Movses
 # Author: MuratTheTurkish
@@ -30,7 +31,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-07-11 12:01:15+0000\n"
+"PO-Revision-Date: 2024-09-12 12:01:12+0000\n"
 "Language: ru\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1239,9 +1240,8 @@ msgid "elapsed"
 msgstr "прошло"
 
 #. tpl/statistics.html
-#, fuzzy
 msgid "Sorry, you do NOT have access to this page."
-msgstr "Извините, вы должны быть тим-лидером для доступа к этой странице."
+msgstr "Извините, у вас НЕТ доступа к этой странице."
 
 #. tpl/user_info.html
 #. tpl/project_info.html
@@ -5368,9 +5368,8 @@ msgstr "Только администраторы команд могут соз
 
 #. plugins/ImportUsers/ImportUsers.html
 #. plugins/ImportUsers/ImportUsers_ajax.html
-#, fuzzy
 msgid "Send password by mail"
-msgstr "Отправить каждому пользователю пароль по эл. почте"
+msgstr "Отправьте пароль по почте"
 
 #. plugins/ImportUsers/ImportUsers.html
 msgid "Send a password per email to each user"
@@ -5530,14 +5529,12 @@ msgid "Recipient"
 msgstr "Получатель"
 
 #. plugins/BlogPlugin/BlogPlugin.html
-#, fuzzy
 msgid "Current team"
-msgstr "текущая неделя"
+msgstr "Текущая команда"
 
 #. plugins/BlogPlugin/BlogPlugin.html
-#, fuzzy
 msgid "All my teams"
-msgstr "Все задания"
+msgstr "Все мои команды"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 #, fuzzy
@@ -5598,9 +5595,8 @@ msgid "Show"
 msgstr "Показать"
 
 #. plugins/BlogPlugin/BlogPlugin.html
-#, fuzzy
 msgid "Unhide a hidden message"
-msgstr "Скрытые сообщения"
+msgstr "Показать скрытое сообщение"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Delete a message."
@@ -5611,9 +5607,8 @@ msgid "This will permanently delete this post, are you sure ?!"
 msgstr ""
 
 #. plugins/BlogPlugin/BlogPlugin_cfg.html
-#, fuzzy
 msgid "Message wall"
-msgstr "Сообщения"
+msgstr "Стена сообщений"
 
 #. plugins/BlogPlugin/BlogPlugin_cfg.html
 msgid "Size"
@@ -5629,9 +5624,8 @@ msgid "Medium"
 msgstr "Медиана"
 
 #. plugins/BlogPlugin/BlogPlugin_cfg.html
-#, fuzzy
 msgid "Large"
-msgstr "Цель"
+msgstr "Большой"
 
 #. plugins/BlogPlugin/BlogPlugin_cfg.html
 msgid "Huge"
@@ -5666,9 +5660,8 @@ msgstr "Отставание"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
-#, fuzzy
 msgid "Task type filter"
-msgstr "Фильтр задач"
+msgstr "Фильтр типов задач"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 msgid "Check the submission date of the tasks"
@@ -5704,9 +5697,8 @@ msgid "Open issues seniority"
 msgstr ""
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
-#, fuzzy
 msgid "Display task list"
-msgstr "Отображаемые задачи"
+msgstr "Показать список задач"
 
 #. plugins/TimePerStatusIndicator/TimePerStatusIndicator_cfg.html
 #. plugins/TimePerStatusIndicator/TimePerStatusIndicator.html
