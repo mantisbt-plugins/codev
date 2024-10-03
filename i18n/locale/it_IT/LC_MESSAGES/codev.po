@@ -6,6 +6,7 @@
 # Author: Beta16
 # Author: Champ0999
 # Author: Dansita
+# Author: Egidio24
 # Author: Fitoschido
 # Author: GpieroMW
 # Author: Joetaras
@@ -22,7 +23,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-07-11 12:01:11+0000\n"
+"PO-Revision-Date: 2024-10-03 12:01:05+0000\n"
 "Last-Translator: NSV <gianluca@pierri.org>\n"
 "Language-Team: Italian <gianluca.pierri@linfanet.it>\n"
 "Language: it_it\n"
@@ -355,11 +356,11 @@ msgstr "Durata"
 #. tpl/issue_info.html
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Enter a keyword or *** to display all..."
-msgstr ""
+msgstr "Inserisci una parola chiave o *** per visualizzare tutto..."
 
 #. tpl/timetracking_lite.html
 msgid "Invalid backlog format"
-msgstr ""
+msgstr "Formato arretrato non valido"
 
 #. tpl/timetracking_lite.html
 #. tpl/modal/update_issueBacklog.html
@@ -375,7 +376,7 @@ msgstr "Lo stato non può essere:"
 
 #. tpl/timetracking_lite.html
 msgid "Please update status before editing timetracks"
-msgstr ""
+msgstr "Aggiornare lo stato prima di modificare le tracce orarie"
 
 #. tpl/timetracking_lite.html
 #. tpl/check.html
@@ -2030,7 +2031,7 @@ msgstr "Data fine (compresa)"
 
 #. tpl/logs.html
 msgid "Logfile:"
-msgstr ""
+msgstr "File di registro:"
 
 #. tpl/logs.html
 msgid "Line"
@@ -2049,9 +2050,8 @@ msgid "delete Job"
 msgstr "Cancella il job"
 
 #. tpl/edit_jobs.html
-#, fuzzy
 msgid "Edit Job"
-msgstr "Modifica Jobs"
+msgstr "Modifica lavoro"
 
 #. tpl/edit_jobs.html
 #. tpl/edit_team.html
@@ -2089,7 +2089,7 @@ msgstr "Questo step pulirà il database Mantis."
 
 #. tpl/uninstall.html
 msgid "It is HIGHLY recommended to backup your Mantis DB before you proceed !"
-msgstr ""
+msgstr "Si consiglia VIVAMENTE di effettuare il backup del database Mantis prima di procedere!"
 
 #. tpl/uninstall.html
 msgid "Backup data"
@@ -2335,13 +2335,11 @@ msgid "Delete from the Command ?"
 msgstr "Cancellare dall'ordine?"
 
 #. tpl/command_edit.html
-#, fuzzy
 msgid "Edit Provision"
-msgstr "Aggiungi Direttiva"
+msgstr "Modifica disposizione"
 
 #. tpl/command_edit.html
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Updated successfully !"
 msgstr "Opzioni salvate correttamente"
 
