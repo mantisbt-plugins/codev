@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-07-11 12:01:12+0000\n"
+"PO-Revision-Date: 2024-10-21 12:01:16+0000\n"
 "Language: lt\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -340,7 +340,7 @@ msgstr "Trukmė"
 #. tpl/issue_info.html
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Enter a keyword or *** to display all..."
-msgstr ""
+msgstr "Įveskite raktinį žodį arba ***, kad būtų rodomi visi..."
 
 #. tpl/timetracking_lite.html
 msgid "Invalid backlog format"
@@ -430,9 +430,8 @@ msgid "extRef"
 msgstr ""
 
 #. tpl/check.html
-#, fuzzy
 msgid "last modification date"
-msgstr "Komandos sukūrimo data"
+msgstr "paskutinio pakeitimo data"
 
 #. tpl/check.html
 #. tpl/ajax/schedulerAffectationSummary.html
@@ -485,7 +484,7 @@ msgstr "Klaidos Aprašymas"
 
 #. tpl/servicecontract_edit.html
 msgid "New service contract"
-msgstr ""
+msgstr "Nauja paslaugų sutartis"
 
 #. tpl/servicecontract_edit.html
 #. tpl/form/teamSelector.html
@@ -591,7 +590,6 @@ msgid "Start date"
 msgstr "Pradžios data"
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "StartDate"
 msgstr "Pradžios Data"
 
@@ -603,7 +601,6 @@ msgid "End date"
 msgstr "Pabaigos data"
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "EndDate"
 msgstr "Pabaigos Data"
 
@@ -630,16 +627,15 @@ msgstr "Nėra kai kurių laukų:"
 
 #. tpl/servicecontract_edit.html
 msgid "Service contract name"
-msgstr ""
+msgstr "Paslaugų sutarties pavadinimas"
 
 #. tpl/servicecontract_edit.html
 msgid "Delete ServiceContract"
-msgstr ""
+msgstr "Trinti paslaugos sutartį"
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "Delete this ServiceContract ?"
-msgstr "Ištrinti šią Komandą ?"
+msgstr "Ištrinti šią paslaugų sutartį?"
 
 #. tpl/servicecontract_edit.html
 #, fuzzy
@@ -1163,13 +1159,12 @@ msgstr "% Atnaujinta"
 
 #. tpl/statistics.html
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
-#, fuzzy
 msgid "man-days"
-msgstr "dienos"
+msgstr "žmogaus dienos"
 
 #. tpl/statistics.html
 msgid "Available man-days on the period (excluding leave and external tasks)"
-msgstr ""
+msgstr "Laisvos žmogaus dienos periode (neįtraukti nebuvimo ir išorės užduočių)"
 
 #. tpl/statistics.html
 msgid "Developers Workload"
@@ -1251,9 +1246,8 @@ msgid "Indicators"
 msgstr "Indikatoriai"
 
 #. tpl/user_info.html
-#, fuzzy
 msgid "User info"
-msgstr "Naudotojas"
+msgstr "Naudotojo informacija"
 
 #. tpl/user_info.html
 #. tpl/modal/login.html
@@ -1262,16 +1256,15 @@ msgid "Login"
 msgstr "Prisijungti"
 
 #. tpl/user_info.html
-#, fuzzy
 msgid "User ID"
-msgstr "Naudotojas"
+msgstr "Naudotojo ID"
 
 #. tpl/user_info.html
 #. tpl/edit_team.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_ajax.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
 msgid "Group"
-msgstr ""
+msgstr "Grupė"
 
 #. tpl/user_info.html
 #. tpl/edit_team.html
@@ -1281,9 +1274,8 @@ msgid "Role"
 msgstr "Vaidmuo"
 
 #. tpl/user_info.html
-#, fuzzy
 msgid "Team arrival date"
-msgstr "Vartotojo atvykimo data"
+msgstr "Komandos atvykimo data"
 
 #. tpl/bvi.html
 #, fuzzy
@@ -1379,13 +1371,12 @@ msgid "A new CodevTT version is available !"
 msgstr "Egzistuoja nauja CodevTT versija !"
 
 #. tpl/edit_holidays.html
-#, fuzzy
 msgid "Add fixed holidays"
-msgstr "Redaguoti Šventes"
+msgstr "Pridėti fiksuotas šventes"
 
 #. tpl/edit_holidays.html
 msgid "In here you can set National Days, religious holidays, etc."
-msgstr ""
+msgstr "Čia galite nustatyti nacionalines dienas, religines šventes ir kt."
 
 #. tpl/edit_holidays.html
 msgid "Note: adding RTTs is not a good idea, users may decide to work anyways and productionDaysForecast will be wrong."
@@ -1650,10 +1641,9 @@ msgstr "nb dienos"
 #. $tooltipAttr[T_('DeliveryDate')] = Tools::formatDate("%d %b %Y", $issue->getDeliveryDate());
 #: reports/issue_info_tools.php:109
 msgid "DeliveryDate"
-msgstr ""
+msgstr "Pristatymo data"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "DeadLine"
 msgstr "Terminas"
 
@@ -1906,9 +1896,8 @@ msgstr "Tipas"
 #. tpl/project_activity_report.html
 #. tpl/team_activity_report.html
 #. tpl/issue_info.html
-#, fuzzy
 msgid "Target version"
-msgstr "Versija"
+msgstr "Tikslo versija"
 
 #. tpl/project_activity_report.html
 #. tpl/command_edit.html
@@ -1932,9 +1921,8 @@ msgid "No data available"
 msgstr "Nėra duomenų"
 
 #. tpl/project_activity_report.html
-#, fuzzy
 msgid "Time spent on Projects per users"
-msgstr "Visas laikas, praleistas šiuo klausimu"
+msgstr "Laikas praleistas dirbant prie projektų pagal naudotojus"
 
 #. tpl/project_activity_report.html
 #, fuzzy
@@ -2060,7 +2048,7 @@ msgstr "Pabaigos Data (įskaitant)"
 
 #. tpl/logs.html
 msgid "Logfile:"
-msgstr ""
+msgstr "Žurnalo failas:"
 
 #. tpl/logs.html
 msgid "Line"
@@ -2079,15 +2067,13 @@ msgid "delete Job"
 msgstr "trinti Darbą"
 
 #. tpl/edit_jobs.html
-#, fuzzy
 msgid "Edit Job"
-msgstr "Redaguoti Darbus"
+msgstr "Redaguoti darbą"
 
 #. tpl/edit_jobs.html
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Edit Job list"
-msgstr "Redaguoti Darbus"
+msgstr "Redaguoti darbų sąrašą"
 
 #. tpl/edit_jobs.html
 msgid "Delete job"
@@ -2120,7 +2106,7 @@ msgstr "Šis žingsnis išvalys Mantis DB."
 
 #. tpl/uninstall.html
 msgid "It is HIGHLY recommended to backup your Mantis DB before you proceed !"
-msgstr ""
+msgstr "Prieš tęsiant LABAI rekomenduojama padaryti Mantis DB atsarginę kopiją!"
 
 #. tpl/uninstall.html
 msgid "Backup data"
@@ -2404,9 +2390,8 @@ msgid "task id"
 msgstr "užduoties id"
 
 #. tpl/command_edit.html
-#, fuzzy
 msgid "Not a comma separated number list"
-msgstr "Pridėti užduotys į Komandą"
+msgstr "Ne kableliais atskirtų skaičių sąrašas"
 
 #. tpl/command_edit.html
 msgid "Missing field"
@@ -2415,7 +2400,7 @@ msgstr "Trūksta lauko"
 #. tpl/command_edit.html
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "ERROR: Please check"
-msgstr ""
+msgstr "KLAIDA: patikrinkite"
 
 #. tpl/doc.html
 #. tpl/edit_team.html
@@ -2424,16 +2409,15 @@ msgstr "Bendras"
 
 #. tpl/doc.html
 msgid "Task priority in Planning & Gantt"
-msgstr ""
+msgstr "Užduočių prioritetas planavime ir Gante"
 
 #. tpl/doc.html
 msgid "Documentation is available at "
 msgstr "Dokumentacija yra prieinama "
 
 #. tpl/doc.html
-#, fuzzy
 msgid "CodevTT Documentation"
-msgstr "Dokumentacija"
+msgstr "CodevTT dokumentacija"
 
 #. tpl/doc.html
 msgid "You can help on translations: "
@@ -2445,15 +2429,14 @@ msgstr "statistika"
 
 #. tpl/doc.html
 msgid "Contact the author: "
-msgstr ""
+msgstr "Susisiekite su autoriumi: "
 
 #. tpl/doc.html
 #. tpl/scheduler.html
 #. tpl/command_info.html
 #. tpl/gantt.html
-#, fuzzy
 msgid "IMPORTANT: unassigned tasks will not be displayed !"
-msgstr "Nepriskirtos užduotys nebus rodomos"
+msgstr "SVARBU: nepriskirtos užduotys nebus rodomos!"
 
 #. tpl/commandset_edit.html
 msgid "New command set"
@@ -2480,9 +2463,8 @@ msgid "Nb Commands"
 msgstr "Komandos"
 
 #. tpl/commandset_edit.html
-#, fuzzy
 msgid "Service Contracts"
-msgstr "Kontraktai"
+msgstr "Paslaugų sutartys"
 
 #. tpl/commandset_edit.html
 #. tpl/servicecontract_info.html
@@ -2537,9 +2519,8 @@ msgid "Query FAILED"
 msgstr "Užklausa NEPAVYKO"
 
 #. tpl/time_tracking.html
-#, fuzzy
 msgid "Add timetrack"
-msgstr "Redaguoti Komandą"
+msgstr "Pridėti laiko sekimą"
 
 #. tpl/time_tracking.html
 #. tpl/modal/update_issueBacklog.html
@@ -2558,12 +2539,11 @@ msgstr "Sumažinkite užduoties pasirinkimą nustatydami keletą filtrų"
 
 #. tpl/time_tracking.html
 msgid "Hide tasks with forbiden status (closed, ...)"
-msgstr ""
+msgstr "Slėpti užduotis, kurių būsena uždrausta (uždaryta, ...)"
 
 #. tpl/time_tracking.html
-#, fuzzy
 msgid "Week timetracks"
-msgstr "Redaguoti Komandą"
+msgstr "Savaitės laiko stebėjimai"
 
 #. tpl/time_tracking.html
 #. tpl/team_activity_report.html
@@ -2572,9 +2552,8 @@ msgstr "Iš.ID"
 
 #. tpl/time_tracking.html
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
-#, fuzzy
 msgid "Timetrack note"
-msgstr "Laiko stebėjimas"
+msgstr "Laiko stebėjimo pastaba"
 
 #. tpl/time_tracking.html
 #. tpl/edit_team.html
@@ -2583,30 +2562,25 @@ msgstr "ištrinti šią eilutę"
 
 #. tpl/time_tracking.html
 #. plugins/TimetrackList/TimetrackList_ajax.html
-#, fuzzy
 msgid "Edit timetrack"
-msgstr "Redaguoti Komandą"
+msgstr "Redaguoti laiko stebėjimą"
 
 #. tpl/time_tracking.html
-#, fuzzy
 msgid "Future timetracks"
-msgstr "Redaguoti Komandą"
+msgstr "Ateities laiko stebėjimai"
 
 #. tpl/time_tracking.html
-#, fuzzy
 msgid "Delete track"
-msgstr "Ištrinti komandą"
+msgstr "Ištrinti takelį"
 
 #. tpl/missing_timetracks.html
 #. tpl/menu/global_menu.html
-#, fuzzy
 msgid "Missing Timetracks"
-msgstr "Redaguoti Komandą"
+msgstr "Trūksta laiko sekimo"
 
 #. tpl/missing_timetracks.html
-#, fuzzy
 msgid "Missing timetracks per user"
-msgstr "Redaguoti Komandą"
+msgstr "Trūksta laiko sekimų naudotojams"
 
 #. tpl/missing_timetracks.html
 #. tpl/planning_report.html
@@ -2627,14 +2601,12 @@ msgid "workdays"
 msgstr "darbo dienos"
 
 #. tpl/missing_timetracks.html
-#, fuzzy
 msgid "Missing timetracks"
-msgstr "Redaguoti Komandą"
+msgstr "Trūksta laiko stebėjimo"
 
 #. tpl/missing_timetracks.html
-#, fuzzy
 msgid "Missing days"
-msgstr "Trūksta lauko"
+msgstr "Trūksta dienų"
 
 #. tpl/missing_timetracks.html
 #. plugins/CustomUserData/CustomUserData.html
@@ -2704,7 +2676,7 @@ msgstr "Pridėti Indikatorius"
 #. tpl/command_info.html
 #: reports/planning_report.php:479 scheduler/SchedulerEvent.class.php:135
 msgid "Attributes"
-msgstr ""
+msgstr "Atributai"
 
 #. tpl/tools/dashboard.html
 #. tpl/modal/login.html
@@ -2729,14 +2701,12 @@ msgstr "Parengti"
 
 #. tpl/servicecontract_info.html
 #. tpl/menu/global_menu.html
-#, fuzzy
 msgid "ServiceContract"
-msgstr "Kontraktai"
+msgstr "Paslaugos sutartis"
 
 #. tpl/servicecontract_info.html
-#, fuzzy
 msgid "--- Create New ServiceContract ---"
-msgstr "--- Sukurti Naują Komandą ---"
+msgstr "--- Sukurti naują paslaugų sutartį ---"
 
 #. tpl/servicecontract_info.html
 msgid "Charges"
@@ -2767,9 +2737,8 @@ msgid "All tasks"
 msgstr "Visos užduotys"
 
 #. tpl/servicecontract_info.html
-#, fuzzy
 msgid "No Total found."
-msgstr "Nerasta jokių užduočių."
+msgstr "Nerasta suma."
 
 #. tpl/servicecontract_info.html
 msgid "Note: SideTasks already defined in Commands are not displayed."
@@ -2827,7 +2796,7 @@ msgstr "Dabartinės Užduotys"
 
 #. tpl/modal/update_issueBacklog.html
 msgid "Fixed in version"
-msgstr ""
+msgstr "Ištaisyta versijoje"
 
 #. tpl/modal/update_issueBacklog.html
 #, fuzzy
