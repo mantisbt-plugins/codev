@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-10-24 12:01:15+0000\n"
+"PO-Revision-Date: 2024-11-05 14:17:44+0000\n"
 "Language: ar\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1239,9 +1239,8 @@ msgid "Indicators"
 msgstr "مؤشرات"
 
 #. tpl/user_info.html
-#, fuzzy
 msgid "User info"
-msgstr "مستخدم"
+msgstr "معلومات المستخدم"
 
 #. tpl/user_info.html
 #. tpl/modal/login.html
@@ -2043,9 +2042,8 @@ msgid "delete Job"
 msgstr "حذف الوظيفة"
 
 #. tpl/edit_jobs.html
-#, fuzzy
 msgid "Edit Job"
-msgstr "تحرير الوظائف"
+msgstr "تعديل الوظيفة"
 
 #. tpl/edit_jobs.html
 #. tpl/edit_team.html
@@ -2152,9 +2150,8 @@ msgid "Remove Mantis plugin:"
 msgstr "إزالة برنامج Mantis المساعد:"
 
 #. tpl/uninstall.html
-#, fuzzy
 msgid "Remove ExternalTasks project:"
-msgstr "مشروع CodevTT للمهام الخارجية"
+msgstr "إزالة مشروع ExternalTasks:"
 
 #. tpl/uninstall.html
 msgid "Please MANUALY delete the following projects:"
@@ -2355,9 +2352,8 @@ msgid "task id"
 msgstr "معرف المهمة"
 
 #. tpl/command_edit.html
-#, fuzzy
 msgid "Not a comma separated number list"
-msgstr "إضافة مهام لأمر"
+msgstr "ليست قائمة أرقام مفصولة بفاصلة"
 
 #. tpl/command_edit.html
 msgid "Missing field"
@@ -2382,9 +2378,8 @@ msgid "Documentation is available at "
 msgstr "الوثائق متاحة في "
 
 #. tpl/doc.html
-#, fuzzy
 msgid "CodevTT Documentation"
-msgstr "توثيق"
+msgstr "توثيق CodevTT"
 
 #. tpl/doc.html
 msgid "You can help on translations: "
@@ -2481,9 +2476,8 @@ msgid "Query FAILED"
 msgstr "فشل الاستعلام"
 
 #. tpl/time_tracking.html
-#, fuzzy
 msgid "Add timetrack"
-msgstr "تحرير المسار الزمني"
+msgstr "إضافة المسار الزمني"
 
 #. tpl/time_tracking.html
 #. tpl/modal/update_issueBacklog.html
@@ -2538,14 +2532,12 @@ msgstr "حذف المسار"
 
 #. tpl/missing_timetracks.html
 #. tpl/menu/global_menu.html
-#, fuzzy
 msgid "Missing Timetracks"
-msgstr "نقل المسارات الزمنية للقضية"
+msgstr "المسارات الزمنية المفقودة"
 
 #. tpl/missing_timetracks.html
-#, fuzzy
 msgid "Missing timetracks per user"
-msgstr "نقل المسارات الزمنية للقضية"
+msgstr "مسارات زمنية مفقودة لكل مستخدم"
 
 #. tpl/missing_timetracks.html
 #. tpl/planning_report.html
@@ -2566,14 +2558,12 @@ msgid "workdays"
 msgstr "أيام العمل"
 
 #. tpl/missing_timetracks.html
-#, fuzzy
 msgid "Missing timetracks"
-msgstr "نقل المسارات الزمنية للقضية"
+msgstr "المسارات الزمنية المفقودة"
 
 #. tpl/missing_timetracks.html
-#, fuzzy
 msgid "Missing days"
-msgstr "حقل مفقود"
+msgstr "الأيام المفقودة"
 
 #. tpl/missing_timetracks.html
 #. plugins/CustomUserData/CustomUserData.html
@@ -2975,7 +2965,6 @@ msgid "Tools"
 msgstr "أدوات"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Team name"
 msgstr "اسم الفريق"
 
@@ -3016,9 +3005,8 @@ msgid "Delete team"
 msgstr "حذف الفريق"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Active team members"
-msgstr "إضافة عضو الفريق"
+msgstr "أعضاء الفريق النشطين"
 
 #. tpl/edit_team.html
 msgid "Add team member"
@@ -3043,30 +3031,25 @@ msgid "Import"
 msgstr "استيراد"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Import user groups from CSV"
-msgstr "استيراد كافة المستخدمين من فريق"
+msgstr "استيراد مجموعات المستخدمين من CSV"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "import groups"
-msgstr "استيراد المستخدمين"
+msgstr "استيراد المجموعات"
 
 #. tpl/edit_team.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
-#, fuzzy
 msgid "User groups"
-msgstr "المستخدمون"
+msgstr "مجموعات المستخدمين"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "CSV file"
-msgstr "تعيين المرشحات"
+msgstr "ملف CSV"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "upload"
-msgstr "إعادة تحميل"
+msgstr "رفع"
 
 #. tpl/edit_team.html
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
@@ -3083,9 +3066,8 @@ msgid "Group examples: FrontEnd, BackEnd, Architect, Designers, Qualifiers"
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "CSV File Format"
-msgstr "صيغ الملفات"
+msgstr "تنسيق ملف CSV"
 
 #. tpl/edit_team.html
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
@@ -3094,9 +3076,8 @@ msgid "delimiter"
 msgstr "المحدد"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "1st column"
-msgstr "عرض عمود المهمة"
+msgstr "العمود الأول"
 
 #. tpl/edit_team.html
 msgid "2nd column"
@@ -3115,9 +3096,8 @@ msgstr ""
 
 #. tpl/edit_team.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
-#, fuzzy
 msgid "Users not assigned to any group"
-msgstr "لم يتم تعيين المهمة إلى أي شخص."
+msgstr "المستخدمون غير المعينين لأي مجموعة"
 
 #. tpl/edit_team.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
@@ -3125,9 +3105,8 @@ msgid "Not a team member, but assigned to a group"
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Number of team members"
-msgstr "إضافة عضو الفريق"
+msgstr "عدد أعضاء الفريق"
 
 #. tpl/edit_team.html
 msgid "Arrival date in the team"
@@ -3165,9 +3144,8 @@ msgstr "تاريخ المغادرة"
 
 #. tpl/edit_team.html
 #. plugins/UserTeamList/UserTeamList.html
-#, fuzzy
 msgid "optionnal"
-msgstr "خيارات"
+msgstr "اختياري"
 
 #. tpl/edit_team.html
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
@@ -3259,23 +3237,20 @@ msgid "User Daily Cost"
 msgstr "التكلفة اليومية للمستخدم"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Timetracking settings"
-msgstr "تفاصيل المسار الزمني"
+msgstr "إعدادات تتبع الوقت"
 
 #. tpl/edit_team.html
 msgid "Timetracking disabled if task status in"
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Edit Forbidden status list"
-msgstr "تحرير الوظائف"
+msgstr "تعديل قائمة الحالة المحظورة"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Edit Forbiden status list"
-msgstr "تحرير الوظائف"
+msgstr "تعديل قائمة حالة Forbiden"
 
 #. tpl/edit_team.html
 msgid "Issue Tooltips"
@@ -3398,9 +3373,8 @@ msgid "Job list for project :"
 msgstr "تلميحات القضية لمشروع"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Forbiden Status for project:"
-msgstr "تلميحات القضية لمشروع"
+msgstr "حالة الحظر للمشروع:"
 
 #. tpl/edit_team.html
 msgid "Please select a CSV file"
@@ -3707,9 +3681,8 @@ msgid "Save options"
 msgstr "حفظ الخيارات"
 
 #. tpl/issue_info.html
-#, fuzzy
 msgid "Hide tasks from observed teams"
-msgstr "إخفاء المهام لم يتم تعيينها لي"
+msgstr "إخفاء المهام من الفرق التي تمت مراقبتها"
 
 #. tpl/issue_info.html
 #: scheduler/SchedulerEvent.class.php:116 gantt/gantt_ajax.php:224
@@ -3982,9 +3955,8 @@ msgid "Team Statistics"
 msgstr "إحصائيات الفريق"
 
 #. tpl/menu/global_menu.html
-#, fuzzy
 msgid "User Statistics"
-msgstr "إحصائيات الفترة"
+msgstr "إحصائيات المستخدم"
 
 #. tpl/menu/global_menu.html
 msgid "History"
@@ -4200,9 +4172,8 @@ msgid "users"
 msgstr "المستخدمون"
 
 #. plugins/AdminTools/AdminTools_ajax.html
-#, fuzzy
 msgid "Change Mantis issue id"
-msgstr "إنشاء مستخدمي Mantis"
+msgstr "تغيير معرف مشكلة Mantis"
 
 #. plugins/IssueBacklogVariationIndicator/IssueBacklogVariationIndicator.html
 #. plugins/IssueBacklogVariationIndicator/IssueBacklogVariationIndicator_cfg.html
@@ -4287,9 +4258,8 @@ msgid "Weekly"
 msgstr "أسبوعيا"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
-#, fuzzy
 msgid "User selection"
-msgstr "تحويل"
+msgstr "اختيار المستخدم"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
@@ -4303,23 +4273,20 @@ msgid "Graph"
 msgstr "الرسم البياني"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
-#, fuzzy
 msgid "Graph values"
-msgstr "عرض القيم"
+msgstr "قيم الرسم البياني"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
-#, fuzzy
 msgid "Range values"
-msgstr "عرض القيم"
+msgstr "قيم النطاق"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 msgid "Available Workforce Options"
 msgstr "خيارات القوى العاملة المتاحة"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
-#, fuzzy
 msgid "Select by group"
-msgstr "اختر مستخدما"
+msgstr "حدد حسب المجموعة"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 msgid "Availability"
@@ -4342,9 +4309,8 @@ msgid "Available workforce"
 msgstr "القوى العاملة المتاحة"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator_ajax2.html
-#, fuzzy
 msgid "Workforce"
-msgstr "سير العمل"
+msgstr "القوى العاملة"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
@@ -4363,9 +4329,8 @@ msgid "End Date"
 msgstr "تاريخ الانتهاء"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
-#, fuzzy
 msgid "Number of days to add on the period"
-msgstr "عدد الأيام لحسابها"
+msgstr "عدد الأيام المراد إضافتها إلى الفترة"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "Nb days"
@@ -4467,14 +4432,12 @@ msgid "Root task"
 msgstr "لا توجد مهمة متأخرة."
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
-#, fuzzy
 msgid "comma separated"
-msgstr "إضافة مهام لأمر"
+msgstr "مفصولة بفاصلة"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
-#, fuzzy
 msgid "Root task list"
-msgstr "لا توجد مهمة متأخرة."
+msgstr "قائمة المهام الجذرية"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "comma separated list of mantis tasks"
@@ -4507,9 +4470,8 @@ msgstr ""
 #. plugins/TimetrackList/TimetrackList_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_cfg.html
-#, fuzzy
 msgid "Timetrack filter"
-msgstr "ملاحظات المسارات الزمنية"
+msgstr "مرشح المسار الزمني"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_cfg.html
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
@@ -4519,9 +4481,8 @@ msgstr "ملاحظات المسارات الزمنية"
 #. plugins/TimetrackList/TimetrackList_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_cfg.html
-#, fuzzy
 msgid "Only team members"
-msgstr "إضافة عضو الفريق"
+msgstr "فقط أعضاء الفريق"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_cfg.html
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_cfg.html
@@ -4529,28 +4490,24 @@ msgstr "إضافة عضو الفريق"
 #. plugins/TimetrackList/TimetrackList_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
-#, fuzzy
 msgid "Display options"
-msgstr "حفظ الخيارات"
+msgstr "خيارات العرض"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_cfg.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_ajax.html
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/OngoingTasks/OngoingTasks.html
 #. plugins/OngoingTasks/OngoingTasks_ajax.html
-#, fuzzy
 msgid "Involved users"
 msgstr "المستخدمون المعينون"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_ajax.html
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator_ajax.html
-#, fuzzy
 msgid "Total elapsed"
-msgstr "المنقضي"
+msgstr "مجموع الوقت المنقضي"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_ajax.html
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator_ajax.html
-#, fuzzy
 msgid "sidetasks"
 msgstr "مهام جانبية"
 
@@ -4956,14 +4913,12 @@ msgid "Check all the timetracks of the period and return their repartition per P
 msgstr "تحقق من جميع الجداول الزمنية لهذه الفترة وأعد إعادة تقسيمها لكل مشروع"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
-#, fuzzy
 msgid "Selling price for period"
-msgstr "المنقضي في الفترة"
+msgstr "سعر البيع للفترة"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
-#, fuzzy
 msgid "Elapsed during period"
-msgstr "المنقضي في الفترة"
+msgstr "انقضت خلال الفترة"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 msgid "Remaining to produce (at end of period)"
@@ -4986,9 +4941,8 @@ msgid "For this plugin, you need to add the \"CodevTT_DailyPrice\" customField t
 msgstr ""
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
-#, fuzzy
 msgid "SellingPrice = DailyPrice x Elapsed during period"
-msgstr "المنقضي في الفترة"
+msgstr "سعر البيع = السعر اليومي × الوقت المنقضي خلال الفترة"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 msgid "Remaining = MgrEffortEstim - Elapsed since the beginning of the task to end of period"
@@ -5001,9 +4955,8 @@ msgstr " أضيف مهام جانبية"
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_cfg.html
 #. plugins/TimetrackList/TimetrackList_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
-#, fuzzy
 msgid "Task name"
-msgstr "مهام في الوقت المناسب"
+msgstr "اسم المهمة"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_cfg.html
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
@@ -5011,9 +4964,8 @@ msgstr "مهام في الوقت المناسب"
 #. plugins/TimetrackList/TimetrackList_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_ajax.html
-#, fuzzy
 msgid "Task ExtRef"
-msgstr "ExtRef"
+msgstr "مهمة ExtRef"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 #. plugins/TimetrackList/TimetrackList_ajax.html
@@ -5025,9 +4977,8 @@ msgstr "معرف المهمة"
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator.html
 #. plugins/OngoingTasks/OngoingTasks_ajax.html
-#, fuzzy
 msgid "Elapsed on period"
-msgstr "المنقضي في الفترة"
+msgstr "انقضت الفترة"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 msgid "Remaining to produce at end of period"
@@ -5042,9 +4993,8 @@ msgid "Daily Price"
 msgstr "السعر اليومي"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
-#, fuzzy
 msgid "Price on period"
-msgstr "المنقضي في الفترة"
+msgstr "السعر حسب الفترة"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 msgid "Price"
@@ -5130,9 +5080,8 @@ msgid "Load per customfield values"
 msgstr ""
 
 #. plugins/LoadPerCustomfieldValues/LoadPerCustomfieldValues.html
-#, fuzzy
 msgid "Custom field"
-msgstr "حقول مخصصة"
+msgstr "حقل مخصص"
 
 #. plugins/TimetrackList/TimetrackList.html
 msgid "Timetrack list"
@@ -5158,27 +5107,24 @@ msgstr "لكل مستخدم، قم بإرجاع مجموع تراكم مهامه
 
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_ajax.html
-#, fuzzy
 msgid "WBS path"
-msgstr "تصدير هيكلية تقسيم العمل"
+msgstr "مسار هيكل تقسيم العمل"
 
 #. plugins/OngoingTasks/OngoingTasks.html
 msgid "Ongoing tasks"
 msgstr "المهام الجارية"
 
 #. plugins/OngoingTasks/OngoingTasks.html
-#, fuzzy
 msgid "Display only the tasks with activity (timetracks) on the period"
-msgstr "مهام تمت إعادة فتحها في الفترة"
+msgstr "عرض المهام التي تحتوي على نشاط (مسارات زمنية) فقط في الفترة"
 
 #. plugins/OngoingTasks/OngoingTasks.html
 msgid "The time spent on the task during the period (which can be less than the total time spent since the beginning of the task)"
 msgstr ""
 
 #. plugins/OngoingTasks/OngoingTasks.html
-#, fuzzy
 msgid "List the users having spent time on the task during the period"
-msgstr "مهام تمت إعادة فتحها في الفترة"
+msgstr "قم بإدراج المستخدمين الذين قضوا وقتًا في المهمة خلال الفترة"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator_ajax.html
 msgid "Nb submitted"
@@ -5490,9 +5436,8 @@ msgid "Medium"
 msgstr ""
 
 #. plugins/BlogPlugin/BlogPlugin_cfg.html
-#, fuzzy
 msgid "Large"
-msgstr "الهدف"
+msgstr "كبير"
 
 #. plugins/BlogPlugin/BlogPlugin_cfg.html
 msgid "Huge"
@@ -5520,15 +5465,13 @@ msgid "Dest"
 msgstr "الهدف"
 
 #. plugins/BurnDownChart/BurnDownChart.html
-#, fuzzy
 msgid "Backlog history"
-msgstr "تاريخ الميزانية"
+msgstr "سجل المتأخرات"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
-#, fuzzy
 msgid "Task type filter"
-msgstr "مرشح المهمة:"
+msgstr "مرشح نوع المهمة"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 msgid "Check the submission date of the tasks"
@@ -5556,18 +5499,16 @@ msgid "Nb new"
 msgstr ""
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_ajax.html
-#, fuzzy
 msgid "Nb open"
-msgstr "تمت إعادة فتح ملحوظة"
+msgstr "ملاحظة مفتوحة"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
 msgid "Open issues seniority"
 msgstr ""
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
-#, fuzzy
 msgid "Display task list"
-msgstr "المهام المعروضة"
+msgstr "عرض قائمة المهام"
 
 #. plugins/TimePerStatusIndicator/TimePerStatusIndicator_cfg.html
 #. plugins/TimePerStatusIndicator/TimePerStatusIndicator.html
@@ -5593,14 +5534,12 @@ msgstr ""
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
-#, fuzzy
 msgid "Average"
-msgstr "متوسط ​​التراكم"
+msgstr "متوسط"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
-#, fuzzy
 msgid "(in days)"
-msgstr "nb أيام"
+msgstr "(بالأيام)"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
 msgid "Median"
@@ -5611,14 +5550,12 @@ msgid "Mode"
 msgstr ""
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
-#, fuzzy
 msgid "Nb timetracks"
-msgstr "المسارات الزمنية للأسبوع"
+msgstr "مسارات زمنية ملحوظة"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
-#, fuzzy
 msgid "Missing"
-msgstr "حقل مفقود"
+msgstr "مفتقد"
 
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.html
 #: plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.class.php:65
@@ -5654,14 +5591,12 @@ msgid "Tasks pivot table"
 msgstr "الجدول المحوري للمهام"
 
 #. plugins/ResetDashboard/ResetDashboard.html
-#, fuzzy
 msgid "Reset selected dashboards"
-msgstr "احذف المدة"
+msgstr "إعادة تعيين لوحات المعلومات المحددة"
 
 #. plugins/ResetDashboard/ResetDashboard_ajax.html
-#, fuzzy
 msgid "Domain"
-msgstr "النطاق(ات)"
+msgstr "اِختِصاص"
 
 #. plugins/ResetDashboard/ResetDashboard_ajax.html
 msgid "Item"
