@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-11-05 14:17:44+0000\n"
+"PO-Revision-Date: 2024-11-11 12:00:54+0000\n"
 "Language: ar\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1505,7 +1505,7 @@ msgstr "مهام جانبية أخرى"
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator.html
 #: plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.class.php:319
 msgid "Total"
-msgstr "المجموع"
+msgstr "الإجمالي"
 
 #. tpl/productivity_report.html
 msgid "Days spent on the projects during the period (team members only)"
