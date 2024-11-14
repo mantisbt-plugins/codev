@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-10-24 12:01:19+0000\n"
+"PO-Revision-Date: 2024-11-14 12:01:13+0000\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -361,7 +361,7 @@ msgstr "작업이 해결되지 않았으며, 백로그는 '0'이 될 수 없습�
 #. tpl/timetracking_lite.html
 #. tpl/modal/update_issueBacklog.html
 msgid "Status can't be : "
-msgstr ""
+msgstr "상태는 다음과 같을 수 없습니다 : "
 
 #. tpl/timetracking_lite.html
 msgid "Please update status before editing timetracks"
@@ -1092,7 +1092,7 @@ msgstr "노력 편차"
 
 #. tpl/statistics.html
 msgid "No Support"
-msgstr ""
+msgstr "지원 없음"
 
 #. tpl/statistics.html
 msgid "BI"
@@ -2414,9 +2414,8 @@ msgid "Documentation is available at "
 msgstr "\\ 에 문서가 있습니다"
 
 #. tpl/doc.html
-#, fuzzy
 msgid "CodevTT Documentation"
-msgstr "CodevTT 관리"
+msgstr "CodevTT 문서"
 
 #. tpl/doc.html
 msgid "You can help on translations: "
@@ -2850,9 +2849,8 @@ msgid "and"
 msgstr "그리고"
 
 #. tpl/modal/login.html
-#, fuzzy
 msgid "CodevTT Identification"
-msgstr "CodevTT 관리"
+msgstr "CodevTT 식별"
 
 #. tpl/modal/login.html
 #. tpl/edit_team.html
@@ -3130,7 +3128,6 @@ msgstr "업로드"
 #. tpl/edit_team.html
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 #. plugins/ImportUsers/ImportUsers.html
-#, fuzzy
 msgid "Import template"
 msgstr "틀 가져오기"
 
