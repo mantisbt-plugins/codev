@@ -23,7 +23,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-10-24 12:01:18+0000\n"
+"PO-Revision-Date: 2024-12-09 12:01:16+0000\n"
 "Last-Translator: NSV <gianluca@pierri.org>\n"
 "Language-Team: Italian <gianluca.pierri@linfanet.it>\n"
 "Language: it_it\n"
@@ -2386,9 +2386,8 @@ msgid "Documentation is available at "
 msgstr "La documentazione è disponibile a "
 
 #. tpl/doc.html
-#, fuzzy
 msgid "CodevTT Documentation"
-msgstr "Documentazione"
+msgstr "Documentazione CodevTT"
 
 #. tpl/doc.html
 msgid "You can help on translations: "
@@ -2498,7 +2497,7 @@ msgstr "Modifica tempistiche"
 #. plugins/TimetrackList/TimetrackList.html
 #. plugins/TimetrackDetailsIndicator/TimetrackDetailsIndicator_ajax.html
 msgid "Note"
-msgstr "Note"
+msgstr "Nota"
 
 #. tpl/time_tracking.html
 msgid "Reduce the tasks selection by setting some filters"
@@ -2575,9 +2574,8 @@ msgid "Missing timetracks"
 msgstr "Tracce lavoro"
 
 #. tpl/missing_timetracks.html
-#, fuzzy
 msgid "Missing days"
-msgstr "Mancante"
+msgstr "Giorni mancanti"
 
 #. tpl/missing_timetracks.html
 #. plugins/CustomUserData/CustomUserData.html
