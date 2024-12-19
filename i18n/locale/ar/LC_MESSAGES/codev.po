@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-11-11 12:00:54+0000\n"
+"PO-Revision-Date: 2024-12-19 12:01:03+0000\n"
 "Language: ar\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1428,7 +1428,7 @@ msgstr "المدة (بالأيام)"
 
 #. tpl/set_holidays.html
 msgid "Monday"
-msgstr "الاثنين"
+msgstr "الإثنين"
 
 #. tpl/set_holidays.html
 msgid "Tuesday"
