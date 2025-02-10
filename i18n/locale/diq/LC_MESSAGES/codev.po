@@ -2,6 +2,7 @@
 # Exported from translatewiki.net
 #
 # Author: 1917 Ekim Devrimi
+# Author: GolyatGeri
 # Author: Gırd
 # Author: Kumkumuk
 # Author: Mirzali
@@ -12,7 +13,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-01-23 12:00:56+0000\n"
+"PO-Revision-Date: 2025-02-10 12:00:55+0000\n"
 "Language: diq\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -23,13 +24,13 @@ msgstr ""
 
 #. tpl/timetracking_lite.html
 msgid "Add task"
-msgstr ""
+msgstr "Wezife dekerê"
 
 #. tpl/timetracking_lite.html
 #. tpl/modal/consistency_check.html
 #. tpl/planning_report.html
 msgid "Click to show errors"
-msgstr ""
+msgstr "Xetaya mocnayışi rê bıtıkne"
 
 #. tpl/timetracking_lite.html
 #. tpl/time_tracking.html
@@ -184,9 +185,8 @@ msgstr ""
 
 #. tpl/timetracking_lite.html
 #. tpl/time_tracking.html
-#, fuzzy
 msgid "Hide resolved tasks"
-msgstr "Agoznaye wezife çıniyo..."
+msgstr "Agoznaye wezife bınımn..."
 
 #. tpl/timetracking_lite.html
 #. tpl/check.html
@@ -480,14 +480,12 @@ msgstr "Sewiye"
 
 #. tpl/check.html
 #. plugins/IssueConsistencyCheck/IssueConsistencyCheck.html
-#, fuzzy
 msgid "Error Description"
-msgstr "Şınasnayış"
+msgstr "İzaha şınasnayışi"
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "New service contract"
-msgstr "ServiceContract"
+msgstr "Muqaweley serwisa newey"
 
 #. tpl/servicecontract_edit.html
 #. tpl/form/teamSelector.html
@@ -629,24 +627,20 @@ msgid "Some fields are missing:"
 msgstr ""
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "Service contract name"
-msgstr "ServiceContract"
+msgstr "Namey xızmeta muqaweley"
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "Delete ServiceContract"
-msgstr "ServiceContract"
+msgstr "ServiceContract'i bıesterne"
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "Delete this ServiceContract ?"
-msgstr "ServiceContract"
+msgstr "ServiceContract wa esteriyo?"
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "Nb CommandSets"
-msgstr "CommandSets"
+msgstr "Nb CommandSets"
 
 #. tpl/servicecontract_edit.html
 #. tpl/command_edit.html
@@ -717,9 +711,8 @@ msgid "Remove CommandSet"
 msgstr "CommandSet Wedarne"
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "Remove CommandSet from this Contract ?"
-msgstr "CommandSet Wedarne"
+msgstr "Wa CommandSet no muqawele ra Wedarneyo?"
 
 #. tpl/servicecontract_edit.html
 #. tpl/command_edit.html
@@ -730,18 +723,16 @@ msgid "Id"
 msgstr "kamiye"
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "delete Contract-Project association"
-msgstr "Komela Contract-CommandSet bıesternê"
+msgstr "Jewina muqaweley u proceyi bıesterne"
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "Remove Project"
-msgstr "Proceya Taxımi"
+msgstr "Procey wedarne"
 
 #. tpl/servicecontract_edit.html
 msgid "Remove Project from this Contract ?"
-msgstr ""
+msgstr "Nê muqaweley ra proce da wedariyo?"
 
 #. tpl/servicecontract_edit.html
 #. tpl/command_edit.html
@@ -935,9 +926,8 @@ msgid "ExtRef"
 msgstr "ExtRef"
 
 #. tpl/ajax/schedulerAffectationSummary.html
-#, fuzzy
 msgid "Assigned users"
-msgstr "Karber cı kerê"
+msgstr "Tayınbiyaye karberi"
 
 #. tpl/ajax/projectDetails.html
 #. tpl/project_activity_report.html
@@ -991,14 +981,12 @@ msgid "Tasks"
 msgstr "Wezifeyi"
 
 #. tpl/ajax/weekTaskDetails.html
-#, fuzzy
 msgid "update backlog"
-msgstr "Arêde"
+msgstr "Arêde rövanş ke"
 
 #. tpl/statistics.html
-#, fuzzy
 msgid "Start Year"
-msgstr "Tarixê destpêkerdışi"
+msgstr "Serra destpêkerdışi"
 
 #. tpl/statistics.html
 #. tpl/user_info.html
@@ -1022,9 +1010,8 @@ msgid "Efficiency - System Disponibility"
 msgstr ""
 
 #. tpl/statistics.html
-#, fuzzy
 msgid "Reopened Rate"
-msgstr "Wezifê kı reyna a biy"
+msgstr "Reyna abıyaye nısbet"
 
 #. tpl/statistics.html
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator_cfg.html
@@ -1161,23 +1148,20 @@ msgstr "Nb abiyayış"
 
 #. tpl/statistics.html
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
-#, fuzzy
 msgid "man-days"
-msgstr "roci"
+msgstr "rocêmerduman"
 
 #. tpl/statistics.html
 msgid "Available man-days on the period (excluding leave and external tasks)"
 msgstr ""
 
 #. tpl/statistics.html
-#, fuzzy
 msgid "Developers Workload"
-msgstr "Gıraniya Kari"
+msgstr "Gıraniya Kariya averşiyayışi"
 
 #. tpl/statistics.html
-#, fuzzy
 msgid "nb production days"
-msgstr "Rocê cıresnayışi"
+msgstr "Nb Rocê cıresnayışi"
 
 #. tpl/statistics.html
 #. tpl/productivity_report.html
@@ -1281,9 +1265,8 @@ msgid "Team arrival date"
 msgstr "Terixê resayışi ekibi"
 
 #. tpl/bvi.html
-#, fuzzy
 msgid "Average Backlog Variation"
-msgstr "Nısbê averacê rocek"
+msgstr "Nısbê averacê rocekan"
 
 #. tpl/bvi.html
 #. plugins/IssueBacklogVariationIndicator/IssueBacklogVariationIndicator.html
@@ -1328,9 +1311,8 @@ msgid "Detailed"
 msgstr "Detayın"
 
 #. tpl/team_monthly_activity_report.html
-#, fuzzy
 msgid "Tasks per User"
-msgstr "Serê herg procey wezifey"
+msgstr "Serê herg karberi wezifey"
 
 #. tpl/team_monthly_activity_report.html
 #. tpl/project_activity_report.html
@@ -1387,9 +1369,8 @@ msgid "Note: adding RTTs is not a good idea, users may decide to work anyways an
 msgstr ""
 
 #. tpl/edit_holidays.html
-#, fuzzy
 msgid "Holiday Description"
-msgstr "Şınasnayış"
+msgstr "Şınasnayışa tahtili"
 
 #. tpl/edit_holidays.html
 #. tpl/edit_jobs.html
@@ -1436,9 +1417,8 @@ msgstr "Weçine"
 #. tpl/set_holidays.html
 #. tpl/time_tracking.html
 #. tpl/modal/update_issueBacklog.html
-#, fuzzy
 msgid "Duration (in days)"
-msgstr "Dom"
+msgstr "Ramen (ze roce)"
 
 #. tpl/set_holidays.html
 msgid "Monday"
@@ -1526,9 +1506,8 @@ msgid "Days spent on the projects during the period (team members only)"
 msgstr ""
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "SideTasks: Project Management"
-msgstr "Timarkerê Procey"
+msgstr "SideTasks:Timarkerê Procey"
 
 #. tpl/productivity_report.html
 msgid "Days spent on project management tasks"
@@ -1689,9 +1668,8 @@ msgstr ""
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
 #. plugins/DriftAlertIndicator/DriftAlertIndicator.html
-#, fuzzy
 msgid "Tasks in drift"
-msgstr "Wezifey Mgr"
+msgstr "Wezifey kasbıyaye"
 
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
@@ -1704,9 +1682,8 @@ msgstr "drift"
 
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
-#, fuzzy
 msgid "Tasks in time"
-msgstr "Nameyê wezifa"
+msgstr "Wext de wezifa"
 
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
@@ -1715,9 +1692,8 @@ msgstr ""
 
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
-#, fuzzy
 msgid "Tasks ahead"
-msgstr "Nameyê wezifa"
+msgstr "Amaye wezifey"
 
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
@@ -1761,9 +1737,8 @@ msgstr "Gorey idarekaran ra texminê kaşkerdışi"
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
 #. plugins/DriftAlertIndicator/DriftAlertIndicator.html
-#, fuzzy
 msgid "Drift relatively to (EE + AddEE)"
-msgstr "Gorey idarekaran ra texminê kaşkerdışi"
+msgstr "Nisbi kasbiyaye  (EE + AddEE)"
 
 #. tpl/productivity_report.html
 msgid "Drift - Tasks (ExtRefOnly)"
@@ -1782,14 +1757,12 @@ msgid "Tasks without ExternalRef are excluded"
 msgstr ""
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "Reopened tasks are not included"
-msgstr "Wezifê kı reyna a biy"
+msgstr "Reyna abıyaye wezife tewr niyê"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "No Drift on External tasks."
-msgstr "Drift - Wezifey pêro"
+msgstr "Wezifanê teberi de xuz çino"
 
 #. tpl/productivity_report.html
 msgid "nb resolved"
@@ -1919,14 +1892,12 @@ msgid "No data available"
 msgstr "Data çıniya"
 
 #. tpl/project_activity_report.html
-#, fuzzy
 msgid "Time spent on Projects per users"
-msgstr "Na mewzu de zemano ke biyo xerc"
+msgstr "Serê herg karberi zemano ke biyo xerc"
 
 #. tpl/project_activity_report.html
-#, fuzzy
 msgid "With ExternalTasks Project"
-msgstr "Pê proceyanê SideTasks"
+msgstr "Pê proceyanê ExternalTasks"
 
 #. tpl/project_activity_report.html
 msgid "With SideTasks Project"
@@ -2061,14 +2032,12 @@ msgid "Job Name"
 msgstr "Nameyê kari"
 
 #. tpl/edit_jobs.html
-#, fuzzy
 msgid "delete Job"
-msgstr "Ena satır bıesternê"
+msgstr "Kari bıesternê"
 
 #. tpl/edit_jobs.html
-#, fuzzy
 msgid "Edit Job"
-msgstr "Bıvurne"
+msgstr "Kari Bıvurne"
 
 #. tpl/edit_jobs.html
 #. tpl/edit_team.html
@@ -2076,18 +2045,16 @@ msgid "Edit Job list"
 msgstr ""
 
 #. tpl/edit_jobs.html
-#, fuzzy
 msgid "Delete job"
-msgstr "Bestere"
+msgstr "Kari Bestere"
 
 #. tpl/edit_jobs.html
 msgid "Remove this link :"
 msgstr ""
 
 #. tpl/edit_jobs.html
-#, fuzzy
 msgid "Job Color"
-msgstr "Reng"
+msgstr "Reyna kari"
 
 #. tpl/edit_jobs.html
 msgid "Missing fields :"
@@ -2136,9 +2103,8 @@ msgid "Backup successfully done"
 msgstr ""
 
 #. tpl/uninstall.html
-#, fuzzy
 msgid "Uninstall aborted !"
-msgstr "Wedarnê"
+msgstr "Wedarnayış texelneya!"
 
 #. tpl/uninstall.html
 msgid "Remove CodevTT from Mantis menu:"
@@ -2186,9 +2152,8 @@ msgid "Please MANUALY delete the following projects:"
 msgstr ""
 
 #. tpl/command_edit.html
-#, fuzzy
 msgid "New command"
-msgstr "Ferman"
+msgstr "Komuto newe"
 
 #. tpl/command_edit.html
 #. tpl/modal/update_issueBacklog.html
@@ -2204,9 +2169,8 @@ msgstr ""
 
 #. tpl/command_edit.html
 #. tpl/command_info.html
-#, fuzzy
 msgid "Sold Charge"
-msgstr "Vaye"
+msgstr "Daye ucret"
 
 #. tpl/command_edit.html
 #. tpl/planning_report.html
@@ -2262,19 +2226,16 @@ msgid "Create the Command to add some tasks."
 msgstr ""
 
 #. tpl/command_edit.html
-#, fuzzy
 msgid "delete Command-Task association"
-msgstr "Komela Contract-CommandSet bıesternê"
+msgstr "Muqaweley Komuti-Wezifey bıesternê"
 
 #. tpl/command_edit.html
-#, fuzzy
 msgid "Remove Task"
-msgstr "Wedare"
+msgstr "Wezifey Wedare"
 
 #. tpl/command_edit.html
-#, fuzzy
 msgid "Remove Task from this Command ?"
-msgstr "Wa no komut bıesteriyo?"
+msgstr "Wa no wezife komuti ra bıesteriyo?"
 
 #. tpl/command_edit.html
 msgid "Create the Command before assigning it to a CommandSet."
@@ -2282,29 +2243,25 @@ msgstr ""
 
 #. tpl/command_edit.html
 #. tpl/servicecontract_info.html
-#, fuzzy
 msgid "No CommandSet found."
-msgstr "Kumanda nêvêniye."
+msgstr "Komut nêvêniye."
 
 #. tpl/command_edit.html
 #. tpl/commandset_edit.html
-#, fuzzy
 msgid "delete CommandSet-Command association"
-msgstr "Komela Contract-CommandSet bıesternê"
+msgstr "Eleqey Contract-CommandSet bıesternê"
 
 #. tpl/command_edit.html
 msgid "Remove this Command from the CommandSet ?"
 msgstr ""
 
 #. tpl/command_edit.html
-#, fuzzy
 msgid "Create the Command first."
-msgstr "Wa no komut bıesteriyo?"
+msgstr "Veri komuti vırazê"
 
 #. tpl/command_edit.html
-#, fuzzy
 msgid "CSV Import"
-msgstr "Zerre kerê"
+msgstr "CSV Zeredayış"
 
 #. tpl/command_edit.html
 msgid "Import templates"
@@ -2359,14 +2316,12 @@ msgid "save"
 msgstr "qeyd ke"
 
 #. tpl/command_edit.html
-#, fuzzy
 msgid "Delete from the Command ?"
-msgstr "Wa no komut bıesteriyo?"
+msgstr "Wa no komuti ra bıesteriyo?"
 
 #. tpl/command_edit.html
-#, fuzzy
 msgid "Edit Provision"
-msgstr "Provizyon dek"
+msgstr "Provizyon bıvurnê"
 
 #. tpl/command_edit.html
 #. tpl/edit_team.html
@@ -2387,9 +2342,8 @@ msgid "Not a number"
 msgstr "Nımrey noter"
 
 #. tpl/command_edit.html
-#, fuzzy
 msgid "task id"
-msgstr "wezifey"
+msgstr "Kamiya wezifey"
 
 #. tpl/command_edit.html
 msgid "Not a comma separated number list"
@@ -2414,14 +2368,12 @@ msgid "Task priority in Planning & Gantt"
 msgstr ""
 
 #. tpl/doc.html
-#, fuzzy
 msgid "Documentation is available at "
-msgstr "Dokumantasyon"
+msgstr "Dokuman \\ de mewcudo"
 
 #. tpl/doc.html
-#, fuzzy
 msgid "CodevTT Documentation"
-msgstr "Dokumantasyon"
+msgstr "CodevTT Dokumantasyon"
 
 #. tpl/doc.html
 msgid "You can help on translations: "
@@ -2443,34 +2395,28 @@ msgid "IMPORTANT: unassigned tasks will not be displayed !"
 msgstr ""
 
 #. tpl/commandset_edit.html
-#, fuzzy
 msgid "New command set"
-msgstr "---  CommandSet  Newey ---"
+msgstr "Eyarê CommandSet  Newey"
 
 #. tpl/commandset_edit.html
-#, fuzzy
 msgid "Command set name"
-msgstr "Namey komuti"
+msgstr "Namey eyarê komuti"
 
 #. tpl/commandset_edit.html
-#, fuzzy
 msgid "Delete CommandSet"
 msgstr "Komuti bıesternê"
 
 #. tpl/commandset_edit.html
-#, fuzzy
 msgid "Delete this CommandSet ?"
 msgstr "Wa no komut bıesteriyo?"
 
 #. tpl/commandset_edit.html
-#, fuzzy
 msgid "Nb Commands"
-msgstr "Emıri"
+msgstr "Nb Komuti"
 
 #. tpl/commandset_edit.html
-#, fuzzy
 msgid "Service Contracts"
-msgstr "ServiceContract"
+msgstr "Muqaweley serwisi"
 
 #. tpl/commandset_edit.html
 #. tpl/servicecontract_info.html
