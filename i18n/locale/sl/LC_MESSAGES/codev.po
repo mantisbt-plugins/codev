@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-10-24 12:01:22+0000\n"
+"PO-Revision-Date: 2025-02-17 12:01:12+0000\n"
 "Language: sl\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -4146,7 +4146,7 @@ msgstr ""
 #. plugins/AdminTools/AdminTools_cfg.html
 #: plugins/AdminTools/AdminTools.class.php:65
 msgid "Administration tools"
-msgstr ""
+msgstr "Administratorska orodja"
 
 #. plugins/AdminTools/AdminTools.html
 msgid "Actions executed !"
@@ -6340,7 +6340,7 @@ msgstr ""
 
 #: install/install_step3.php:864
 msgid "Other external activity"
-msgstr ""
+msgstr "Druga zunanja dejavnost"
 
 #: install/install_step3.php:865
 msgid "Leave"
@@ -6516,7 +6516,7 @@ msgstr "Kliknite, da dodate opombo"
 
 #: timetracking/holidays_report.php:66
 msgid "External Tasks"
-msgstr ""
+msgstr "Zunanja opravila"
 
 #: timetracking/holidays_report.php:71
 msgid "Sidetasks Inactivity"
