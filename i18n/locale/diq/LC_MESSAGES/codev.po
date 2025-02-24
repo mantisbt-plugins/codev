@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-02-10 12:00:55+0000\n"
+"PO-Revision-Date: 2025-02-24 12:01:03+0000\n"
 "Language: diq\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2433,19 +2433,16 @@ msgid "Commands"
 msgstr "Emıri"
 
 #. tpl/commandset_edit.html
-#, fuzzy
 msgid "--- New Command ---"
-msgstr "---  CommandSet  Newey ---"
+msgstr "---  Komutê  Newey ---"
 
 #. tpl/commandset_edit.html
-#, fuzzy
 msgid "Remove Command"
-msgstr "CommandSet Wedarne"
+msgstr "Komuti Wedarne"
 
 #. tpl/commandset_edit.html
-#, fuzzy
 msgid "Remove Command from this CommandSet ?"
-msgstr "CommandSet Wedarne"
+msgstr "Wa no wezife komuti ra wedariyo?"
 
 #. tpl/commandset_edit.html
 #. tpl/servicecontract_info.html
@@ -2473,9 +2470,8 @@ msgid "Query FAILED"
 msgstr ""
 
 #. tpl/time_tracking.html
-#, fuzzy
 msgid "Add timetrack"
-msgstr "Timetracks"
+msgstr "Çetele dekerê"
 
 #. tpl/time_tracking.html
 #. tpl/modal/update_issueBacklog.html
@@ -2497,9 +2493,8 @@ msgid "Hide tasks with forbiden status (closed, ...)"
 msgstr ""
 
 #. tpl/time_tracking.html
-#, fuzzy
 msgid "Week timetracks"
-msgstr "Timetracks"
+msgstr "Çeteler heftey"
 
 #. tpl/time_tracking.html
 #. tpl/team_activity_report.html
@@ -2508,9 +2503,8 @@ msgstr "Ext.ID"
 
 #. tpl/time_tracking.html
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
-#, fuzzy
 msgid "Timetrack note"
-msgstr "Timetracks"
+msgstr "Notê çeteley"
 
 #. tpl/time_tracking.html
 #. tpl/edit_team.html
@@ -2519,25 +2513,21 @@ msgstr "Ena satır bıesternê"
 
 #. tpl/time_tracking.html
 #. plugins/TimetrackList/TimetrackList_ajax.html
-#, fuzzy
 msgid "Edit timetrack"
-msgstr "Timetracks"
+msgstr "Çeteley bıvurne"
 
 #. tpl/time_tracking.html
-#, fuzzy
 msgid "Future timetracks"
-msgstr "Timetracks"
+msgstr "Çeteley ameyeri"
 
 #. tpl/time_tracking.html
-#, fuzzy
 msgid "Delete track"
-msgstr "Esternayış Taxım"
+msgstr "Çeteley bıestern"
 
 #. tpl/missing_timetracks.html
 #. tpl/menu/global_menu.html
-#, fuzzy
 msgid "Missing Timetracks"
-msgstr "Timetracks"
+msgstr "Kemeyaye çeteley"
 
 #. tpl/missing_timetracks.html
 msgid "Missing timetracks per user"
@@ -2562,14 +2552,12 @@ msgid "workdays"
 msgstr "rocê guriyayışi"
 
 #. tpl/missing_timetracks.html
-#, fuzzy
 msgid "Missing timetracks"
-msgstr "Timetracks"
+msgstr "Kemeyaye çeteley"
 
 #. tpl/missing_timetracks.html
-#, fuzzy
 msgid "Missing days"
-msgstr "nb roci"
+msgstr "Kemeyaye roci"
 
 #. tpl/missing_timetracks.html
 #. plugins/CustomUserData/CustomUserData.html
@@ -2630,9 +2618,8 @@ msgid "Add an indicator to the dashboard"
 msgstr ""
 
 #. tpl/tools/dashboard.html
-#, fuzzy
 msgid "Add Indicator"
-msgstr "İndiketor"
+msgstr "Asenge dekerê"
 
 #. tpl/tools/dashboard.html
 #. tpl/servicecontract_info.html
@@ -2720,18 +2707,16 @@ msgid "ADR"
 msgstr "ADR"
 
 #. tpl/servicecontract_info.html
-#, fuzzy
 msgid "No provision found."
-msgstr "Kumanda nêvêniye."
+msgstr "Provisyon nêvineya"
 
 #. tpl/modal/change_managedUser.html
 msgid "Select User"
 msgstr "Karberi weçine"
 
 #. tpl/modal/change_managedUser.html
-#, fuzzy
 msgid "Select team user"
-msgstr "Karberi weçine"
+msgstr "Taxima Karberi weçine"
 
 #. tpl/modal/change_managedUser.html
 msgid "Change user"
@@ -2754,18 +2739,16 @@ msgid "Delete timesheet note for task "
 msgstr ""
 
 #. tpl/modal/update_issueBacklog.html
-#, fuzzy
 msgid "Current backlog"
-msgstr "Dewiz"
+msgstr "Raverde arebık"
 
 #. tpl/modal/update_issueBacklog.html
 msgid "Fixed in version"
 msgstr ""
 
 #. tpl/modal/update_issueBacklog.html
-#, fuzzy
 msgid "Update Backlog"
-msgstr "Arêde"
+msgstr "Roceka gurwey bırocne"
 
 #. tpl/modal/update_issueBacklog.html
 msgid "Task resolved, backlog must be '0'"
@@ -2805,9 +2788,8 @@ msgid "and"
 msgstr "û"
 
 #. tpl/modal/login.html
-#, fuzzy
 msgid "CodevTT Identification"
-msgstr "CodevTT hacetê idareyi"
+msgstr "CodevTT şınasteyiye"
 
 #. tpl/modal/login.html
 #. tpl/edit_team.html
@@ -2828,14 +2810,12 @@ msgid "Password"
 msgstr "Parola"
 
 #. tpl/modal/login.html
-#, fuzzy
 msgid "Lost your password?"
-msgstr "[CodevTT] Parolay Şıma"
+msgstr "Parola Şıma kerd vıni?"
 
 #. tpl/modal/login.html
-#, fuzzy
 msgid "Redirection"
-msgstr "Elaqe"
+msgstr "Hetenayışi"
 
 #. tpl/modal/fairplay.html
 msgid "Fair play !"
@@ -2851,9 +2831,8 @@ msgstr ""
 
 #. tpl/team_activity_report.html
 #. tpl/menu/global_menu.html
-#, fuzzy
 msgid "Weekly Activity"
-msgstr "Aktivitey Menge"
+msgstr "Aktivitey hewteki"
 
 #. tpl/team_activity_report.html
 #, fuzzy
@@ -2865,7 +2844,6 @@ msgid "sum(Backlog) of assigned tasks"
 msgstr ""
 
 #. tpl/team_activity_report.html
-#, fuzzy
 msgid "Workload"
 msgstr "sığletiya kari"
 
@@ -2878,19 +2856,16 @@ msgid "All Tasks"
 msgstr "Wezifeyi Pêro"
 
 #. tpl/team_activity_report.html
-#, fuzzy
 msgid "Timetrack notes"
-msgstr "Timetracks"
+msgstr "Timetracks noti"
 
 #. tpl/team_activity_report.html
-#, fuzzy
 msgid "Timetrack Note"
-msgstr "Timetracks"
+msgstr "Timetracks Note"
 
 #. tpl/team_activity_report.html
-#, fuzzy
 msgid "Read by"
-msgstr "Rapori dayen"
+msgstr "Waneyoğ"
 
 #. tpl/team_activity_report.html
 #. plugins/AdminTools/AdminTools.html
@@ -2906,9 +2881,8 @@ msgid "Mark as read"
 msgstr "Wanaye nışan ke"
 
 #. tpl/team_activity_report.html
-#, fuzzy
 msgid "Delete note"
-msgstr "Esternayış Taxım"
+msgstr "Nota esternayışi"
 
 #. tpl/planning_report.html
 msgid "zoom in"
@@ -2929,14 +2903,12 @@ msgid "Options"
 msgstr "Weçinıteki"
 
 #. tpl/planning_report.html
-#, fuzzy
 msgid "Planning Options"
-msgstr "Plannayış"
+msgstr "Weçinê plannayış"
 
 #. tpl/planning_report.html
-#, fuzzy
 msgid "Unassigned tasks"
-msgstr "amarê karan"
+msgstr "Nêerziyayey kari"
 
 #. tpl/planning_report.html
 #, fuzzy
