@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-02-24 12:01:03+0000\n"
+"PO-Revision-Date: 2025-02-27 12:00:55+0000\n"
 "Language: diq\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2835,9 +2835,8 @@ msgid "Weekly Activity"
 msgstr "Aktivitey hewteki"
 
 #. tpl/team_activity_report.html
-#, fuzzy
 msgid "Timesheets"
-msgstr "Timetracks"
+msgstr "Demsazi"
 
 #. tpl/team_activity_report.html
 msgid "sum(Backlog) of assigned tasks"
@@ -2911,9 +2910,8 @@ msgid "Unassigned tasks"
 msgstr "Nêerziyayey kari"
 
 #. tpl/planning_report.html
-#, fuzzy
 msgid "Team's backlog"
-msgstr "Arêde"
+msgstr "Arêdê taxım"
 
 #. tpl/planning_report.html
 msgid "tasks"
@@ -2924,9 +2922,8 @@ msgid "workload"
 msgstr "sığletiya kari"
 
 #. tpl/planning_report.html
-#, fuzzy
 msgid "nbDaysToDeadLine"
-msgstr "Mıdet"
+msgstr "nbDaysToDeadLine"
 
 #. tpl/planning_report.html
 msgid "day"
@@ -2945,19 +2942,16 @@ msgid "Preferences"
 msgstr "Tercihi"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Timetrack Durations"
-msgstr "Timetracks"
+msgstr "Rameyışê çeteley"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Costs management"
-msgstr "Timarkerê Procey"
+msgstr "Karakterê idareyi"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "OnDuty tasks"
-msgstr "amarê karan"
+msgstr "Kerê OnDuty"
 
 #. tpl/edit_team.html
 #. tpl/create_team.html
@@ -2981,42 +2975,36 @@ msgid "Note: A <em>Team Admin</em> must also be declared as <em>TeamMember</em> 
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Team Administrators"
-msgstr "Administrator Taxım"
+msgstr "Administratorê Taxım"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "add as team administrator"
-msgstr "Administrator Taxım"
+msgstr "Administrator Taxımi dekerê"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Add a team administrator"
-msgstr "Administrator Taxım"
+msgstr "Idarekarê Taxım dekerê"
 
 #. tpl/edit_team.html
 msgid "Remove administrator"
 msgstr "İdarekari wedarne"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Remove the following Team Administrator ?"
-msgstr "İdarekari wedarne"
+msgstr "İdarekari cereni dwa wedarneyê?"
 
 #. tpl/edit_team.html
 msgid "Delete team"
 msgstr "Esternayış Taxım"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Active team members"
-msgstr "Ezay ekibi rocane kerê"
+msgstr "Aktiv ezay ekibi"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Add team member"
-msgstr "Ezay ekibi rocane kerê"
+msgstr "Ezay ekibi dekerê"
 
 #. tpl/edit_team.html
 msgid "Arrival-Date"
@@ -3041,9 +3029,8 @@ msgid "Import user groups from CSV"
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "import groups"
-msgstr "Grubên karberi"
+msgstr "Gruba azerenê"
 
 #. tpl/edit_team.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
@@ -3051,9 +3038,8 @@ msgid "User groups"
 msgstr "Grubên karberi"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "CSV file"
-msgstr "Parzûnan eyar ke"
+msgstr "Dosyaya CSV"
 
 #. tpl/edit_team.html
 msgid "upload"
@@ -3062,9 +3048,8 @@ msgstr "bar ke"
 #. tpl/edit_team.html
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 #. plugins/ImportUsers/ImportUsers.html
-#, fuzzy
 msgid "Import template"
-msgstr "Zerredayış / Teberdayış"
+msgstr "Şabloni azerrenê"
 
 #. tpl/edit_team.html
 msgid "Info"
@@ -3114,9 +3099,8 @@ msgid "Not a team member, but assigned to a group"
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Number of team members"
-msgstr "Ezay ekibi rocane kerê"
+msgstr "Amarê ezay ekibi"
 
 #. tpl/edit_team.html
 msgid "Arrival date in the team"
@@ -3179,9 +3163,8 @@ msgid "Create project"
 msgstr "Proce vırazê"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Average Daily Cost"
-msgstr "Nısbê averacê rocek"
+msgstr "Maliyetê averacê rocek"
 
 #. tpl/edit_team.html
 msgid "The ADC is the default UDC for team members"
@@ -3192,14 +3175,12 @@ msgid "Team Currency"
 msgstr "Perey taxım"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Team Average Daily Cost"
-msgstr "Nısbê averacê rocek"
+msgstr "Maliyetê takıma rocek"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Default currency for the team."
-msgstr "Kari"
+msgstr "Serva ekibi hesabyaye pere"
 
 #. tpl/edit_team.html
 msgid "All indicators will use this currency and all values defined in other currencies will be converted."
@@ -3214,18 +3195,16 @@ msgid "Coef"
 msgstr "Koef"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "referal currency"
-msgstr "Perey taxım"
+msgstr "Wesıbyaye pere"
 
 #. tpl/edit_team.html
 msgid "TODO: describe how and where it is used in CodevTT"
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "User Daily Costs"
-msgstr "İstatistikê karberi"
+msgstr "Maliyetê karberiyê roceki"
 
 #. tpl/edit_team.html
 msgid "The UDC is the cost of a user for a single day, it overrides the ADC"
@@ -4405,9 +4384,8 @@ msgstr ""
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
-#, fuzzy
 msgid "to"
-msgstr "Otomatik"
+msgstr "Kêrê"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
@@ -4420,9 +4398,8 @@ msgid "Number of days to add on the period"
 msgstr ""
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
-#, fuzzy
 msgid "Nb days"
-msgstr "nb roci"
+msgstr "Nb roci"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 #, fuzzy
@@ -4443,14 +4420,12 @@ msgid "It is not in the philosophy of CodevTT to allow users to enter several ti
 msgstr ""
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
-#, fuzzy
 msgid "Error !"
-msgstr "Xeta"
+msgstr "Xeta !"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
-#, fuzzy
 msgid "days available on period"
-msgstr "Gıraniya Kari"
+msgstr "Dewr de hewl roci"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks_cfg.html
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.class.php:74
@@ -4463,9 +4438,8 @@ msgstr ""
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
-#, fuzzy
 msgid "Progress History Indicator"
-msgstr "İndikatorê produktivite"
+msgstr "Asengehê averberdışê verorêni"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
@@ -4489,15 +4463,13 @@ msgstr ""
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
-#, fuzzy
 msgid "Real progress"
-msgstr "Averşiyayış"
+msgstr "Averşiyayışo raştikên"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
-#, fuzzy
 msgid "Displays the backlog"
-msgstr "Karê asayeyi"
+msgstr "Karê asayeyi mocneno"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
@@ -4510,14 +4482,12 @@ msgid "Historical Progression Chart"
 msgstr ""
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
-#, fuzzy
 msgid "Mngt Elapsed"
-msgstr "Vêren"
+msgstr "Vêren mngt"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
-#, fuzzy
 msgid "Mngt Provisions"
-msgstr "Provizyon"
+msgstr "Provizyonê mngt"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Sorry, you need to be manager to use this plugin"
