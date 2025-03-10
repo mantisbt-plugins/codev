@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2024-11-14 12:01:13+0000\n"
+"PO-Revision-Date: 2025-03-10 12:00:40+0000\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -479,7 +479,7 @@ msgstr "요약"
 #. tpl/check.html
 #. plugins/IssueConsistencyCheck/IssueConsistencyCheck.html
 msgid "Level"
-msgstr "단계"
+msgstr "수준"
 
 #. tpl/check.html
 #. plugins/IssueConsistencyCheck/IssueConsistencyCheck.html
@@ -529,7 +529,7 @@ msgstr "이름"
 #. tpl/commandset_info.html
 #. tpl/command_info.html
 msgid "Reference"
-msgstr "참조"
+msgstr "참고"
 
 #. tpl/servicecontract_edit.html
 #. tpl/command_edit.html
@@ -602,7 +602,7 @@ msgstr "시작날짜"
 #. tpl/servicecontract_info.html
 #. tpl/command_info.html
 msgid "End date"
-msgstr "끝 날짜"
+msgstr "종료일"
 
 #. tpl/servicecontract_edit.html
 msgid "EndDate"

@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-02-27 12:00:55+0000\n"
+"PO-Revision-Date: 2025-03-10 12:00:38+0000\n"
 "Language: diq\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -3211,33 +3211,28 @@ msgid "The UDC is the cost of a user for a single day, it overrides the ADC"
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Add UserDailyCost"
-msgstr "Karber dek"
+msgstr "UserDailyCost dekerê"
 
 #. tpl/edit_team.html
 msgid "Add user daily cost"
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Team creation date"
-msgstr "Tarixê vıraştışi"
+msgstr "Tarixê vıraştışi taxım"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "User arrival date"
 msgstr "Terixê resayışi ekibi"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "User Daily Cost"
-msgstr "Nısbê averacê rocek"
+msgstr "Maliyetê karberiyê roceki"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Timetracking settings"
-msgstr "Timetracks"
+msgstr "Sazê Timetracking"
 
 #. tpl/edit_team.html
 msgid "Timetracking disabled if task status in"
@@ -3336,9 +3331,8 @@ msgid "Delete duration"
 msgstr "Demi bıesternê"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Deleted the following duration ?"
-msgstr "Demi bıesternê"
+msgstr "Demi cêri esterniya?"
 
 #. tpl/edit_team.html
 msgid "Team Member"
@@ -3349,19 +3343,16 @@ msgid "Source Team"
 msgstr "Taxımê çımeyi"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Inactivity task"
-msgstr "Fealiyet"
+msgstr "Wezifey bêfealiyeti"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Remove user from this team ?"
-msgstr "Kari"
+msgstr "Karber na taxım ra wawedariyo?"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Remove this project from the team ?"
-msgstr "Kari"
+msgstr "No ptoce wa na taxım ra wedariyo?"
 
 #. tpl/edit_team.html
 msgid "Remove IssueTooltip customisation for project"
@@ -3392,14 +3383,12 @@ msgid "Sorry, you need to be Team Leader to access this page."
 msgstr ""
 
 #. tpl/commandset_info.html
-#, fuzzy
 msgid "--- Create New CommandSet ---"
-msgstr "---  CommandSet  Newey ---"
+msgstr "---  CommandSet  Newey Dekerê ---"
 
 #. tpl/commandset_info.html
-#, fuzzy
 msgid "Service Contract"
-msgstr "ServiceContract"
+msgstr "Muqaweley Xızmeti"
 
 #. tpl/commandset_info.html
 #. tpl/command_info.html
@@ -3481,9 +3470,8 @@ msgid "Unassigned tasks will not be displayed"
 msgstr ""
 
 #. tpl/forecasting_report.html
-#, fuzzy
 msgid "deviation"
-msgstr "Abırriyayışê ğeyreti"
+msgstr "Abırriyayış"
 
 #. tpl/forecasting_report.html
 #. plugins/ManagementCosts/ManagementCosts.html
@@ -3498,9 +3486,8 @@ msgid "Task list"
 msgstr "Lista wezifeyan"
 
 #. tpl/create_team.html
-#, fuzzy
 msgid "Team Info"
-msgstr "Nameyê taxımi"
+msgstr "Melumatê taxımi"
 
 #. tpl/create_team.html
 msgid "Team Name"
@@ -3511,19 +3498,16 @@ msgid "Team Administrator"
 msgstr "Administrator Taxım"
 
 #. tpl/create_team.html
-#, fuzzy
 msgid "SideTasks Project"
 msgstr "SideTasks Proceyi"
 
 #. tpl/create_team.html
-#, fuzzy
 msgid "Add common ExternalTasks Project"
-msgstr "SideTasks Proceyi"
+msgstr "Piya ExternalTasks Procey dekerê"
 
 #. tpl/create_team.html
-#, fuzzy
 msgid "Create specific SideTask Project"
-msgstr "SideTasksProject vırazê"
+msgstr "Xisusi procey SideTasks vırazê"
 
 #. tpl/create_team.html
 msgid "WARNING: Disabling SideTasks project creation is generaly NOT a good idea,so don't do it unless you know exactly what you are doing."
@@ -3588,14 +3572,12 @@ msgid "These are sample sideTasks, you can create more with Mantis"
 msgstr ""
 
 #. tpl/create_team.html
-#, fuzzy
 msgid "Project management"
 msgstr "Timarkerê Procey"
 
 #. tpl/create_team.html
-#, fuzzy
 msgid "Team meeting"
-msgstr "Nameyê taxımi"
+msgstr "Areya taxımi"
 
 #. tpl/create_team.html
 msgid "Network is down"
@@ -3632,9 +3614,8 @@ msgid "Planning"
 msgstr "Plannayış"
 
 #. tpl/scheduler.html
-#, fuzzy
 msgid "Assignment"
-msgstr "Karber eştış"
+msgstr "Eştış"
 
 #. tpl/scheduler.html
 msgid "RAF"
@@ -3649,9 +3630,8 @@ msgid "Add user"
 msgstr "Karber cı kerê"
 
 #. tpl/scheduler.html
-#, fuzzy
 msgid "Time on task"
-msgstr "Timetracks"
+msgstr "Wezife de dem"
 
 #. tpl/scheduler.html
 msgid "Auto"
@@ -3675,28 +3655,24 @@ msgid "Display ExtRef instead of mantis_id"
 msgstr ""
 
 #. tpl/scheduler.html
-#, fuzzy
 msgid "Initial date"
-msgstr "Terixê resayışi"
+msgstr "Terixê basnayışi"
 
 #. tpl/scheduler.html
-#, fuzzy
 msgid "Number of days to display"
-msgstr "Amarê roca faturayi"
+msgstr "Amarê roca mucnayışi"
 
 #. tpl/scheduler.html
-#, fuzzy
 msgid "Number of days to compute"
-msgstr "Amarê roca faturayi"
+msgstr "Amarê roca hesaba kerdışi"
 
 #. tpl/scheduler.html
 msgid "Task warning threshold (n days before dealine)"
 msgstr ""
 
 #. tpl/scheduler.html
-#, fuzzy
 msgid "Save options"
-msgstr "Karê asayeyi"
+msgstr "Karı qeyd kerê"
 
 #. tpl/issue_info.html
 msgid "Hide tasks from observed teams"
@@ -4585,18 +4561,16 @@ msgid "sidetasks"
 msgstr "Teslağê kışte"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
-#, fuzzy
 msgid "Groups"
-msgstr "Grube"
+msgstr "Grubi"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
 msgid "Display the elapsed time for each user group"
 msgstr ""
 
 #. plugins/DriftAlertIndicator/DriftAlertIndicator_cfg.html
-#, fuzzy
 msgid "Tasks Drift alert"
-msgstr "Parzûnê teslağan"
+msgstr "Drift iqaza wezifan"
 
 #. plugins/DriftAlertIndicator/DriftAlertIndicator_cfg.html
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
@@ -5336,9 +5310,8 @@ msgstr ""
 
 #. plugins/ImportUsers/ImportUsers.html
 #. plugins/ImportUsers/ImportUsers_ajax.html
-#, fuzzy
 msgid "CodevTT role"
-msgstr "CodevTT_Type"
+msgstr "CodevTT role"
 
 #. plugins/ImportUsers/ImportUsers.html
 msgid "User already belong to this team"
@@ -5393,9 +5366,8 @@ msgid "Import Done ! An email with login and password has been sent to each user
 msgstr ""
 
 #. plugins/IssueConsistencyCheck/IssueConsistencyCheck.html
-#, fuzzy
 msgid "No errors"
-msgstr "Xeteyi"
+msgstr "Xeta çıno"
 
 #. plugins/IssueConsistencyCheck/IssueConsistencyCheck.html
 msgid "Consistency check"
@@ -5438,7 +5410,6 @@ msgid "Expire"
 msgstr ""
 
 #. plugins/BlogPlugin/BlogPlugin.html
-#, fuzzy
 msgid "Exp. date"
 msgstr "Tarixê qediyayışi"
 
@@ -5447,37 +5418,32 @@ msgid "Expiration Date (optional)"
 msgstr ""
 
 #. plugins/BlogPlugin/BlogPlugin.html
-#, fuzzy
 msgid "Everybody (all teams)"
-msgstr "Herkes"
+msgstr "Herkes (taxımi pero)"
 
 #. plugins/BlogPlugin/BlogPlugin.html
-#, fuzzy
 msgid "Message wall options"
-msgstr "Dêsê mesaci"
+msgstr "Wecenegê Dêsê mesaci"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Recipient"
 msgstr ""
 
 #. plugins/BlogPlugin/BlogPlugin.html
-#, fuzzy
 msgid "Current team"
-msgstr "Esternayış Taxım"
+msgstr "Mewcud Taxım"
 
 #. plugins/BlogPlugin/BlogPlugin.html
-#, fuzzy
 msgid "All my teams"
-msgstr "Etiketi pêro"
+msgstr "Taxımê mı pêro"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Assigned to me"
 msgstr ""
 
 #. plugins/BlogPlugin/BlogPlugin.html
-#, fuzzy
 msgid "Posted by me"
-msgstr "Rapori dayen"
+msgstr "Rışteyê mı ra"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
@@ -5485,9 +5451,8 @@ msgid "All"
 msgstr "Pêro"
 
 #. plugins/BlogPlugin/BlogPlugin.html
-#, fuzzy
 msgid "Hidden messages"
-msgstr "Mesaci"
+msgstr "Nimnaye Mesaci"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 #: plugins/BlogPlugin/BlogPost.class.php:430
@@ -5495,9 +5460,8 @@ msgid "Hide"
 msgstr "Bınımne"
 
 #. plugins/BlogPlugin/BlogPlugin.html
-#, fuzzy
 msgid "Message wall help"
-msgstr "Dêsê mesaci"
+msgstr "Phestiya Dêsê mesaci"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Buttons"
@@ -5512,9 +5476,8 @@ msgid "Post a new message"
 msgstr ""
 
 #. plugins/BlogPlugin/BlogPlugin.html
-#, fuzzy
 msgid "Set message wall options"
-msgstr "Dêsê mesaci"
+msgstr "Wecenegê eyarê Dêsê mesaci"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Mark as read. The message can then be hidden"
@@ -5533,9 +5496,8 @@ msgid "Unhide a hidden message"
 msgstr ""
 
 #. plugins/BlogPlugin/BlogPlugin.html
-#, fuzzy
 msgid "Delete a message."
-msgstr "Esternayış Taxım"
+msgstr "Yo peyam esternayış"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "This will permanently delete this post, are you sure ?!"
@@ -5575,9 +5537,8 @@ msgid "Submission date"
 msgstr ""
 
 #. plugins/BlogPlugin/BlogPlugin_ajax.html
-#, fuzzy
 msgid "Expiration date"
-msgstr "Tarixê vıraştışi"
+msgstr "Wextê qediyayisi"
 
 #. plugins/BlogPlugin/BlogPlugin_ajax.html
 msgid "Author"
@@ -5588,15 +5549,13 @@ msgid "Dest"
 msgstr "Dest"
 
 #. plugins/BurnDownChart/BurnDownChart.html
-#, fuzzy
 msgid "Backlog history"
-msgstr "Arêde"
+msgstr "Arêbiyaye verorê kari"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
-#, fuzzy
 msgid "Task type filter"
-msgstr "Parzûnê teslağan:"
+msgstr "Tewrê Parzûnê teslaği"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 msgid "Check the submission date of the tasks"
@@ -5624,18 +5583,16 @@ msgid "Nb new"
 msgstr ""
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_ajax.html
-#, fuzzy
 msgid "Nb open"
-msgstr "Nb abiyayış"
+msgstr "Nb akerde"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
 msgid "Open issues seniority"
 msgstr ""
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
-#, fuzzy
 msgid "Display task list"
-msgstr "Karê asayeyi"
+msgstr "Lista kerê asayeyi"
 
 #. plugins/TimePerStatusIndicator/TimePerStatusIndicator_cfg.html
 #. plugins/TimePerStatusIndicator/TimePerStatusIndicator.html
@@ -5665,23 +5622,20 @@ msgid "Average"
 msgstr ""
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
-#, fuzzy
 msgid "(in days)"
-msgstr "nb roci"
+msgstr "(roc de)"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
-#, fuzzy
 msgid "Median"
-msgstr "Miyanên"
+msgstr "Warte"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
 msgid "Mode"
 msgstr ""
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
-#, fuzzy
 msgid "Nb timetracks"
-msgstr "Timetracks"
+msgstr "NB Timetracks"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
 msgid "Missing"
@@ -5693,19 +5647,16 @@ msgid "Effort estimation reliability rate"
 msgstr ""
 
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.html
-#, fuzzy
 msgid "EffortEstim ReliabilityRate"
-msgstr "EffortEstim Nısbiya İtimadi"
+msgstr "EffortEstim ReliabilityRate"
 
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.html
-#, fuzzy
 msgid "MgrEffortEstim ReliabilityRate"
-msgstr "MgrEffortEstim Nısbiya İtimadi"
+msgstr "MgrEffortEstim ReliabilityRate"
 
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2_cfg.html
-#, fuzzy
 msgid "EffortEstim reliability history"
-msgstr "EffortEstim İtimadiyeyi"
+msgstr "EffortEstim veroriya İtimadi"
 
 #. plugins/TasksPivotTable/TasksPivotTable_ajax.html
 #: scheduler/SchedulerEvent.class.php:163 gantt/gantt_ajax.php:257
@@ -5728,9 +5679,8 @@ msgid "Reset selected dashboards"
 msgstr ""
 
 #. plugins/ResetDashboard/ResetDashboard_ajax.html
-#, fuzzy
 msgid "Domain"
-msgstr "Domain(i)"
+msgstr "Domain"
 
 #. plugins/ResetDashboard/ResetDashboard_ajax.html
 msgid "Item"
@@ -5745,9 +5695,8 @@ msgid "Global cost estimation:"
 msgstr ""
 
 #. plugins/CostsIndicator/CostsIndicator.html
-#, fuzzy
 msgid "Costs Mgr"
-msgstr "Wezifey Mgr"
+msgstr "Maliyet MGR"
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "Sum the costs of each timetrack."
