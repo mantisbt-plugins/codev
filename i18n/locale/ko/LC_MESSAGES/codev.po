@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-03-13 12:01:08+0000\n"
+"PO-Revision-Date: 2025-03-24 12:00:58+0000\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1643,9 +1643,8 @@ msgid "DeadLine"
 msgstr "기한"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "Tasks delivered on time"
-msgstr "시간에서 해결된 작업"
+msgstr "시간 내에 전달된 임무"
 
 #. tpl/productivity_report.html
 msgid "Task list for EffortEstim"
@@ -1854,7 +1853,7 @@ msgstr "보고자"
 #: classes/wbsElement.class.php:688 management/command_info_ajax.php:310
 #: gantt/gantt_ajax.php:195
 msgid "Assigned to"
-msgstr ""
+msgstr "할당자"
 
 #. tpl/export_odt.html
 msgid "Download"
@@ -2072,9 +2071,8 @@ msgid "Edit Job list"
 msgstr "휴일 편집"
 
 #. tpl/edit_jobs.html
-#, fuzzy
 msgid "Delete job"
-msgstr "일 삭제"
+msgstr "작업 삭제"
 
 #. tpl/edit_jobs.html
 msgid "Remove this link :"
@@ -2527,7 +2525,7 @@ msgstr "타임트랙 추가"
 #. plugins/TimetrackList/TimetrackList.html
 #. plugins/TimetrackDetailsIndicator/TimetrackDetailsIndicator_ajax.html
 msgid "Note"
-msgstr ""
+msgstr "참고"
 
 #. tpl/time_tracking.html
 msgid "Reduce the tasks selection by setting some filters"
@@ -2714,9 +2712,8 @@ msgid "--- Create New ServiceContract ---"
 msgstr "--- 새 명령 만들기 ---"
 
 #. tpl/servicecontract_info.html
-#, fuzzy
 msgid "Charges"
-msgstr "대상"
+msgstr "수수료"
 
 #. tpl/servicecontract_info.html
 #. tpl/create_team.html
@@ -2937,9 +2934,8 @@ msgstr "보고자"
 #. plugins/AdminTools/AdminTools.html
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
-#, fuzzy
 msgid "Action"
-msgstr "옵션"
+msgstr "동작"
 
 #. tpl/team_activity_report.html
 #. plugins/BlogPlugin/BlogPlugin.html
@@ -3038,9 +3034,8 @@ msgid "Team name"
 msgstr "팀 이름"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Creation Date"
-msgstr "유효 기한"
+msgstr "만든 날짜"
 
 #. tpl/edit_team.html
 msgid "Enabled"
@@ -3274,9 +3269,8 @@ msgid "All indicators will use this currency and all values defined in other cur
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Currency"
-msgstr "현재 백로그"
+msgstr "통화"
 
 #. tpl/edit_team.html
 msgid "Coef"
@@ -3423,9 +3417,8 @@ msgid "add a custom duration"
 msgstr "팀 관리자로 추가"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Delete duration"
-msgstr "트랙 삭제"
+msgstr "기간 삭제"
 
 #. tpl/edit_team.html
 msgid "Deleted the following duration ?"
@@ -3724,9 +3717,8 @@ msgid "Planning"
 msgstr "계획 중"
 
 #. tpl/scheduler.html
-#, fuzzy
 msgid "Assignment"
-msgstr "할당됨"
+msgstr "과제"
 
 #. tpl/scheduler.html
 msgid "RAF"
@@ -4003,9 +3995,8 @@ msgid "Reload page to update charges & indicators"
 msgstr ""
 
 #. tpl/command_info.html
-#, fuzzy
 msgid "Format"
-msgstr "공식"
+msgstr "형식"
 
 #. tpl/holidays_report.html
 msgid "Year"
@@ -4041,7 +4032,7 @@ msgstr ""
 
 #. tpl/menu/global_menu.html
 msgid "Leaves"
-msgstr ""
+msgstr "떠나기"
 
 #. tpl/menu/global_menu.html
 #, fuzzy
@@ -4118,7 +4109,7 @@ msgstr "블로그"
 #. tpl/menu/global_menu.html
 #: install/install_step3.php:870 install/install_menu.inc.php:68
 msgid "Documentation"
-msgstr ""
+msgstr "설명문서"
 
 #. tpl/menu/global_menu.html
 msgid "About CodevTT"
@@ -4362,7 +4353,7 @@ msgstr ""
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_cfg.html
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2_cfg.html
 msgid "Interval"
-msgstr ""
+msgstr "간격"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator_cfg.html
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator_cfg.html
@@ -4411,9 +4402,8 @@ msgid "Available Workforce Options"
 msgstr "이용 가능한 필드"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
-#, fuzzy
 msgid "Select by group"
-msgstr "사용자 선택"
+msgstr "그룹별 선택"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 msgid "Availability"
@@ -4443,13 +4433,12 @@ msgstr "노동력"
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 msgid "Period"
-msgstr ""
+msgstr "기간"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
-#, fuzzy
 msgid "to"
-msgstr "자동"
+msgstr "받는이"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
@@ -4462,9 +4451,8 @@ msgid "Number of days to add on the period"
 msgstr ""
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
-#, fuzzy
 msgid "Nb days"
-msgstr "일"
+msgstr "Nb 일"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 #, fuzzy
