@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-03-13 12:01:09+0000\n"
+"PO-Revision-Date: 2025-03-31 12:01:12+0000\n"
 "Language: mg\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -428,7 +428,7 @@ msgstr "TsiahyIv"
 
 #. tpl/check.html
 msgid "last modification date"
-msgstr "Novaina farany"
+msgstr "datim-piovana farany"
 
 #. tpl/check.html
 #. tpl/ajax/schedulerAffectationSummary.html
