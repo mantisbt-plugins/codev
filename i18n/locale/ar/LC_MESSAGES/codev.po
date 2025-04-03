@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-03-13 12:01:04+0000\n"
+"PO-Revision-Date: 2025-04-03 12:00:59+0000\n"
 "Language: ar\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -182,7 +182,7 @@ msgstr "إجمالي"
 
 #. tpl/timetracking_lite.html
 msgid "Hint: Click in a field to edit 'Elapsed time' or 'Backlog'"
-msgstr ""
+msgstr "تلميح: انقر في الحقل لتحرير \"الوقت المنقضي\" أو \"المتأخرات\""
 
 #. tpl/timetracking_lite.html
 #. tpl/time_tracking.html
@@ -348,11 +348,11 @@ msgstr "المدة"
 #. tpl/issue_info.html
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Enter a keyword or *** to display all..."
-msgstr ""
+msgstr "أدخل كلمة رئيسية أو *** لعرض الكل..."
 
 #. tpl/timetracking_lite.html
 msgid "Invalid backlog format"
-msgstr ""
+msgstr "تنسيق المتراكمات غير صالح"
 
 #. tpl/timetracking_lite.html
 #. tpl/modal/update_issueBacklog.html
@@ -368,7 +368,7 @@ msgstr "الوضع لا يمكن أن يكون: "
 
 #. tpl/timetracking_lite.html
 msgid "Please update status before editing timetracks"
-msgstr ""
+msgstr "يرجى تحديث الحالة قبل تحرير المسارات الزمنية"
 
 #. tpl/timetracking_lite.html
 #. tpl/check.html
@@ -1257,7 +1257,7 @@ msgstr "مستخدم"
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_ajax.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
 msgid "Group"
-msgstr ""
+msgstr "مجموعة"
 
 #. tpl/user_info.html
 #. tpl/edit_team.html
@@ -2023,7 +2023,7 @@ msgstr "تاريخ الانتهاء (مشمول)"
 
 #. tpl/logs.html
 msgid "Logfile:"
-msgstr ""
+msgstr "ملف السجل:"
 
 #. tpl/logs.html
 msgid "Line"
@@ -2362,7 +2362,7 @@ msgstr "حقل مفقود"
 #. tpl/command_edit.html
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "ERROR: Please check"
-msgstr ""
+msgstr "خطأ: يرجى التحقق"
 
 #. tpl/doc.html
 #. tpl/edit_team.html
@@ -2371,7 +2371,7 @@ msgstr "عام"
 
 #. tpl/doc.html
 msgid "Task priority in Planning & Gantt"
-msgstr ""
+msgstr "أولوية المهام في التخطيط ومخطط جانت"
 
 #. tpl/doc.html
 msgid "Documentation is available at "
@@ -2496,7 +2496,7 @@ msgstr "تخفيض اختيار المهام من خلال وضع بعض الم�
 
 #. tpl/time_tracking.html
 msgid "Hide tasks with forbiden status (closed, ...)"
-msgstr ""
+msgstr "إخفاء المهام ذات الحالة المحظورة (مغلقة، ...)"
 
 #. tpl/time_tracking.html
 msgid "Week timetracks"
@@ -2750,7 +2750,7 @@ msgstr "التراكم الحالي"
 
 #. tpl/modal/update_issueBacklog.html
 msgid "Fixed in version"
-msgstr ""
+msgstr "تم إصلاحه في الإصدار"
 
 #. tpl/modal/update_issueBacklog.html
 msgid "Update Backlog"
@@ -2762,7 +2762,7 @@ msgstr "تم حل المهمة; التراكم يجب أن يكون \"0\""
 
 #. tpl/modal/update_issueBacklog.html
 msgid "Timetracking disabled if current status in : "
-msgstr ""
+msgstr "تم تعطيل تتبع الوقت إذا كانت الحالة الحالية في: "
 
 #. tpl/modal/update_issueBacklog.html
 msgid "Timetrack note is required"
@@ -3063,7 +3063,7 @@ msgstr "معلومات"
 
 #. tpl/edit_team.html
 msgid "Group examples: FrontEnd, BackEnd, Architect, Designers, Qualifiers"
-msgstr ""
+msgstr "أمثلة المجموعة: FrontEnd، BackEnd، Architect، Designers، Qualifiers"
 
 #. tpl/edit_team.html
 msgid "CSV File Format"
@@ -3081,7 +3081,7 @@ msgstr "العمود الأول"
 
 #. tpl/edit_team.html
 msgid "2nd column"
-msgstr ""
+msgstr "العمود الثاني"
 
 #. tpl/edit_team.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
@@ -3092,7 +3092,7 @@ msgstr "الألوان"
 #. tpl/edit_team.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
 msgid "Team members assigned to a group"
-msgstr ""
+msgstr "أعضاء الفريق المخصصين للمجموعة"
 
 #. tpl/edit_team.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
@@ -3102,7 +3102,7 @@ msgstr "المستخدمون غير المعينين لأي مجموعة"
 #. tpl/edit_team.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
 msgid "Not a team member, but assigned to a group"
-msgstr ""
+msgstr "ليس عضوًا في الفريق، ولكن تم تعيينه في مجموعة"
 
 #. tpl/edit_team.html
 msgid "Number of team members"
@@ -3150,11 +3150,11 @@ msgstr "اختياري"
 #. tpl/edit_team.html
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 msgid "(no group)"
-msgstr ""
+msgstr "(لا يوجد مجموعة)"
 
 #. tpl/edit_team.html
 msgid "add new group"
-msgstr ""
+msgstr "إضافة مجموعة جديدة"
 
 #. tpl/edit_team.html
 msgid "Create SideTasksProject"
@@ -3242,7 +3242,7 @@ msgstr "إعدادات تتبع الوقت"
 
 #. tpl/edit_team.html
 msgid "Timetracking disabled if task status in"
-msgstr ""
+msgstr "تم تعطيل تتبع الوقت إذا كانت حالة المهمة في"
 
 #. tpl/edit_team.html
 msgid "Edit Forbidden status list"
@@ -3378,11 +3378,11 @@ msgstr "حالة الحظر للمشروع:"
 
 #. tpl/edit_team.html
 msgid "Please select a CSV file"
-msgstr ""
+msgstr "الرجاء تحديد ملف CSV"
 
 #. tpl/edit_team.html
 msgid "Please check table below and click 'OK' button to accept changes"
-msgstr ""
+msgstr "يرجى مراجعة الجدول أدناه والنقر على زر \"موافق\" لقبول التغييرات"
 
 #. tpl/edit_team.html
 msgid "Sorry, you need to be Team Leader to access this page."
@@ -3912,7 +3912,7 @@ msgstr "النشاط"
 
 #. tpl/menu/global_menu.html
 msgid "Time Tracking (lite)"
-msgstr ""
+msgstr "تتبع الوقت (لايت)"
 
 #. tpl/menu/global_menu.html
 msgid "Time Tracking"
@@ -4151,7 +4151,7 @@ msgstr "احذف المدة"
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 #. plugins/ResetDashboard/ResetDashboard.html
 msgid "Execute"
-msgstr ""
+msgstr "ينفذ"
 
 #. plugins/AdminTools/AdminTools.html
 #. plugins/AdminTools/AdminTools_cfg.html
@@ -4315,7 +4315,7 @@ msgstr "القوى العاملة"
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 msgid "Period"
-msgstr ""
+msgstr "فترة"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
@@ -4351,7 +4351,7 @@ msgstr "إضافة مهام متعددة"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "It is not in the philosophy of CodevTT to allow users to enter several timetracks at the same time. However it is sometimes necessary to enter missing timetracks over large periods (eg. Catch up when CodevTT is installed late on a project).\nThis right is only given to team administrators."
-msgstr ""
+msgstr "لا تتضمن فلسفة CodevTT السماح للمستخدمين بإدخال عدة مسارات زمنية في آنٍ واحد. مع ذلك، قد يكون من الضروري أحيانًا إدخال المسارات الزمنية المفقودة لفترات طويلة (مثلًا، عند تثبيت CodevTT متأخرًا على مشروع). هذا الحق مُتاح فقط لمسؤولي الفريق."
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "Error !"
@@ -4441,28 +4441,28 @@ msgstr "قائمة المهام الجذرية"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "comma separated list of mantis tasks"
-msgstr ""
+msgstr "قائمة مفصولة بفواصل لمهام السرعوف"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Also include parent-tasks in the tree (unchecked: include as folder only)"
-msgstr ""
+msgstr "قم أيضًا بتضمين المهام الرئيسية في الشجرة (غير محدد: تضمين كمجلد فقط)"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Include parent-tasks in its own folder (unchecked: include above)"
-msgstr ""
+msgstr "تضمين المهام الرئيسية في مجلد خاص بها (غير محدد: تضمين أعلاه)"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Clear the WBS before import (remove all existing issues from the command)"
-msgstr ""
+msgstr "مسح هيكل تقسيم العمل قبل الاستيراد (إزالة جميع المشكلات الموجودة من الأمر)"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand_cfg.html
 msgid "Import Relationship tree to command"
-msgstr ""
+msgstr "استيراد شجرة العلاقات إلى الأمر"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "ERROR, Please check"
-msgstr ""
+msgstr "خطأ، يرجى التحقق"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_cfg.html
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator_cfg.html
@@ -4513,11 +4513,11 @@ msgstr "مهام جانبية"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
 msgid "Groups"
-msgstr ""
+msgstr "المجموعات"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
 msgid "Display the elapsed time for each user group"
-msgstr ""
+msgstr "عرض الوقت المنقضي لكل مجموعة مستخدمين"
 
 #. plugins/DriftAlertIndicator/DriftAlertIndicator_cfg.html
 msgid "Tasks Drift alert"
@@ -4789,11 +4789,11 @@ msgstr "عرض فئات المهام الجانبية: فئات \"الحوادث
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
 msgid "Show full activity:\n         <br> If checked, timetracks on tasks not included in current selection will be displayed in additional columns."
-msgstr ""
+msgstr "إظهار النشاط الكامل:\n<br> إذا تم تحديد هذا المربع، فسيتم عرض المسارات الزمنية للمهام غير المضمنة في التحديد الحالي في أعمدة إضافية."
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
 msgid "WARN: this option will be disabled if 'Only team members' is unchecked"
-msgstr ""
+msgstr "تحذير: سيتم تعطيل هذا الخيار إذا لم يتم تحديد خيار \"أعضاء الفريق فقط\""
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks_cfg.html
 msgid "Move issue timetracks"
@@ -4922,23 +4922,23 @@ msgstr "انقضت خلال الفترة"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 msgid "Remaining to produce (at end of period)"
-msgstr ""
+msgstr "المتبقي للإنتاج (في نهاية الفترة)"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_cfg.html
 #: plugins/SellingPriceForPeriod/SellingPriceForPeriod.class.php:83
 msgid "Selling Price for the Period"
-msgstr ""
+msgstr "سعر البيع للفترة"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 #: plugins/SellingPriceForPeriod/SellingPriceForPeriod.class.php:88
 msgid "If you sell daily services with a specific price for each task, this plugin will give you the price of your batch of tasks over a given period of time."
-msgstr ""
+msgstr "إذا كنت تبيع خدمات يومية بسعر محدد لكل مهمة، فسوف يمنحك هذا المكون الإضافي سعر مجموعة المهام الخاصة بك خلال فترة زمنية محددة."
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 #: plugins/SellingPriceForPeriod/SellingPriceForPeriod.class.php:89
 msgid "For this plugin, you need to add the \"CodevTT_DailyPrice\" customField to your mantis projects and set a value for each task."
-msgstr ""
+msgstr "بالنسبة لهذا المكون الإضافي، تحتاج إلى إضافة \"CodevTT_DailyPrice\" customField إلى مشاريع mantis الخاصة بك وتعيين قيمة لكل مهمة."
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 msgid "SellingPrice = DailyPrice x Elapsed during period"
@@ -4946,7 +4946,7 @@ msgstr "سعر البيع = السعر اليومي × الوقت المنقضي
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 msgid "Remaining = MgrEffortEstim - Elapsed since the beginning of the task to end of period"
-msgstr ""
+msgstr "المتبقي = MgrEffortEstim - الوقت المنقضي منذ بداية المهمة حتى نهاية الفترة"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_cfg.html
 msgid "Include sideTasks"
@@ -4982,7 +4982,7 @@ msgstr "انقضت الفترة"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 msgid "Remaining to produce at end of period"
-msgstr ""
+msgstr "المتبقي للإنتاج في نهاية الفترة"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 msgid "Remaining"
@@ -5033,7 +5033,7 @@ msgstr "التقدم %"
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 #: plugins/LoadHistoryIndicator/LoadHistoryIndicator.class.php:68
 msgid "Load History"
-msgstr ""
+msgstr "سجل التحميل"
 
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator.html
 #: plugins/CostsIndicator/CostsIndicator.class.php:283
@@ -5048,7 +5048,7 @@ msgstr "MgrEffortEstim + أحكام مفحوصة"
 #. plugins/BurnDownChart/BurnDownChart_cfg.html
 #. plugins/BurnDownChart/BurnDownChart.html
 msgid "Burndown chart"
-msgstr ""
+msgstr "مخطط الاحتراق"
 
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.html
 msgid "Compares the budget (MgrEffortEstim + checked provisions) to the reestimated time (nb days needed to finish the tasks)."
@@ -5077,7 +5077,7 @@ msgstr "تاريخ الميزانية"
 #. plugins/LoadPerCustomfieldValues/LoadPerCustomfieldValues_cfg.html
 #: plugins/LoadPerCustomfieldValues/LoadPerCustomfieldValues.class.php:69
 msgid "Load per customfield values"
-msgstr ""
+msgstr "تحميل القيم لكل حقل مخصص"
 
 #. plugins/LoadPerCustomfieldValues/LoadPerCustomfieldValues.html
 msgid "Custom field"
@@ -5120,7 +5120,7 @@ msgstr "عرض المهام التي تحتوي على نشاط (مسارات ز
 
 #. plugins/OngoingTasks/OngoingTasks.html
 msgid "The time spent on the task during the period (which can be less than the total time spent since the beginning of the task)"
-msgstr ""
+msgstr "الوقت المستغرق في إنجاز المهمة خلال الفترة (والذي قد يكون أقل من إجمالي الوقت المستغرق منذ بداية المهمة)"
 
 #. plugins/OngoingTasks/OngoingTasks.html
 msgid "List the users having spent time on the task during the period"
@@ -5425,15 +5425,15 @@ msgstr "حائط الرسالة"
 
 #. plugins/BlogPlugin/BlogPlugin_cfg.html
 msgid "Size"
-msgstr ""
+msgstr "مقاس"
 
 #. plugins/BlogPlugin/BlogPlugin_cfg.html
 msgid "Small"
-msgstr ""
+msgstr "صغير"
 
 #. plugins/BlogPlugin/BlogPlugin_cfg.html
 msgid "Medium"
-msgstr ""
+msgstr "متوسط"
 
 #. plugins/BlogPlugin/BlogPlugin_cfg.html
 msgid "Large"
@@ -5441,7 +5441,7 @@ msgstr "كبير"
 
 #. plugins/BlogPlugin/BlogPlugin_cfg.html
 msgid "Huge"
-msgstr ""
+msgstr "ضخم"
 
 #. plugins/BlogPlugin/BlogPlugin_ajax.html
 msgid "Acknowledged by"
@@ -5475,28 +5475,28 @@ msgstr "مرشح نوع المهمة"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 msgid "Check the submission date of the tasks"
-msgstr ""
+msgstr "التحقق من تاريخ تسليم المهام"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:73
 msgid "Statistics on the age of open tasks"
-msgstr ""
+msgstr "إحصائيات حول عمر المهام المفتوحة"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 msgid "New"
-msgstr ""
+msgstr "جديد"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 msgid "Open"
-msgstr ""
+msgstr "يفتح"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_ajax.html
 msgid "Nb Issues"
-msgstr ""
+msgstr "إصدارات ملحوظة"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_ajax.html
 msgid "Nb new"
-msgstr ""
+msgstr "ملحوظة جديدة"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_ajax.html
 msgid "Nb open"
@@ -5504,7 +5504,7 @@ msgstr "ملاحظة مفتوحة"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
 msgid "Open issues seniority"
-msgstr ""
+msgstr "قضايا مفتوحة الأقدمية"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
 msgid "Display task list"
@@ -5526,11 +5526,11 @@ msgstr "تخصيص الوقت حسب الحالة"
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_cfg.html
 #: plugins/TimetrackingAnalysis/TimetrackingAnalysis.class.php:69
 msgid "Timetracking analysis"
-msgstr ""
+msgstr "تحليل تتبع الوقت"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis.html
 msgid "Average delay between the timetrack date and it's creation date (in days)"
-msgstr ""
+msgstr "متوسط التأخير بين تاريخ المسار الزمني وتاريخ إنشائه (بالأيام)"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
@@ -5543,11 +5543,11 @@ msgstr "(بالأيام)"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
 msgid "Median"
-msgstr ""
+msgstr "متوسط"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
 msgid "Mode"
-msgstr ""
+msgstr "وضع"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
 msgid "Nb timetracks"
@@ -5600,11 +5600,11 @@ msgstr "اِختِصاص"
 
 #. plugins/ResetDashboard/ResetDashboard_ajax.html
 msgid "Item"
-msgstr ""
+msgstr "غرض"
 
 #. plugins/ResetDashboard/ResetDashboard_cfg.html
 msgid "Reset Dashboard"
-msgstr ""
+msgstr "إعادة تعيين لوحة المعلومات"
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "Global cost estimation:"
@@ -5672,11 +5672,11 @@ msgstr "تلميح الأدوات"
 
 #: admin/edit_team_ajax.php:445
 msgid "ERROR: joblist cannot be empty !"
-msgstr ""
+msgstr "خطأ: لا يمكن أن تكون قائمة الوظائف فارغة!"
 
 #: admin/edit_team_ajax.php:494
 msgid "Invalid team name"
-msgstr ""
+msgstr "اسم الفريق غير صالح"
 
 #: admin/edit_team_ajax.php:498
 msgid "Couldn't enable/disable team"
@@ -5696,7 +5696,7 @@ msgstr "يُرجَى تحميل الملفات مع الإضافة التالي�
 #: admin/edit_team_ajax.php:782
 #: plugins/LoadPerUserGroups/LoadPerUserGroups.class.php:311
 msgid "No group defined for team member"
-msgstr ""
+msgstr "لم يتم تحديد مجموعة لعضو الفريق"
 
 #: admin/admin_dashboard.php:75 import/import_dashboard.php:66
 #: reports/team_dashboard.php:98
@@ -5709,7 +5709,7 @@ msgstr "لا يمكن إنشاء classmap: "
 
 #: admin/edit_jobs.php:86
 msgid "Sorry, this Job cannot be changed"
-msgstr ""
+msgstr "عذرا، لا يمكن تغيير هذه الوظيفة"
 
 #: admin/edit_jobs.php:92
 msgid "This job must not be deleted."
@@ -5863,7 +5863,7 @@ msgstr "تحقق من المسارات الزمنية على القضايا ال
 #. for all timetracks of the team, check that the Mantis issue exist.
 #: classes/consistency_check2.class.php:188
 msgid "Command issues should belong to the team's project-list"
-msgstr ""
+msgstr "يجب أن تنتمي قضايا القيادة إلى قائمة مشاريع الفريق"
 
 #: classes/consistency_check2.class.php:286
 msgid "Backlog should be 0 (not "
@@ -5919,19 +5919,19 @@ msgstr "لا يوجد سير عمل مشروع افتراضي معرف، تحق�
 
 #: classes/consistency_check2.class.php:764
 msgid ") Please run <a href='tools/update_codevtt.php'>update_codevtt.php</a>"
-msgstr ""
+msgstr ") الرجاء تشغيل <a href='tools/update_codevtt.php'>update_codevtt.php</a>"
 
 #: classes/consistency_check2.class.php:783
 msgid "Project not defined in the team's project-list"
-msgstr ""
+msgstr "المشروع غير محدد في قائمة مشاريع الفريق"
 
 #: classes/consistency_check2.class.php:802
 msgid "Please move config file to: "
-msgstr ""
+msgstr "يرجى نقل ملف التكوين إلى: "
 
 #: classes/consistency_check2.class.php:807
 msgid "Please remove: "
-msgstr ""
+msgstr "الرجاء إزالة: "
 
 #: classes/scheduler.class.php:81 reports/planning_report.php:202
 msgid "monitored"
@@ -6097,7 +6097,7 @@ msgstr "تعليمات الترقية"
 
 #: install/install.php:123
 msgid "If you're upgrading from an older CodevTT version, do the following steps:"
-msgstr ""
+msgstr "إذا كنت تقوم بالترقية من إصدار CodevTT الأقدم، فاتبع الخطوات التالية:"
 
 #: install/install.php:125
 msgid "Upgrade Mantis first ! (not mandatory)"
@@ -6105,7 +6105,7 @@ msgstr "قم بترقية Mantis أولا! (ليس إلزاميا)"
 
 #: install/install.php:126
 msgid "Backup your database"
-msgstr ""
+msgstr "قم بعمل نسخة احتياطية لقاعدة البيانات الخاصة بك"
 
 #: install/install.php:127
 msgid "Copy CodevTT configuration files from your previous installation"
@@ -6452,11 +6452,11 @@ msgstr "معذرة، لست عضوا نشطا في هذا الفريق"
 
 #: reports/issue_info.php:90
 msgid "You do not have permissions to display task :"
-msgstr ""
+msgstr "ليس لديك الأذونات لعرض المهمة:"
 
 #: reports/issue_info.php:101
 msgid "Task not found in Mantis DB :"
-msgstr ""
+msgstr "لم يتم العثور على المهمة في Mantis DB:"
 
 #: reports/statistics.php:86
 msgid "No projects in this team"
@@ -6557,24 +6557,24 @@ msgstr "فريق آخر"
 #: timetracking/timetracking_lite_ajax.php:139
 #: timetracking/timetracking_lite_ajax.php:144
 msgid "REFUSED"
-msgstr ""
+msgstr "مرفوض"
 
 #: timetracking/timetracking_lite_ajax.php:154
 msgid "ERROR: Failed to update backlog !"
-msgstr ""
+msgstr "خطأ: فشل تحديث المتراكم!"
 
 #: timetracking/timetracking_lite_ajax.php:178
 msgid "ERROR: Failed to getAvailableStatusList !"
-msgstr ""
+msgstr "خطأ: فشل الحصول علىAvailableStatusList!"
 
 #: timetracking/timetracking_lite_ajax.php:219
 msgid "ERROR: Failed to setStatus !"
-msgstr ""
+msgstr "خطأ: فشل في تعيين الحالة!"
 
 #: timetracking/timetracking_lite_ajax.php:245
 #: timetracking/time_tracking_ajax.php:161
 msgid "Timetracking is forbidden when issue's status is :"
-msgstr ""
+msgstr "يُحظر تتبع الوقت عندما تكون حالة المشكلة:"
 
 #. existing tt is too small to be decreased, FORBID the change, do nothing !
 #. $logger->error("DEBUG: existing tt is too small to be decreased tt=".$timetrackCandidate->getDuration()." diff=$diffToRemove");
@@ -6583,15 +6583,15 @@ msgstr ""
 #: timetracking/timetracking_lite_ajax.php:337
 #: timetracking/timetracking_lite_ajax.php:342
 msgid "Sorry, multiple existing timetracks, please use the regular Timetracking page"
-msgstr ""
+msgstr "عذراً، هناك مسارات زمنية متعددة موجودة، يرجى استخدام صفحة تتبع الوقت العادية"
 
 #: timetracking/timetracking_lite_ajax.php:358
 msgid "ERROR: Failed to add/update timetrack !"
-msgstr ""
+msgstr "خطأ: فشل في إضافة/تحديث المسار الزمني!"
 
 #: timetracking/time_tracking_ajax.php:442
 msgid "ERROR: Failed to delete the timetrack !"
-msgstr ""
+msgstr "خطأ: فشل في حذف المسار الزمني!"
 
 #. forbid adding timetrack, return error
 #: timetracking/time_tracking_ajax.php:475
@@ -6612,7 +6612,7 @@ msgstr "لم تتم إضافة المسار الزمني: لم يتم تحديد
 
 #: timetracking/time_tracking_ajax.php:530
 msgid "ERROR: Failed to add timetrack !"
-msgstr ""
+msgstr "خطأ: فشل في إضافة المسار الزمني!"
 
 #: plugins/DeadlineAlertIndicator/DeadlineAlertIndicator.class.php:62
 msgid "Task deadlines alert"
@@ -6648,7 +6648,7 @@ msgstr "رجل-أيام متاح في فترة، باستثناء الأوراق
 
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.class.php:199
 msgid "Task is not in team's projects"
-msgstr ""
+msgstr "المهمة ليست ضمن مشاريع الفريق"
 
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.class.php:285
 msgid "Timetrack added by "
@@ -6656,7 +6656,7 @@ msgstr "ملاحظات المسارات الزمنية"
 
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks_ajax.php:76
 msgid "Task does not exist !"
-msgstr ""
+msgstr "المهمة غير موجودة!"
 
 #: plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.class.php:59
 msgid "Management load history"
@@ -6668,23 +6668,23 @@ msgstr "يقارن الوقت المنقضي على جانب الإدارة ال
 
 #: plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.class.php:75
 msgid "Import Mantis relationship-tree to WBS"
-msgstr ""
+msgstr "استيراد شجرة علاقات Mantis إلى WBS"
 
 #: plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.class.php:78
 msgid "Import a mantis parent-child relationship issue structure to a command WBS structure"
-msgstr ""
+msgstr "استيراد هيكل مشكلة علاقة الوالدين والطفل في Mantis إلى هيكل تقسيم تقسيم العمل (WBS) للأوامر"
 
 #: plugins/LoadPerUserGroups/LoadPerUserGroups.class.php:71
 msgid "Load per user groups"
-msgstr ""
+msgstr "التحميل لكل مجموعات المستخدمين"
 
 #: plugins/LoadPerUserGroups/LoadPerUserGroups.class.php:74
 msgid "Check all the timetracks of the period and return their repartition per User groups"
-msgstr ""
+msgstr "التحقق من جميع المسارات الزمنية للفترة وإرجاع تقسيمها حسب مجموعات المستخدمين"
 
 #: plugins/LoadPerUserGroups/LoadPerUserGroups.class.php:334
 msgid "No group defined"
-msgstr ""
+msgstr "لم يتم تعريف أي مجموعة"
 
 #. return T_('Task drift alert');
 #: plugins/DriftAlertIndicator/DriftAlertIndicator.class.php:68
@@ -6768,11 +6768,11 @@ msgstr "عرض تاريخ حالة القضية"
 
 #: plugins/SellingPriceForPeriod/SellingPriceForPeriod.class.php:91
 msgid "SellingPrice = DailyPrice x Elapsed on period"
-msgstr ""
+msgstr "سعر البيع = السعر اليومي × المدة المنقضية"
 
 #: plugins/SellingPriceForPeriod/SellingPriceForPeriod.class.php:385
 msgid "WARNING: You need to assign the \"CodevTT_DailyPrice\" customField to the following projects: "
-msgstr ""
+msgstr "تحذير: يجب عليك تعيين \"CodevTT_DailyPrice\" customField للمشاريع التالية: "
 
 #: plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.class.php:67
 msgid "Display the progress history"
@@ -6780,7 +6780,7 @@ msgstr "عرض تاريخ التقدم"
 
 #: plugins/LoadHistoryIndicator/LoadHistoryIndicator.class.php:71
 msgid "Display the elapsed time in a period"
-msgstr ""
+msgstr "عرض الوقت المنقضي في فترة زمنية"
 
 #: plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.class.php:63
 msgid "Budget drift history"
@@ -6792,7 +6792,7 @@ msgstr "عرض تاريخ الميزانية"
 
 #: plugins/LoadPerCustomfieldValues/LoadPerCustomfieldValues.class.php:72
 msgid "Choose a customfield, return the elapsed time for each customField value"
-msgstr ""
+msgstr "اختر حقلًا مخصصًا، وأرجع الوقت المنقضي لكل قيمة حقل مخصص"
 
 #: plugins/TimetrackList/TimetrackList.class.php:84
 msgid "List and edit timetracks"
@@ -6808,7 +6808,7 @@ msgstr "(غير معروف 0)"
 
 #: plugins/OngoingTasks/OngoingTasks.class.php:88
 msgid "List the active tasks on a given period"
-msgstr ""
+msgstr "قم بإدراج المهام النشطة في فترة زمنية معينة"
 
 #: plugins/OngoingTasks/OngoingTasks.class.php:90
 #, fuzzy
@@ -6914,55 +6914,55 @@ msgstr "يسمح للإداريين وأعضاء الفريق بإرسال ال�
 
 #: plugins/BurnDownChart/BurnDownChart.class.php:66
 msgid "Display the backlog history"
-msgstr ""
+msgstr "عرض سجل المتأخرات"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:70
 msgid "Open issues seniority statistics"
-msgstr ""
+msgstr "إحصائيات الأقدمية للقضايا المفتوحة"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:174
 msgid "Last week"
-msgstr ""
+msgstr "الأسبوع الماضي"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:175
 msgid "+1 week"
-msgstr ""
+msgstr "+1 أسبوع"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:176
 msgid "+2 week"
-msgstr ""
+msgstr "+2 أسبوع"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:177
 msgid "+3 week"
-msgstr ""
+msgstr "+3 أسابيع"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:178
 msgid "+1 months"
-msgstr ""
+msgstr "+1 شهر"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:179
 msgid "+2 months"
-msgstr ""
+msgstr "+2 أشهر"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:180
 msgid "+3 months"
-msgstr ""
+msgstr "+3 أشهر"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:181
 msgid "+6 months"
-msgstr ""
+msgstr "+6 أشهر"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:182
 msgid "Over a year"
-msgstr ""
+msgstr "أكثر من عام"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:271
 msgid "All (tasks & bugs)"
-msgstr ""
+msgstr "جميع (المهام والأخطاء)"
 
 #: plugins/TimetrackingAnalysis/TimetrackingAnalysis.class.php:72
 msgid "Display the delay between the timetrack date and it's creation date"
-msgstr ""
+msgstr "عرض التأخير بين تاريخ المسار الزمني وتاريخ إنشائه"
 
 #: plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.class.php:68
 msgid "Display the EffortEstim reliability rate history"
@@ -6986,11 +6986,11 @@ msgstr "تجميع المهام بإضافة مرشحات متعددة"
 
 #: plugins/ResetDashboard/ResetDashboard.class.php:60
 msgid "Remove dashboard plugins"
-msgstr ""
+msgstr "إزالة مكونات لوحة المعلومات"
 
 #: plugins/ResetDashboard/ResetDashboard.class.php:63
 msgid "Remove all plugins from a dashboard. This is usefull if a plugin crashes the page"
-msgstr ""
+msgstr "إزالة جميع الإضافات من لوحة التحكم. هذا مفيد إذا تسبب أحد الإضافات في تعطل الصفحة."
 
 #: plugins/CostsIndicator/CostsIndicator.class.php:68
 msgid "Compute costs, using the UserDailyCosts defined in team settings"
