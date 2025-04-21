@@ -8,6 +8,7 @@
 # Author: Ktrst
 # Author: Revi
 # Author: Suleiman the Magnificent Television
+# Author: YeBoy371
 # Author: Ykhwong
 # Author: 아라
 msgid ""
@@ -16,7 +17,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-03-24 12:00:58+0000\n"
+"PO-Revision-Date: 2025-04-21 12:00:58+0000\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2248,7 +2249,7 @@ msgstr ""
 
 #. tpl/command_edit.html
 msgid "Parent CommandSets"
-msgstr "부모 명령집합"
+msgstr "상위 명령집합"
 
 #. tpl/command_edit.html
 #, fuzzy
