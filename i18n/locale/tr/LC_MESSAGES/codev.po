@@ -1,6 +1,7 @@
 # Translation of CodevTT to Turkish (Türkçe)
 # Exported from translatewiki.net
 #
+# Author: Andac
 # Author: Azerhan Özen
 # Author: BaRaN6161 TURK
 # Author: Can
@@ -25,7 +26,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-04-28 12:01:09+0000\n"
+"PO-Revision-Date: 2025-05-01 12:01:05+0000\n"
 "Language: tr\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2569,9 +2570,8 @@ msgid "Missing timetracks"
 msgstr "Eksik Zaman İzleri"
 
 #. tpl/missing_timetracks.html
-#, fuzzy
 msgid "Missing days"
-msgstr "Eksik"
+msgstr "Eksik günler"
 
 #. tpl/missing_timetracks.html
 #. plugins/CustomUserData/CustomUserData.html
@@ -4549,9 +4549,8 @@ msgid "Drift resolved tasks"
 msgstr "Çözülmüş görevleri sürükle"
 
 #. plugins/UserTeamList/UserTeamList.html
-#, fuzzy
 msgid "Update team"
-msgstr "Güncelleme ekibi VİKİ"
+msgstr "Güncelleme ekibi"
 
 #. plugins/UserTeamList/UserTeamList_cfg.html
 msgid "User team list"
@@ -4969,9 +4968,8 @@ msgstr "sideTasks'ı dahil et"
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_cfg.html
 #. plugins/TimetrackList/TimetrackList_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
-#, fuzzy
 msgid "Task name"
-msgstr "Zamandaki görevler"
+msgstr "Görev adı"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_cfg.html
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
@@ -5010,9 +5008,8 @@ msgid "Daily Price"
 msgstr "Günlük Miktar"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
-#, fuzzy
 msgid "Price on period"
-msgstr "Dönem içinde geçen"
+msgstr "Dönem fiyatı"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 msgid "Price"
@@ -6115,7 +6112,7 @@ msgstr "Yeni sürüme geçiş talimatları"
 
 #: install/install.php:123
 msgid "If you're upgrading from an older CodevTT version, do the following steps:"
-msgstr ""
+msgstr "Eğer eski bir CodevTT sürümünden yükseltiyorsanız, aşağıdaki adımları uygulayın:"
 
 #: install/install.php:125
 msgid "Upgrade Mantis first ! (not mandatory)"
@@ -6123,7 +6120,7 @@ msgstr "Önce Mantis'i yükseltin ! (zorunlu değil)"
 
 #: install/install.php:126
 msgid "Backup your database"
-msgstr ""
+msgstr "Veritabanınızı yedekleyin"
 
 #: install/install.php:127
 msgid "Copy CodevTT configuration files from your previous installation"
@@ -6575,19 +6572,19 @@ msgstr "Diğer ekip"
 #: timetracking/timetracking_lite_ajax.php:139
 #: timetracking/timetracking_lite_ajax.php:144
 msgid "REFUSED"
-msgstr ""
+msgstr "Reddedildi"
 
 #: timetracking/timetracking_lite_ajax.php:154
 msgid "ERROR: Failed to update backlog !"
-msgstr ""
+msgstr "HATA: Birikmiş işler güncellenemedi!"
 
 #: timetracking/timetracking_lite_ajax.php:178
 msgid "ERROR: Failed to getAvailableStatusList !"
-msgstr ""
+msgstr "HATA: getAvailableStatusList başarısız oldu!"
 
 #: timetracking/timetracking_lite_ajax.php:219
 msgid "ERROR: Failed to setStatus !"
-msgstr ""
+msgstr "HATA: setStatus gerçekleştirilemedi!"
 
 #: timetracking/timetracking_lite_ajax.php:245
 #: timetracking/time_tracking_ajax.php:161
@@ -6601,11 +6598,11 @@ msgstr "Sorunun durumu buysa, zaman izlemelerine izin verilmez :"
 #: timetracking/timetracking_lite_ajax.php:337
 #: timetracking/timetracking_lite_ajax.php:342
 msgid "Sorry, multiple existing timetracks, please use the regular Timetracking page"
-msgstr ""
+msgstr "Üzgünüm, birden fazla zaman takibi mevcut. Lütfen Düzenli Zaman Takibi sayfasını kullanın."
 
 #: timetracking/timetracking_lite_ajax.php:358
 msgid "ERROR: Failed to add/update timetrack !"
-msgstr ""
+msgstr "HATA: Zaman çizelgesi eklenemedi/güncellenemedi!"
 
 #: timetracking/time_tracking_ajax.php:442
 msgid "ERROR: Failed to delete the timetrack !"
@@ -6666,7 +6663,7 @@ msgstr "Yapraklar ve dış görevler hariç, dönem içinde adam günleri mevcut
 
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.class.php:199
 msgid "Task is not in team's projects"
-msgstr ""
+msgstr "Bu görev, ekibin projelerinde değil"
 
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.class.php:285
 msgid "Timetrack added by "
@@ -6674,7 +6671,7 @@ msgstr "Zaman çizelgesi ekleyen "
 
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks_ajax.php:76
 msgid "Task does not exist !"
-msgstr ""
+msgstr "Görev mevcut değil!"
 
 #: plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.class.php:59
 msgid "Management load history"
@@ -6719,17 +6716,16 @@ msgid "Display a history of all the teams for a given user"
 msgstr "Belirli bir kullanıcı için tüm ekiplerin geçmişini görüntüle"
 
 #: plugins/CustomUserData/CustomUserData.class.php:64
-#, fuzzy
 msgid "Custom user data"
-msgstr "Özel alan"
+msgstr "Özel kullanıcı verileri"
 
 #: plugins/CustomUserData/CustomUserData.class.php:69
 msgid "Allows to set some user specific data such as EmployeeId, userId in other DB/Softwares, phoneNumber, etc."
-msgstr ""
+msgstr "EmployeeId, diğer DB/Yazılımlardaki userId, phoneNumber vb. gibi kullanıcıya özel bazı verilerin ayarlanmasını sağlar."
 
 #: plugins/CustomUserData/CustomUserData.class.php:70
 msgid "The initial goal is to ease the export of CodevTT data to other tools."
-msgstr ""
+msgstr "Ana hedef, CodevTT verilerinin diğer araçlara aktarımını kolaylaştırmaktır."
 
 #: plugins/ManagementCosts/ManagementCosts.class.php:61
 msgid "Sum elapsed time on management sideTasks and compare to the sum of command provisions. Returns a result in man-days and costs"
@@ -6811,7 +6807,7 @@ msgstr "Bütçe geçmişini görüntüle"
 
 #: plugins/LoadPerCustomfieldValues/LoadPerCustomfieldValues.class.php:72
 msgid "Choose a customfield, return the elapsed time for each customField value"
-msgstr ""
+msgstr "Bir özel alan seçin, her özel alan değeri için geçen süreyi döndürün"
 
 #: plugins/TimetrackList/TimetrackList.class.php:84
 msgid "List and edit timetracks"
