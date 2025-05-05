@@ -1,6 +1,7 @@
 # Translation of CodevTT to Greek (Ελληνικά)
 # Exported from translatewiki.net
 #
+# Author: Jimkats
 # Author: NikosLikomitros
 # Author: Nikosgranturismogt
 # Author: Norhorn
@@ -11,7 +12,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-03-13 12:01:06+0000\n"
+"PO-Revision-Date: 2025-05-05 12:01:03+0000\n"
 "Language: el\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -933,9 +934,8 @@ msgid "ExtRef"
 msgstr ""
 
 #. tpl/ajax/schedulerAffectationSummary.html
-#, fuzzy
 msgid "Assigned users"
-msgstr "Ανατεθειμένο"
+msgstr "Ανατεθειμένοι χρήστες"
 
 #. tpl/ajax/projectDetails.html
 #. tpl/project_activity_report.html
@@ -1245,9 +1245,8 @@ msgid "Indicators"
 msgstr "Δείκτες"
 
 #. tpl/user_info.html
-#, fuzzy
 msgid "User info"
-msgstr "Χρήστης"
+msgstr "Πληροφορίες χρήστη"
 
 #. tpl/user_info.html
 #. tpl/modal/login.html
@@ -1567,9 +1566,8 @@ msgstr "Μη διαθέσιμο"
 
 #. tpl/productivity_report.html
 #. tpl/tools/dashboard.html
-#, fuzzy
 msgid "Indicator"
-msgstr "Δείκτες"
+msgstr "Δείκτης"
 
 #. tpl/productivity_report.html
 #. tpl/edit_team.html
@@ -2073,9 +2071,8 @@ msgid "delete Job"
 msgstr "διαγραφή δουλειάς"
 
 #. tpl/edit_jobs.html
-#, fuzzy
 msgid "Edit Job"
-msgstr "Επεξεργασία εργασιών"
+msgstr "Επεξεργασία εργασίας"
 
 #. tpl/edit_jobs.html
 #. tpl/edit_team.html
@@ -2582,9 +2579,8 @@ msgid "Future timetracks"
 msgstr "Ιχνηλατήσεις χρόνου"
 
 #. tpl/time_tracking.html
-#, fuzzy
 msgid "Delete track"
-msgstr "Διαγραφή ομάδας"
+msgstr "Διαγραφή ίχνους"
 
 #. tpl/missing_timetracks.html
 #. tpl/menu/global_menu.html
@@ -3124,14 +3120,12 @@ msgstr "Εισαγωγή χρηστών"
 
 #. tpl/edit_team.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
-#, fuzzy
 msgid "User groups"
-msgstr "Χρήστες"
+msgstr "Ομάδες χρηστών"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "CSV file"
-msgstr "Ορισμός φίλτρων"
+msgstr "Αρχείο CSV"
 
 #. tpl/edit_team.html
 #, fuzzy
@@ -3153,9 +3147,8 @@ msgid "Group examples: FrontEnd, BackEnd, Architect, Designers, Qualifiers"
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "CSV File Format"
-msgstr "Τύπος αρχείου"
+msgstr "Μορφή αρχείου CSV"
 
 #. tpl/edit_team.html
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
@@ -3184,9 +3177,8 @@ msgstr ""
 
 #. tpl/edit_team.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
-#, fuzzy
 msgid "Users not assigned to any group"
-msgstr "Απόκρυψη εργασιών που δεν έχουν ανατεθεί σε εμένα"
+msgstr "Χρήστες που δεν έχουν αντιστοιχιστεί σε καμία ομάδα"
 
 #. tpl/edit_team.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
@@ -3194,9 +3186,8 @@ msgid "Not a team member, but assigned to a group"
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Number of team members"
-msgstr "Μέλη της ομάδας"
+msgstr "Αριθμός μελών της ομάδας"
 
 #. tpl/edit_team.html
 msgid "Arrival date in the team"
@@ -3217,9 +3208,8 @@ msgid "Departure Date"
 msgstr "Ημερομηνία αναχώρησης"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Update team member"
-msgstr "Μέλη της ομάδας"
+msgstr "Ενημέρωση μέλους ομάδας"
 
 #. tpl/edit_team.html
 #. plugins/UserTeamList/UserTeamList.html
@@ -3235,9 +3225,8 @@ msgstr "Ημερομηνία αναχώρησης"
 
 #. tpl/edit_team.html
 #. plugins/UserTeamList/UserTeamList.html
-#, fuzzy
 msgid "optionnal"
-msgstr "Επιλογές"
+msgstr "προαιρετικό"
 
 #. tpl/edit_team.html
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
@@ -3528,28 +3517,24 @@ msgid "settings ?"
 msgstr "ρυθμίσεις ;"
 
 #. tpl/workflow.html
-#, fuzzy
 msgid "Clonning"
-msgstr "Σχεδιασμός"
+msgstr "Κλωνοποίηση"
 
 #. tpl/workflow.html
 msgid "into"
 msgstr "εντός"
 
 #. tpl/workflow.html
-#, fuzzy
 msgid "Clone project settings"
-msgstr "Εγχειρήματα κλώνοι"
+msgstr "Κλωνοποίηση ρυθμίσεων εγχειρήματος"
 
 #. tpl/workflow.html
-#, fuzzy
 msgid "Clone From"
-msgstr "Εγχειρήματα κλώνοι"
+msgstr "Κλωνοποίηση από"
 
 #. tpl/workflow.html
-#, fuzzy
 msgid "Clone To"
-msgstr "Εγχειρήματα κλώνοι"
+msgstr "Κλωνοποίηση προς"
 
 #. tpl/workflow.html
 msgid "Workflow transitions"
@@ -3580,9 +3565,8 @@ msgid "Unassigned tasks will not be displayed"
 msgstr ""
 
 #. tpl/forecasting_report.html
-#, fuzzy
 msgid "deviation"
-msgstr "Σχέση"
+msgstr "παρέκκλιση"
 
 #. tpl/forecasting_report.html
 #. plugins/ManagementCosts/ManagementCosts.html
@@ -3736,9 +3720,8 @@ msgid "RAF"
 msgstr ""
 
 #. tpl/scheduler.html
-#, fuzzy
 msgid "User assignment"
-msgstr "Επιφόρτιση"
+msgstr "Ανάθεση χρήστη"
 
 #. tpl/scheduler.html
 msgid "Add user"
@@ -4183,9 +4166,8 @@ msgstr "Ανακάλυψη νέων προσθέτων"
 
 #. tpl/plugin_manager.html
 #. plugins/ResetDashboard/ResetDashboard_ajax.html
-#, fuzzy
 msgid "Plugins"
-msgstr "Πρόσθετο"
+msgstr "Πρόσθετα"
 
 #. tpl/plugin_manager.html
 msgid "Domain(s)"
@@ -4259,14 +4241,12 @@ msgid "Title"
 msgstr "Τίτλος"
 
 #. plugins/DeadlineAlertIndicator/DeadlineAlertIndicator_cfg.html
-#, fuzzy
 msgid "Deadline alerts"
-msgstr "Προθεσμία"
+msgstr "Ειδοποιήσεις προθεσμίας"
 
 #. plugins/DeadlineAlertIndicator/DeadlineAlertIndicator.html
-#, fuzzy
 msgid "No late task."
-msgstr "Καμία επιλυμένη εργασία..."
+msgstr "Καμία καθυστερημένη εργασία."
 
 #. plugins/AdminTools/AdminTools.html
 msgid "Run selected actions"
@@ -4309,22 +4289,19 @@ msgid "Task backlog variation"
 msgstr "Πληροφορίες εργασίας"
 
 #. plugins/LoadPerJobIndicator2/LoadPerJobIndicator2_cfg.html
-#, fuzzy
 msgid "Show Tasks"
-msgstr "Νέες εργασίες"
+msgstr "Εμφάνιση εργασιών"
 
 #. plugins/LoadPerJobIndicator2/LoadPerJobIndicator2_cfg.html
-#, fuzzy
 msgid "Display task column"
-msgstr "Προβαλλόμενες εργασίες"
+msgstr "Εμφάνιση στήλης εργασιών"
 
 #. plugins/LoadPerJobIndicator2/LoadPerJobIndicator2_cfg.html
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
 #. plugins/LoadPerProjectIndicator/LoadPerProjectIndicator_cfg.html
 #. plugins/LoadPerProjCategoryIndicator/LoadPerProjCategoryIndicator_cfg.html
-#, fuzzy
 msgid "Date range"
-msgstr "Μορφή ημερομηνίας"
+msgstr "Εύρος ημερομηνίας"
 
 #. plugins/LoadPerJobIndicator2/LoadPerJobIndicator2_cfg.html
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2_cfg.html
@@ -4389,9 +4366,8 @@ msgid "Weekly"
 msgstr "Εβδομαδιαίο"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
-#, fuzzy
 msgid "User selection"
-msgstr "Ανακατεύθυνση"
+msgstr "Επιλογή χρήστη"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
@@ -4405,14 +4381,12 @@ msgid "Graph"
 msgstr ""
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
-#, fuzzy
 msgid "Graph values"
-msgstr "εμφάνιση τιμών"
+msgstr "Τιμές γραφήματος"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
-#, fuzzy
 msgid "Range values"
-msgstr "εμφάνιση τιμών"
+msgstr "Εύρος τιμών"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 #, fuzzy
@@ -4420,18 +4394,16 @@ msgid "Available Workforce Options"
 msgstr "Διαθέσιμο εργατικό δυναμικό"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
-#, fuzzy
 msgid "Select by group"
-msgstr "Επιλέξτε χρήστη"
+msgstr "Επιλογή ανά ομάδα"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 msgid "Availability"
 msgstr "Διαθεσιμότητα"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
-#, fuzzy
 msgid "Productivity Coefficient"
-msgstr "Δείκτες παραγωγικότητας"
+msgstr "Συντελεστής Παραγωγικότητας"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 msgid "Prod. Coef"
@@ -4458,9 +4430,8 @@ msgstr ""
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
-#, fuzzy
 msgid "to"
-msgstr "Αυτόματο"
+msgstr "σε"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
@@ -4469,14 +4440,12 @@ msgid "End Date"
 msgstr "Ημερομηνία λήξης"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
-#, fuzzy
 msgid "Number of days to add on the period"
-msgstr "Αριθμός ημερών για εμφάνιση"
+msgstr "Αριθμός ημερών για προσθήκη στην περίοδο"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
-#, fuzzy
 msgid "Nb days"
-msgstr "nb ημέρες"
+msgstr "Nb ημέρες"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "Task backlog"
@@ -4497,9 +4466,8 @@ msgid "It is not in the philosophy of CodevTT to allow users to enter several ti
 msgstr ""
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
-#, fuzzy
 msgid "Error !"
-msgstr "Σφάλμα"
+msgstr "Σφάλμα !"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "days available on period"
@@ -4516,9 +4484,8 @@ msgstr ""
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
-#, fuzzy
 msgid "Progress History Indicator"
-msgstr "Ιστορικό προόδου"
+msgstr "Δείκτης ιστορικού προόδου"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
@@ -4542,9 +4509,8 @@ msgstr ""
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
-#, fuzzy
 msgid "Real progress"
-msgstr "% προόδου"
+msgstr "Πραγματική πρόοδος"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
@@ -4652,9 +4618,8 @@ msgstr "Αποθήκευση ρυθμίσεων"
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/OngoingTasks/OngoingTasks.html
 #. plugins/OngoingTasks/OngoingTasks_ajax.html
-#, fuzzy
 msgid "Involved users"
-msgstr "Εισαγωγή χρηστών"
+msgstr "Εμπλεκόμενοι χρήστες"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_ajax.html
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator_ajax.html
@@ -4696,9 +4661,8 @@ msgid "Drift resolved tasks"
 msgstr "Απόκρυψη επιλημένων εργασιών"
 
 #. plugins/UserTeamList/UserTeamList.html
-#, fuzzy
 msgid "Update team"
-msgstr "Ενημέρωση"
+msgstr "Ενημέρωση ομάδας"
 
 #. plugins/UserTeamList/UserTeamList_cfg.html
 msgid "User team list"
@@ -4759,9 +4723,8 @@ msgid "Resolved bugs must be validated. This shows how many bugs have been Rejec
 msgstr ""
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
-#, fuzzy
 msgid "% Validated"
-msgstr "Επικυρωμένη"
+msgstr "% Επικυρώθηκε"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "Displays the percent of bugs having successfully pass the validation tests"
@@ -4792,9 +4755,8 @@ msgid "Nb of issues having fail validation tests"
 msgstr ""
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
-#, fuzzy
 msgid "Nb Fail"
-msgstr "Απέτυχε"
+msgstr "Nb Απέτυχε"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "Nb of issues having pass validation tests"
@@ -4871,9 +4833,8 @@ msgid "File"
 msgstr "Αρχείο"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv_ajax.html
-#, fuzzy
 msgid "Set All"
-msgstr "Επιλογή Όλων"
+msgstr "Ορισμός όλων"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv_ajax.html
 #, fuzzy
@@ -5477,9 +5438,8 @@ msgid "Import Done ! An email with login and password has been sent to each user
 msgstr ""
 
 #. plugins/IssueConsistencyCheck/IssueConsistencyCheck.html
-#, fuzzy
 msgid "No errors"
-msgstr "Σφάλματα"
+msgstr "Χωρίς σφάλματα"
 
 #. plugins/IssueConsistencyCheck/IssueConsistencyCheck.html
 msgid "Consistency check"
@@ -5702,9 +5662,8 @@ msgid "Nb new"
 msgstr ""
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_ajax.html
-#, fuzzy
 msgid "Nb open"
-msgstr "nb επανανοιγμένα"
+msgstr "nb ανοιγμένα"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
 msgid "Open issues seniority"
@@ -5743,9 +5702,8 @@ msgid "Average"
 msgstr ""
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
-#, fuzzy
 msgid "(in days)"
-msgstr "nb ημέρες"
+msgstr "(σε ημέρες)"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
 msgid "Median"
@@ -5804,9 +5762,8 @@ msgid "Reset selected dashboards"
 msgstr "Εκτέλεση επιλεγμένων ενεργειών"
 
 #. plugins/ResetDashboard/ResetDashboard_ajax.html
-#, fuzzy
 msgid "Domain"
-msgstr "Τομέας(-είς)"
+msgstr "Τομέας"
 
 #. plugins/ResetDashboard/ResetDashboard_ajax.html
 msgid "Item"
@@ -6912,9 +6869,8 @@ msgid "Display a history of all the teams for a given user"
 msgstr ""
 
 #: plugins/CustomUserData/CustomUserData.class.php:64
-#, fuzzy
 msgid "Custom user data"
-msgstr "Εξατομικευμένα πεδία"
+msgstr "Εξατομικευμένα πεδία χρήστη"
 
 #: plugins/CustomUserData/CustomUserData.class.php:69
 msgid "Allows to set some user specific data such as EmployeeId, userId in other DB/Softwares, phoneNumber, etc."
