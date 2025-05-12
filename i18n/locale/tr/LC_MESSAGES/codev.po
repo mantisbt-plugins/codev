@@ -26,7 +26,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-05-08 12:01:22+0000\n"
+"PO-Revision-Date: 2025-05-12 12:01:16+0000\n"
 "Language: tr\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2565,9 +2565,8 @@ msgid "workdays"
 msgstr "iş günleri"
 
 #. tpl/missing_timetracks.html
-#, fuzzy
 msgid "Missing timetracks"
-msgstr "Eksik Zaman İzleri"
+msgstr "Eksik zaman dilimleri"
 
 #. tpl/missing_timetracks.html
 msgid "Missing days"
@@ -3920,7 +3919,7 @@ msgstr "Etkinlik"
 
 #. tpl/menu/global_menu.html
 msgid "Time Tracking (lite)"
-msgstr ""
+msgstr "Zaman Takibi (lite)"
 
 #. tpl/menu/global_menu.html
 msgid "Time Tracking"
@@ -3963,9 +3962,8 @@ msgid "Team Statistics"
 msgstr "Ekip İstatistikleri"
 
 #. tpl/menu/global_menu.html
-#, fuzzy
 msgid "User Statistics"
-msgstr "Dönem İstatistikleri"
+msgstr "Kullanıcı İstatistikleri"
 
 #. tpl/menu/global_menu.html
 msgid "History"
@@ -4181,9 +4179,8 @@ msgid "users"
 msgstr "kullanıcılar"
 
 #. plugins/AdminTools/AdminTools_ajax.html
-#, fuzzy
 msgid "Change Mantis issue id"
-msgstr "Mantis kullanıcıları oluşturun"
+msgstr "Mantis sorun kimliğini değiştir"
 
 #. plugins/IssueBacklogVariationIndicator/IssueBacklogVariationIndicator.html
 #. plugins/IssueBacklogVariationIndicator/IssueBacklogVariationIndicator_cfg.html
@@ -4480,9 +4477,8 @@ msgstr "HATA, Lütfen kontrol edin"
 #. plugins/TimetrackList/TimetrackList_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_cfg.html
-#, fuzzy
 msgid "Timetrack filter"
-msgstr "Zaman çizelgesi notu"
+msgstr "Zaman izleme süzgeci"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_cfg.html
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
@@ -4492,9 +4488,8 @@ msgstr "Zaman çizelgesi notu"
 #. plugins/TimetrackList/TimetrackList_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_cfg.html
-#, fuzzy
 msgid "Only team members"
-msgstr "Ekip üyesi ekle"
+msgstr "Sadece ekip üyeleri"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_cfg.html
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_cfg.html
@@ -4929,9 +4924,8 @@ msgid "Selling price for period"
 msgstr "Dönem satış fiyatı"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
-#, fuzzy
 msgid "Elapsed during period"
-msgstr "Dönem içinde geçen"
+msgstr "Dönem içinde geçen süre"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 msgid "Remaining to produce (at end of period)"
@@ -4977,9 +4971,8 @@ msgstr "Görev adı"
 #. plugins/TimetrackList/TimetrackList_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_ajax.html
-#, fuzzy
 msgid "Task ExtRef"
-msgstr "ExtRef"
+msgstr "Görev ExtRef"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 #. plugins/TimetrackList/TimetrackList_ajax.html
@@ -4991,9 +4984,8 @@ msgstr "Görev kimliği"
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator.html
 #. plugins/OngoingTasks/OngoingTasks_ajax.html
-#, fuzzy
 msgid "Elapsed on period"
-msgstr "Dönem içinde geçen"
+msgstr "Süre doldu"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 msgid "Remaining to produce at end of period"
