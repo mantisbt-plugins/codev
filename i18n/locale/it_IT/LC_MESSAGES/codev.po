@@ -23,7 +23,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-05-08 12:01:16+0000\n"
+"PO-Revision-Date: 2025-06-26 12:01:16+0000\n"
 "Last-Translator: NSV <gianluca@pierri.org>\n"
 "Language-Team: Italian <gianluca.pierri@linfanet.it>\n"
 "Language: it_it\n"
@@ -320,7 +320,7 @@ msgstr "Aggiorna"
 #. tpl/modal/login.html
 #. tpl/plugin_manager.html
 msgid "Please wait..."
-msgstr "Attendere...."
+msgstr "Attendi per favore..."
 
 #. tpl/timetracking_lite.html
 #. tpl/ajax/weekTaskDetails.html
@@ -2980,7 +2980,6 @@ msgid "Tools"
 msgstr "Strumenti"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Team name"
 msgstr "Nome del team"
 
@@ -2997,43 +2996,36 @@ msgid "Note: A <em>Team Admin</em> must also be declared as <em>TeamMember</em> 
 msgstr "Nota : Un <em>Team Admin</em> deve anche essere dichiarato come <em>Membro del Team</em> per essere incluso nel report di produttività del Team."
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Team Administrators"
-msgstr "Amministratore del Team"
+msgstr "Amministratore del team"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "add as team administrator"
-msgstr "Amministratore del Team"
+msgstr "aggiungi come amministratore del team"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Add a team administrator"
-msgstr "Amministratore del Team"
+msgstr "Aggiungi un amministratore del team"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Remove administrator"
-msgstr "Amministratore del Team"
+msgstr "Rimuovi amministratore"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Remove the following Team Administrator ?"
-msgstr "Eliminare la seguente durata?"
+msgstr "Rimuovere il seguente amministratore del team?"
 
 #. tpl/edit_team.html
 msgid "Delete team"
 msgstr "Cancella team"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Active team members"
-msgstr "Membri del Team"
+msgstr "Membri attivi del team"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Add team member"
-msgstr "Membri del Team"
+msgstr "Aggiungi membro del team"
 
 #. tpl/edit_team.html
 msgid "Arrival-Date"
@@ -3054,9 +3046,8 @@ msgid "Import"
 msgstr "Importa"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Import user groups from CSV"
-msgstr "Importa tutti i membri del Team"
+msgstr "Importa gruppi utente da CSV"
 
 #. tpl/edit_team.html
 msgid "import groups"
@@ -3064,14 +3055,12 @@ msgstr "importa gruppi"
 
 #. tpl/edit_team.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
-#, fuzzy
 msgid "User groups"
-msgstr "importa gruppi"
+msgstr "Gruppi utente"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "CSV file"
-msgstr "Imposta filtri"
+msgstr "File CSV"
 
 #. tpl/edit_team.html
 msgid "upload"
@@ -3092,9 +3081,8 @@ msgid "Group examples: FrontEnd, BackEnd, Architect, Designers, Qualifiers"
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "CSV File Format"
-msgstr "Formato del file"
+msgstr "Formato file CSV"
 
 #. tpl/edit_team.html
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
@@ -3547,7 +3535,7 @@ msgstr "Nome del team"
 
 #. tpl/create_team.html
 msgid "Team Administrator"
-msgstr "Amministratore del Team"
+msgstr "Amministratore del team"
 
 #. tpl/create_team.html
 msgid "SideTasks Project"
