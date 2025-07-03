@@ -6,6 +6,7 @@
 # Author: Dimitri Nakashidze
 # Author: Diralik
 # Author: Dirruw'o
+# Author: Engineer56
 # Author: Gas22original
 # Author: Ice bulldog
 # Author: Irus
@@ -31,7 +32,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-05-08 12:01:20+0000\n"
+"PO-Revision-Date: 2025-07-03 12:01:16+0000\n"
 "Language: ru\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1203,9 +1204,8 @@ msgstr "Помощь"
 #. tpl/statistics.html
 #. tpl/productivity_report.html
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.html
-#, fuzzy
 msgid "(on resolved tasks only)"
-msgstr "Показать решенные задачи"
+msgstr "(только по решенным задачам)"
 
 #. tpl/statistics.html
 #. tpl/productivity_report.html

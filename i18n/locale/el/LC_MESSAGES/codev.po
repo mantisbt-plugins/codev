@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-05-08 12:01:15+0000\n"
+"PO-Revision-Date: 2025-07-03 12:01:11+0000\n"
 "Language: el\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -733,9 +733,8 @@ msgid "delete Contract-Project association"
 msgstr ""
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "Remove Project"
-msgstr "Εγχειρήματα ομάδας"
+msgstr "Αφαίρεση Εγχειρήματος"
 
 #. tpl/servicecontract_edit.html
 #, fuzzy
@@ -3114,9 +3113,8 @@ msgid "Import user groups from CSV"
 msgstr "Εισαγωγή όλων των χρηστών από ομάδα"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "import groups"
-msgstr "Εισαγωγή χρηστών"
+msgstr "εισαγωγή ομάδων"
 
 #. tpl/edit_team.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
@@ -3128,9 +3126,8 @@ msgid "CSV file"
 msgstr "Αρχείο CSV"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "upload"
-msgstr "Επαναφόρτωση"
+msgstr "ανέβασμα"
 
 #. tpl/edit_team.html
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
@@ -4031,9 +4028,8 @@ msgid "Leaves"
 msgstr "Συνέχεια"
 
 #. tpl/menu/global_menu.html
-#, fuzzy
 msgid "Check DeadLines"
-msgstr "Προθεσμία"
+msgstr "Έλεγχος Προθεσμιών"
 
 #. tpl/menu/global_menu.html
 msgid "Workload planning"
@@ -4060,9 +4056,8 @@ msgid "Team Statistics"
 msgstr "Στατιστικά ομάδας"
 
 #. tpl/menu/global_menu.html
-#, fuzzy
 msgid "User Statistics"
-msgstr "Στατιστικά περιόδου"
+msgstr "Στατιστικά Χρήστών"
 
 #. tpl/menu/global_menu.html
 msgid "History"
@@ -4599,9 +4594,8 @@ msgstr "Φιλτράρισμα εργασίας:"
 #. plugins/TimetrackList/TimetrackList_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_cfg.html
-#, fuzzy
 msgid "Only team members"
-msgstr "Μέλη της ομάδας"
+msgstr "Μόνο μέλη της ομάδας"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_cfg.html
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_cfg.html
@@ -4609,9 +4603,8 @@ msgstr "Μέλη της ομάδας"
 #. plugins/TimetrackList/TimetrackList_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
-#, fuzzy
 msgid "Display options"
-msgstr "Αποθήκευση ρυθμίσεων"
+msgstr "Προβολή ρυθμίσεων"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_cfg.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_ajax.html
@@ -5284,14 +5277,12 @@ msgid "Nb resolved"
 msgstr "nb επιλυμένα"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator_ajax.html
-#, fuzzy
 msgid "Submitted issues"
-msgstr "Υποβεβλημμένα"
+msgstr "Υποβεβλημμένα ζητήματα"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator_ajax.html
-#, fuzzy
 msgid "Resolved issues"
-msgstr "Επιλυμένες εργασίες"
+msgstr "Επιλυμένα ζητήματα"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator_cfg.html
 #: plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator.class.php:65
@@ -5354,9 +5345,8 @@ msgstr ""
 
 #. plugins/ImportUsers/ImportUsers.html
 #. plugins/ImportUsers/ImportUsers_ajax.html
-#, fuzzy
 msgid "Generate password"
-msgstr "Κωδικός πρόσβασης"
+msgstr "Παραγωγή κωδικού πρόσβασης"
 
 #. plugins/ImportUsers/ImportUsers.html
 msgid "Display a generated password (common to all created users)"
@@ -5385,9 +5375,8 @@ msgid "CodevTT role"
 msgstr "Ρόλος CodevTT"
 
 #. plugins/ImportUsers/ImportUsers.html
-#, fuzzy
 msgid "User already belong to this team"
-msgstr "Ο χρήστης υπάρχει ήδη"
+msgstr "Ο χρήστης ανήκει ήδη σε αυτήν την ομάδα"
 
 #. plugins/ImportUsers/ImportUsers.html
 msgid "User can't be added to this team"
@@ -5532,9 +5521,8 @@ msgid "Hide"
 msgstr ""
 
 #. plugins/BlogPlugin/BlogPlugin.html
-#, fuzzy
 msgid "Message wall help"
-msgstr "Ρυθμίσεις τοίχουμ μηνυμάτων"
+msgstr "Βοήθεια τοίχου μηνυμάτων"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Buttons"
@@ -5549,9 +5537,8 @@ msgid "Post a new message"
 msgstr "Αποστολή νέου μηνύματος"
 
 #. plugins/BlogPlugin/BlogPlugin.html
-#, fuzzy
 msgid "Set message wall options"
-msgstr "Ρυθμίσεις τοίχουμ μηνυμάτων"
+msgstr "Ορισμός ρυθμίσεων τοίχου μηνυμάτων"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Mark as read. The message can then be hidden"
@@ -5578,9 +5565,8 @@ msgid "This will permanently delete this post, are you sure ?!"
 msgstr ""
 
 #. plugins/BlogPlugin/BlogPlugin_cfg.html
-#, fuzzy
 msgid "Message wall"
-msgstr "Ρυθμίσεις τοίχουμ μηνυμάτων"
+msgstr "Τοίχος μηνυμάτων"
 
 #. plugins/BlogPlugin/BlogPlugin_cfg.html
 msgid "Size"
@@ -5613,9 +5599,8 @@ msgid "Submission date"
 msgstr "Ημερομηνία υποβολής"
 
 #. plugins/BlogPlugin/BlogPlugin_ajax.html
-#, fuzzy
 msgid "Expiration date"
-msgstr "Ημερομηνία δημιουργίας"
+msgstr "Ημερομηνία λήξης"
 
 #. plugins/BlogPlugin/BlogPlugin_ajax.html
 msgid "Author"
