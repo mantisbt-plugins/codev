@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-05-08 12:01:23+0000\n"
+"PO-Revision-Date: 2025-07-10 12:01:27+0000\n"
 "Language: zh_tw\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1311,7 +1311,7 @@ msgstr "每月活動"
 #. tpl/team_activity_report.html
 #. plugins/TasksPivotTable/TasksPivotTable.html
 msgid "Detailed"
-msgstr "詳細內容"
+msgstr "詳細資訊"
 
 #. tpl/team_monthly_activity_report.html
 msgid "Tasks per User"
@@ -3142,7 +3142,7 @@ msgstr "離開日期"
 #. tpl/edit_team.html
 #. plugins/UserTeamList/UserTeamList.html
 msgid "optionnal"
-msgstr "可選"
+msgstr "非必填"
 
 #. tpl/edit_team.html
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
