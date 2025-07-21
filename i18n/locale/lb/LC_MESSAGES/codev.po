@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-06-26 12:01:16+0000\n"
+"PO-Revision-Date: 2025-07-21 12:01:10+0000\n"
 "Language: lb\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -4862,7 +4862,7 @@ msgstr ""
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
 msgid "No"
-msgstr "Neen"
+msgstr "Nee"
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
 msgid "Yes"
@@ -6030,7 +6030,7 @@ msgstr ""
 
 #: filters/IssueIdFilter.php:51
 msgid "Sort issues per ID"
-msgstr "Problemer no der ID zortéieren"
+msgstr "Problemer no ID sortéieren"
 
 #: filters/IssueIdFilter.php:59
 msgid "Issue ID"
