@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-05-08 12:01:17+0000\n"
+"PO-Revision-Date: 2025-07-24 12:01:18+0000\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1421,9 +1421,8 @@ msgstr "선택"
 #. tpl/set_holidays.html
 #. tpl/time_tracking.html
 #. tpl/modal/update_issueBacklog.html
-#, fuzzy
 msgid "Duration (in days)"
-msgstr "생산일"
+msgstr "기간 (일수)"
 
 #. tpl/set_holidays.html
 msgid "Monday"
@@ -1567,9 +1566,8 @@ msgid "Value"
 msgstr "값"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "Available Workload"
-msgstr "이용 가능한 필드"
+msgstr "가용 작업량"
 
 #. tpl/productivity_report.html
 msgid "System Availability"
@@ -1581,7 +1579,7 @@ msgstr "MgrEffortEstime 신뢰성 비율"
 
 #. tpl/productivity_report.html
 msgid "EffortEstim Reliability Rate"
-msgstr ""
+msgstr "EffortEstim 신뢰성 비율"
 
 #. tpl/productivity_report.html
 msgid "Workload Forecasting (holidays & externalTasks not included, developers only)"
