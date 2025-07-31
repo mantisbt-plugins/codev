@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-05-08 12:01:21+0000\n"
+"PO-Revision-Date: 2025-07-31 12:01:28+0000\n"
 "Language: sl\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2024,7 +2024,7 @@ msgstr "Dnevnik"
 
 #. tpl/edit_jobs.html
 msgid "Job Name"
-msgstr ""
+msgstr "Ime opravila"
 
 #. tpl/edit_jobs.html
 msgid "delete Job"
@@ -3151,7 +3151,7 @@ msgstr ""
 
 #. tpl/edit_team.html
 msgid "Project name"
-msgstr ""
+msgstr "Ime projekta"
 
 #. tpl/edit_team.html
 msgid "Create project"
@@ -3510,7 +3510,7 @@ msgstr ""
 
 #. tpl/create_team.html
 msgid "Project Name"
-msgstr ""
+msgstr "Ime projekta"
 
 #. tpl/create_team.html
 msgid "Meeting, Pre-sales, ProjectManagement, ..."
@@ -4945,7 +4945,7 @@ msgstr ""
 #. plugins/TimetrackList/TimetrackList_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 msgid "Task name"
-msgstr ""
+msgstr "Ime naloge"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_cfg.html
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
