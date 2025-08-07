@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-08-04 12:01:16+0000\n"
+"PO-Revision-Date: 2025-08-07 12:01:16+0000\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -325,7 +325,7 @@ msgstr "기다려 주십시오..."
 #. plugins/TimetrackList/TimetrackList.html
 #. plugins/TimetrackDetailsIndicator/TimetrackDetailsIndicator_ajax.html
 msgid "Job"
-msgstr "작업"
+msgstr "일"
 
 #. tpl/timetracking_lite.html
 #. tpl/time_tracking.html
@@ -596,7 +596,7 @@ msgstr "시작 날짜"
 
 #. tpl/servicecontract_edit.html
 msgid "StartDate"
-msgstr "시작날짜"
+msgstr "시작 날짜"
 
 #. tpl/servicecontract_edit.html
 #. tpl/command_edit.html
@@ -607,7 +607,7 @@ msgstr "종료일"
 
 #. tpl/servicecontract_edit.html
 msgid "EndDate"
-msgstr "끝날짜"
+msgstr "종료일"
 
 #. tpl/servicecontract_edit.html
 #. tpl/command_edit.html
@@ -694,7 +694,7 @@ msgstr "제거"
 #. tpl/commandset_edit.html
 #. tpl/commandset_info.html
 msgid "Ref"
-msgstr "참조"
+msgstr "각주"
 
 #. tpl/servicecontract_edit.html
 #. tpl/command_edit.html
@@ -2225,9 +2225,8 @@ msgstr "이 명령을 삭제하겠습니까 ?"
 
 #. tpl/command_edit.html
 #. plugins/BacklogPerUserIndicator/BacklogPerUserIndicator.html
-#, fuzzy
 msgid "Nb tasks"
-msgstr "작업"
+msgstr "Nb 작업"
 
 #. tpl/command_edit.html
 #. tpl/command_info.html
@@ -2727,9 +2726,8 @@ msgstr "이동"
 
 #. tpl/servicecontract_info.html
 #. tpl/commandset_info.html
-#, fuzzy
 msgid "No Command found."
-msgstr "명령집합을 찾을 수 없습니다."
+msgstr "명령을 찾을 수 없습니다."
 
 #. tpl/servicecontract_info.html
 msgid "No sidetasks found."
@@ -2750,9 +2748,8 @@ msgstr ""
 #. tpl/servicecontract_info.html
 #. tpl/commandset_info.html
 #. tpl/command_info.html
-#, fuzzy
 msgid "No task found."
-msgstr "사이드작업을 찾을 수 없습니다."
+msgstr "작업을 찾을 수 없습니다."
 
 #. tpl/servicecontract_info.html
 #. tpl/commandset_info.html
