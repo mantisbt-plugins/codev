@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-08-07 12:01:16+0000\n"
+"PO-Revision-Date: 2025-08-14 12:01:10+0000\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1491,9 +1491,8 @@ msgid "Project Management"
 msgstr "프로젝트 관리"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "Other SideTasks"
-msgstr "사이드작업"
+msgstr "다른 사이드작업"
 
 #. tpl/productivity_report.html
 #. tpl/project_activity_report.html
@@ -1511,28 +1510,24 @@ msgid "Days spent on the projects during the period (team members only)"
 msgstr ""
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "SideTasks: Project Management"
-msgstr "프로젝트 관리"
+msgstr "사이드작업: 프로젝트 관리"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "Days spent on project management tasks"
-msgstr "프로젝트 관리"
+msgstr "프로젝트 관리 작업에 소요된 일수"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "SideTasks: Others"
-msgstr "사이드작업"
+msgstr "사이드작업: 기타"
 
 #. tpl/productivity_report.html
 msgid "Days spent on sideTasks, except project management and inactivity tasks"
 msgstr ""
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "Production Days : total"
-msgstr "생산일"
+msgstr "생산일: 총"
 
 #. tpl/productivity_report.html
 msgid "number of days billed"
@@ -1545,7 +1540,6 @@ msgid "projects"
 msgstr "프로젝트"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "sideTasks"
 msgstr "사이드작업"
 
@@ -5715,9 +5709,8 @@ msgid "Nb timetracks"
 msgstr "주별 시간트랙"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
-#, fuzzy
 msgid "Missing"
-msgstr "필드 없음"
+msgstr "없음"
 
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.html
 #: plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.class.php:65
@@ -6352,14 +6345,12 @@ msgid "Database Name"
 msgstr "데이터베이스 이름"
 
 #: install/install_step1.php:237
-#, fuzzy
 msgid "Database Table Prefix "
-msgstr "데이터베이스 이름"
+msgstr "데이터베이스 테이블 접두사 "
 
 #: install/install_step1.php:241
-#, fuzzy
 msgid "Database Table Suffix "
-msgstr "데이터베이스 이름"
+msgstr "데이터베이스 테이블 접미사 "
 
 #: install/install_step1.php:255
 msgid "WARN Windows Install: to avoid a SUPER privilege error, use <b>root</b> mysql user (This can be changed in config.ini when installation is finished)."
@@ -6814,9 +6805,8 @@ msgid "Task is not in team's projects"
 msgstr ""
 
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.class.php:285
-#, fuzzy
 msgid "Timetrack added by "
-msgstr "시간트랙"
+msgstr "\\님이 추가한 타임트랙"
 
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks_ajax.php:76
 msgid "Task does not exist !"
