@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-08-14 12:01:10+0000\n"
+"PO-Revision-Date: 2025-09-08 12:01:12+0000\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -396,7 +396,7 @@ msgstr "이 문서에 접근하려면 팀을 선택해 주십시오."
 
 #. tpl/check.html
 msgid " Error(s) in Mantis Tasks"
-msgstr ""
+msgstr " Mantis 작업에서의 오류"
 
 #. tpl/check.html
 #. tpl/project_activity_report.html
@@ -2506,7 +2506,7 @@ msgstr "쿼리 실패"
 
 #. tpl/time_tracking.html
 msgid "Add timetrack"
-msgstr "타임트랙 추가"
+msgstr "시간 추적 추가"
 
 #. tpl/time_tracking.html
 #. tpl/modal/update_issueBacklog.html
@@ -2529,7 +2529,7 @@ msgstr ""
 
 #. tpl/time_tracking.html
 msgid "Week timetracks"
-msgstr "주별 시간트랙"
+msgstr "주별 시간 추적"
 
 #. tpl/time_tracking.html
 #. tpl/team_activity_report.html
@@ -2550,11 +2550,11 @@ msgstr "이 줄 삭제하기"
 #. tpl/time_tracking.html
 #. plugins/TimetrackList/TimetrackList_ajax.html
 msgid "Edit timetrack"
-msgstr "타임트랙 편집"
+msgstr "시간 추적 편집"
 
 #. tpl/time_tracking.html
 msgid "Future timetracks"
-msgstr "미래 타임트랙"
+msgstr "미래 시간 추적"
 
 #. tpl/time_tracking.html
 msgid "Delete track"
@@ -3001,9 +3001,8 @@ msgid "Preferences"
 msgstr "환경 설정"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Timetrack Durations"
-msgstr "타임트랙 목록"
+msgstr "시간 추적 기간"
 
 #. tpl/edit_team.html
 msgid "Costs management"
@@ -3366,9 +3365,8 @@ msgid "delete OnDuty task"
 msgstr "작업 선택"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Timetrack durations list"
-msgstr "타임트랙 목록"
+msgstr "시간 추적 기간 목록"
 
 #. tpl/edit_team.html
 msgid "These are the values proposed in the Timetracking page, when adding a timetrack."
@@ -3795,11 +3793,11 @@ msgstr "속성"
 
 #. tpl/issue_info.html
 msgid "Timetracks"
-msgstr "시간트랙"
+msgstr "시간 추적"
 
 #. tpl/issue_info.html
 msgid "Time tracking"
-msgstr "시간 트래킹"
+msgstr "시간 추적"
 
 #. tpl/issue_info.html
 msgid "Update timetracking"
@@ -4450,9 +4448,8 @@ msgid "Task backlog"
 msgstr "백로그"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
-#, fuzzy
 msgid "Fill Period With Timetracks"
-msgstr "타임트랙 편집"
+msgstr "시간 추적으로 기간 채우기"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.class.php:77
@@ -4473,9 +4470,8 @@ msgstr ""
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks_cfg.html
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.class.php:74
-#, fuzzy
 msgid "Fill period with timetracks"
-msgstr "타임트랙 편집"
+msgstr "시간 추적으로 기간 채우기"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator_cfg.html
 #, fuzzy
@@ -4588,7 +4584,7 @@ msgstr "오류: 확인해 주십시오"
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_cfg.html
 msgid "Timetrack filter"
-msgstr "시간추적 필터"
+msgstr "시간 추적 필터"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_cfg.html
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
@@ -4979,7 +4975,7 @@ msgstr "시간 트래킹"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Move selected timetracks"
-msgstr "선택된 타임트랙 이동하기"
+msgstr "선택된 시간 추적 이동하기"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 #, fuzzy
@@ -4992,7 +4988,7 @@ msgstr ""
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Timetracks moved successfully !"
-msgstr "타임트랙을 성공적으로 이동했습니다 !"
+msgstr "시간 추적을 성공적으로 이동했습니다 !"
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
 #: plugins/StatusHistoryIndicator2/StatusHistoryIndicator2.class.php:67
@@ -5220,11 +5216,11 @@ msgstr "사용자 지정 필드"
 
 #. plugins/TimetrackList/TimetrackList.html
 msgid "Timetrack list"
-msgstr "타임트랙 목록"
+msgstr "시간 추적 목록"
 
 #. plugins/TimetrackList/TimetrackList.html
 msgid "Update timetrack"
-msgstr "타임트랙 업데이트"
+msgstr "시간 추적 업데이트"
 
 #. plugins/BacklogPerUserIndicator/BacklogPerUserIndicator_cfg.html
 #. plugins/BacklogPerUserIndicator/BacklogPerUserIndicator.html
@@ -5704,9 +5700,8 @@ msgid "Mode"
 msgstr "모드"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
-#, fuzzy
 msgid "Nb timetracks"
-msgstr "주별 시간트랙"
+msgstr "Nb 시간 추적"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
 msgid "Missing"
@@ -5991,7 +5986,7 @@ msgstr ""
 
 #: classes/consistency_check2.class.php:181
 msgid "There should be no timetracks on \"new\" issues "
-msgstr "\"새\" 이슈 \\에서의 시간트랙이 없어야 합니다"
+msgstr "\"새\" 이슈 \\에서의 시간 추적이 없어야 합니다"
 
 #: classes/consistency_check2.class.php:182
 msgid "Issues should be referenced in a Command"
@@ -6015,7 +6010,7 @@ msgstr "이슈는 누군가에게 할당되어야 합니다"
 
 #: classes/consistency_check2.class.php:187
 msgid "Check timetracks on removed issues (not needed if Mantis plugin is enabled)"
-msgstr "제거된 이슈에서의 시간트랙을 확인 (맨티스 플러그인이 활성화된 경우 필요하지 않음)"
+msgstr "제거된 이슈에서의 시간 추적을 확인 (맨티스 플러그인이 활성화된 경우 필요하지 않음)"
 
 #. for all timetracks of the team, check that the Mantis issue exist.
 #: classes/consistency_check2.class.php:188
@@ -6758,15 +6753,15 @@ msgstr ""
 
 #: timetracking/time_tracking_ajax.php:482
 msgid "Timetrack not added: bugid is not specified"
-msgstr "타임트랙이 추가되지 않았습니다: bugid가 지정되지 않았습니다"
+msgstr "시간 추적이 추가되지 않았습니다: bugid가 지정되지 않았습니다"
 
 #: timetracking/time_tracking_ajax.php:485
 msgid "Timetrack not added: duration is not specified"
-msgstr "타임트랙이 추가되지 않았습니다: 기간이 지정되지 않았습니다"
+msgstr "시간 추적이 추가되지 않았습니다: 기간이 지정되지 않았습니다"
 
 #: timetracking/time_tracking_ajax.php:530
 msgid "ERROR: Failed to add timetrack !"
-msgstr "오류: 타임트랙 추가를 실패했습니다 !"
+msgstr "오류: 시간 추적 추가를 실패했습니다 !"
 
 #: plugins/DeadlineAlertIndicator/DeadlineAlertIndicator.class.php:62
 msgid "Task deadlines alert"
@@ -6806,7 +6801,7 @@ msgstr ""
 
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.class.php:285
 msgid "Timetrack added by "
-msgstr "\\님이 추가한 타임트랙"
+msgstr "\\님이 추가한 시간 추적"
 
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks_ajax.php:76
 msgid "Task does not exist !"

@@ -7,6 +7,7 @@
 # Author: Maroen1990
 # Author: Meno25
 # Author: Michel Bakni
+# Author: Mohammed Qays
 # Author: Mr. Ibrahem
 # Author: Tala Ali
 # Author: Withsalah
@@ -19,7 +20,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-08-04 12:01:12+0000\n"
+"PO-Revision-Date: 2025-09-08 12:01:08+0000\n"
 "Language: ar\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2770,7 +2771,7 @@ msgstr "ملاحظة المسار الزمني مطلوبة"
 
 #. tpl/modal/select_issues.html
 msgid "No task selected !"
-msgstr "لم يتم اختيار مهمة!"
+msgstr "لا مهمة مختارة!"
 
 #. tpl/modal/select_issues.html
 msgid "Browse..."
@@ -4161,7 +4162,7 @@ msgstr "إدارة CodevTT"
 
 #. plugins/AdminTools/AdminTools.html
 msgid "Actions executed !"
-msgstr "لم يتم اختيار مهمة!"
+msgstr "نفذت الإجراءات!"
 
 #. plugins/AdminTools/AdminTools_ajax.html
 msgid "Force the display of the \"Message\" plugin on the homepage"
