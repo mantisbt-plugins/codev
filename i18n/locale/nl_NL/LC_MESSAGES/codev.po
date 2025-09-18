@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-08-04 12:01:18+0000\n"
+"PO-Revision-Date: 2025-09-18 12:01:58+0000\n"
 "Language: nl_nl\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -182,7 +182,7 @@ msgstr "TOTAAL"
 
 #. tpl/timetracking_lite.html
 msgid "Hint: Click in a field to edit 'Elapsed time' or 'Backlog'"
-msgstr ""
+msgstr "Tip: Klik in een veld om 'Verstreken tijd' of 'Achterstand' te bewerken"
 
 #. tpl/timetracking_lite.html
 #. tpl/time_tracking.html
@@ -348,27 +348,27 @@ msgstr "Duur"
 #. tpl/issue_info.html
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Enter a keyword or *** to display all..."
-msgstr ""
+msgstr "Voer een trefwoord in, of *** om alles weer te geven..."
 
 #. tpl/timetracking_lite.html
 msgid "Invalid backlog format"
-msgstr ""
+msgstr "Onjuist formaat achterstand"
 
 #. tpl/timetracking_lite.html
 #. tpl/modal/update_issueBacklog.html
 #. tpl/issue_info.html
 #: timetracking/timetracking_lite_ajax.php:139
 msgid "Task not resolved, backlog cannot be '0'"
-msgstr ""
+msgstr "Taak niet opgelost, achterstand kan niet '0' zijn"
 
 #. tpl/timetracking_lite.html
 #. tpl/modal/update_issueBacklog.html
 msgid "Status can't be : "
-msgstr ""
+msgstr "Status kan niet zijn: "
 
 #. tpl/timetracking_lite.html
 msgid "Please update status before editing timetracks"
-msgstr ""
+msgstr "Werk de status bij voordat u tijdregistraties bewerkt"
 
 #. tpl/timetracking_lite.html
 #. tpl/check.html
