@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-09-11 12:01:39+0000\n"
+"PO-Revision-Date: 2025-09-29 12:01:33+0000\n"
 "Language: ar\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -4601,7 +4601,7 @@ msgstr "يجب التحقق من صحة الأخطاء، يوضح هذا عدد 
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "% Validated"
-msgstr "تم التحقق من صحة %"
+msgstr "% مُعتمد"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "Displays the percent of bugs having successfully pass the validation tests"
