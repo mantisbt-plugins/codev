@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-09-29 12:01:33+0000\n"
+"PO-Revision-Date: 2025-10-27 12:02:44+0000\n"
 "Language: ar\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -3701,7 +3701,7 @@ msgstr "أضف للأمر"
 
 #. tpl/issue_info.html
 msgid "Properties"
-msgstr "الخصائص"
+msgstr "الخواص"
 
 #. tpl/issue_info.html
 msgid "Timetracks"
