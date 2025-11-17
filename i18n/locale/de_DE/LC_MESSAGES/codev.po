@@ -1,6 +1,7 @@
 # Translation of CodevTT to German (Deutsch)
 # Exported from translatewiki.net
 #
+# Author: Ameisenigel
 # Author: Anna7321
 # Author: Brettchenweber
 # Author: Cupkake4Yoshi
@@ -23,7 +24,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-10-30 12:02:29+0000\n"
+"PO-Revision-Date: 2025-11-17 12:01:57+0000\n"
 "Last-Translator: Vincent <vmerz@outlook.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de_de\n"
@@ -2836,7 +2837,7 @@ msgstr "Fair play !"
 
 #. tpl/modal/fairplay.html
 msgid "You are using CodevTT since"
-msgstr "Sie nutzen CodevTT seit"
+msgstr "Du nutzt CodevTT seit"
 
 #. tpl/modal/fairplay.html
 msgid "If you like this software, please consider making a donation."
