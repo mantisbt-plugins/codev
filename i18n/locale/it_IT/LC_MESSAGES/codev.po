@@ -23,7 +23,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-10-30 12:02:32+0000\n"
+"PO-Revision-Date: 2025-12-01 12:01:13+0000\n"
 "Last-Translator: NSV <gianluca@pierri.org>\n"
 "Language-Team: Italian <gianluca.pierri@linfanet.it>\n"
 "Language: it_it\n"
@@ -3854,7 +3854,7 @@ msgstr "--- Crea nuovo Ordine ---"
 
 #. tpl/command_info.html
 msgid "Command Filters"
-msgstr "Filtro Ordini"
+msgstr "Filtri comando"
 
 #. tpl/command_info.html
 msgid "Reduce the command selection by setting some filters"
