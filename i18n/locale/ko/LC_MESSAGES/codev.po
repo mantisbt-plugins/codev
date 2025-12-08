@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-10-30 12:02:33+0000\n"
+"PO-Revision-Date: 2025-12-08 12:01:06+0000\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1648,9 +1648,8 @@ msgid "Note: Drift on tasks resolved in the period"
 msgstr ""
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "Drift - All tasks"
-msgstr "해결된 작업 없음..."
+msgstr "드리프트 - 모든 작업"
 
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
@@ -1697,9 +1696,8 @@ msgstr "시간에서 해결된 작업"
 
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
-#, fuzzy
 msgid "Tasks ahead"
-msgstr "작업명"
+msgstr "앞으로의 작업"
 
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
@@ -1707,9 +1705,8 @@ msgid "Tasks resolved in less time than the estimated effort"
 msgstr ""
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "Effort deviation"
-msgstr "오류 설명"
+msgstr "노력 편차"
 
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
