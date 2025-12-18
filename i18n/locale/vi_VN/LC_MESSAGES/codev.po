@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2025-12-15 12:01:15+0000\n"
+"PO-Revision-Date: 2025-12-18 12:01:35+0000\n"
 "X-POT-Import-Date: 2024-02-04 11:30:40+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -4332,127 +4332,127 @@ msgstr "Nhiệm vụ tồn đọng"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "Fill Period With Timetracks"
-msgstr ""
+msgstr "Điền đầy khoảng thời gian bằng bảng theo dõi thời gian"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.class.php:77
 msgid "Add multiple timetracks at once"
-msgstr ""
+msgstr "Thêm nhiều mốc thời gian cùng một lúc"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "It is not in the philosophy of CodevTT to allow users to enter several timetracks at the same time. However it is sometimes necessary to enter missing timetracks over large periods (eg. Catch up when CodevTT is installed late on a project).\nThis right is only given to team administrators."
-msgstr ""
+msgstr "Theo triết lý của CodevTT, người dùng không được phép nhập nhiều tiến trình thời gian cùng lúc. Tuy nhiên, đôi khi cần phải nhập các tiến trình thời gian bị thiếu trong thời gian dài (ví dụ: để bù đắp khi CodevTT được cài đặt muộn trong một dự án).\n\nQuyền này chỉ được cấp cho quản trị viên nhóm."
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "Error !"
-msgstr ""
+msgstr "Lỗi !"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "days available on period"
-msgstr ""
+msgstr "ngày có sẵn trong kỳ"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks_cfg.html
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.class.php:74
 msgid "Fill period with timetracks"
-msgstr ""
+msgstr "Điền khoảng thời gian bằng các bản ghi thời gian"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator_cfg.html
 msgid "Managemnt load history"
-msgstr ""
+msgstr "Lịch sử tải quản lý"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
 msgid "Progress History Indicator"
-msgstr ""
+msgstr "Chỉ báo lịch sử tiến độ"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
 msgid "Evolution of the real progress vs the theoretical progress."
-msgstr ""
+msgstr "Sự tiến hóa giữa tiến bộ thực tế và tiến bộ lý thuyết."
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
 msgid "Theoretical progress"
-msgstr ""
+msgstr "Tiến bộ lý thuyết"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
 msgid "Compares the EffortEstim to the Elapsed days"
-msgstr ""
+msgstr "So sánh EffortEstim với số ngày đã trôi qua."
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
 msgid "Elapsed / max(MgrEffortEstim, EffortEstim)"
-msgstr ""
+msgstr "Thời gian đã trôi qua / max(MgrEffortEstim, EffortEstim)"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
 msgid "Real progress"
-msgstr ""
+msgstr "Tiến bộ thực sự"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
 msgid "Displays the backlog"
-msgstr ""
+msgstr "Hiển thị danh sách công việc tồn đọng"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
 msgid "Elapsed / (Elapsed +  Backlog)"
-msgstr ""
+msgstr "Thời gian đã trôi qua / (Thời gian đã trôi qua + Thời gian tồn đọng)"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
 msgid "Historical Progression Chart"
-msgstr ""
+msgstr "Biểu đồ tiến trình lịch sử"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 msgid "Mngt Elapsed"
-msgstr ""
+msgstr "Quản lý đã hết hạn"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 msgid "Mngt Provisions"
-msgstr ""
+msgstr "Điều khoản quản lý"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Sorry, you need to be manager to use this plugin"
-msgstr ""
+msgstr "Xin lỗi, bạn cần phải là quản trị viên mới có thể sử dụng plugin này."
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Root task"
-msgstr ""
+msgstr "Nhiệm vụ gốc"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "comma separated"
-msgstr ""
+msgstr "cách nhau bằng dấu phẩy"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Root task list"
-msgstr ""
+msgstr "Danh sách tác vụ gốc"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "comma separated list of mantis tasks"
-msgstr ""
+msgstr "danh sách các nhiệm vụ của bọ ngựa được phân tách bằng dấu phẩy"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Also include parent-tasks in the tree (unchecked: include as folder only)"
-msgstr ""
+msgstr "Cũng bao gồm các tác vụ cha trong cây thư mục (không chọn: chỉ bao gồm dưới dạng thư mục)"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Include parent-tasks in its own folder (unchecked: include above)"
-msgstr ""
+msgstr "Bao gồm các tác vụ cha trong thư mục riêng của nó (không được chọn: bao gồm ở trên)"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Clear the WBS before import (remove all existing issues from the command)"
-msgstr ""
+msgstr "Xóa cấu trúc phân chia công việc (WBS) trước khi nhập (loại bỏ tất cả các vấn đề hiện có khỏi lệnh)."
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand_cfg.html
 msgid "Import Relationship tree to command"
-msgstr ""
+msgstr "Nhập cây quan hệ vào lệnh"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "ERROR, Please check"
-msgstr ""
+msgstr "LỖI, vui lòng kiểm tra"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_cfg.html
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator_cfg.html
@@ -4461,7 +4461,7 @@ msgstr ""
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_cfg.html
 msgid "Timetrack filter"
-msgstr ""
+msgstr "Ghi chú theo dõi thời gian"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_cfg.html
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
@@ -4472,7 +4472,7 @@ msgstr ""
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_cfg.html
 msgid "Only team members"
-msgstr ""
+msgstr "Chỉ các thành viên nhóm"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_cfg.html
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_cfg.html
@@ -4481,7 +4481,7 @@ msgstr ""
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
 msgid "Display options"
-msgstr ""
+msgstr "Tùy chọn hiển thị"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_cfg.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_ajax.html
@@ -4489,50 +4489,50 @@ msgstr ""
 #. plugins/OngoingTasks/OngoingTasks.html
 #. plugins/OngoingTasks/OngoingTasks_ajax.html
 msgid "Involved users"
-msgstr ""
+msgstr "Thành viên đã đăng ký"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_ajax.html
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator_ajax.html
 msgid "Total elapsed"
-msgstr ""
+msgstr "Tổng thời gian đã trôi qua"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_ajax.html
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator_ajax.html
 msgid "sidetasks"
-msgstr ""
+msgstr "Nhiệm vụ phụ"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
 msgid "Groups"
-msgstr ""
+msgstr "Nhóm"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
 msgid "Display the elapsed time for each user group"
-msgstr ""
+msgstr "Hiển thị thời gian đã trôi qua cho mỗi nhóm người dùng."
 
 #. plugins/DriftAlertIndicator/DriftAlertIndicator_cfg.html
 msgid "Tasks Drift alert"
-msgstr ""
+msgstr "Cảnh báo lệch nhiệm vụ"
 
 #. plugins/DriftAlertIndicator/DriftAlertIndicator_cfg.html
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
 msgid "Display resolved issues"
-msgstr ""
+msgstr "Hiển thị các vấn đề đã được giải quyết"
 
 #. plugins/DriftAlertIndicator/DriftAlertIndicator.html
 msgid "Drift current tasks"
-msgstr ""
+msgstr "Nhiệm vụ dòng điện trôi"
 
 #. plugins/DriftAlertIndicator/DriftAlertIndicator.html
 msgid "Drift resolved tasks"
-msgstr ""
+msgstr "Ẩn các nhiệm vụ đã giải quyết"
 
 #. plugins/UserTeamList/UserTeamList.html
 msgid "Update team"
-msgstr ""
+msgstr "Nhóm cập nhật"
 
 #. plugins/UserTeamList/UserTeamList_cfg.html
 msgid "User team list"
-msgstr ""
+msgstr "Danh sách nhóm người dùng"
 
 #. plugins/ManagementCosts/ManagementCosts_ajax3.html
 #. plugins/ManagementCosts/ManagementCosts.html
@@ -4543,18 +4543,18 @@ msgstr ""
 #: plugins/ManagementCosts/ManagementCosts.class.php:246
 #: plugins/CostsIndicator/CostsIndicator.class.php:65
 msgid "Costs"
-msgstr ""
+msgstr "Chi phí"
 
 #. plugins/ManagementCosts/ManagementCosts_cfg.html
 #. plugins/ManagementCosts/ManagementCosts.html
 #: plugins/ManagementCosts/ManagementCosts.class.php:58
 msgid "Management costs"
-msgstr ""
+msgstr "Chi phí quản lý"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2_cfg.html
 #: plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.class.php:61
 msgid "Reopened rate history"
-msgstr ""
+msgstr "Lịch sử tỷ giá được mở lại"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2_cfg.html
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
@@ -4562,7 +4562,7 @@ msgstr ""
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2_cfg.html
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2_cfg.html
 msgid "week"
-msgstr ""
+msgstr "Tuần"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2_cfg.html
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
@@ -4570,7 +4570,7 @@ msgstr ""
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2_cfg.html
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2_cfg.html
 msgid "weeks"
-msgstr ""
+msgstr "Nhiều tuần"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2_cfg.html
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
@@ -4578,375 +4578,375 @@ msgstr ""
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2_cfg.html
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2_cfg.html
 msgid "month"
-msgstr ""
+msgstr "Tháng"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "BugValidation History Indicator"
-msgstr ""
+msgstr "Chỉ báo Lịch sử Xác thực Lỗi"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "Resolved bugs must be validated. This shows how many bugs have been Rejected or Accepted during the validation stage. Bugs in 'resolved' status (not yet validated) are excluded."
-msgstr ""
+msgstr "Các lỗi đã được khắc phục cần được xác nhận lại. Điều này cho thấy có bao nhiêu lỗi đã bị Từ chối hoặc Chấp nhận trong giai đoạn xác nhận. Các lỗi ở trạng thái 'đã khắc phục' (chưa được xác nhận) sẽ bị loại trừ."
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "% Validated"
-msgstr ""
+msgstr "Đã phê chuẩn"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "Displays the percent of bugs having successfully pass the validation tests"
-msgstr ""
+msgstr "Hiển thị tỷ lệ phần trăm lỗi đã vượt qua thành công các bài kiểm tra xác thực."
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "status changed from 'resolved' to any higher status (and still in this state at the end of the period)."
-msgstr ""
+msgstr "Trạng thái đã thay đổi từ 'đã giải quyết' sang trạng thái cao hơn (và vẫn ở trạng thái này vào cuối kỳ)."
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "% Rejected"
-msgstr ""
+msgstr "Bị từ chối"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "Displays the percent of bugs having failed the validation tests"
-msgstr ""
+msgstr "Hiển thị tỷ lệ phần trăm lỗi đã vượt qua thành công các bài kiểm tra xác thực."
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "status changed from 'resolved (or higher) to any lower status (and still unresolved at the end of the period)"
-msgstr ""
+msgstr "Trạng thái đã thay đổi từ 'đã giải quyết (hoặc cao hơn)' sang bất kỳ trạng thái thấp hơn nào (và vẫn chưa được giải quyết vào cuối kỳ)."
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "Bug Refusal Rate"
-msgstr ""
+msgstr "Tỷ lệ từ chối lỗi"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "Nb of issues having fail validation tests"
-msgstr ""
+msgstr "Số lượng vấn đề không vượt qua được các bài kiểm tra xác thực"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "Nb Fail"
-msgstr ""
+msgstr "Nb Thất bại"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "Nb of issues having pass validation tests"
-msgstr ""
+msgstr "Số lượng vấn đề đã vượt qua các bài kiểm tra xác thực"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "Nb Pass"
-msgstr ""
+msgstr "nhiệm vụ nb"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv_cfg.html
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 #: plugins/ImportIssueCsv/ImportIssueCsv.class.php:62
 msgid "Import issues"
-msgstr ""
+msgstr "Nhập khẩu các issue"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 msgid "Sorry, only team members can import tasks."
-msgstr ""
+msgstr "Rất tiếc, chỉ các thành viên nhóm mới có thể nhập nhiệm vụ."
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 #. plugins/ImportUsers/ImportUsers.html
 msgid "Preview import"
-msgstr ""
+msgstr "Xem trước khi nhập"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 #. plugins/ImportUsers/ImportUsers.html
 msgid "File Format"
-msgstr ""
+msgstr "Định dạng tập tin"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 #. plugins/ImportUsers/ImportUsers.html
 msgid "Standard CSV format with :"
-msgstr ""
+msgstr "Định dạng CSV tiêu chuẩn với:"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 msgid "enclosure"
-msgstr ""
+msgstr "bao vây"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 #. plugins/ImportUsers/ImportUsers.html
 msgid "Date format"
-msgstr ""
+msgstr "Kiểu hiển thị ngày tháng"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 msgid "Number format"
-msgstr ""
+msgstr "Định dạng số"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 msgid "Encoding"
-msgstr ""
+msgstr "Mã hóa"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 msgid "It is highly recommended to use <strong>UTF-8</strong> but ASCII and ISO-8859-1 (MS-Windows) are also suported."
-msgstr ""
+msgstr "Nên sử dụng <strong>UTF-8</strong> , nhưng ASCII và ISO-8859-1 (MS-Windows) cũng được hỗ trợ."
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 msgid "Columns"
-msgstr ""
+msgstr "Cột"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 msgid "the file must contain 7 columns, the 1st line contains the column names."
-msgstr ""
+msgstr "Tệp phải chứa 7 cột, dòng đầu tiên chứa tên các cột."
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 msgid "Summary ; MgrEffortEstim ; EffortEstim ; Description ; Deadline ; ExternalRef ; WBS tree"
-msgstr ""
+msgstr "Tóm tắt; Ước tính nỗ lực của người quản lý; Ước tính nỗ lực; Mô tả; Hạn chót; Tham chiếu bên ngoài; Cây WBS"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 #. plugins/ImportIssueCsv/ImportIssueCsv_ajax.html
 #. plugins/ImportUsers/ImportUsers.html
 msgid "File"
-msgstr ""
+msgstr "Tập tin"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv_ajax.html
 msgid "Set All"
-msgstr ""
+msgstr "Đặt tất cả"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv_ajax.html
 msgid "TargetVersion"
-msgstr ""
+msgstr "Phiên bản mục tiêu"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv_ajax.html
 msgid "Mantis issues to create:"
-msgstr ""
+msgstr "Các vấn đề mà Mantis gặp phải khi tạo ra:"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv_ajax.html
 msgid "WBS Tree"
-msgstr ""
+msgstr "Cây WBS"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv_ajax.html
 msgid "Category not set on all issues"
-msgstr ""
+msgstr "Danh mục chưa được thiết lập cho tất cả các vấn đề"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv_ajax.html
 msgid "Type not set on all issues"
-msgstr ""
+msgstr "Loại dữ liệu chưa được thiết lập cho tất cả các vấn đề."
 
 #. plugins/ImportIssueCsv/ImportIssueCsv_ajax.html
 msgid "Import done !"
-msgstr ""
+msgstr "Quá trình nhập khẩu hoàn tất!"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
 #: plugins/LoadPerUserIndicator/LoadPerUserIndicator.class.php:80
 msgid "Load per User"
-msgstr ""
+msgstr "Tải trọng trên mỗi người dùng"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 #: plugins/LoadPerUserIndicator/LoadPerUserIndicator.class.php:83
 msgid "Check all the timetracks of the period and return their repartition per User"
-msgstr ""
+msgstr "Kiểm tra tất cả các mốc thời gian trong khoảng thời gian đó và trả về sự phân bổ của chúng cho mỗi Job."
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 msgid "Time spent on the projects & sideTasks of the current task selection"
-msgstr ""
+msgstr "Thời gian dành cho các dự án và nhiệm vụ phụ của lựa chọn nhiệm vụ hiện tại"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_ajax.html
 #: plugins/LoadPerUserIndicator/LoadPerUserIndicator.class.php:400
 msgid "Waste"
-msgstr ""
+msgstr "Dán"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 msgid "'Incident' and 'Inactivity' sideTasks of the current selection.<br>\n         (if 'waste' option has not been selected, this will be included in 'elapsed')"
-msgstr ""
+msgstr "Các tác vụ phụ 'Sự cố' và 'Không hoạt động' của lựa chọn hiện tại.<br> \n (Nếu tùy chọn 'lãng phí' không được chọn, thời gian này sẽ được tính vào 'đã trôi qua')"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_ajax.html
 #: plugins/LoadPerUserIndicator/LoadPerUserIndicator.class.php:393
 msgid "Other"
-msgstr ""
+msgstr "Khác"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 msgid "The time spent on tasks & sideTasks that are not in the current task selection"
-msgstr ""
+msgstr "Thời gian dành cho các nhiệm vụ và nhiệm vụ phụ không nằm trong danh sách nhiệm vụ hiện tại."
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_ajax.html
 #: plugins/LoadPerUserIndicator/LoadPerUserIndicator.class.php:394
 msgid "External"
-msgstr ""
+msgstr "Bên ngoài"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 msgid "External tasks except 'Leave' category"
-msgstr ""
+msgstr "Các nhiệm vụ bên ngoài, ngoại trừ mục 'Nghỉ phép'."
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 msgid "External leave tasks & inactivity sideTasks that are not in the current task selection"
-msgstr ""
+msgstr "Các nhiệm vụ nghỉ phép bên ngoài & các nhiệm vụ không hoạt động: Các nhiệm vụ không có trong danh sách nhiệm vụ hiện tại."
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
 msgid "Show waste sidetasks: 'Incident' and 'Inactivity' categories <br>\n         (if unchecked, sidetasks will be included in 'elapsed')"
-msgstr ""
+msgstr "Hiển thị các công việc phụ lãng phí: các danh mục 'Sự cố' và 'Không hoạt động' <br>\n(nếu không được chọn, các công việc phụ sẽ được bao gồm trong 'thời gian đã trôi qua')"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
 msgid "Show full activity:\n         <br> If checked, timetracks on tasks not included in current selection will be displayed in additional columns."
-msgstr ""
+msgstr "Hiển thị toàn bộ hoạt động:\n<br> Nếu được chọn, tiến trình thời gian của các nhiệm vụ không có trong lựa chọn hiện tại sẽ được hiển thị trong các cột bổ sung."
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
 msgid "WARN: this option will be disabled if 'Only team members' is unchecked"
-msgstr ""
+msgstr "WARN: this option will be disabled if 'Only team members' is unchecked"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks_cfg.html
 msgid "Move issue timetracks"
-msgstr ""
+msgstr "Di chuyển tiến độ xử lý sự cố"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks_ajax.html
 #. plugins/TimetrackDetailsIndicator/TimetrackDetailsIndicator_ajax.html
 msgid "Committer"
-msgstr ""
+msgstr "Người cam kết"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks_ajax.html
 #. plugins/TimetrackDetailsIndicator/TimetrackDetailsIndicator_ajax.html
 msgid "Commit date"
-msgstr ""
+msgstr "Ngày cam kết"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Select All"
-msgstr ""
+msgstr "Chọn tất cả"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Dates"
-msgstr ""
+msgstr "Ngày"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Start"
-msgstr ""
+msgstr "Bắt đầu"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "End"
-msgstr ""
+msgstr "Kết thúc"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Origin"
-msgstr ""
+msgstr "Nguồn gốc"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Destination"
-msgstr ""
+msgstr "Đích"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Please, fill all fields correctly"
-msgstr ""
+msgstr "Vui lòng điền đầy đủ thông tin vào tất cả các trường."
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 #: plugins/MoveIssueTimetracks/MoveIssueTimetracks_ajax.php:75
 msgid "Destination task must be different from origin"
-msgstr ""
+msgstr "Nhiệm vụ đích phải khác với nhiệm vụ xuất phát."
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Origin task"
-msgstr ""
+msgstr "Nhiệm vụ gốc"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Move selected timetracks"
-msgstr ""
+msgstr "Di chuyển các mốc thời gian đã chọn"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Destination task"
-msgstr ""
+msgstr "Trang đích"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "WARNING : In order to move timetracks, destination task creation date will be moved to "
-msgstr ""
+msgstr "CẢNH BÁO: Để di chuyển các mốc thời gian, ngày tạo nhiệm vụ đích sẽ được di chuyển đến "
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Timetracks moved successfully !"
-msgstr ""
+msgstr "Quá trình chuyển đổi Timetracks đã thành công!"
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
 #: plugins/StatusHistoryIndicator2/StatusHistoryIndicator2.class.php:67
 msgid "Issue Status History"
-msgstr ""
+msgstr "Lịch sử trạng thái vấn đề"
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
 msgid "No"
-msgstr ""
+msgstr "Không"
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
 msgid "Yes"
-msgstr ""
+msgstr "Có"
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
 msgid "Filter on Issue type"
-msgstr ""
+msgstr "Lọc theo loại sự cố"
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
 msgid "No filter"
-msgstr ""
+msgstr "Không lọc"
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:265
 msgid "Bugs only"
-msgstr ""
+msgstr "Chỉ lỗi"
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:268
 msgid "Tasks only"
-msgstr ""
+msgstr "Chỉ nhiệm vụ"
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
 msgid "Filter on External ID"
-msgstr ""
+msgstr "Lọc theo ID bên ngoài"
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
 msgid "Issues with External ID"
-msgstr ""
+msgstr "Các vấn đề với ID bên ngoài"
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
 msgid "Issues without External ID"
-msgstr ""
+msgstr "Các sự cố không có ID bên ngoài"
 
 #. plugins/LoadPerProjectIndicator/LoadPerProjectIndicator.html
 #: plugins/LoadPerProjectIndicator/LoadPerProjectIndicator.class.php:77
 msgid "Check all the timetracks of the period and return their repartition per Project"
-msgstr ""
+msgstr "Kiểm tra tất cả các mốc thời gian trong kỳ và báo cáo sự phân bổ của chúng cho từng Dự án."
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 msgid "Selling price for period"
-msgstr ""
+msgstr "Giá bán trong kỳ"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 msgid "Elapsed during period"
-msgstr ""
+msgstr "Khoảng thời gian đã trôi qua"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 msgid "Remaining to produce (at end of period)"
-msgstr ""
+msgstr "Số lượng hàng hóa còn phải sản xuất (vào cuối kỳ)"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_cfg.html
 #: plugins/SellingPriceForPeriod/SellingPriceForPeriod.class.php:83
 msgid "Selling Price for the Period"
-msgstr ""
+msgstr "Giá bán trong kỳ"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 #: plugins/SellingPriceForPeriod/SellingPriceForPeriod.class.php:88
 msgid "If you sell daily services with a specific price for each task, this plugin will give you the price of your batch of tasks over a given period of time."
-msgstr ""
+msgstr "Nếu bạn bán các dịch vụ hàng ngày với giá cụ thể cho từng nhiệm vụ, plugin này sẽ cung cấp cho bạn giá của toàn bộ các nhiệm vụ đó trong một khoảng thời gian nhất định."
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 #: plugins/SellingPriceForPeriod/SellingPriceForPeriod.class.php:89
 msgid "For this plugin, you need to add the \"CodevTT_DailyPrice\" customField to your mantis projects and set a value for each task."
-msgstr ""
+msgstr "Đối với plugin này, bạn cần thêm trường tùy chỉnh \"CodevTT_DailyPrice\" vào dự án Mantis của mình và đặt giá trị cho từng nhiệm vụ."
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 msgid "SellingPrice = DailyPrice x Elapsed during period"
-msgstr ""
+msgstr "Giá bán = Giá hàng ngày x Thời gian đã trôi qua"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 msgid "Remaining = MgrEffortEstim - Elapsed since the beginning of the task to end of period"
-msgstr ""
+msgstr "Giá bán = Giá hàng ngày x Thời gian đã trôi qua"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_cfg.html
 msgid "Include sideTasks"
-msgstr ""
+msgstr "Bao gồm các nhiệm vụ phụ"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_cfg.html
 #. plugins/TimetrackList/TimetrackList_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 msgid "Task name"
-msgstr ""
+msgstr "Họ"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_cfg.html
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
@@ -4955,45 +4955,45 @@ msgstr ""
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_ajax.html
 msgid "Task ExtRef"
-msgstr ""
+msgstr "Nhiệm vụ ExtRef"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 #. plugins/TimetrackList/TimetrackList_ajax.html
 #. plugins/BacklogPerUserIndicator/BacklogPerUserIndicator_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_ajax.html
 msgid "Task ID"
-msgstr ""
+msgstr "Mã số nhiệm vụ"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator.html
 #. plugins/OngoingTasks/OngoingTasks_ajax.html
 msgid "Elapsed on period"
-msgstr ""
+msgstr "Khoảng thời gian đã trôi qua"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 msgid "Remaining to produce at end of period"
-msgstr ""
+msgstr "Số lượng hàng hóa còn phải sản xuất (vào cuối kỳ)"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 msgid "Remaining"
-msgstr ""
+msgstr "Còn lại"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 msgid "Daily Price"
-msgstr ""
+msgstr "Giá hàng ngày"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 msgid "Price on period"
-msgstr ""
+msgstr "Giá trong khoảng thời gian đó"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 msgid "Price"
-msgstr ""
+msgstr "Giá"
 
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2_cfg.html
 #: plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.class.php:64
 msgid "Progress history"
-msgstr ""
+msgstr "Lịch sử tiến trình"
 
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator.html
@@ -5004,1166 +5004,1166 @@ msgstr ""
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis.html
 msgid "Values"
-msgstr ""
+msgstr "Giá trị"
 
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
 msgid "Theoric"
-msgstr ""
+msgstr "Lý thuyết"
 
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
 msgid "Real"
-msgstr ""
+msgstr "Đọc"
 
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
 msgid "% Progress"
-msgstr ""
+msgstr "% Tiến triển"
 
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator_cfg.html
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator.html
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 #: plugins/LoadHistoryIndicator/LoadHistoryIndicator.class.php:68
 msgid "Load History"
-msgstr ""
+msgstr "Xem lịch sử"
 
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator.html
 #: plugins/CostsIndicator/CostsIndicator.class.php:283
 msgid "Sidetasks"
-msgstr ""
+msgstr "Nhiệm vụ phụ"
 
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.html
 msgid "MgrEffortEstim + checked provisions"
-msgstr ""
+msgstr "MgrEffortEstim + Checked Provisions (ngày)"
 
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.html
 #. plugins/BurnDownChart/BurnDownChart_cfg.html
 #. plugins/BurnDownChart/BurnDownChart.html
 msgid "Burndown chart"
-msgstr ""
+msgstr "Biểu đồ tiến độ hoàn thành"
 
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.html
 msgid "Compares the budget (MgrEffortEstim + checked provisions) to the reestimated time (nb days needed to finish the tasks)."
-msgstr ""
+msgstr "So sánh ngân sách (MgrEffortEstim + các khoản dự toán đã kiểm tra) với thời gian ước tính lại (số ngày cần thiết để hoàn thành các nhiệm vụ)."
 
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.html
 msgid "% Budget Drift"
-msgstr ""
+msgstr "% Thay đổi ngân sách"
 
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.html
 msgid "( reestimated - budget ) / budget"
-msgstr ""
+msgstr "( ước tính lại - ngân sách ) / ngân sách"
 
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.html
 msgid "Budget Drift Progression Chart"
-msgstr ""
+msgstr "Biểu đồ tiến trình lệch ngân sách"
 
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.html
 msgid "Budget Drift"
-msgstr ""
+msgstr "Sự trôi dạt ngân sách"
 
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2_cfg.html
 msgid "Budget history"
-msgstr ""
+msgstr "Lịch sử ngân sách"
 
 #. plugins/LoadPerCustomfieldValues/LoadPerCustomfieldValues_cfg.html
 #: plugins/LoadPerCustomfieldValues/LoadPerCustomfieldValues.class.php:69
 msgid "Load per customfield values"
-msgstr ""
+msgstr "Tải theo giá trị trường tùy chỉnh"
 
 #. plugins/LoadPerCustomfieldValues/LoadPerCustomfieldValues.html
 msgid "Custom field"
-msgstr ""
+msgstr "Trường tuỳ biến"
 
 #. plugins/TimetrackList/TimetrackList.html
 msgid "Timetrack list"
-msgstr ""
+msgstr "Danh sách theo dõi thời gian"
 
 #. plugins/TimetrackList/TimetrackList.html
 msgid "Update timetrack"
-msgstr ""
+msgstr "Cập nhật theo dõi thời gian"
 
 #. plugins/BacklogPerUserIndicator/BacklogPerUserIndicator_cfg.html
 #. plugins/BacklogPerUserIndicator/BacklogPerUserIndicator.html
 #: plugins/BacklogPerUserIndicator/BacklogPerUserIndicator.class.php:69
 msgid "Backlog per User"
-msgstr ""
+msgstr "Số lượng công việc tồn đọng theo từng người dùng"
 
 #. plugins/BacklogPerUserIndicator/BacklogPerUserIndicator.html
 msgid "No task with backlog"
-msgstr ""
+msgstr "Không có tác vụ nào có tồn đọng."
 
 #. plugins/BacklogPerUserIndicator/BacklogPerUserIndicator.html
 msgid "For each user, return the sum of the backlog of its assigned tasks"
-msgstr ""
+msgstr "Đối với mỗi người dùng, hãy trả về tổng số lượng công việc tồn đọng được giao cho người dùng đó."
 
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_ajax.html
 msgid "WBS path"
-msgstr ""
+msgstr "Đường dẫn WBS"
 
 #. plugins/OngoingTasks/OngoingTasks.html
 msgid "Ongoing tasks"
-msgstr ""
+msgstr "Nhiệm vụ đang diễn ra"
 
 #. plugins/OngoingTasks/OngoingTasks.html
 msgid "Display only the tasks with activity (timetracks) on the period"
-msgstr ""
+msgstr "Chỉ hiển thị các nhiệm vụ có hoạt động (theo dõi thời gian) trong khoảng thời gian đó."
 
 #. plugins/OngoingTasks/OngoingTasks.html
 msgid "The time spent on the task during the period (which can be less than the total time spent since the beginning of the task)"
-msgstr ""
+msgstr "Thời gian dành cho nhiệm vụ trong khoảng thời gian đó (có thể ít hơn tổng thời gian đã dành từ đầu đến cuối nhiệm vụ)."
 
 #. plugins/OngoingTasks/OngoingTasks.html
 msgid "List the users having spent time on the task during the period"
-msgstr ""
+msgstr "Liệt kê những người dùng đã dành thời gian cho nhiệm vụ đó trong khoảng thời gian đã nêu."
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator_ajax.html
 msgid "Nb submitted"
-msgstr ""
+msgstr "lưu"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator_ajax.html
 msgid "Nb resolved"
-msgstr ""
+msgstr "nb đã giải quyết"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator_ajax.html
 msgid "Submitted issues"
-msgstr ""
+msgstr "Các vấn đề đã gửi"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator_ajax.html
 msgid "Resolved issues"
-msgstr ""
+msgstr "Các vấn đề đã được giải quyết"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator_cfg.html
 #: plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator.class.php:65
 msgid "Submitted/Resolved Issues History"
-msgstr ""
+msgstr "Lịch sử các vấn đề đã gửi/đã giải quyết"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator.html
 msgid "Submitted/Resolved issues"
-msgstr ""
+msgstr "Các vấn đề đã gửi/đã giải quyết"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator.html
 msgid "Submitted / Resolved Issues"
-msgstr ""
+msgstr "Các vấn đề đã gửi/đã giải quyết"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator.html
 msgid "Submitted"
-msgstr ""
+msgstr "Đã gửi:"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator.html
 msgid "Resolved"
-msgstr ""
+msgstr "Giải quyết"
 
 #. plugins/ImportUsers/ImportUsers.html
 msgid "You need to be manager to import issues."
-msgstr ""
+msgstr "Bạn cần có quyền quản trị để nhập các vấn đề."
 
 #. plugins/ImportUsers/ImportUsers.html
 msgid "Only team administrators can create users"
-msgstr ""
+msgstr "Chỉ quản trị viên nhóm mới có thể tạo người dùng."
 
 #. plugins/ImportUsers/ImportUsers.html
 #. plugins/ImportUsers/ImportUsers_cfg.html
 #: plugins/ImportUsers/ImportUsers.class.php:67
 msgid "Import users"
-msgstr ""
+msgstr "Nhập khẩu Thành viên"
 
 #. plugins/ImportUsers/ImportUsers.html
 msgid "Create Mantis users"
-msgstr ""
+msgstr "Tạo người dùng Mantis"
 
 #. plugins/ImportUsers/ImportUsers.html
 msgid "Add users to CodevTT team & projects"
-msgstr ""
+msgstr "Thêm người dùng vào nhóm và dự án của CodevTT."
 
 #. plugins/ImportUsers/ImportUsers.html
 msgid "Only team-leaders & administrators are allowed to do this action."
-msgstr ""
+msgstr "Chỉ trưởng nhóm và quản trị viên mới được phép thực hiện thao tác này."
 
 #. plugins/ImportUsers/ImportUsers.html
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "Send password by mail"
-msgstr ""
+msgstr "Gửi mật khẩu qua thư"
 
 #. plugins/ImportUsers/ImportUsers.html
 msgid "Send a password per email to each user"
-msgstr ""
+msgstr "Gửi mật khẩu qua email cho từng người dùng."
 
 #. plugins/ImportUsers/ImportUsers.html
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "Generate password"
-msgstr ""
+msgstr "Lặp lại mật khẩu"
 
 #. plugins/ImportUsers/ImportUsers.html
 msgid "Display a generated password (common to all created users)"
-msgstr ""
+msgstr "Hiển thị mật khẩu được tạo tự động (chung cho tất cả người dùng đã tạo)."
 
 #. plugins/ImportUsers/ImportUsers.html
 msgid "username"
-msgstr ""
+msgstr "Tên người dùng"
 
 #. plugins/ImportUsers/ImportUsers.html
 msgid "User already exists"
-msgstr ""
+msgstr "Người dùng đã tồn tại!"
 
 #. plugins/ImportUsers/ImportUsers.html
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "Mantis project access level"
-msgstr ""
+msgstr "Mức độ truy cập dự án Mantis"
 
 #. plugins/ImportUsers/ImportUsers.html
 msgid "User can't be added to Mantis projects"
-msgstr ""
+msgstr "Người dùng không thể được thêm vào dự án Mantis."
 
 #. plugins/ImportUsers/ImportUsers.html
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "CodevTT role"
-msgstr ""
+msgstr "Vai trò của CodevTT"
 
 #. plugins/ImportUsers/ImportUsers.html
 msgid "User already belong to this team"
-msgstr ""
+msgstr "Người dùng đã thuộc nhóm này"
 
 #. plugins/ImportUsers/ImportUsers.html
 msgid "User can't be added to this team"
-msgstr ""
+msgstr "Người dùng không thể được thêm vào nhóm này."
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "Mantis users to create:"
-msgstr ""
+msgstr "Các vấn đề mà Mantis gặp phải khi tạo ra:"
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "First name"
-msgstr ""
+msgstr "Tên"
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "Username"
-msgstr ""
+msgstr "Tên người dùng"
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "Mantis role"
-msgstr ""
+msgstr "Vai trò của matis"
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "Date of entry in team"
-msgstr ""
+msgstr "Ngày gia nhập đội"
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "Username not set on all users"
-msgstr ""
+msgstr "Tên người dùng chưa được thiết lập cho tất cả người dùng."
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "Project access level not set on all users"
-msgstr ""
+msgstr "Mức độ truy cập dự án chưa được thiết lập cho tất cả người dùng."
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "CodevTT roles not set on all users"
-msgstr ""
+msgstr "Chức năng phân quyền CodevTT chưa được thiết lập cho tất cả người dùng."
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "Date of entry in team not set on all users"
-msgstr ""
+msgstr "Ngày tham gia nhóm chưa được thiết lập cho tất cả người dùng."
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "Import Done ! The password for every created users is"
-msgstr ""
+msgstr "Nhập khẩu hoàn tất! Mật khẩu cho mỗi người dùng đã tạo là"
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "Import Done ! An email with login and password has been sent to each user."
-msgstr ""
+msgstr "Nhập khẩu hoàn tất! Mật khẩu cho mỗi người dùng đã tạo là"
 
 #. plugins/IssueConsistencyCheck/IssueConsistencyCheck.html
 msgid "No errors"
-msgstr ""
+msgstr "Không có lỗi"
 
 #. plugins/IssueConsistencyCheck/IssueConsistencyCheck.html
 msgid "Consistency check"
-msgstr ""
+msgstr "Kiểm tra tính nhất quán"
 
 #. plugins/IssueConsistencyCheck/IssueConsistencyCheck.html
 #: plugins/IssueConsistencyCheck/IssueConsistencyCheck.class.php:62
 msgid "Check for errors in issues"
-msgstr ""
+msgstr "Kiểm tra lỗi trong các vấn đề"
 
 #. plugins/IssueConsistencyCheck/IssueConsistencyCheck_cfg.html
 #: plugins/IssueConsistencyCheck/IssueConsistencyCheck.class.php:59
 msgid "Issue consistency check"
-msgstr ""
+msgstr "Vấn đề kiểm tra tính nhất quán"
 
 #. plugins/LoadPerProjCategoryIndicator/LoadPerProjCategoryIndicator_cfg.html
 #: plugins/LoadPerProjCategoryIndicator/LoadPerProjCategoryIndicator.class.php:70
 msgid "Load per project categories"
-msgstr ""
+msgstr "Tải theo danh mục dự án"
 
 #. plugins/WBSExport/WBSExport_cfg.html
 msgid "Hello World"
-msgstr ""
+msgstr "Xin chào thế giới"
 
 #. plugins/TimetrackDetailsIndicator/TimetrackDetailsIndicator_cfg.html
 #: plugins/TimetrackDetailsIndicator/TimetrackDetailsIndicator.class.php:60
 msgid "Timetrack details"
-msgstr ""
+msgstr "Chi tiết về thời gian"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Refresh"
-msgstr ""
+msgstr "Làm mới"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Send new message"
-msgstr ""
+msgstr "Gửi thư"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Expire"
-msgstr ""
+msgstr "Hết hạn"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Exp. date"
-msgstr ""
+msgstr "Ngày hết hạn"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Expiration Date (optional)"
-msgstr ""
+msgstr "Ngày hết hạn (tùy chọn)"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Everybody (all teams)"
-msgstr ""
+msgstr "Tất cả mọi người (tất cả các đội)"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Message wall options"
-msgstr ""
+msgstr "Các tùy chọn tường tin nhắn"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Recipient"
-msgstr ""
+msgstr "Người nhận"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Current team"
-msgstr ""
+msgstr "Chuỗi hiện tại"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "All my teams"
-msgstr ""
+msgstr "Tất cả các đội của tôi"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Assigned to me"
-msgstr ""
+msgstr "Được giao cho tôi"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Posted by me"
-msgstr ""
+msgstr "Được đăng bởi tôi"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
 msgid "All"
-msgstr ""
+msgstr "Tất cả"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Hidden messages"
-msgstr ""
+msgstr "Thông điệp ẩn"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 #: plugins/BlogPlugin/BlogPost.class.php:430
 msgid "Hide"
-msgstr ""
+msgstr "Ẩn"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Message wall help"
-msgstr ""
+msgstr "Trợ giúp về bảng tin nhắn"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Buttons"
-msgstr ""
+msgstr "Nút bấm"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Add new message"
-msgstr ""
+msgstr "Gửi thư"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Post a new message"
-msgstr ""
+msgstr "Đăng tin nhắn mới"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Set message wall options"
-msgstr ""
+msgstr "Set message wall options"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Mark as read. The message can then be hidden"
-msgstr ""
+msgstr "Mark as read. The message can then be hidden"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Hide message. Depends on user setting \"Display hidden messages\""
-msgstr ""
+msgstr "Ẩn tin nhắn. Tùy thuộc vào cài đặt của người dùng \"Hiển thị tin nhắn ẩn\"."
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Show"
-msgstr ""
+msgstr "Hiện"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Unhide a hidden message"
-msgstr ""
+msgstr "Hiển ra tin nhắn ẩn"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Delete a message."
-msgstr ""
+msgstr "Xóa thư"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "This will permanently delete this post, are you sure ?!"
-msgstr ""
+msgstr "Thao tác này sẽ xóa bài đăng này vĩnh viễn, bạn chắc chắn chứ?!"
 
 #. plugins/BlogPlugin/BlogPlugin_cfg.html
 msgid "Message wall"
-msgstr ""
+msgstr "Tên thông điệp"
 
 #. plugins/BlogPlugin/BlogPlugin_cfg.html
 msgid "Size"
-msgstr ""
+msgstr "Kích cỡ"
 
 #. plugins/BlogPlugin/BlogPlugin_cfg.html
 msgid "Small"
-msgstr ""
+msgstr "Nhỏ"
 
 #. plugins/BlogPlugin/BlogPlugin_cfg.html
 msgid "Medium"
-msgstr ""
+msgstr "Vừa"
 
 #. plugins/BlogPlugin/BlogPlugin_cfg.html
 msgid "Large"
-msgstr ""
+msgstr "Lớn"
 
 #. plugins/BlogPlugin/BlogPlugin_cfg.html
 msgid "Huge"
-msgstr ""
+msgstr "To lớn"
 
 #. plugins/BlogPlugin/BlogPlugin_ajax.html
 msgid "Acknowledged by"
-msgstr ""
+msgstr "Được xác nhận bởi"
 
 #. plugins/BlogPlugin/BlogPlugin_ajax.html
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_ajax.html
 msgid "Submission date"
-msgstr ""
+msgstr "Ngày nộp"
 
 #. plugins/BlogPlugin/BlogPlugin_ajax.html
 msgid "Expiration date"
-msgstr ""
+msgstr "Ngày hết hạn"
 
 #. plugins/BlogPlugin/BlogPlugin_ajax.html
 msgid "Author"
-msgstr ""
+msgstr "Tác giả"
 
 #. plugins/BlogPlugin/BlogPlugin_ajax.html
 msgid "Dest"
-msgstr ""
+msgstr "Giảm"
 
 #. plugins/BurnDownChart/BurnDownChart.html
 msgid "Backlog history"
-msgstr ""
+msgstr "Lịch sử tồn đọng"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
 msgid "Task type filter"
-msgstr ""
+msgstr "Bộ lọc loại tác vụ"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 msgid "Check the submission date of the tasks"
-msgstr ""
+msgstr "Kiểm tra ngày nộp bài tập."
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:73
 msgid "Statistics on the age of open tasks"
-msgstr ""
+msgstr "Thống kê về tuổi của các nhiệm vụ chưa hoàn thành"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 msgid "New"
-msgstr ""
+msgstr "Mới"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 msgid "Open"
-msgstr ""
+msgstr "Mở"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_ajax.html
 msgid "Nb Issues"
-msgstr ""
+msgstr "Vấn đề Nb"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_ajax.html
 msgid "Nb new"
-msgstr ""
+msgstr "Nb mới"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_ajax.html
 msgid "Nb open"
-msgstr ""
+msgstr "Nb mở"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
 msgid "Open issues seniority"
-msgstr ""
+msgstr "Thứ tự ưu tiên giải quyết các vấn đề chưa giải quyết"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
 msgid "Display task list"
-msgstr ""
+msgstr "Hiển thị danh sách tác vụ"
 
 #. plugins/TimePerStatusIndicator/TimePerStatusIndicator_cfg.html
 #. plugins/TimePerStatusIndicator/TimePerStatusIndicator.html
 #. plugins/CostsIndicator/CostsIndicator.html
 #: plugins/TimePerStatusIndicator/TimePerStatusIndicator.class.php:62
 msgid "Time per status"
-msgstr ""
+msgstr "Thời gian cho mỗi trạng thái"
 
 #. plugins/TimePerStatusIndicator/TimePerStatusIndicator.html
 #: plugins/TimePerStatusIndicator/TimePerStatusIndicator.class.php:65
 msgid "Time allocation by status"
-msgstr ""
+msgstr "Phân bổ thời gian theo trạng thái"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_cfg.html
 #: plugins/TimetrackingAnalysis/TimetrackingAnalysis.class.php:69
 msgid "Timetracking analysis"
-msgstr ""
+msgstr "Phân tích theo dõi thời gian"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis.html
 msgid "Average delay between the timetrack date and it's creation date (in days)"
-msgstr ""
+msgstr "Độ trễ trung bình giữa ngày ghi nhật ký theo dõi và ngày tạo (tính bằng ngày)"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
 msgid "Average"
-msgstr ""
+msgstr "Trung bình"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
 msgid "(in days)"
-msgstr ""
+msgstr "(tính bằng ngày)"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
 msgid "Median"
-msgstr ""
+msgstr "Trung"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
 msgid "Mode"
-msgstr ""
+msgstr "Chế độ"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
 msgid "Nb timetracks"
-msgstr ""
+msgstr "Nb timetracks"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
 msgid "Missing"
-msgstr ""
+msgstr "Mất tích"
 
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.html
 #: plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.class.php:65
 msgid "Effort estimation reliability rate"
-msgstr ""
+msgstr "Tỷ lệ độ tin cậy ước tính nỗ lực"
 
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.html
 msgid "EffortEstim ReliabilityRate"
-msgstr ""
+msgstr "Nỗ lực Ước tính Độ tin cậy Tỷ lệ"
 
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.html
 msgid "MgrEffortEstim ReliabilityRate"
-msgstr ""
+msgstr "Tỷ lệ độ tin cậy của MgrEffortEstim"
 
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2_cfg.html
 msgid "EffortEstim reliability history"
-msgstr ""
+msgstr "Lịch sử độ tin cậy của EffortEtim"
 
 #. plugins/TasksPivotTable/TasksPivotTable_ajax.html
 #: scheduler/SchedulerEvent.class.php:163 gantt/gantt_ajax.php:257
 #: tools.php:275
 msgid "DriftMgr"
-msgstr ""
+msgstr "DriftMgr"
 
 #. plugins/TasksPivotTable/TasksPivotTable.html
 msgid "Drag, drop and set the order of the filters"
-msgstr ""
+msgstr "Kéo, thả và thiết lập thứ tự của các bộ lọc."
 
 #. plugins/TasksPivotTable/TasksPivotTable.html
 #. plugins/TasksPivotTable/TasksPivotTable_cfg.html
 #: plugins/TasksPivotTable/TasksPivotTable.class.php:76
 msgid "Tasks pivot table"
-msgstr ""
+msgstr "Bảng tổng hợp nhiệm vụ"
 
 #. plugins/ResetDashboard/ResetDashboard.html
 msgid "Reset selected dashboards"
-msgstr ""
+msgstr "Đặt lại trang tổng quan đã chọn"
 
 #. plugins/ResetDashboard/ResetDashboard_ajax.html
 msgid "Domain"
-msgstr ""
+msgstr "Tên miền"
 
 #. plugins/ResetDashboard/ResetDashboard_ajax.html
 msgid "Item"
-msgstr ""
+msgstr "Khoản mục"
 
 #. plugins/ResetDashboard/ResetDashboard_cfg.html
 msgid "Reset Dashboard"
-msgstr ""
+msgstr "Đặt lại bảng điều khiển"
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "Global cost estimation:"
-msgstr ""
+msgstr "Ước tính chi phí toàn cầu:"
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "Costs Mgr"
-msgstr ""
+msgstr "Quản lý chi phí"
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "Sum the costs of each timetrack."
-msgstr ""
+msgstr "Tính tổng chi phí của từng mốc thời gian."
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "Team AverageDailyCost and UserDailyCosts must be defined in team settings."
-msgstr ""
+msgstr "Các tham số Team AverageDailyCost và UserDailyCosts phải được định nghĩa trong cài đặt nhóm."
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "AverageDailyCost is used when no UserDailyCosts is defined for the timetrack's user."
-msgstr ""
+msgstr "AverageDailyCost được sử dụng khi không có UserDailyCosts nào được định nghĩa cho người dùng của timetrack."
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "AverageDailyCost is used if the task is not yet assigned to anyone."
-msgstr ""
+msgstr "AverageDailyCost được sử dụng nếu nhiệm vụ chưa được giao cho ai."
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "The backlog is computed with the current assigned user's UserDailyCost"
-msgstr ""
+msgstr "Lượng công việc tồn đọng được tính toán dựa trên chi phí hàng ngày của người dùng được chỉ định hiện tại (UserDailyCost)."
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "Respectively sum the MgrEffortEstim, EffortEstim, Reestimated, Elapsed, Backlog of each task."
-msgstr ""
+msgstr "Tính tổng các giá trị MgrEffortEstim, EffortEstim, Reestimated, Elapsed, Backlog của từng nhiệm vụ."
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "The backlog depends on the status (always 0 if status >= Resolved)"
-msgstr ""
+msgstr "Số lượng công việc tồn đọng phụ thuộc vào trạng thái (luôn bằng 0 nếu trạng thái >= Đã giải quyết)"
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "Sum the Provisions that are 'checked' as included in the budget."
-msgstr ""
+msgstr "Cộng tổng các khoản mục được đánh dấu \"đã bao gồm\" trong ngân sách."
 
 #: admin/edit_holidays.php:46
 msgid "Couldn't add the holiday"
-msgstr ""
+msgstr "Không thể thêm ngày lễ"
 
 #: admin/edit_holidays.php:51
 msgid "Couldn't remove the holiday"
-msgstr ""
+msgstr "Không thể xóa ngày lễ"
 
 #: admin/edit_team_ajax.php:92
 msgid "Issue tooltips for project"
-msgstr ""
+msgstr "Phát hành chú thích công cụ cho dự án"
 
 #: admin/edit_team_ajax.php:93
 msgid "Drag & drop the items to be displayed in the Issue tooltip"
-msgstr ""
+msgstr "Kéo và thả các mục cần hiển thị trong chú giải"
 
 #: admin/edit_team_ajax.php:94
 msgid "Available fields"
-msgstr ""
+msgstr "Khách hàng có sẵn"
 
 #: admin/edit_team_ajax.php:95
 msgid "Tooltip"
-msgstr ""
+msgstr "Chú thích công cụ"
 
 #: admin/edit_team_ajax.php:445
 msgid "ERROR: joblist cannot be empty !"
-msgstr ""
+msgstr "LỖI: Danh sách công việc không được để trống!"
 
 #: admin/edit_team_ajax.php:494
 msgid "Invalid team name"
-msgstr ""
+msgstr "Tên thẻ không hợp lệ"
 
 #: admin/edit_team_ajax.php:498
 msgid "Couldn't enable/disable team"
-msgstr ""
+msgstr "Không thể bật/tắt nhóm"
 
 #: admin/edit_team_ajax.php:501
 msgid "Couldn't update the creation date"
-msgstr ""
+msgstr "Không thể cập nhật ngày tạo."
 
 #: admin/edit_team_ajax.php:694 management/command_edit_ajax.php:375
 #: plugins/LoadPerUserGroups/LoadPerUserGroups.class.php:223
 #: plugins/ImportIssueCsv/ImportIssueCsv.class.php:204
 #: plugins/ImportUsers/ImportUsers.class.php:237
 msgid "Please upload files with the following extension: "
-msgstr ""
+msgstr "Vui lòng tải lên các tệp có phần mở rộng sau: "
 
 #: admin/edit_team_ajax.php:782
 #: plugins/LoadPerUserGroups/LoadPerUserGroups.class.php:311
 msgid "No group defined for team member"
-msgstr ""
+msgstr "Không có nhóm nào được xác định cho thành viên nhóm."
 
 #: admin/admin_dashboard.php:75 import/import_dashboard.php:66
 #: reports/team_dashboard.php:98
 msgid "Sorry, you need to be identified."
-msgstr ""
+msgstr "Xin lỗi, bạn cần được xác minh danh tính."
 
 #: admin/plugin_manager.php:69
 msgid "Could not create classmap: "
-msgstr ""
+msgstr "Không thể tạo classmap:\\"
 
 #: admin/edit_jobs.php:86
 msgid "Sorry, this Job cannot be changed"
-msgstr ""
+msgstr "Rất tiếc, công việc này không thể thay đổi được"
 
 #: admin/edit_jobs.php:92
 msgid "This job must not be deleted."
-msgstr ""
+msgstr "Công việc này không được phép xóa."
 
 #: admin/edit_jobs.php:99
 msgid "Couldn't remove the job association"
-msgstr ""
+msgstr "Không thể xóa liên kết công việc"
 
 #: admin/edit_jobs.php:106
 msgid "Couldn't delete the job"
-msgstr ""
+msgstr "Không thể xóa công việc"
 
 #: admin/logs.php:59
 msgid "Sorry, logfile not found:"
-msgstr ""
+msgstr "Rất tiếc, không tìm thấy tệp nhật ký:"
 
 #: admin/edit_team.php:52
 msgid "Couldn't delete the team"
-msgstr ""
+msgstr "Không thể xóa đội"
 
 #: admin/edit_team.php:95
 msgid "Couldn't update the team leader"
-msgstr ""
+msgstr "Không thể cập nhật thông tin cho trưởng nhóm."
 
 #: admin/edit_team.php:199
 msgid "Couldn't add the project to the team"
-msgstr ""
+msgstr "Không thể thêm dự án vào nhóm."
 
 #: admin/edit_team.php:205
 msgid "Could NOT remove the project from the team"
-msgstr ""
+msgstr "Không thể xóa dự án khỏi nhóm."
 
 #: admin/edit_team.php:283
 msgid "Configure Tooltips"
-msgstr ""
+msgstr "Cấu hình chú giải công cụ"
 
 #: admin/edit_team.php:408
 msgid "enabled"
-msgstr ""
+msgstr "Kích hoạt"
 
 #: admin/edit_team.php:408
 msgid "disabled"
-msgstr ""
+msgstr "Tắt"
 
 #: classes/command.class.php:59
 msgid "to be sent"
-msgstr ""
+msgstr "để gửi"
 
 #: classes/command.class.php:60
 msgid "Sent"
-msgstr ""
+msgstr "Gửi"
 
 #: classes/command.class.php:61
 msgid "to be validated"
-msgstr ""
+msgstr "cần được xác nhận"
 
 #: classes/command.class.php:62
 msgid "validated"
-msgstr ""
+msgstr "Đã phê chuẩn"
 
 #: classes/command.class.php:63
 msgid "to be closed"
-msgstr ""
+msgstr "sẽ bị đóng cửa"
 
 #: classes/command.class.php:64
 msgid "closed"
-msgstr ""
+msgstr "Đã đóng"
 
 #: classes/command.class.php:65
 msgid "bill must be sent"
-msgstr ""
+msgstr "phải gửi hóa đơn"
 
 #: classes/command.class.php:66
 msgid "bill sent"
-msgstr ""
+msgstr "hóa đơn đã gửi"
 
 #: classes/command.class.php:67
 msgid "payed"
-msgstr ""
+msgstr "đã trả tiền"
 
 #: classes/user.class.php:1560
 msgid "for team"
-msgstr ""
+msgstr "đội ngũ nòng cốt"
 
 #: classes/user.class.php:1562
 msgid "[CodevTT] Timesheet reminder !"
-msgstr ""
+msgstr "[CodevTT] Nhắc nhở bảng chấm công!"
 
 #: classes/user.class.php:1564 plugins/ImportUsers/ImportUsers_ajax.php:163
 msgid "Dear "
-msgstr ""
+msgstr "Kính thưa "
 
 #: classes/user.class.php:1565
 msgid "Please fill your CodevTT timesheet"
-msgstr ""
+msgstr "Vui lòng điền vào bảng chấm công CodevTT của bạn."
 
 #: classes/user.class.php:1576 classes/consistency_check2.class.php:704
 msgid "incomplete (missing "
-msgstr ""
+msgstr "không đầy đủ (thiếu "
 
 #: classes/user.class.php:1579 classes/consistency_check2.class.php:719
 msgid "not defined."
-msgstr ""
+msgstr "Không chỉ định"
 
 #: classes/consistency_check2.class.php:69 reports/export_odt.php:263
 #: reports/export_odt.php:273 tests/odt.php:74 tests/odt.php:84
 msgid "unknown"
-msgstr ""
+msgstr "không rõ"
 
 #: classes/consistency_check2.class.php:178
 msgid "Backlog on resolved issues should be 0"
-msgstr ""
+msgstr "Số lượng vấn đề tồn đọng đã được giải quyết phải bằng 0."
 
 #: classes/consistency_check2.class.php:179
 msgid "Backlog on unresolved issues should not be 0"
-msgstr ""
+msgstr "Số lượng vấn đề chưa được giải quyết tồn đọng không được bằng 0."
 
 #: classes/consistency_check2.class.php:180
 msgid "EffortEstim should not be 0"
-msgstr ""
+msgstr "EffortEstim không được bằng 0."
 
 #: classes/consistency_check2.class.php:181
 msgid "There should be no timetracks on \"new\" issues "
-msgstr ""
+msgstr "Không nên có lịch trình cụ thể cho các vấn đề \"mới\"."
 
 #: classes/consistency_check2.class.php:182
 msgid "Issues should be referenced in a Command"
-msgstr ""
+msgstr "Các vấn đề cần được đề cập trong Lệnh."
 
 #: classes/consistency_check2.class.php:183
 msgid "Issues should not be referenced in multiple commands"
-msgstr ""
+msgstr "Không nên tham chiếu các vấn đề trong nhiều lệnh khác nhau."
 
 #: classes/consistency_check2.class.php:184
 msgid "Commands should be referenced in a CommandSet"
-msgstr ""
+msgstr "Các lệnh nên được tham chiếu trong một CommandSet."
 
 #: classes/consistency_check2.class.php:185
 msgid "CommandSets should be referenced in a ServiceContract"
-msgstr ""
+msgstr "Các CommandSet cần được tham chiếu trong ServiceContract."
 
 #: classes/consistency_check2.class.php:186
 msgid "Issues should be assigned to someone"
-msgstr ""
+msgstr "Các vấn đề cần được giao cho một người cụ thể."
 
 #: classes/consistency_check2.class.php:187
 msgid "Check timetracks on removed issues (not needed if Mantis plugin is enabled)"
-msgstr ""
+msgstr "Kiểm tra nhật ký thời gian trên các sự cố đã bị xóa (không cần thiết nếu plugin Mantis được bật)."
 
 #. for all timetracks of the team, check that the Mantis issue exist.
 #: classes/consistency_check2.class.php:188
 msgid "Command issues should belong to the team's project-list"
-msgstr ""
+msgstr "Các vấn đề liên quan đến chỉ huy nên được đưa vào danh sách dự án của nhóm."
 
 #: classes/consistency_check2.class.php:286
 msgid "Backlog should be 0 (not "
-msgstr ""
+msgstr "Số lượng tồn đọng phải bằng 0 (không phải "
 
 #: classes/consistency_check2.class.php:308
 msgid "Backlog must be defined !"
-msgstr ""
+msgstr "Danh sách công việc tồn đọng cần được xác định!"
 
 #: classes/consistency_check2.class.php:310
 msgid "Backlog == 0: Backlog may not be up to date."
-msgstr ""
+msgstr "Tồn đọng == 0: Tồn đọng có thể chưa được cập nhật."
 
 #: classes/consistency_check2.class.php:356
 msgid "MgrEffortEstim not set."
-msgstr ""
+msgstr "MgrEffortEstim chưa được thiết lập."
 
 #: classes/consistency_check2.class.php:388
 msgid "EffortEstim not set."
-msgstr ""
+msgstr "EffortEtim chưa được thiết lập."
 
 #: classes/consistency_check2.class.php:414
 msgid "Status should not be"
-msgstr ""
+msgstr "Trạng thái không nên"
 
 #: classes/consistency_check2.class.php:452
 msgid "The task is not assigned to anybody."
-msgstr ""
+msgstr "Nhiệm vụ này không được giao cho bất kỳ ai."
 
 #: classes/consistency_check2.class.php:506
 msgid "The task is not referenced in any Command."
-msgstr ""
+msgstr "Nhiệm vụ này không được tham chiếu trong bất kỳ lệnh nào."
 
 #: classes/consistency_check2.class.php:605
 msgid "is not referenced in any CommandSet"
-msgstr ""
+msgstr "không được tham chiếu trong bất kỳ CommandSet nào."
 
 #: classes/consistency_check2.class.php:630
 msgid "is not referenced in any ServiceContract"
-msgstr ""
+msgstr "không được đề cập trong bất kỳ Hợp đồng Dịch vụ nào."
 
 #: classes/consistency_check2.class.php:704
 msgid " days"
-msgstr ""
+msgstr "Ngày"
 
 #: classes/consistency_check2.class.php:708
 msgid "inconsistent"
-msgstr ""
+msgstr "không nhất quán"
 
 #: classes/consistency_check2.class.php:744
 msgid "No default project workflow defined, check config file: "
-msgstr ""
+msgstr "Không có quy trình làm việc dự án mặc định nào được định nghĩa, hãy kiểm tra tệp cấu hình: "
 
 #: classes/consistency_check2.class.php:764
 msgid ") Please run <a href='tools/update_codevtt.php'>update_codevtt.php</a>"
-msgstr ""
+msgstr "Vui lòng chạy tệp <a href='tools/update_codevtt.php'>update_codevtt.php</a>"
 
 #: classes/consistency_check2.class.php:783
 msgid "Project not defined in the team's project-list"
-msgstr ""
+msgstr "Dự án không được định nghĩa trong danh sách dự án của nhóm."
 
 #: classes/consistency_check2.class.php:802
 msgid "Please move config file to: "
-msgstr ""
+msgstr "Vui lòng di chuyển tệp cấu hình đến: "
 
 #: classes/consistency_check2.class.php:807
 msgid "Please remove: "
-msgstr ""
+msgstr "Vui lòng xóa: "
 
 #: classes/scheduler.class.php:81 reports/planning_report.php:202
 msgid "monitored"
-msgstr ""
+msgstr "được theo dõi"
 
 #: classes/issue.class.php:59
 msgid "Duplicate of"
-msgstr ""
+msgstr "Bản sao của"
 
 #: classes/issue.class.php:60
 msgid "Has duplicate"
-msgstr ""
+msgstr "có trùng lặp"
 
 #: classes/issue.class.php:61 classes/issue.class.php:62
 msgid "Related to"
-msgstr ""
+msgstr "liên quan đến"
 
 #: classes/issue.class.php:63
 msgid "Parent of"
-msgstr ""
+msgstr "cha của"
 
 #. 2
 #: classes/issue.class.php:64
 msgid "Child of"
-msgstr ""
+msgstr "con của"
 
 #: classes/issue.class.php:65
 msgid "Constrained by"
-msgstr ""
+msgstr "Bị hạn chế bởi"
 
 #: classes/issue.class.php:66
 msgid "Constrains"
-msgstr ""
+msgstr "hạn chế"
 
 #: classes/issue.class.php:2215 tools.php:1549
 msgid "Tags"
-msgstr ""
+msgstr "Thẻ"
 
 #: classes/issue.class.php:2223
 msgid "none"
-msgstr ""
+msgstr "không có"
 
 #: classes/issue.class.php:2228 reports/issue_info_tools.php:115
 msgid "DriftColor"
-msgstr ""
+msgstr "DriftColor"
 
 #: classes/issue.class.php:2232
 msgid "DriftMgrColor"
-msgstr ""
+msgstr "DriftMgrColor"
 
 #: classes/issue.class.php:2249 tools.php:1563
 msgid "Assigned"
-msgstr ""
+msgstr "Người được giao"
 
 #: classes/issue.class.php:2257 tools.php:1571
 msgid "ETA"
-msgstr ""
+msgstr "Thời gian dự kiến đến"
 
 #: classes/PluginManager.class.php:79
 msgid "Disabled"
-msgstr ""
+msgstr "Tắt"
 
 #: classes/PluginManager.class.php:80
 msgid "Removed"
-msgstr ""
+msgstr "Đã gạt bỏ"
 
 #. avoid divisions by zero
 #: classes/Currencies.class.php:126
 msgid "ERROR: invalid currency: (coef is null, zero, or not a number)"
-msgstr ""
+msgstr "LỖI: đơn vị tiền tệ không hợp lệ: (hệ số là null, bằng không hoặc không phải là số)"
 
 #: classes/Currencies.class.php:131
 msgid "ERROR: First define the referal currency (with coef=1)"
-msgstr ""
+msgstr "LỖI: Trước tiên hãy xác định đơn vị tiền tệ giới thiệu (với hệ số = 1)"
 
 #: classes/Currencies.class.php:136
 msgid "ERROR: there can be only one 'referal' currency (with coef=1)"
-msgstr ""
+msgstr "LỖI: Chỉ có thể có một loại tiền tệ 'tham chiếu' (với hệ số = 1)"
 
 #: classes/Currencies.class.php:140
 msgid "ERROR: currency already defined"
-msgstr ""
+msgstr "LỖI: đơn vị tiền tệ đã được định nghĩa"
 
 #: filters/ProjectFilter.php:51
 msgid "Sort issues per Project"
-msgstr ""
+msgstr "Sắp xếp các vấn đề theo Dự án"
 
 #: filters/IssueExtIdFilter.php:49
 msgid "Sort issues: with/without External ID"
-msgstr ""
+msgstr "Sắp xếp vấn đề: có/không có ID bên ngoài"
 
 #: filters/IssueExtIdFilter.php:57
 msgid "Issue External ID"
-msgstr ""
+msgstr "ID bên ngoài của vấn đề"
 
 #: filters/ProjectCategoryFilter.php:49
 msgid "Sort issues per project categories"
-msgstr ""
+msgstr "Sắp xếp các vấn đề theo danh mục dự án"
 
 #: filters/ProjectCategoryFilter.php:57
 msgid "Project Category"
-msgstr ""
+msgstr "Chỉnh sửa chuyên mục dự án"
 
 #: filters/IssueIdFilter.php:51
 msgid "Sort issues per ID"
-msgstr ""
+msgstr "Sắp xếp các vấn đề theo ID"
 
 #: filters/IssueIdFilter.php:59
 msgid "Issue ID"
-msgstr ""
+msgstr "ID issue"
 
 #: filters/ProjectVersionFilter.php:45
 msgid "Sort issues per Project TargetVersion"
-msgstr ""
+msgstr "Sắp xếp các vấn đề theo phiên bản mục tiêu của dự án."
 
 #: filters/ProjectVersionFilter.php:53
 msgid "Project TargetVersion"
-msgstr ""
+msgstr "Phiên bản mục tiêu của dự án"
 
 #: filters/IssueTagFilter.php:49
 msgid "Sort issues per tags"
-msgstr ""
+msgstr "Sắp xếp các vấn đề theo ID"
 
 #: filters/IssueTagFilter.php:57
 msgid "Issue Tag"
-msgstr ""
+msgstr "Thẻ vấn đề"
 
 #: filters/IssuePublicPrivateFilter.php:48
 msgid "Sort issues: public/private"
-msgstr ""
+msgstr "Phân loại vấn đề: công khai/riêng tư"
 
 #: filters/IssuePublicPrivateFilter.php:56
 msgid "Issue Public/Private"
-msgstr ""
+msgstr "Vấn đề Công cộng/Tư nhân"
 
 #: filters/IssueCodevTypeFilter.php:55
 msgid "Sort issues per CustomField: CodevTT_Type"
-msgstr ""
+msgstr "Sắp xếp các vấn đề theo trường tùy chỉnh: CodevTT_Type"
 
 #: filters/IssueCodevTypeFilter.php:63
 msgid "Type (Task/Bug)"
-msgstr ""
+msgstr "Loại (Nhiệm vụ/Lỗi)"
 
 #: indicator_plugins/StatusHistoryIndicator/StatusHistoryIndicator.class.php:186
 #: plugins/StatusHistoryIndicator2/StatusHistoryIndicator2.class.php:337
 msgid "Y-m-d"
-msgstr ""
+msgstr "Y-m-d"
 
 #: indicator_plugins/BacklogVariationIndicator/BacklogVariationIndicator.class.php:286
 msgid "Average backlog"
-msgstr ""
+msgstr "Tồn đọng trung bình"
 
 #: install/install.php:25 install/install.php:133
 #: install/install_menu.inc.php:22
 msgid "Install"
-msgstr ""
+msgstr "Cài đặt"
 
 #: install/install.php:122
 msgid "Upgrade instructions"
-msgstr ""
+msgstr "Upgrade instructions"
 
 #: install/install.php:123
 msgid "If you're upgrading from an older CodevTT version, do the following steps:"
-msgstr ""
+msgstr "Nếu bạn đang nâng cấp từ phiên bản CodevTT cũ hơn, hãy thực hiện các bước sau:"
 
 #: install/install.php:125
 msgid "Upgrade Mantis first ! (not mandatory)"
-msgstr ""
+msgstr "Hãy nâng cấp Mantis trước! (không bắt buộc)"
 
 #: install/install.php:126
 msgid "Backup your database"
-msgstr ""
+msgstr "Sao lưu cơ sở dữ liệu của bạn"
 
 #: install/install.php:127
 msgid "Copy CodevTT configuration files from your previous installation"
-msgstr ""
+msgstr "Sao chép các tệp cấu hình CodevTT từ lần cài đặt trước của bạn."
 
 #: install/install.php:128
 msgid "Run this script: "
-msgstr ""
+msgstr "Chạy đoạn mã này: "
 
 #: install/install_step5.php:25
 msgid "Installation finished"
-msgstr ""
+msgstr "Cài đặt hoàn tất"
 
 #: install/install_step4.php:25
 msgid "Install - Step 4"
-msgstr ""
+msgstr "Install - Step 4"
 
 #: install/install_step4.php:44
 msgid "Manual steps"
-msgstr ""
+msgstr "Các bước thủ công"
 
 #: install/install_step4.php:48
 msgid "Check Mantis Plugins"
-msgstr ""
+msgstr "Kiểm tra các plugin Mantis"
 
 #: install/install_step4.php:50
 msgid "Login to Mantis as 'Administrator'."
-msgstr ""
+msgstr "Đăng nhập vào Mantis với tư cách 'Quản trị viên'."
 
 #: install/install_step4.php:51
 msgid "manage plugins"
-msgstr ""
+msgstr "quản lý plugin"
 
 #: install/install_step4.php:52
 msgid "Check that the <b>CodevTT</b> plugin is installed and activated."
-msgstr ""
+msgstr "Hãy kiểm tra xem plugin <b>CodevTT</b> đã được cài đặt và kích hoạt chưa."
 
 #. echo '<br>';
 #: install/install_step4.php:58
 msgid "Check generated configuration files"
-msgstr ""
+msgstr "Kiểm tra các tệp cấu hình đã tạo."
 
 #: install/install_step4.php:60
 msgid "Mantis Path & URL in "
-msgstr ""
+msgstr "Đường dẫn và URL của Mantis trong "
 
 #: install/install_step4.php:61
 msgid "Log directory in "
-msgstr ""
+msgstr "Thư mục nhật ký trong "
 
 #. echo '<br>';
 #: install/install_step4.php:66
 msgid "Remove CodevTT Installation files"
-msgstr ""
+msgstr "Xóa các tệp cài đặt CodevTT"
 
 #: install/install_step4.php:68
 msgid "For security reasons, delete the following directory: "
-msgstr ""
+msgstr "Vì lý do bảo mật, hãy xóa thư mục sau: "
 
 #: install/install_step4.php:83
 msgid "Done !"
-msgstr ""
+msgstr "Xong !"
 
 #: install/install_step1.php:25
 msgid "Install - Step 1"
-msgstr ""
+msgstr "Cài đặt - Bước 1"
 
 #: install/install_step1.php:214
 msgid "Mantis Database Info"
-msgstr ""
+msgstr "Thông tin cơ sở dữ liệu về bọ ngựa"
 
 #: install/install_step1.php:218
 msgid "SGBD"
@@ -6171,11 +6171,11 @@ msgstr "SGBD"
 
 #: install/install_step1.php:229
 msgid "Hostname"
-msgstr ""
+msgstr "Tên máy chủ"
 
 #: install/install_step1.php:233
 msgid "Database Name"
-msgstr ""
+msgstr "Tên cơ sở dữ liệu"
 
 #: install/install_step1.php:237
 msgid "Database Table Prefix "
@@ -6187,321 +6187,321 @@ msgstr "Danh sách hậu tố "
 
 #: install/install_step1.php:255
 msgid "WARN Windows Install: to avoid a SUPER privilege error, use <b>root</b> mysql user (This can be changed in config.ini when installation is finished)."
-msgstr ""
+msgstr "CẢNH BÁO Cài đặt Windows: để tránh lỗi quyền SUPER, hãy sử dụng người dùng <b>root</b> của mysql (Bạn có thể thay đổi điều này trong config.ini sau khi quá trình cài đặt hoàn tất)."
 
 #: install/install_step1.php:260
 msgid "Proxy Settings"
-msgstr ""
+msgstr "Thiết lập proxy"
 
 #: install/install_step1.php:261
 msgid "CodevTT will check for updates."
-msgstr ""
+msgstr "CodevTT sẽ kiểm tra các bản cập nhật."
 
 #: install/install_step1.php:264
 msgid "Enable proxy"
-msgstr ""
+msgstr "Bật proxy"
 
 #: install/install_step1.php:265
 msgid "Server"
-msgstr ""
+msgstr "Máy chủ"
 
 #: install/install_step1.php:266
 msgid "Port"
-msgstr ""
+msgstr "Cảng"
 
 #: install/install_step1.php:273
 msgid "Proceed Step 1"
-msgstr ""
+msgstr "Tiếp tục Bước 1"
 
 #: install/install_step2.php:25
 msgid "Install - Step 2"
-msgstr ""
+msgstr "Cài đặt - Bước 2"
 
 #: install/install_step2.php:104
 msgid "Get Mantis customizations"
-msgstr ""
+msgstr "Tùy chỉnh Mantis"
 
 #: install/install_step2.php:109
 msgid "Path to Mantis"
-msgstr ""
+msgstr "Đường đến Mantis"
 
 #: install/install_step2.php:114
 msgid "URL to Mantis"
-msgstr ""
+msgstr "URL đến Mantis"
 
 #: install/install_step2.php:119
 msgid "URL to CodevTT"
-msgstr ""
+msgstr "URL đến CodevTT"
 
 #: install/install_step2.php:134
 msgid "Proceed Step 2"
-msgstr ""
+msgstr "Tiếp tục Bước 2"
 
 #: install/install_step3.php:25
 msgid "Install - Step 3"
-msgstr ""
+msgstr "Cài đặt - Bước 3"
 
 #: install/install_step3.php:235
 msgid "CodevTT Administrators team"
-msgstr ""
+msgstr "Nhóm quản trị viên CodevTT"
 
 #: install/install_step3.php:388
 msgid "CodevTT_EffortEstim"
-msgstr ""
+msgstr "CodevTT_EffortEstim"
 
 #: install/install_step3.php:391
 msgid "CodevTT_Type"
-msgstr ""
+msgstr "CodevTT_Type"
 
 #: install/install_step3.php:398
 msgid "CodevTT_Manager EffortEstim"
-msgstr ""
+msgstr "CodevTT_Manager EffortEstim"
 
 #: install/install_step3.php:400
 msgid "CodevTT_DailyPrice"
-msgstr ""
+msgstr "CodevTT_DailyPrice"
 
 #: install/install_step3.php:406
 msgid "CodevTT_External ID"
-msgstr ""
+msgstr "Mã định danh bên ngoài CodevTT_"
 
 #: install/install_step3.php:409
 msgid "CodevTT_Deadline"
-msgstr ""
+msgstr "CodevTT_Deadline"
 
 #: install/install_step3.php:419
 msgid "CodevTT_Backlog"
-msgstr ""
+msgstr "CodevTT_Backlog"
 
 #. createCustomField(T_("CodevTT_Delivery ticket"),   $mType_string,  "customField_deliveryId", $attributes);  // CoDev FDJ custom
 #: install/install_step3.php:426
 msgid "CodevTT_Delivery Date"
-msgstr ""
+msgstr "Ngày giao hàng CodevTT"
 
 #. ------ Reports
 #: install/install_step3.php:478
 msgid "Path to output files"
-msgstr ""
+msgstr "Đường dẫn đến tập tin đầu ra"
 
 #. T_("Note: <b>/var/local/codevtt</b> is a good location for this, but you'll need to create it first and give read/write access.")
 #: install/install_step3.php:480
 msgid "Path to log files and other temporary files."
-msgstr ""
+msgstr "Path to log files and other temporary files."
 
 #. ------ Status
 #: install/install_step3.php:497
 msgid "Workflow"
-msgstr ""
+msgstr "Luồng làm việc"
 
 #: install/install_step3.php:498
 msgid "Set equivalences in accordance to your Mantis workflow"
-msgstr ""
+msgstr "Thiết lập các giá trị tương đương phù hợp với quy trình làm việc Mantis của bạn."
 
 #. ------ Administrator
 #: install/install_step3.php:556
 msgid "CodevTT Administrator"
-msgstr ""
+msgstr "Ban quản lý CodevTT"
 
 #: install/install_step3.php:568
 msgid "More administrators can be defined later, for now you just need one."
-msgstr ""
+msgstr "Bạn có thể định nghĩa thêm quản trị viên sau này, hiện tại chỉ cần một người."
 
 #. ------- External ID
 #: install/install_step3.php:572
 msgid "Tasks external ID field"
-msgstr ""
+msgstr "Trường ID bên ngoài của tác vụ"
 
 #: install/install_step3.php:594
 msgid "Create a new CustomField"
-msgstr ""
+msgstr "Tạo trường tùy chỉnh mới"
 
 #: install/install_step3.php:596
 msgid "Use this CustomField :"
-msgstr ""
+msgstr "Hãy sử dụng trường tùy chỉnh này:"
 
 #: install/install_step3.php:623
 msgid "Default Jobs"
-msgstr ""
+msgstr "Mặc định"
 
 #: install/install_step3.php:630
 msgid "CodevTT support management"
-msgstr ""
+msgstr "Quản lý hỗ trợ CodevTT"
 
 #: install/install_step3.php:641
 msgid "Specific to SideTasks"
-msgstr ""
+msgstr "Cụ thể dành cho SideTasks"
 
 #: install/install_step3.php:684
 msgid "Proceed Step 3"
-msgstr ""
+msgstr "Tiếp tục Bước 3"
 
 #: install/install_step3.php:837
 msgid "CodevTT admin"
-msgstr ""
+msgstr "Quản trị viên CodevTT"
 
 #: install/install_step3.php:864
 msgid "Other external activity"
-msgstr ""
+msgstr "Hoạt động bên ngoài khác"
 
 #: install/install_step3.php:865
 msgid "Leave"
-msgstr ""
+msgstr "Rời"
 
 #: install/install_step3.php:866
 msgid "Sick Leave"
-msgstr ""
+msgstr "Nghỉ ốm"
 
 #: install/install_step3.php:867
 msgid "Analyse"
-msgstr ""
+msgstr "Phân tích"
 
 #: install/install_step3.php:868
 msgid "Development"
-msgstr ""
+msgstr "Sự phát triển"
 
 #: install/install_step3.php:869
 msgid "Tests"
-msgstr ""
+msgstr "Bài kiểm tra"
 
 #: install/install_step3.php:956
 msgid "CodevTT_ExternalTasks"
-msgstr ""
+msgstr "CodevTT_ExternalTasks"
 
 #: install/install_step3.php:956
 msgid "CodevTT ExternalTasks Project"
-msgstr ""
+msgstr "Với dự án External Tasks"
 
 #. cat="OtherInternal", status="closed"
 #: install/install_step3.php:995
 msgid "Any external task, NOT referenced in any Mantis project"
-msgstr ""
+msgstr "Bất kỳ nhiệm vụ bên ngoài nào, KHÔNG được đề cập trong bất kỳ dự án Mantis nào."
 
 #. --- Create the 'Leave' task in ExternalTasks Project
 #: install/install_step3.php:998
 msgid "On holiday, leave, ..."
-msgstr ""
+msgstr "Đang nghỉ phép, ..."
 
 #: install/install_step3.php:999
 msgid "Sick"
-msgstr ""
+msgstr "Bệnh"
 
 #: install/install_menu.inc.php:26
 msgid "Step 1"
-msgstr ""
+msgstr "Bước 1"
 
 #: install/install_menu.inc.php:30
 msgid "Step 2"
-msgstr ""
+msgstr "Bước 2"
 
 #: install/install_menu.inc.php:34
 msgid "Step 3"
-msgstr ""
+msgstr "Bước 3"
 
 #: install/install_menu.inc.php:38
 msgid "Step 4"
-msgstr ""
+msgstr "Bước 4"
 
 #: management/servicecontract_tools.php:182
 msgid "Provision"
-msgstr ""
+msgstr "Điều khoản"
 
 #: management/command_info_ajax.php:340 scheduler/scheduler_ajax.php:379
 #: gantt/gantt_ajax.php:166
 msgid "auto"
-msgstr ""
+msgstr "Tự động"
 
 #: management/commandset_info.php:88
 msgid "Errors affecting the CommandSet"
-msgstr ""
+msgstr "Các lỗi ảnh hưởng đến CommandSet"
 
 #: management/command_edit_ajax.php:66
 msgid "Provisions updated FAILED !"
-msgstr ""
+msgstr "Cập nhật điều khoản THẤT BẠI!"
 
 #: reports/issue_info_ajax.php:105
 msgid "Sorry, only managers can remove tasks from commands"
-msgstr ""
+msgstr "Rất tiếc, chỉ người quản lý mới có thể xóa nhiệm vụ khỏi lệnh."
 
 #: reports/issue_info_ajax.php:130 reports/issue_info_ajax.php:172
 msgid "Sorry, only managers can add tasks to commands"
-msgstr ""
+msgstr "Rất tiếc, chỉ người quản lý mới có thể thêm nhiệm vụ vào lệnh."
 
 #: reports/issue_info_ajax.php:132 reports/issue_info_ajax.php:174
 #: reports/issue_info_ajax.php:205 reports/issue_info_ajax.php:254
 #: reports/issue_info_ajax.php:301 reports/issue_info_ajax.php:366
 msgid "Sorry, this task is not in your team's projects"
-msgstr ""
+msgstr "Rất tiếc, nhiệm vụ này không nằm trong dự án của nhóm bạn."
 
 #: reports/issue_info_ajax.php:203 reports/issue_info_ajax.php:252
 #: reports/issue_info_ajax.php:299 reports/issue_info_ajax.php:364
 msgid "Sorry, you're not an active member of this team"
-msgstr ""
+msgstr "Rất tiếc, bạn không phải là thành viên tích cực của nhóm này."
 
 #: reports/issue_info.php:90
 msgid "You do not have permissions to display task :"
-msgstr ""
+msgstr "Bạn không có quyền hiển thị tác vụ:"
 
 #: reports/issue_info.php:101
 msgid "Task not found in Mantis DB :"
-msgstr ""
+msgstr "Không tìm thấy tác vụ trong cơ sở dữ liệu Mantis:"
 
 #: reports/statistics.php:86
 msgid "No projects in this team"
-msgstr ""
+msgstr "Không có dự án nào trong nhóm này."
 
 #: reports/project_info.php:322
 #: plugins/TasksPivotTable/TasksPivotTable.class.php:389
 msgid "New Tasks"
-msgstr ""
+msgstr "Công việc mới:"
 
 #: reports/project_info.php:323
 #: plugins/TasksPivotTable/TasksPivotTable.class.php:390
 msgid "Current Tasks"
-msgstr ""
+msgstr "Các nhiệm vụ hiện tại"
 
 #: reports/project_info.php:324
 #: plugins/TasksPivotTable/TasksPivotTable.class.php:391
 msgid "Resolved Tasks"
-msgstr ""
+msgstr "Các nhiệm vụ đã hoàn thành"
 
 #: reports/planning_report.php:199
 msgid "onTime"
-msgstr ""
+msgstr "đúng giờ"
 
 #: reports/planning_report.php:200
 msgid "NOT onTime"
-msgstr ""
+msgstr "Không đúng giờ"
 
 #: reports/planning_report.php:201
 msgid "no deadLine"
-msgstr ""
+msgstr "không có hạn chót"
 
 #: reports/planning_report.php:494
 msgid "Monitored"
-msgstr ""
+msgstr "được theo dõi"
 
 #: reports/issue_info_tools.php:39
 msgid "No date defined"
-msgstr ""
+msgstr "Chưa định rõ nhãn"
 
 #: reports/issue_info_tools.php:41
 msgid "No target version defined"
-msgstr ""
+msgstr "Không có phiên bản mục tiêu nào được xác định."
 
 #: tests/odt.php:8
 msgid "Test: export to ODT"
-msgstr ""
+msgstr "Kiểm tra: xuất sang định dạng ODT"
 
 #: tests/odt.php:155
 msgid "Sorry, there are no projects defined for your team."
-msgstr ""
+msgstr "Rất tiếc, hiện không có dự án nào được xác định cho nhóm của bạn."
 
 #: timetracking/team_monthly_activity_report.php:74
 #: timetracking/time_tracking.php:190 timetracking/team_activity_report.php:66
 #: timetracking/missing_timetracks.php:70
 #: timetracking/timetracking_lite.php:120
 msgid "days are incomplete or undefined"
-msgstr ""
+msgstr "Ngày tháng không đầy đủ hoặc không xác định."
 
 #: timetracking/team_monthly_activity_report.php:143
 #: timetracking/time_tracking.php:303 timetracking/time_tracking_tools.php:90
@@ -6509,59 +6509,59 @@ msgstr ""
 #: timetracking/time_tracking_tools.php:692
 #: timetracking/team_activity_report.php:199
 msgid "Error: Task not found in Mantis DB !"
-msgstr ""
+msgstr "Không tìm thấy tác vụ trong cơ sở dữ liệu Mantis:"
 
 #: timetracking/time_tracking_tools.php:363
 msgid "Click to add a note"
-msgstr ""
+msgstr "Nhấp vào đây để thêm ghi chú"
 
 #: timetracking/holidays_report.php:66
 msgid "External Tasks"
-msgstr ""
+msgstr "Liên kết ngoài"
 
 #: timetracking/holidays_report.php:71
 msgid "Sidetasks Inactivity"
-msgstr ""
+msgstr "Việc không hoạt động"
 
 #: timetracking/holidays_report.php:76
 msgid "Activity on other teams"
-msgstr ""
+msgstr "Hoạt động trên các nhóm khác"
 
 #: timetracking/holidays_report.php:140
 msgid "today"
-msgstr ""
+msgstr "hôm nay"
 
 #. light grey
 #: timetracking/holidays_report.php:206
 msgid "User not in team"
-msgstr ""
+msgstr "Người dùng không thuộc nhóm"
 
 #: timetracking/holidays_report.php:244
 msgid "Other team"
-msgstr ""
+msgstr "Đội khác"
 
 #. should never happen, $isBacklogEditable should be 'false'
 #: timetracking/timetracking_lite_ajax.php:139
 #: timetracking/timetracking_lite_ajax.php:144
 msgid "REFUSED"
-msgstr ""
+msgstr "BỊ TỪ CHỐI"
 
 #: timetracking/timetracking_lite_ajax.php:154
 msgid "ERROR: Failed to update backlog !"
-msgstr ""
+msgstr "LỖI: Không thể cập nhật danh sách công việc tồn đọng!"
 
 #: timetracking/timetracking_lite_ajax.php:178
 msgid "ERROR: Failed to getAvailableStatusList !"
-msgstr ""
+msgstr "LỖI: Không thể lấy danh sách trạng thái khả dụng!"
 
 #: timetracking/timetracking_lite_ajax.php:219
 msgid "ERROR: Failed to setStatus !"
-msgstr ""
+msgstr "LỖI: Không thể thiết lập trạng thái!"
 
 #: timetracking/timetracking_lite_ajax.php:245
 #: timetracking/time_tracking_ajax.php:161
 msgid "Timetracking is forbidden when issue's status is :"
-msgstr ""
+msgstr "Việc theo dõi thời gian bị cấm khi trạng thái của sự cố là:"
 
 #. existing tt is too small to be decreased, FORBID the change, do nothing !
 #. $logger->error("DEBUG: existing tt is too small to be decreased tt=".$timetrackCandidate->getDuration()." diff=$diffToRemove");
@@ -6570,421 +6570,421 @@ msgstr ""
 #: timetracking/timetracking_lite_ajax.php:337
 #: timetracking/timetracking_lite_ajax.php:342
 msgid "Sorry, multiple existing timetracks, please use the regular Timetracking page"
-msgstr ""
+msgstr "Xin lỗi, hiện đã có nhiều biểu đồ theo dõi thời gian, vui lòng sử dụng trang Theo dõi thời gian thông thường."
 
 #: timetracking/timetracking_lite_ajax.php:358
 msgid "ERROR: Failed to add/update timetrack !"
-msgstr ""
+msgstr "LỖI: Không thể thêm/cập nhật mốc thời gian!"
 
 #: timetracking/time_tracking_ajax.php:442
 msgid "ERROR: Failed to delete the timetrack !"
-msgstr ""
+msgstr "LỖI: Không thể xóa bản ghi thời gian!"
 
 #. forbid adding timetrack, return error
 #: timetracking/time_tracking_ajax.php:475
 msgid "Timetrack not added: Timetrack note is mandatory"
-msgstr ""
+msgstr "Không thêm nhật ký thời gian: Ghi chú nhật ký thời gian là bắt buộc"
 
 #: timetracking/time_tracking_ajax.php:479
 msgid "Timetrack not added: Job is not specified"
-msgstr ""
+msgstr "Không thêm được Timetrack: Công việc chưa được chỉ định"
 
 #: timetracking/time_tracking_ajax.php:482
 msgid "Timetrack not added: bugid is not specified"
-msgstr ""
+msgstr "Không thể thêm Timetrack: mã lỗi chưa được chỉ định."
 
 #: timetracking/time_tracking_ajax.php:485
 msgid "Timetrack not added: duration is not specified"
-msgstr ""
+msgstr "Không thêm được Timetrack: thời lượng chưa được chỉ định"
 
 #: timetracking/time_tracking_ajax.php:530
 msgid "ERROR: Failed to add timetrack !"
-msgstr ""
+msgstr "LỖI: Không thể thêm/cập nhật mốc thời gian!"
 
 #: plugins/DeadlineAlertIndicator/DeadlineAlertIndicator.class.php:62
 msgid "Task deadlines alert"
-msgstr ""
+msgstr "Thông báo hạn chót công việc"
 
 #: plugins/DeadlineAlertIndicator/DeadlineAlertIndicator.class.php:65
 msgid "Display unresolved tasks that should have been delivered"
-msgstr ""
+msgstr "Hiển thị các nhiệm vụ chưa được giải quyết mà đáng lẽ đã phải hoàn thành."
 
 #: plugins/AdminTools/AdminTools.class.php:68
 msgid "CodevTT administration tools"
-msgstr ""
+msgstr "Ban quản lý CodevTT"
 
 #: plugins/IssueBacklogVariationIndicator/IssueBacklogVariationIndicator.class.php:55
 msgid "Task burndown chart"
-msgstr ""
+msgstr "Biểu đồ tiến độ công việc"
 
 #: plugins/IssueBacklogVariationIndicator/IssueBacklogVariationIndicator.class.php:58
 msgid "Display task backlog updates since the task creation"
-msgstr ""
+msgstr "Hiển thị các cập nhật về danh sách công việc tồn đọng kể từ khi công việc được tạo."
 
 #: plugins/IssueBacklogVariationIndicator/IssueBacklogVariationIndicator.class.php:157
 msgid "Backlog (days)"
-msgstr ""
+msgstr "Tồn đọng (ngày)"
 
 #: plugins/LoadPerJobIndicator2/LoadPerJobIndicator2.class.php:276
 msgid "Management"
-msgstr ""
+msgstr "Quản lý"
 
 #: plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.class.php:74
 msgid "Man-days available in period, except leaves and external tasks"
-msgstr ""
+msgstr "Số ngày công có sẵn trong kỳ, không bao gồm ngày nghỉ phép và các nhiệm vụ bên ngoài."
 
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.class.php:199
 msgid "Task is not in team's projects"
-msgstr ""
+msgstr "Nhiệm vụ này không nằm trong dự án của nhóm."
 
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.class.php:285
 msgid "Timetrack added by "
-msgstr ""
+msgstr "Timetrack được thêm bởi "
 
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks_ajax.php:76
 msgid "Task does not exist !"
-msgstr ""
+msgstr "Trang không tồn tại"
 
 #: plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.class.php:59
 msgid "Management load history"
-msgstr ""
+msgstr "Lịch sử tải quản lý"
 
 #: plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.class.php:62
 msgid "Compares the elapsed time on management sideTasks to the management provisions"
-msgstr ""
+msgstr "Compares the elapsed time on management sideTasks to the management provisions"
 
 #: plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.class.php:75
 msgid "Import Mantis relationship-tree to WBS"
-msgstr ""
+msgstr "Nhập cây quan hệ Mantis vào WBS"
 
 #: plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.class.php:78
 msgid "Import a mantis parent-child relationship issue structure to a command WBS structure"
-msgstr ""
+msgstr "Import a mantis parent-child relationship issue structure to a command WBS structure"
 
 #: plugins/LoadPerUserGroups/LoadPerUserGroups.class.php:71
 msgid "Load per user groups"
-msgstr ""
+msgstr "Tải theo nhóm người dùng"
 
 #: plugins/LoadPerUserGroups/LoadPerUserGroups.class.php:74
 msgid "Check all the timetracks of the period and return their repartition per User groups"
-msgstr ""
+msgstr "Kiểm tra tất cả các mốc thời gian trong khoảng thời gian đó và trả về sự phân bổ của chúng cho mỗi Job."
 
 #: plugins/LoadPerUserGroups/LoadPerUserGroups.class.php:334
 msgid "No group defined"
-msgstr ""
+msgstr "Không định rõ lời chú giải"
 
 #. return T_('Task drift alert');
 #: plugins/DriftAlertIndicator/DriftAlertIndicator.class.php:68
 msgid "Task drift alert"
-msgstr ""
+msgstr "Cảnh báo lệch nhiệm vụ"
 
 #. return T_('Display tasks in drift');
 #: plugins/DriftAlertIndicator/DriftAlertIndicator.class.php:72
 msgid "Display tasks where the elapsed time is greater than the estimated effort"
-msgstr ""
+msgstr "Các nhiệm vụ mà thời gian thực hiện lớn hơn thời gian ước tính cần bỏ ra."
 
 #: plugins/UserTeamList/UserTeamList.class.php:63
 msgid "Display a history of all the teams for a given user"
-msgstr ""
+msgstr "Hiển thị lịch sử tất cả các đội của một người dùng cụ thể."
 
 #: plugins/CustomUserData/CustomUserData.class.php:64
 msgid "Custom user data"
-msgstr ""
+msgstr "Dữ liệu người dùng tùy chỉnh"
 
 #: plugins/CustomUserData/CustomUserData.class.php:69
 msgid "Allows to set some user specific data such as EmployeeId, userId in other DB/Softwares, phoneNumber, etc."
-msgstr ""
+msgstr "Cho phép thiết lập một số dữ liệu cụ thể cho người dùng, chẳng hạn như EmployeeId, userId trong cơ sở dữ liệu/phần mềm khác, số điện thoại, v.v."
 
 #: plugins/CustomUserData/CustomUserData.class.php:70
 msgid "The initial goal is to ease the export of CodevTT data to other tools."
-msgstr ""
+msgstr "Mục tiêu ban đầu là tạo điều kiện thuận lợi cho việc xuất dữ liệu CodevTT sang các công cụ khác."
 
 #: plugins/ManagementCosts/ManagementCosts.class.php:61
 msgid "Sum elapsed time on management sideTasks and compare to the sum of command provisions. Returns a result in man-days and costs"
-msgstr ""
+msgstr "Tính tổng thời gian đã trôi qua ở phía quản lý (các nhiệm vụ) và so sánh với tổng thời gian cung cấp cho bộ chỉ huy. Trả về kết quả tính bằng ngày công và chi phí."
 
 #: plugins/ManagementCosts/ManagementCosts.class.php:168
 #: plugins/CostsIndicator/CostsIndicator.class.php:187
 msgid "No AverageDailyCost defined in team settings"
-msgstr ""
+msgstr "Không có AverageDailyCost nào được định nghĩa trong cài đặt nhóm."
 
 #: plugins/ManagementCosts/ManagementCosts.class.php:175
 #: plugins/CostsIndicator/CostsIndicator.class.php:194
 msgid "Sorry, only managers can access this plugin"
-msgstr ""
+msgstr "Rất tiếc, chỉ quản trị viên mới có thể truy cập trang này."
 
 #: plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.class.php:64
 msgid "Display the bug reopened rate history"
-msgstr ""
+msgstr "Hiển thị lịch sử tỷ lệ lỗi được mở lại"
 
 #: plugins/ImportIssueCsv/ImportIssueCsv.class.php:65
 msgid "Import a list of issues to MantisBT / CodevTT from a CSV file"
-msgstr ""
+msgstr "Nhập danh sách các vấn đề vào MantisBT / CodevTT từ tệp CSV"
 
 #: plugins/MoveIssueTimetracks/MoveIssueTimetracks.class.php:60
 msgid "Move Issue Timetracks"
-msgstr ""
+msgstr "Di chuyển tiến độ xử lý sự cố"
 
 #: plugins/MoveIssueTimetracks/MoveIssueTimetracks.class.php:64
 msgid "Move timetracks from one issue to another"
-msgstr ""
+msgstr "Di chuyển tiến độ từ vấn đề này sang vấn đề khác."
 
 #: plugins/MoveIssueTimetracks/MoveIssueTimetracks_ajax.php:71
 msgid "Please, fill all fields"
-msgstr ""
+msgstr "Vui lòng điền đầy đủ thông tin vào tất cả các trường."
 
 #: plugins/MoveIssueTimetracks/MoveIssueTimetracks_ajax.php:85
 msgid "This origin task doesn't exist"
-msgstr ""
+msgstr "Nhiệm vụ gốc này không tồn tại"
 
 #: plugins/MoveIssueTimetracks/MoveIssueTimetracks_ajax.php:117
 msgid "This destination task doesn't exist"
-msgstr ""
+msgstr "Nhiệm vụ đích này không tồn tại"
 
 #: plugins/MoveIssueTimetracks/MoveIssueTimetracks_ajax.php:120
 msgid "No timetracks for this search"
-msgstr ""
+msgstr "Không có nhật ký theo dõi thời gian cho tìm kiếm này."
 
 #: plugins/MoveIssueTimetracks/MoveIssueTimetracks_ajax.php:171
 msgid "Please, display timetracks before moving them"
-msgstr ""
+msgstr "Vui lòng hiển thị tiến trình thời gian trước khi di chuyển chúng."
 
 #: plugins/StatusHistoryIndicator2/StatusHistoryIndicator2.class.php:70
 msgid "Display Issue Status history"
-msgstr ""
+msgstr "Hiển thị lịch sử trạng thái sự cố"
 
 #: plugins/SellingPriceForPeriod/SellingPriceForPeriod.class.php:91
 msgid "SellingPrice = DailyPrice x Elapsed on period"
-msgstr ""
+msgstr "Giá bán = Giá hàng ngày x Thời gian đã trôi qua"
 
 #: plugins/SellingPriceForPeriod/SellingPriceForPeriod.class.php:385
 msgid "WARNING: You need to assign the \"CodevTT_DailyPrice\" customField to the following projects: "
-msgstr ""
+msgstr "CẢNH BÁO: Bạn cần gán trường tùy chỉnh \"CodevTT_DailyPrice\" cho các dự án sau: "
 
 #: plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.class.php:67
 msgid "Display the progress history"
-msgstr ""
+msgstr "Hiển thị lịch sử tiến độ"
 
 #: plugins/LoadHistoryIndicator/LoadHistoryIndicator.class.php:71
 msgid "Display the elapsed time in a period"
-msgstr ""
+msgstr "Hiển thị thời gian đã trôi qua trong một khoảng thời gian."
 
 #: plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.class.php:63
 msgid "Budget drift history"
-msgstr ""
+msgstr "lịch sử biến động ngân sách"
 
 #: plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.class.php:66
 msgid "Display the budget history"
-msgstr ""
+msgstr "Hiển thị lịch sử tiến độ"
 
 #: plugins/LoadPerCustomfieldValues/LoadPerCustomfieldValues.class.php:72
 msgid "Choose a customfield, return the elapsed time for each customField value"
-msgstr ""
+msgstr "Chọn một trường tùy chỉnh, trả về thời gian đã trôi qua cho mỗi giá trị của trường tùy chỉnh đó."
 
 #: plugins/TimetrackList/TimetrackList.class.php:84
 msgid "List and edit timetracks"
-msgstr ""
+msgstr "Liệt kê và chỉnh sửa biểu đồ thời gian"
 
 #: plugins/BacklogPerUserIndicator/BacklogPerUserIndicator.class.php:72
 msgid "Check all the tasks and return the backlog per User"
-msgstr ""
+msgstr "Kiểm tra tất cả các nhiệm vụ và trả về danh sách công việc tồn đọng cho từng người dùng."
 
 #: plugins/BacklogPerUserIndicator/BacklogPerUserIndicator.class.php:258
 msgid "(unknown 0)"
-msgstr ""
+msgstr "(không rõ)"
 
 #: plugins/OngoingTasks/OngoingTasks.class.php:88
 msgid "List the active tasks on a given period"
-msgstr ""
+msgstr "Liệt kê các nhiệm vụ đang hoạt động trong một khoảng thời gian nhất định."
 
 #: plugins/OngoingTasks/OngoingTasks.class.php:90
 msgid "Tasks having received timetracks during the period"
-msgstr ""
+msgstr "Các nhiệm vụ đã được theo dõi thời gian trong khoảng thời gian đó."
 
 #: plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator.class.php:68
 msgid "Display the number of issues submitted/resolved in a period"
-msgstr ""
+msgstr "Hiển thị số lượng vấn đề đã được gửi/giải quyết trong một khoảng thời gian."
 
 #: plugins/ImportUsers/ImportUsers.class.php:71
 msgid "Import a list of users to MantisBT / CodevTT"
-msgstr ""
+msgstr "Nhập danh sách người dùng vào MantisBT / CodevTT"
 
 #: plugins/ImportUsers/ImportUsers.class.php:74
 msgid "Note: only available for administrators & team leaders"
-msgstr ""
+msgstr "Lưu ý: Chỉ dành cho quản trị viên và trưởng nhóm."
 
 #: plugins/ImportUsers/ImportUsers_ajax.php:108
 msgid "Your are not allowed to import users"
-msgstr ""
+msgstr "Bạn không được phép nhập người dùng."
 
 #: plugins/ImportUsers/ImportUsers_ajax.php:164
 msgid "Your CodevTT / Mantis account has been created: "
-msgstr ""
+msgstr "Tài khoản CodevTT / Mantis của bạn đã được tạo: "
 
 #: plugins/ImportUsers/ImportUsers_ajax.php:167
 msgid "Please, change your password on your first connection."
-msgstr ""
+msgstr "Vui lòng đổi mật khẩu khi đăng nhập lần đầu."
 
 #: plugins/ImportUsers/ImportUsers_ajax.php:168
 msgid "CodevTT URL: "
-msgstr ""
+msgstr "URL CodevTT: "
 
 #: plugins/ImportUsers/ImportUsers_ajax.php:169
 msgid "Mantis  URL: "
-msgstr ""
+msgstr "URL của Mantis: "
 
 #: plugins/ImportUsers/ImportUsers_ajax.php:170
 msgid "Best regards"
-msgstr ""
+msgstr "Chúc mừng bạn"
 
 #: plugins/ImportUsers/ImportUsers_ajax.php:171
 msgid "[CodevTT] Your password"
-msgstr ""
+msgstr "[CodevTT] Mật khẩu của bạn"
 
 #: plugins/LoadPerProjCategoryIndicator/LoadPerProjCategoryIndicator.class.php:73
 msgid "Check all the timetracks of the period and return their repartition per project categories"
-msgstr ""
+msgstr "Kiểm tra tất cả các mốc thời gian trong kỳ và báo cáo sự phân bổ của chúng cho từng Dự án."
 
 #: plugins/LoadPerProjCategoryIndicator/LoadPerProjCategoryIndicator.class.php:347
 msgid "All Sidetasks Projects"
-msgstr ""
+msgstr "Dự án SideTasks"
 
 #: plugins/LoadPerProjCategoryIndicator/LoadPerProjCategoryIndicator.class.php:348
 msgid "All Production Projects"
-msgstr ""
+msgstr "Tất cả các dự án sản xuất"
 
 #: plugins/LoadPerProjCategoryIndicator/LoadPerProjCategoryIndicator.class.php:349
 msgid "All Projects"
-msgstr ""
+msgstr "Tất cả các dự án"
 
 #: plugins/WBSExport/WBSExport.class.php:53
 msgid "WBS Export"
-msgstr ""
+msgstr "Xuất WBS"
 
 #: plugins/WBSExport/WBSExport.class.php:57
 msgid "Export WBS to CSV file"
-msgstr ""
+msgstr "Xuất WBS sang tệp CSV"
 
 #: plugins/TimetrackDetailsIndicator/TimetrackDetailsIndicator.class.php:63
 msgid "Display additional info on timetracks"
-msgstr ""
+msgstr "Hiển thị thông tin bổ sung trên biểu đồ thời gian"
 
 #: plugins/BlogPlugin/BlogPost.class.php:112
 msgid "Low"
-msgstr ""
+msgstr "Thấp"
 
 #: plugins/BlogPlugin/BlogPost.class.php:114
 msgid "Normal"
-msgstr ""
+msgstr "Thường"
 
 #: plugins/BlogPlugin/BlogPost.class.php:116
 msgid "High"
-msgstr ""
+msgstr "Cao"
 
 #. This case happens when an Administrator sends a message to "All" users
 #: plugins/BlogPlugin/BlogPost.class.php:377
 msgid "Everybody"
-msgstr ""
+msgstr "Mọi người"
 
 #: plugins/BlogPlugin/BlogPlugin.class.php:67
 msgid "Messages"
-msgstr ""
+msgstr "Thông điệp"
 
 #: plugins/BlogPlugin/BlogPlugin.class.php:70
 msgid "Display a message wall on the homepage"
-msgstr ""
+msgstr "Hiển thị bảng tin nhắn trên trang chủ"
 
 #: plugins/BlogPlugin/BlogPlugin.class.php:71
 msgid "Allows Administrators & team members to send messages that will be displayed on other users' wall"
-msgstr ""
+msgstr "Cho phép quản trị viên và thành viên nhóm gửi tin nhắn sẽ được hiển thị trên tường của người dùng khác."
 
 #: plugins/BurnDownChart/BurnDownChart.class.php:66
 msgid "Display the backlog history"
-msgstr ""
+msgstr "Hiển thị lịch sử tiến độ"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:70
 msgid "Open issues seniority statistics"
-msgstr ""
+msgstr "Thống kê thâm niên về các vấn đề chưa giải quyết"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:174
 msgid "Last week"
-msgstr ""
+msgstr "Tuần trước"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:175
 msgid "+1 week"
-msgstr ""
+msgstr "1 tuần"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:176
 msgid "+2 week"
-msgstr ""
+msgstr "+2 tuần"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:177
 msgid "+3 week"
-msgstr ""
+msgstr "+3 tuần"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:178
 msgid "+1 months"
-msgstr ""
+msgstr "3 tháng"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:179
 msgid "+2 months"
-msgstr ""
+msgstr "+2 tháng"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:180
 msgid "+3 months"
-msgstr ""
+msgstr "3 tháng"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:181
 msgid "+6 months"
-msgstr ""
+msgstr "+ 6 tháng"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:182
 msgid "Over a year"
-msgstr ""
+msgstr "Hơn một năm"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:271
 msgid "All (tasks & bugs)"
-msgstr ""
+msgstr "Tất cả (nhiệm vụ & lỗi)"
 
 #: plugins/TimetrackingAnalysis/TimetrackingAnalysis.class.php:72
 msgid "Display the delay between the timetrack date and it's creation date"
-msgstr ""
+msgstr "Hiển thị độ trễ giữa ngày trên bản ghi theo dõi thời gian và ngày tạo của nó."
 
 #: plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.class.php:68
 msgid "Display the EffortEstim reliability rate history"
-msgstr ""
+msgstr "Hiển thị lịch sử tỷ lệ độ tin cậy của EffortEtim"
 
 #: plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.class.php:69
 msgid "rate = EffortEstim / elapsed (on resolved tasks only)"
-msgstr ""
+msgstr "Tốc độ = Ước lượng nỗ lực / thời gian đã trôi qua (chỉ áp dụng cho các nhiệm vụ đã hoàn thành)"
 
 #: plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.class.php:72
 msgid "REM: An issue that has been reopened before endTimestamp will NOT be recorded."
-msgstr ""
+msgstr "LƯU Ý: Vấn đề đã được mở lại trước thời gian kết thúc (endTimestamp) sẽ KHÔNG được ghi nhận."
 
 #: plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.class.php:73
 msgid "(For the bugs that where re-opened, the EffortEstim may not have been re-estimated, and thus the result is not reliable.)"
-msgstr ""
+msgstr "(Đối với những lỗi được mở lại, EffortEstim có thể chưa được ước tính lại, do đó kết quả không đáng tin cậy.)"
 
 #: plugins/TasksPivotTable/TasksPivotTable.class.php:79
 msgid "Group tasks by adding multiple filters"
-msgstr ""
+msgstr "Nhóm các tác vụ bằng cách thêm nhiều bộ lọc."
 
 #: plugins/ResetDashboard/ResetDashboard.class.php:60
 msgid "Remove dashboard plugins"
-msgstr ""
+msgstr "Gỡ bỏ các plugin bảng điều khiển"
 
 #: plugins/ResetDashboard/ResetDashboard.class.php:63
 msgid "Remove all plugins from a dashboard. This is usefull if a plugin crashes the page"
-msgstr ""
+msgstr "Gỡ bỏ tất cả các plugin khỏi bảng điều khiển. Việc này hữu ích nếu một plugin nào đó gây lỗi trang."
 
 #: plugins/CostsIndicator/CostsIndicator.class.php:68
 msgid "Compute costs, using the UserDailyCosts defined in team settings"
-msgstr ""
+msgstr "Tính toán chi phí, sử dụng UserDailyCosts được định nghĩa trong cài đặt nhóm."
 
 #: scheduler/SchedulerTaskProvider0.class.php:44
 msgid "Standard issue priority scheduling"
-msgstr ""
+msgstr "Lập lịch ưu tiên phát hành tiêu chuẩn"
 
 #. TODO use this value to stop scheduler computing if OPTION_nbDaysForecast is too big
 #. $max_time = ini_get("max_execution_time");
@@ -6992,66 +6992,66 @@ msgstr ""
 #. Set task id list
 #: scheduler/scheduler.php:59
 msgid "Select a task"
-msgstr ""
+msgstr "Chọn bài kiểm tra"
 
 #: scheduler/scheduler.php:108
 msgid "Today"
-msgstr ""
+msgstr "Hôm nay"
 
 #: scheduler/scheduler.php:109
 msgid "Monday this week"
-msgstr ""
+msgstr "Thứ Hai tuần này"
 
 #: scheduler/scheduler.php:110
 msgid "First week of this month"
-msgstr ""
+msgstr "Tuần đầu tiên của tháng này"
 
 #: scheduler/scheduler.php:116
 msgid "2 weeks"
-msgstr ""
+msgstr "2 tuần"
 
 #: scheduler/scheduler.php:117
 msgid "1 month"
-msgstr ""
+msgstr "1 tháng"
 
 #: scheduler/scheduler.php:118
 msgid "2 months"
-msgstr ""
+msgstr "2 tháng"
 
 #: scheduler/scheduler.php:119
 msgid "3 months"
-msgstr ""
+msgstr "3 tháng"
 
 #: scheduler/SchedulerTaskProvider.class.php:46
 msgid "Daily breakdown scheduling"
-msgstr ""
+msgstr "Lịch trình phân bổ hàng ngày"
 
 #: scheduler/scheduler_ajax.php:328
 msgid "Assignments rules not valid for task"
-msgstr ""
+msgstr "Các quy tắc phân công không hợp lệ cho nhiệm vụ này."
 
 #: scheduler/scheduler_ajax.php:342
 msgid "Assignments updated for task"
-msgstr ""
+msgstr "Assignments updated for task"
 
 #. 'arrivalDate' = should not be defined here, as another ajax call is doing the $schedulerManager->execute()
 #: scheduler/scheduler_ajax.php:389
 msgid "Issue not found in MantisDB !"
-msgstr ""
+msgstr "Không tìm thấy tác vụ trong cơ sở dữ liệu Mantis:"
 
 #: scheduler/scheduler_ajax.php:513
 msgid "Options saved successfully"
-msgstr ""
+msgstr "Đã lưu thay đổi thành công"
 
 #: smarty_tools_ajax.php:35
 msgid "All projects"
-msgstr ""
+msgstr "Tất cả các dự án"
 
 #: smarty_tools.php:126
 msgid "W"
-msgstr ""
+msgstr "T"
 
 #: tools.php:1503
 msgid "Delivery Date"
-msgstr ""
+msgstr "Ngày giao hàng"
 
