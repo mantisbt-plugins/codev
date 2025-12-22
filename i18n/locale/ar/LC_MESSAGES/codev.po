@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-10-30 12:02:28+0000\n"
+"PO-Revision-Date: 2025-12-22 12:01:06+0000\n"
 "Language: ar\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -6037,14 +6037,12 @@ msgid "Project Category"
 msgstr "تصنيف المشروع"
 
 #: filters/IssueIdFilter.php:51
-#, fuzzy
 msgid "Sort issues per ID"
-msgstr "فرز المشكلات حسب الوسوم"
+msgstr "فرز المشكلات حسب المعرف"
 
 #: filters/IssueIdFilter.php:59
-#, fuzzy
 msgid "Issue ID"
-msgstr "وسم القضية"
+msgstr "رقم المشكلة"
 
 #: filters/ProjectVersionFilter.php:45
 msgid "Sort issues per Project TargetVersion"
@@ -6271,9 +6269,8 @@ msgid "CodevTT_Manager EffortEstim"
 msgstr "CodevTT_Manager EffortEstim"
 
 #: install/install_step3.php:400
-#, fuzzy
 msgid "CodevTT_DailyPrice"
-msgstr "CodevTT المواعيد النهائية"
+msgstr "CodevTT_DailyPrice"
 
 #: install/install_step3.php:406
 msgid "CodevTT_External ID"
@@ -6812,9 +6809,8 @@ msgid "List the active tasks on a given period"
 msgstr "قم بإدراج المهام النشطة في فترة زمنية معينة"
 
 #: plugins/OngoingTasks/OngoingTasks.class.php:90
-#, fuzzy
 msgid "Tasks having received timetracks during the period"
-msgstr "مهام تمت إعادة فتحها في الفترة"
+msgstr "المهام التي تم تحديد مسارات زمنية لها خلال الفترة"
 
 #: plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator.class.php:68
 msgid "Display the number of issues submitted/resolved in a period"
