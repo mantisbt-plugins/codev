@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-12-08 12:01:06+0000\n"
+"PO-Revision-Date: 2026-01-08 12:01:07+0000\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1165,7 +1165,7 @@ msgstr "개발자의 작업량"
 
 #. tpl/statistics.html
 msgid "nb production days"
-msgstr "생산 일수"
+msgstr "nb 생산 일수"
 
 #. tpl/statistics.html
 #. tpl/productivity_report.html
@@ -1774,14 +1774,12 @@ msgid "No Drift on External tasks."
 msgstr "외부 ID의 필터"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "nb resolved"
-msgstr "해결됨"
+msgstr "nb 해결됨"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "nb reopened"
-msgstr "%개 다시 열림"
+msgstr "nb 다시 열림"
 
 #. tpl/productivity_report.html
 msgid "nb reopened / nb resolved"
@@ -2123,9 +2121,8 @@ msgid "Uninstall aborted !"
 msgstr "제거가 중단되었습니다 !"
 
 #. tpl/uninstall.html
-#, fuzzy
 msgid "Remove CodevTT from Mantis menu:"
-msgstr "Mantis 플러그인 제거:"
+msgstr "Mantis 메뉴에서 CodevTT를 제거:"
 
 #. tpl/uninstall.html
 #. tpl/edit_team.html
@@ -2140,9 +2137,8 @@ msgid "Failed"
 msgstr "실패했습니다"
 
 #. tpl/uninstall.html
-#, fuzzy
 msgid "Remove CodevTT customFields:"
-msgstr "CodevTT 사용자 지정 필드"
+msgstr "CodevTT 사용자 지정 필드를 제거:"
 
 #. tpl/uninstall.html
 #. tpl/prepare_project.html
@@ -2150,9 +2146,8 @@ msgid "Done"
 msgstr "완료"
 
 #. tpl/uninstall.html
-#, fuzzy
 msgid "Remove CodevTT tables from MantisDB:"
-msgstr "명령에서 작업 취소"
+msgstr "MantisDB에서 CodevTT 테이블을 제거:"
 
 #. tpl/uninstall.html
 #, fuzzy
@@ -2164,9 +2159,8 @@ msgid "Remove Mantis plugin:"
 msgstr "Mantis 플러그인 제거:"
 
 #. tpl/uninstall.html
-#, fuzzy
 msgid "Remove ExternalTasks project:"
-msgstr "프로젝트 제거"
+msgstr "ExternalTasks 프로젝트를 제거:"
 
 #. tpl/uninstall.html
 #, fuzzy
@@ -2440,9 +2434,8 @@ msgid "Delete this CommandSet ?"
 msgstr "이 명령집합을 삭제하시겠습니까 ?"
 
 #. tpl/commandset_edit.html
-#, fuzzy
 msgid "Nb Commands"
-msgstr "명령"
+msgstr "Nb 명령"
 
 #. tpl/commandset_edit.html
 msgid "Service Contracts"
@@ -2889,9 +2882,8 @@ msgid "sum(Backlog) of assigned tasks"
 msgstr ""
 
 #. tpl/team_activity_report.html
-#, fuzzy
 msgid "Workload"
-msgstr "워크플로우"
+msgstr "작업량"
 
 #. tpl/team_activity_report.html
 #, fuzzy
@@ -4747,9 +4739,8 @@ msgid "Nb of issues having fail validation tests"
 msgstr ""
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
-#, fuzzy
 msgid "Nb Fail"
-msgstr "실패했습니다"
+msgstr "Nb 실패"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "Nb of issues having pass validation tests"
@@ -5256,14 +5247,12 @@ msgid "List the users having spent time on the task during the period"
 msgstr ""
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator_ajax.html
-#, fuzzy
 msgid "Nb submitted"
-msgstr "제출됨"
+msgstr "Nb 제출됨"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator_ajax.html
-#, fuzzy
 msgid "Nb resolved"
-msgstr "해결됨"
+msgstr "Nb 해결됨"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator_ajax.html
 #, fuzzy
