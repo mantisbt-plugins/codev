@@ -5,6 +5,7 @@
 # Author: Jopparn
 # Author: Rockyfelle
 # Author: Sabelöga
+# Author: Stefan2255
 # Author: Umeaboy
 # Author: WikiPhoenix
 # Author: Yupik
@@ -14,7 +15,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-10-30 12:02:38+0000\n"
+"PO-Revision-Date: 2026-01-12 12:01:06+0000\n"
 "Language: sv_se\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -186,9 +187,8 @@ msgstr ""
 
 #. tpl/timetracking_lite.html
 #. tpl/time_tracking.html
-#, fuzzy
 msgid "Hide resolved tasks"
-msgstr "Antal lösta"
+msgstr "Dölj lösta uppgifter"
 
 #. tpl/timetracking_lite.html
 #. tpl/check.html
@@ -337,7 +337,7 @@ msgstr "Jobb"
 #. T_('Priority').':<strong>'.$scheduledTask->getPriorityName().'</strong>,&nbsp; '.
 #. T_('Severity').':<strong>'.$scheduledTask->getSeverityName().'</strong>';
 msgid "Duration"
-msgstr ""
+msgstr "Varaktighet"
 
 #. tpl/timetracking_lite.html
 #. tpl/time_tracking.html
@@ -594,7 +594,6 @@ msgid "Start date"
 msgstr "Startdatum"
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "StartDate"
 msgstr "Startdatum"
 
@@ -606,7 +605,6 @@ msgid "End date"
 msgstr "Slutdatum"
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "EndDate"
 msgstr "Slutdatum"
 
@@ -638,24 +636,21 @@ msgstr ""
 
 #. tpl/servicecontract_edit.html
 msgid "Delete ServiceContract"
-msgstr ""
+msgstr "Ta bort serviceavtal"
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "Delete this ServiceContract ?"
-msgstr "Radera detta kommando?"
+msgstr "Vill du ta bort detta serviceavtal?"
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "Nb CommandSets"
-msgstr "Kommandon"
+msgstr "Antal kommandouppsättningar"
 
 #. tpl/servicecontract_edit.html
 #. tpl/command_edit.html
 #. tpl/servicecontract_info.html
-#, fuzzy
 msgid "CommandSets"
-msgstr "Kommandon"
+msgstr "Kommandouppsättningar"
 
 #. tpl/servicecontract_edit.html
 #, fuzzy
@@ -663,9 +658,8 @@ msgid "SideTasks Projects"
 msgstr "Grupprojekt"
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "--- New CommandSet ---"
-msgstr "--- Nytt kommando ---"
+msgstr "--- Ny kommandouppsättning ---"
 
 #. tpl/servicecontract_edit.html
 #. tpl/edit_holidays.html
@@ -718,9 +712,8 @@ msgstr ""
 
 #. tpl/servicecontract_edit.html
 #. tpl/command_edit.html
-#, fuzzy
 msgid "Remove CommandSet"
-msgstr "Ta bort kommando"
+msgstr "Ta bort kommandouppsättningen"
 
 #. tpl/servicecontract_edit.html
 #, fuzzy
@@ -740,14 +733,12 @@ msgid "delete Contract-Project association"
 msgstr ""
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "Remove Project"
-msgstr "Grupprojekt"
+msgstr "Ta bort projekt"
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "Remove Project from this Contract ?"
-msgstr "Ta bort användare från denna grupp?"
+msgstr "Ta bort projektet från detta kontrakt?"
 
 #. tpl/servicecontract_edit.html
 #. tpl/command_edit.html
@@ -941,9 +932,8 @@ msgid "ExtRef"
 msgstr ""
 
 #. tpl/ajax/schedulerAffectationSummary.html
-#, fuzzy
 msgid "Assigned users"
-msgstr "Tilldelad till"
+msgstr "Tilldelade användare"
 
 #. tpl/ajax/projectDetails.html
 #. tpl/project_activity_report.html
@@ -1001,9 +991,8 @@ msgid "update backlog"
 msgstr ""
 
 #. tpl/statistics.html
-#, fuzzy
 msgid "Start Year"
-msgstr "Startdatum"
+msgstr "Startår"
 
 #. tpl/statistics.html
 #. tpl/user_info.html
@@ -1020,7 +1009,7 @@ msgstr "Beräkna"
 #. tpl/statistics.html
 #. tpl/productivity_report.html
 msgid "Adherence to deadlines"
-msgstr ""
+msgstr "Efterlevnad av tidsfrister"
 
 #. tpl/statistics.html
 msgid "Efficiency - System Disponibility"
@@ -1043,9 +1032,8 @@ msgid "EffortEstim Reliability"
 msgstr ""
 
 #. tpl/statistics.html
-#, fuzzy
 msgid "% Tasks"
-msgstr "Uppgifter"
+msgstr "% Uppgifter"
 
 #. tpl/statistics.html
 msgid "Percentage of tasks delivered before the deadLine"
@@ -1056,14 +1044,12 @@ msgstr ""
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.html
-#, fuzzy
 msgid "show values"
-msgstr "Ändra användare"
+msgstr "visa värden"
 
 #. tpl/statistics.html
-#, fuzzy
 msgid "% Tasks Delivered on time"
-msgstr "Uppgifter lösta i tid"
+msgstr "% Uppgifter levererade i tid"
 
 #. tpl/statistics.html
 #. tpl/edit_holidays.html
@@ -1095,22 +1081,21 @@ msgstr "Datum"
 
 #. tpl/statistics.html
 msgid "Effort deviation on resolved tasks (regarding the MgrEffortEstim)"
-msgstr ""
+msgstr "Avvikelse i ansträngning på lösta uppgifter (avseende MgrEffortEstim)"
 
 #. tpl/statistics.html
 msgid "Effort deviation on resolved tasks (regarding the EffortEstim)"
-msgstr ""
+msgstr "Avvikelse i ansträngning på lösta uppgifter (avseende EffortEstim)"
 
 #. tpl/statistics.html
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
-#, fuzzy
 msgid "Effort Deviation"
-msgstr "Felbeskrivning"
+msgstr "Ansträngningsavvikelse"
 
 #. tpl/statistics.html
 msgid "No Support"
-msgstr ""
+msgstr "Inget stöd"
 
 #. tpl/statistics.html
 msgid "BI"
@@ -1122,7 +1107,7 @@ msgstr ""
 
 #. tpl/statistics.html
 msgid "Effort Deviation (ExtRefOnly)"
-msgstr ""
+msgstr "Ansträngningsavvikelse (ExtRefOnly)"
 
 #. tpl/statistics.html
 #. tpl/productivity_report.html
@@ -1169,29 +1154,26 @@ msgstr ""
 
 #. tpl/statistics.html
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
-#, fuzzy
 msgid "man-days"
-msgstr "dagar"
+msgstr "arbetsdagar"
 
 #. tpl/statistics.html
 msgid "Available man-days on the period (excluding leave and external tasks)"
-msgstr ""
+msgstr "Tillgängliga arbetsdagar under perioden (exklusive ledighet och externa uppgifter)"
 
 #. tpl/statistics.html
-#, fuzzy
 msgid "Developers Workload"
-msgstr "Hej världen"
+msgstr "Utvecklarnas arbetsbelastning"
 
 #. tpl/statistics.html
-#, fuzzy
 msgid "nb production days"
-msgstr "Produktionsdagar"
+msgstr "antal produktionsdagar"
 
 #. tpl/statistics.html
 #. tpl/productivity_report.html
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.html
 msgid "Compares the effort estimation to the elapsed time."
-msgstr ""
+msgstr "Jämför uppskattningen av ansträngningen med den förflutna tiden."
 
 #. tpl/statistics.html
 #. tpl/productivity_report.html
@@ -1210,13 +1192,13 @@ msgstr "Hjälp"
 #. tpl/productivity_report.html
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.html
 msgid "(on resolved tasks only)"
-msgstr ""
+msgstr "(endast på lösta uppgifter)"
 
 #. tpl/statistics.html
 #. tpl/productivity_report.html
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.html
 msgid "rate = 1 : estimation was perfect.<br>rate &lt; 1 : underestimated<br>rate &gt; 1 : overestimated"
-msgstr ""
+msgstr "rate = 1: uppskattningen var perfekt.<br> rate < 1 : underskattad<br> hastighet > 1 : överskattad"
 
 #. tpl/statistics.html
 #. tpl/productivity_report.html
@@ -1241,11 +1223,11 @@ msgstr ""
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.html
 #: classes/consistency_check2.class.php:414
 msgid "elapsed"
-msgstr ""
+msgstr "förflutit"
 
 #. tpl/statistics.html
 msgid "Sorry, you do NOT have access to this page."
-msgstr ""
+msgstr "Tyvärr har du INTE tillgång till den här sidan."
 
 #. tpl/user_info.html
 #. tpl/project_info.html
@@ -1253,14 +1235,12 @@ msgstr ""
 #. tpl/commandset_info.html
 #. tpl/issue_info.html
 #. tpl/command_info.html
-#, fuzzy
 msgid "Indicators"
-msgstr "Indikator"
+msgstr "Indikatorer"
 
 #. tpl/user_info.html
-#, fuzzy
 msgid "User info"
-msgstr "Användare"
+msgstr "Användarinformation"
 
 #. tpl/user_info.html
 #. tpl/modal/login.html
@@ -1269,9 +1249,8 @@ msgid "Login"
 msgstr "Logga in"
 
 #. tpl/user_info.html
-#, fuzzy
 msgid "User ID"
-msgstr "Användare"
+msgstr "Användar-ID"
 
 #. tpl/user_info.html
 #. tpl/edit_team.html
@@ -1288,9 +1267,8 @@ msgid "Role"
 msgstr "Roll"
 
 #. tpl/user_info.html
-#, fuzzy
 msgid "Team arrival date"
-msgstr "Ankomstdatum"
+msgstr "Lagets ankomstdatum"
 
 #. tpl/bvi.html
 msgid "Average Backlog Variation"
@@ -1370,7 +1348,7 @@ msgstr "Exportera till CSV"
 
 #. tpl/team_monthly_activity_report.html
 msgid "Elapsed in period"
-msgstr ""
+msgstr "Förflutit i period"
 
 #. tpl/index.html
 msgid "IE may not correctly display this website"
@@ -1385,17 +1363,16 @@ msgid "A new CodevTT version is available !"
 msgstr "En ny version av CodevTT finns tillgänglig!"
 
 #. tpl/edit_holidays.html
-#, fuzzy
 msgid "Add fixed holidays"
-msgstr "Redigera helgdagar"
+msgstr "Lägg till fasta helgdagar"
 
 #. tpl/edit_holidays.html
 msgid "In here you can set National Days, religious holidays, etc."
-msgstr ""
+msgstr "Här kan du ställa in nationaldagar, religiösa helgdagar etc."
 
 #. tpl/edit_holidays.html
 msgid "Note: adding RTTs is not a good idea, users may decide to work anyways and productionDaysForecast will be wrong."
-msgstr ""
+msgstr "Obs: att lägga till RTT:er är inte en bra idé, användare kan välja att arbeta ändå och productionDaysForecast kommer att vara fel."
 
 #. tpl/edit_holidays.html
 msgid "Holiday Description"
@@ -1414,16 +1391,15 @@ msgstr "Färg"
 #. tpl/edit_jobs.html
 #: install/install_step3.php:634
 msgid "open a colorPicker in a new Tab"
-msgstr ""
+msgstr "öppna en färgväljare i en ny flik"
 
 #. tpl/edit_holidays.html
 msgid "Permanently remove this date ?"
 msgstr "Ta bort detta datum permanent?"
 
 #. tpl/edit_holidays.html
-#, fuzzy
 msgid "delete Holiday"
-msgstr "Redigera helgdagar"
+msgstr "ta bort helgdag"
 
 #. tpl/edit_holidays.html
 #. tpl/edit_jobs.html
@@ -1432,7 +1408,7 @@ msgstr "Redigera helgdagar"
 #. tpl/workflow.html
 #. tpl/create_team.html
 msgid "Sorry, you need to be in the admin-team to access this page."
-msgstr ""
+msgstr "Tyvärr, du måste vara medlem i administratörsgruppen för att komma åt den här sidan."
 
 #. tpl/set_holidays.html
 #. tpl/filters.html
@@ -1447,9 +1423,8 @@ msgstr "Välj"
 #. tpl/set_holidays.html
 #. tpl/time_tracking.html
 #. tpl/modal/update_issueBacklog.html
-#, fuzzy
 msgid "Duration (in days)"
-msgstr "Produktionsdagar"
+msgstr "Varaktighet (i dagar)"
 
 #. tpl/set_holidays.html
 msgid "Monday"
@@ -1498,9 +1473,8 @@ msgid "Productivity indicators"
 msgstr "Produktivitetsindikatorer"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "Reopened tasks"
-msgstr "antal uppgifter"
+msgstr "Återöppnade uppgifter"
 
 #. tpl/productivity_report.html
 msgid "Production Days"
@@ -1520,7 +1494,7 @@ msgstr "Projektledning"
 
 #. tpl/productivity_report.html
 msgid "Other SideTasks"
-msgstr ""
+msgstr "Andra sidouppgifter"
 
 #. tpl/productivity_report.html
 #. tpl/project_activity_report.html
@@ -1535,35 +1509,31 @@ msgstr "Totalt"
 
 #. tpl/productivity_report.html
 msgid "Days spent on the projects during the period (team members only)"
-msgstr ""
+msgstr "Antal dagar som spenderats på projekten under perioden (endast teammedlemmar)"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "SideTasks: Project Management"
-msgstr "Projektledning"
+msgstr "Sidouppgifter: Projektledning"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "Days spent on project management tasks"
-msgstr "Projekthantering"
+msgstr "Dagar spenderade på projektledningsuppgifter"
 
 #. tpl/productivity_report.html
 msgid "SideTasks: Others"
-msgstr ""
+msgstr "Sidouppgifter: Övriga"
 
 #. tpl/productivity_report.html
 msgid "Days spent on sideTasks, except project management and inactivity tasks"
-msgstr ""
+msgstr "Dagar spenderade på sidouppgifter, förutom projektledning och inaktivitetsuppgifter"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "Production Days : total"
-msgstr "Produktionsdagar"
+msgstr "Produktionsdagar: totalt"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "number of days billed"
-msgstr "Antal teammedlemmar"
+msgstr "antal fakturerade dagar"
 
 #. tpl/productivity_report.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_ajax.html
@@ -1572,9 +1542,8 @@ msgid "projects"
 msgstr "projekt"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "sideTasks"
-msgstr "Uppgifter"
+msgstr "sidouppgifter"
 
 #. tpl/productivity_report.html
 msgid "Not available."
@@ -1593,14 +1562,12 @@ msgid "Value"
 msgstr "Värde"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "Available Workload"
-msgstr "Tillgängliga filter"
+msgstr "Tillgänglig arbetsbelastning"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "System Availability"
-msgstr "Tillgänglighet"
+msgstr "Systemtillgänglighet"
 
 #. tpl/productivity_report.html
 msgid "MgrEffortEstim Reliability Rate"
@@ -1627,27 +1594,24 @@ msgid "TotalProdDays"
 msgstr ""
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "Platform Availability"
-msgstr "Tillgänglighet"
+msgstr "Plattformens tillgänglighet"
 
 #. tpl/productivity_report.html
 msgid "breakdownDays"
 msgstr ""
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "prodDays"
-msgstr "Dagar"
+msgstr "prodDagar"
 
 #. tpl/productivity_report.html
 msgid "Tasks having no deadLine are not reported here"
 msgstr ""
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "Tasks NOT delivered on time"
-msgstr "Uppgifter lösta i tid"
+msgstr "Uppgifter som INTE levererats i tid"
 
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
@@ -1667,12 +1631,11 @@ msgstr "antal dagar"
 #. $tooltipAttr[T_('DeliveryDate')] = Tools::formatDate("%d %b %Y", $issue->getDeliveryDate());
 #: reports/issue_info_tools.php:109
 msgid "DeliveryDate"
-msgstr ""
+msgstr "Leveransdatum"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "DeadLine"
-msgstr "Linje"
+msgstr "Tidsfrist"
 
 #. tpl/productivity_report.html
 #, fuzzy
@@ -1681,16 +1644,15 @@ msgstr "Uppgifter lösta i tid"
 
 #. tpl/productivity_report.html
 msgid "Task list for EffortEstim"
-msgstr ""
+msgstr "Uppgiftslista för EffortEstim"
 
 #. tpl/productivity_report.html
 msgid "Note: Drift on tasks resolved in the period"
-msgstr ""
+msgstr "Obs: Avvikelse på uppgifter som lösts under perioden"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "Drift - All tasks"
-msgstr "Alla uppgifter"
+msgstr "Avvikelse - Alla uppgifter"
 
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
@@ -1713,15 +1675,13 @@ msgstr ""
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
 #. plugins/DriftAlertIndicator/DriftAlertIndicator.html
-#, fuzzy
 msgid "Tasks in drift"
-msgstr "Uppgifter i tid"
+msgstr "Uppgifter i avvikelse"
 
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
-#, fuzzy
 msgid "Tasks for which the elapsed time is greater than the estimated effort"
-msgstr "Uppgifter lösta på mindre tid än uppskattad tid"
+msgstr "Uppgifter för vilka den förflutna tiden är längre än den beräknade arbetsinsatsen"
 
 #. tpl/productivity_report.html
 msgid "drift"
@@ -1748,14 +1708,13 @@ msgid "Tasks resolved in less time than the estimated effort"
 msgstr "Uppgifter lösta på mindre tid än uppskattad tid"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "Effort deviation"
-msgstr "Felbeskrivning"
+msgstr "Avvikelse i ansträngning"
 
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
 msgid "Manager Estimation"
-msgstr ""
+msgstr "Ansvarigs uppskattning"
 
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
@@ -1764,20 +1723,17 @@ msgstr "Ledare"
 
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
-#, fuzzy
 msgid "Tasks Mgr"
-msgstr "Uppgifter"
+msgstr "Uppgiftsansvarig"
 
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
-#, fuzzy
 msgid "EffortDeviation"
-msgstr "Felbeskrivning"
+msgstr "Ansträngningsavvikelse"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "No resolved tasks..."
-msgstr "Antal lösta"
+msgstr "Inga lösta uppgifter..."
 
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
@@ -1816,14 +1772,12 @@ msgid "No Drift on External tasks."
 msgstr ""
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "nb resolved"
 msgstr "Antal lösta"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "nb reopened"
-msgstr "Antal lösta"
+msgstr "Antal öppnade igen"
 
 #. tpl/productivity_report.html
 msgid "nb reopened / nb resolved"
@@ -1954,9 +1908,8 @@ msgid "With ExternalTasks Project"
 msgstr ""
 
 #. tpl/project_activity_report.html
-#, fuzzy
 msgid "With SideTasks Project"
-msgstr "Uppgifter per projekt"
+msgstr "Med Sidouppgifts-projekt"
 
 #. tpl/form/selectFiltersDialogbox.html
 #. tpl/time_tracking.html
@@ -1969,9 +1922,8 @@ msgstr "Ange filter"
 #. tpl/form/selectFiltersDialogbox.html
 #. tpl/time_tracking.html
 #. plugins/TasksPivotTable/TasksPivotTable.html
-#, fuzzy
 msgid "Task Filters"
-msgstr "Filter"
+msgstr "Uppgiftsfilter"
 
 #. tpl/form/selectFiltersDialogbox.html
 msgid "Drag & drop the filters to apply"
@@ -2092,7 +2044,6 @@ msgid "delete Job"
 msgstr "radera jobb"
 
 #. tpl/edit_jobs.html
-#, fuzzy
 msgid "Edit Job"
 msgstr "Redigera jobb"
 
@@ -2143,9 +2094,8 @@ msgid "Backup file will be saved in CodevTT reports directory"
 msgstr ""
 
 #. tpl/uninstall.html
-#, fuzzy
 msgid "Filename"
-msgstr "Byt namn"
+msgstr "Filnamn"
 
 #. tpl/uninstall.html
 #. tpl/menu/global_menu.html
@@ -2161,14 +2111,12 @@ msgid "Backup successfully done"
 msgstr ""
 
 #. tpl/uninstall.html
-#, fuzzy
 msgid "Uninstall aborted !"
-msgstr "Avinstallera"
+msgstr "Avinstallationen avbröts!"
 
 #. tpl/uninstall.html
-#, fuzzy
 msgid "Remove CodevTT from Mantis menu:"
-msgstr "Ta bort uppgift från detta kommando?"
+msgstr "Ta bort CodevTT från Mantis-menyn:"
 
 #. tpl/uninstall.html
 #. tpl/edit_team.html
@@ -2179,9 +2127,8 @@ msgid "TODO"
 msgstr ""
 
 #. tpl/uninstall.html
-#, fuzzy
 msgid "Failed"
-msgstr "Detaljerad"
+msgstr "Misslyckades"
 
 #. tpl/uninstall.html
 msgid "Remove CodevTT customFields:"
@@ -2201,9 +2148,8 @@ msgid "Remove CodevTT config files:"
 msgstr ""
 
 #. tpl/uninstall.html
-#, fuzzy
 msgid "Remove Mantis plugin:"
-msgstr "Ta bort denna länk:"
+msgstr "Ta bort Mantis-pluginen:"
 
 #. tpl/uninstall.html
 msgid "Remove ExternalTasks project:"
@@ -2256,9 +2202,8 @@ msgstr "Radera detta kommando?"
 
 #. tpl/command_edit.html
 #. plugins/BacklogPerUserIndicator/BacklogPerUserIndicator.html
-#, fuzzy
 msgid "Nb tasks"
-msgstr "antal uppgifter"
+msgstr "Antal uppgifter"
 
 #. tpl/command_edit.html
 #. tpl/command_info.html
@@ -2277,9 +2222,8 @@ msgid "Provisions"
 msgstr ""
 
 #. tpl/command_edit.html
-#, fuzzy
 msgid "Parent CommandSets"
-msgstr "Radera kommando"
+msgstr "Överordnade kommandouppsättningar"
 
 #. tpl/command_edit.html
 msgid "Add tasks (comma separated)"
@@ -2307,7 +2251,6 @@ msgstr ""
 
 #. tpl/command_edit.html
 #. tpl/servicecontract_info.html
-#, fuzzy
 msgid "No CommandSet found."
 msgstr "Inget kommando hittades."
 
@@ -2317,19 +2260,16 @@ msgid "delete CommandSet-Command association"
 msgstr ""
 
 #. tpl/command_edit.html
-#, fuzzy
 msgid "Remove this Command from the CommandSet ?"
-msgstr "Ta bort uppgift från detta kommando?"
+msgstr "Ta bort detta kommando från kommandouppsättningen?"
 
 #. tpl/command_edit.html
-#, fuzzy
 msgid "Create the Command first."
-msgstr "--- Skapa nytt kommando ---"
+msgstr "Skapa kommandot först."
 
 #. tpl/command_edit.html
-#, fuzzy
 msgid "CSV Import"
-msgstr "Importera"
+msgstr "CSV-import"
 
 #. tpl/command_edit.html
 msgid "Import templates"
@@ -2384,9 +2324,8 @@ msgid "save"
 msgstr "spara"
 
 #. tpl/command_edit.html
-#, fuzzy
 msgid "Delete from the Command ?"
-msgstr "Radera detta kommando?"
+msgstr "Ta bort från kommandot?"
 
 #. tpl/command_edit.html
 #, fuzzy
@@ -2412,18 +2351,16 @@ msgid "Not a number"
 msgstr "Inte en siffra"
 
 #. tpl/command_edit.html
-#, fuzzy
 msgid "task id"
-msgstr "uppgifter"
+msgstr "uppgifts-ID"
 
 #. tpl/command_edit.html
 msgid "Not a comma separated number list"
 msgstr ""
 
 #. tpl/command_edit.html
-#, fuzzy
 msgid "Missing field"
-msgstr "Saknade fält:"
+msgstr "Saknat fält"
 
 #. tpl/command_edit.html
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
@@ -2444,18 +2381,16 @@ msgid "Documentation is available at "
 msgstr "Dokumentation finns på "
 
 #. tpl/doc.html
-#, fuzzy
 msgid "CodevTT Documentation"
-msgstr "Dokumentation"
+msgstr "CodevTT-dokumentation"
 
 #. tpl/doc.html
 msgid "You can help on translations: "
 msgstr "Du kan hjälpa till att översätta: "
 
 #. tpl/doc.html
-#, fuzzy
 msgid "statistics"
-msgstr "Gruppstatistik"
+msgstr "statistik"
 
 #. tpl/doc.html
 msgid "Contact the author: "
@@ -2469,34 +2404,28 @@ msgid "IMPORTANT: unassigned tasks will not be displayed !"
 msgstr ""
 
 #. tpl/commandset_edit.html
-#, fuzzy
 msgid "New command set"
-msgstr "Nytt kommando"
+msgstr "Ny kommandouppsättning"
 
 #. tpl/commandset_edit.html
-#, fuzzy
 msgid "Command set name"
-msgstr "Kommandonamn"
+msgstr "Namn på kommandouppsättning"
 
 #. tpl/commandset_edit.html
-#, fuzzy
 msgid "Delete CommandSet"
-msgstr "Radera kommando"
+msgstr "Ta bort kommandouppsättning"
 
 #. tpl/commandset_edit.html
-#, fuzzy
 msgid "Delete this CommandSet ?"
-msgstr "Radera detta kommando?"
+msgstr "Ta bort den här kommandouppsättningen?"
 
 #. tpl/commandset_edit.html
-#, fuzzy
 msgid "Nb Commands"
-msgstr "Kommandon"
+msgstr "Antal kommandon"
 
 #. tpl/commandset_edit.html
-#, fuzzy
 msgid "Service Contracts"
-msgstr "Kontrakt"
+msgstr "Tjänst/Tjänstskontrakt"
 
 #. tpl/commandset_edit.html
 #. tpl/servicecontract_info.html
@@ -2521,9 +2450,8 @@ msgid "Remove Command"
 msgstr "Ta bort kommando"
 
 #. tpl/commandset_edit.html
-#, fuzzy
 msgid "Remove Command from this CommandSet ?"
-msgstr "Ta bort uppgift från detta kommando?"
+msgstr "Ta bort kommandot från denna kommandouppsättning?"
 
 #. tpl/commandset_edit.html
 #. tpl/servicecontract_info.html
@@ -2584,9 +2512,8 @@ msgstr ""
 
 #. tpl/time_tracking.html
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
-#, fuzzy
 msgid "Timetrack note"
-msgstr "Ange filter"
+msgstr "Tidsspårningsanteckning"
 
 #. tpl/time_tracking.html
 #. tpl/edit_team.html
@@ -2595,24 +2522,21 @@ msgstr "radera denna rad"
 
 #. tpl/time_tracking.html
 #. plugins/TimetrackList/TimetrackList_ajax.html
-#, fuzzy
 msgid "Edit timetrack"
-msgstr "Redigera grupp"
+msgstr "Redigera tidsspår"
 
 #. tpl/time_tracking.html
 msgid "Future timetracks"
 msgstr ""
 
 #. tpl/time_tracking.html
-#, fuzzy
 msgid "Delete track"
-msgstr "Radera grupp"
+msgstr "Ta bort spår"
 
 #. tpl/missing_timetracks.html
 #. tpl/menu/global_menu.html
-#, fuzzy
 msgid "Missing Timetracks"
-msgstr "Saknade fält:"
+msgstr "Saknade tidsspår"
 
 #. tpl/missing_timetracks.html
 msgid "Missing timetracks per user"
@@ -2637,14 +2561,12 @@ msgid "workdays"
 msgstr "arbetsdagar"
 
 #. tpl/missing_timetracks.html
-#, fuzzy
 msgid "Missing timetracks"
-msgstr "Saknade fält:"
+msgstr "Saknade tidsspår"
 
 #. tpl/missing_timetracks.html
-#, fuzzy
 msgid "Missing days"
-msgstr "Saknas"
+msgstr "Saknade dagar"
 
 #. tpl/missing_timetracks.html
 #. plugins/CustomUserData/CustomUserData.html
@@ -2705,9 +2627,8 @@ msgid "Add an indicator to the dashboard"
 msgstr ""
 
 #. tpl/tools/dashboard.html
-#, fuzzy
 msgid "Add Indicator"
-msgstr "Indikator"
+msgstr "Lägg till indikator"
 
 #. tpl/tools/dashboard.html
 #. tpl/servicecontract_info.html
@@ -2740,19 +2661,16 @@ msgstr "Förbered"
 
 #. tpl/servicecontract_info.html
 #. tpl/menu/global_menu.html
-#, fuzzy
 msgid "ServiceContract"
-msgstr "Kontrakt"
+msgstr "Tjänsteavtal"
 
 #. tpl/servicecontract_info.html
-#, fuzzy
 msgid "--- Create New ServiceContract ---"
-msgstr "--- Skapa nytt kommando ---"
+msgstr "--- Skapa nytt tjänsteavtal ---"
 
 #. tpl/servicecontract_info.html
-#, fuzzy
 msgid "Charges"
-msgstr "Stor"
+msgstr "Ändringar"
 
 #. tpl/servicecontract_info.html
 #. tpl/create_team.html
@@ -2771,18 +2689,16 @@ msgid "No Command found."
 msgstr "Inget kommando hittades."
 
 #. tpl/servicecontract_info.html
-#, fuzzy
 msgid "No sidetasks found."
-msgstr "Ingen uppgift hittades."
+msgstr "Inga sidouppgifter hittades."
 
 #. tpl/servicecontract_info.html
 msgid "All tasks"
 msgstr "Alla uppgifter"
 
 #. tpl/servicecontract_info.html
-#, fuzzy
 msgid "No Total found."
-msgstr "Ingen uppgift hittades."
+msgstr "Ingen totalsumma hittades."
 
 #. tpl/servicecontract_info.html
 msgid "Note: SideTasks already defined in Commands are not displayed."
@@ -2809,9 +2725,8 @@ msgid "Select User"
 msgstr "Välj användare"
 
 #. tpl/modal/change_managedUser.html
-#, fuzzy
 msgid "Select team user"
-msgstr "Välj användare"
+msgstr "Välj gruppvändare"
 
 #. tpl/modal/change_managedUser.html
 msgid "Change user"
@@ -2834,32 +2749,28 @@ msgid "Delete timesheet note for task "
 msgstr ""
 
 #. tpl/modal/update_issueBacklog.html
-#, fuzzy
 msgid "Current backlog"
-msgstr "Valuta"
+msgstr "Nuvarande backlogg"
 
 #. tpl/modal/update_issueBacklog.html
 msgid "Fixed in version"
 msgstr ""
 
 #. tpl/modal/update_issueBacklog.html
-#, fuzzy
 msgid "Update Backlog"
-msgstr "Uppdatera"
+msgstr "Uppdatera backloggen"
 
 #. tpl/modal/update_issueBacklog.html
-#, fuzzy
 msgid "Task resolved, backlog must be '0'"
-msgstr "Uppgifter lösta i tid"
+msgstr "Uppgift löst, backloggen måste vara '0'"
 
 #. tpl/modal/update_issueBacklog.html
 msgid "Timetracking disabled if current status in : "
 msgstr ""
 
 #. tpl/modal/update_issueBacklog.html
-#, fuzzy
 msgid "Timetrack note is required"
-msgstr "Ange filter"
+msgstr "Tidsspårningsanteckning krävs"
 
 #. tpl/modal/select_issues.html
 msgid "No task selected !"
@@ -2887,9 +2798,8 @@ msgid "and"
 msgstr "och"
 
 #. tpl/modal/login.html
-#, fuzzy
 msgid "CodevTT Identification"
-msgstr "Ta bort administratör"
+msgstr "CodevTT-identifiering"
 
 #. tpl/modal/login.html
 #. tpl/edit_team.html
@@ -2939,46 +2849,39 @@ msgid "Timesheets"
 msgstr ""
 
 #. tpl/team_activity_report.html
-#, fuzzy
 msgid "sum(Backlog) of assigned tasks"
-msgstr "Otilldelade uppgifter"
+msgstr "summa (backlogg) av tilldelade uppgifter"
 
 #. tpl/team_activity_report.html
-#, fuzzy
 msgid "Workload"
-msgstr "Ladda ned"
+msgstr "Arbetsbelastning"
 
 #. tpl/team_activity_report.html
-#, fuzzy
 msgid "Timesheet notes"
-msgstr "Radera anteckning"
+msgstr "Tidrapportsanteckningar"
 
 #. tpl/team_activity_report.html
 msgid "All Tasks"
 msgstr "Alla uppgifter"
 
 #. tpl/team_activity_report.html
-#, fuzzy
 msgid "Timetrack notes"
-msgstr "Ange filter"
+msgstr "Tidsspårningsanteckning"
 
 #. tpl/team_activity_report.html
-#, fuzzy
 msgid "Timetrack Note"
-msgstr "Ange filter"
+msgstr "Tidsspårningsanteckning"
 
 #. tpl/team_activity_report.html
-#, fuzzy
 msgid "Read by"
-msgstr "Rapporterad av"
+msgstr "Läst av"
 
 #. tpl/team_activity_report.html
 #. plugins/AdminTools/AdminTools.html
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
-#, fuzzy
 msgid "Action"
-msgstr "Alternativ"
+msgstr "Handling"
 
 #. tpl/team_activity_report.html
 #. plugins/BlogPlugin/BlogPlugin.html
@@ -3009,9 +2912,8 @@ msgid "Options"
 msgstr "Alternativ"
 
 #. tpl/planning_report.html
-#, fuzzy
 msgid "Planning Options"
-msgstr "Alternativ"
+msgstr "Planeringsalternativ"
 
 #. tpl/planning_report.html
 msgid "Unassigned tasks"
@@ -3026,9 +2928,8 @@ msgid "tasks"
 msgstr "uppgifter"
 
 #. tpl/planning_report.html
-#, fuzzy
 msgid "workload"
-msgstr "arbetsdagar"
+msgstr "arbetsbelastning"
 
 #. tpl/planning_report.html
 msgid "nbDaysToDeadLine"
@@ -3051,14 +2952,12 @@ msgid "Preferences"
 msgstr "Inställningar"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Timetrack Durations"
-msgstr "Ange filter"
+msgstr "Tidspårning varaktigheter"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Costs management"
-msgstr "Projekthantering"
+msgstr "Kostnadshantering"
 
 #. tpl/edit_team.html
 #, fuzzy
@@ -3071,7 +2970,6 @@ msgid "Tools"
 msgstr "Verktyg"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Team name"
 msgstr "Gruppnamn"
 
@@ -3089,28 +2987,24 @@ msgid "Note: A <em>Team Admin</em> must also be declared as <em>TeamMember</em> 
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Team Administrators"
 msgstr "Gruppadministratör"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "add as team administrator"
-msgstr "Gruppadministratör"
+msgstr "lägg till som gruppadministratör"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Add a team administrator"
-msgstr "Gruppadministratör"
+msgstr "Lägg till en gruppadministratör"
 
 #. tpl/edit_team.html
 msgid "Remove administrator"
 msgstr "Ta bort administratör"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Remove the following Team Administrator ?"
-msgstr "Ta bort administratör"
+msgstr "Ta bort följande gruppadministratör?"
 
 #. tpl/edit_team.html
 msgid "Delete team"
@@ -3134,9 +3028,8 @@ msgid "Add User"
 msgstr "Lägg till användare"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Import all users from team"
-msgstr "Importera användare"
+msgstr "Importera alla användare från gruppen"
 
 #. tpl/edit_team.html
 #. plugins/ImportIssueCsv/ImportIssueCsv_ajax.html
@@ -3228,9 +3121,8 @@ msgid "Number of team members"
 msgstr "Antal teammedlemmar"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Arrival date in the team"
-msgstr "Ankomstdatum"
+msgstr "Ankomstdatum i gruppen"
 
 #. tpl/edit_team.html
 #. plugins/UserTeamList/UserTeamList.html
@@ -3239,9 +3131,8 @@ msgid "Arrival Date"
 msgstr "Ankomstdatum"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Departure date from the team"
-msgstr "Ta bort användare från denna grupp?"
+msgstr "Avresedatum från gruppen"
 
 #. tpl/edit_team.html
 #. plugins/UserTeamList/UserTeamList.html
@@ -3303,9 +3194,8 @@ msgid "The ADC is the default UDC for team members"
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Team Currency"
-msgstr "Valuta"
+msgstr "Gruppvaluta"
 
 #. tpl/edit_team.html
 msgid "Team Average Daily Cost"
@@ -3354,9 +3244,8 @@ msgid "Add user daily cost"
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Team creation date"
-msgstr "Ankomstdatum"
+msgstr "Datum för gruppens skapande"
 
 #. tpl/edit_team.html
 #, fuzzy
@@ -3496,9 +3385,8 @@ msgid "Remove user from this team ?"
 msgstr "Ta bort användare från denna grupp?"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Remove this project from the team ?"
-msgstr "Ta bort användare från denna grupp?"
+msgstr "Rensa detta projektet från gruppen?"
 
 #. tpl/edit_team.html
 msgid "Remove IssueTooltip customisation for project"
@@ -3525,9 +3413,8 @@ msgid "Please check table below and click 'OK' button to accept changes"
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Sorry, you need to be Team Leader to access this page."
-msgstr "Vänligen välj ett team för att komma åt denna sida."
+msgstr "Tyvärr, du måste vara gruppledare för att komma åt den här sidan."
 
 #. tpl/commandset_info.html
 #, fuzzy
@@ -3729,9 +3616,8 @@ msgid "Project management"
 msgstr "Projekthantering"
 
 #. tpl/create_team.html
-#, fuzzy
 msgid "Team meeting"
-msgstr "Gruppnamn"
+msgstr "Gruppmöte"
 
 #. tpl/create_team.html
 msgid "Network is down"
@@ -3742,9 +3628,8 @@ msgid "Compilation scripts"
 msgstr ""
 
 #. tpl/create_team.html
-#, fuzzy
 msgid "Update team WIKI"
-msgstr "Uppdatera teammedlem"
+msgstr "Uppdatera grupp WIKI"
 
 #. tpl/create_team.html
 msgid "Other activity charged on the project"
@@ -4525,7 +4410,7 @@ msgstr ""
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "Nb days"
-msgstr "antal dagar"
+msgstr "Antal dagar"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "Task backlog"
@@ -4678,9 +4563,8 @@ msgstr "Ange filter"
 #. plugins/TimetrackList/TimetrackList_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_cfg.html
-#, fuzzy
 msgid "Only team members"
-msgstr "Lägg till lagmedlem"
+msgstr "Endast gruppmedlemmar"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_cfg.html
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_cfg.html
@@ -4740,9 +4624,8 @@ msgid "Drift resolved tasks"
 msgstr ""
 
 #. plugins/UserTeamList/UserTeamList.html
-#, fuzzy
 msgid "Update team"
-msgstr "Uppdatera teammedlem"
+msgstr "Uppdatera gruppen"
 
 #. plugins/UserTeamList/UserTeamList_cfg.html
 msgid "User team list"
@@ -5315,9 +5198,8 @@ msgid "Timetrack list"
 msgstr ""
 
 #. plugins/TimetrackList/TimetrackList.html
-#, fuzzy
 msgid "Update timetrack"
-msgstr "Uppdatera teammedlem"
+msgstr "Uppdatera tidsspår"
 
 #. plugins/BacklogPerUserIndicator/BacklogPerUserIndicator_cfg.html
 #. plugins/BacklogPerUserIndicator/BacklogPerUserIndicator.html
@@ -5582,14 +5464,12 @@ msgid "Recipient"
 msgstr ""
 
 #. plugins/BlogPlugin/BlogPlugin.html
-#, fuzzy
 msgid "Current team"
-msgstr "aktuell vecka"
+msgstr "Nuvarande grupp"
 
 #. plugins/BlogPlugin/BlogPlugin.html
-#, fuzzy
 msgid "All my teams"
-msgstr "Alla uppgifter"
+msgstr "Alla mina grupper"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 #, fuzzy
