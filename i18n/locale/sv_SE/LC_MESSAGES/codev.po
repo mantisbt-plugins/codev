@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2026-01-12 12:01:06+0000\n"
+"PO-Revision-Date: 2026-01-15 12:01:11+0000\n"
 "Language: sv_se\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -543,7 +543,6 @@ msgstr "Version"
 #. tpl/servicecontract_info.html
 #. tpl/team_activity_report.html
 #. tpl/command_info.html
-#, fuzzy
 msgid "Reporter"
 msgstr "Rapporterad av"
 
@@ -612,9 +611,8 @@ msgstr "Slutdatum"
 #. tpl/command_edit.html
 #. tpl/servicecontract_info.html
 #. tpl/command_info.html
-#, fuzzy
 msgid "State"
-msgstr "Status"
+msgstr "Tillstånd"
 
 #. tpl/servicecontract_edit.html
 #. tpl/edit_holidays.html
@@ -653,9 +651,8 @@ msgid "CommandSets"
 msgstr "Kommandouppsättningar"
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "SideTasks Projects"
-msgstr "Grupprojekt"
+msgstr "Sidouppgifters-project"
 
 #. tpl/servicecontract_edit.html
 msgid "--- New CommandSet ---"
@@ -716,9 +713,8 @@ msgid "Remove CommandSet"
 msgstr "Ta bort kommandouppsättningen"
 
 #. tpl/servicecontract_edit.html
-#, fuzzy
 msgid "Remove CommandSet from this Contract ?"
-msgstr "Ta bort användare från denna grupp?"
+msgstr "Ta bort kommandosettet från detta kontrakt?"
 
 #. tpl/servicecontract_edit.html
 #. tpl/command_edit.html
@@ -1638,7 +1634,6 @@ msgid "DeadLine"
 msgstr "Tidsfrist"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "Tasks delivered on time"
 msgstr "Uppgifter lösta i tid"
 
@@ -1800,7 +1795,6 @@ msgid "The following fields need to be set"
 msgstr ""
 
 #. tpl/export_odt.html
-#, fuzzy
 msgid "Reporters"
 msgstr "Rapporterad av"
 
@@ -2328,9 +2322,8 @@ msgid "Delete from the Command ?"
 msgstr "Ta bort från kommandot?"
 
 #. tpl/command_edit.html
-#, fuzzy
 msgid "Edit Provision"
-msgstr "Redigera jobb"
+msgstr "Redigera bestämmelse"
 
 #. tpl/command_edit.html
 #. tpl/edit_team.html
@@ -2716,9 +2709,8 @@ msgid "ADR"
 msgstr "ADR"
 
 #. tpl/servicecontract_info.html
-#, fuzzy
 msgid "No provision found."
-msgstr "Inget kommando hittades."
+msgstr "Ingen bestämmelse hittades."
 
 #. tpl/modal/change_managedUser.html
 msgid "Select User"
@@ -2960,9 +2952,8 @@ msgid "Costs management"
 msgstr "Kostnadshantering"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "OnDuty tasks"
-msgstr "antal uppgifter"
+msgstr "I tjänst uppgifter"
 
 #. tpl/edit_team.html
 #. tpl/create_team.html
@@ -2974,9 +2965,8 @@ msgid "Team name"
 msgstr "Gruppnamn"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Creation Date"
-msgstr "Skapa"
+msgstr "Datum skapad"
 
 #. tpl/edit_team.html
 msgid "Enabled"
@@ -3019,7 +3009,6 @@ msgid "Add team member"
 msgstr "Lägg till lagmedlem"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Arrival-Date"
 msgstr "Ankomstdatum"
 
@@ -3038,9 +3027,8 @@ msgid "Import"
 msgstr "Importera"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Import user groups from CSV"
-msgstr "Importera användare"
+msgstr "Importera användargrupper från CSV"
 
 #. tpl/edit_team.html
 msgid "import groups"
@@ -3048,14 +3036,12 @@ msgstr "importera grupper"
 
 #. tpl/edit_team.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
-#, fuzzy
 msgid "User groups"
-msgstr "importera grupper"
+msgstr "Användargrupper"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "CSV file"
-msgstr "Ange filter"
+msgstr "CSV-fil"
 
 #. tpl/edit_team.html
 msgid "upload"
@@ -3064,7 +3050,6 @@ msgstr "ladda upp"
 #. tpl/edit_team.html
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 #. plugins/ImportUsers/ImportUsers.html
-#, fuzzy
 msgid "Import template"
 msgstr "Importera mallar"
 
@@ -3077,9 +3062,8 @@ msgid "Group examples: FrontEnd, BackEnd, Architect, Designers, Qualifiers"
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "CSV File Format"
-msgstr "Filformat"
+msgstr "CSV-filformat"
 
 #. tpl/edit_team.html
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
@@ -3126,7 +3110,6 @@ msgstr "Ankomstdatum i gruppen"
 
 #. tpl/edit_team.html
 #. plugins/UserTeamList/UserTeamList.html
-#, fuzzy
 msgid "Arrival Date"
 msgstr "Ankomstdatum"
 
@@ -3136,9 +3119,8 @@ msgstr "Avresedatum från gruppen"
 
 #. tpl/edit_team.html
 #. plugins/UserTeamList/UserTeamList.html
-#, fuzzy
 msgid "Departure Date"
-msgstr "Startdatum"
+msgstr "Avresedatum"
 
 #. tpl/edit_team.html
 msgid "Update team member"
@@ -3153,15 +3135,13 @@ msgstr "Ankomstdatum"
 #. tpl/edit_team.html
 #. plugins/UserTeamList/UserTeamList.html
 #. plugins/UserTeamList/UserTeamList_ajax.html
-#, fuzzy
 msgid "Departure date"
-msgstr "Startdatum"
+msgstr "Avresedatum"
 
 #. tpl/edit_team.html
 #. plugins/UserTeamList/UserTeamList.html
-#, fuzzy
 msgid "optionnal"
-msgstr "Alternativ"
+msgstr "valfri"
 
 #. tpl/edit_team.html
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
@@ -3173,9 +3153,8 @@ msgid "add new group"
 msgstr "lägg till ny grupp"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Create SideTasksProject"
-msgstr "Skapa projekt"
+msgstr "Skapa sidouppgifts-projekt"
 
 #. tpl/edit_team.html
 msgid "Project name"
@@ -3226,18 +3205,16 @@ msgid "TODO: describe how and where it is used in CodevTT"
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "User Daily Costs"
-msgstr "Gruppstatistik"
+msgstr "Användarens dagliga kostnader"
 
 #. tpl/edit_team.html
 msgid "The UDC is the cost of a user for a single day, it overrides the ADC"
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Add UserDailyCost"
-msgstr "Lägg till användare"
+msgstr "Lägg till daglig användarkostnad"
 
 #. tpl/edit_team.html
 msgid "Add user daily cost"
@@ -3248,14 +3225,12 @@ msgid "Team creation date"
 msgstr "Datum för gruppens skapande"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "User arrival date"
-msgstr "Ankomstdatum"
+msgstr "Användarens ankomstdatum"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "User Daily Cost"
-msgstr "Gruppstatistik"
+msgstr "Daglig kostnad för användare"
 
 #. tpl/edit_team.html
 msgid "Timetracking settings"
@@ -3266,14 +3241,12 @@ msgid "Timetracking disabled if task status in"
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Edit Forbidden status list"
-msgstr "Redigera jobblista"
+msgstr "Redigera lista över förbjudna statusar"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Edit Forbiden status list"
-msgstr "Redigera jobblista"
+msgstr "Redigera lista över förbjudna statusar"
 
 #. tpl/edit_team.html
 msgid "Issue Tooltips"
@@ -3305,9 +3278,8 @@ msgid "Note: OnDuty tasks are team specific 'Leave' tasks, with a slightly diffe
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Inactivity tasks"
-msgstr "Inaktivitet"
+msgstr "Inaktivitetsuppgift"
 
 #. tpl/edit_team.html
 msgid "No 'inactivity' task defined in your SideTasks projects."
@@ -3318,9 +3290,8 @@ msgid "delete OnDuty task"
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Timetrack durations list"
-msgstr "Ange filter"
+msgstr "Lista över tidsspårningslängder"
 
 #. tpl/edit_team.html
 msgid "These are the values proposed in the Timetracking page, when adding a timetrack."
@@ -3350,18 +3321,16 @@ msgstr ""
 #. plugins/BlogPlugin/BlogPlugin.html
 #. plugins/BurnDownChart/BurnDownChart.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis.html
-#, fuzzy
 msgid "Display"
-msgstr "Spara alternativ"
+msgstr "Visa"
 
 #. tpl/edit_team.html
 msgid "add a custom duration"
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Delete duration"
-msgstr "Radera jobb"
+msgstr "Radera varaktighet"
 
 #. tpl/edit_team.html
 msgid "Deleted the following duration ?"
@@ -3376,9 +3345,8 @@ msgid "Source Team"
 msgstr "Källgrupp"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Inactivity task"
-msgstr "Inaktivitet"
+msgstr "Inaktivitetsuppgift"
 
 #. tpl/edit_team.html
 msgid "Remove user from this team ?"
@@ -3417,14 +3385,12 @@ msgid "Sorry, you need to be Team Leader to access this page."
 msgstr "Tyvärr, du måste vara gruppledare för att komma åt den här sidan."
 
 #. tpl/commandset_info.html
-#, fuzzy
 msgid "--- Create New CommandSet ---"
-msgstr "--- Skapa nytt kommando ---"
+msgstr "--- Skapa ny kommandouppsättning ---"
 
 #. tpl/commandset_info.html
-#, fuzzy
 msgid "Service Contract"
-msgstr "Kontrakt"
+msgstr "Tjänst/Tjänstskontrakt"
 
 #. tpl/commandset_info.html
 #. tpl/command_info.html
@@ -3506,9 +3472,8 @@ msgid "Unassigned tasks will not be displayed"
 msgstr ""
 
 #. tpl/forecasting_report.html
-#, fuzzy
 msgid "deviation"
-msgstr "Beskrivning"
+msgstr "avvikelse"
 
 #. tpl/forecasting_report.html
 #. plugins/ManagementCosts/ManagementCosts.html
@@ -3535,18 +3500,16 @@ msgid "Team Administrator"
 msgstr "Gruppadministratör"
 
 #. tpl/create_team.html
-#, fuzzy
 msgid "SideTasks Project"
-msgstr "Uppgifter per projekt"
+msgstr "Sidouppgifts-projekt"
 
 #. tpl/create_team.html
 msgid "Add common ExternalTasks Project"
 msgstr ""
 
 #. tpl/create_team.html
-#, fuzzy
 msgid "Create specific SideTask Project"
-msgstr "Skapa projekt"
+msgstr "Skapa ett specifikt sidouppgifts-projekt"
 
 #. tpl/create_team.html
 msgid "WARNING: Disabling SideTasks project creation is generaly NOT a good idea,so don't do it unless you know exactly what you are doing."
@@ -3599,9 +3562,8 @@ msgid "Custom Fields"
 msgstr "Anpassade fält"
 
 #. tpl/create_team.html
-#, fuzzy
 msgid "CodevTT custom fields"
-msgstr "Anpassade fält"
+msgstr "CodevTT anpassade fält"
 
 #. tpl/create_team.html
 msgid "MgrEffortEstim, EffortEstim, AddEffort, Backlog, DeadLine, DeliveryDate"
@@ -3650,12 +3612,10 @@ msgstr "Exportera"
 
 #. tpl/scheduler.html
 #. tpl/menu/global_menu.html
-#, fuzzy
 msgid "Planning"
-msgstr "Klonar"
+msgstr "Planering"
 
 #. tpl/scheduler.html
-#, fuzzy
 msgid "Assignment"
 msgstr "Tilldelad till"
 
@@ -3664,19 +3624,16 @@ msgid "RAF"
 msgstr ""
 
 #. tpl/scheduler.html
-#, fuzzy
 msgid "User assignment"
-msgstr "Användarnamn"
+msgstr "Användartilldelning"
 
 #. tpl/scheduler.html
-#, fuzzy
 msgid "Add user"
 msgstr "Lägg till användare"
 
 #. tpl/scheduler.html
-#, fuzzy
 msgid "Time on task"
-msgstr "antal uppgifter"
+msgstr "Tid på uppgiften"
 
 #. tpl/scheduler.html
 msgid "Auto"
@@ -3700,9 +3657,8 @@ msgid "Display ExtRef instead of mantis_id"
 msgstr ""
 
 #. tpl/scheduler.html
-#, fuzzy
 msgid "Initial date"
-msgstr "Ankomstdatum"
+msgstr "Ursprungligt datum"
 
 #. tpl/scheduler.html
 msgid "Number of days to display"
@@ -3731,28 +3687,24 @@ msgid "External ID"
 msgstr "Externt ID"
 
 #. tpl/issue_info.html
-#, fuzzy
 msgid "Remove task from command"
-msgstr "Ta bort uppgift från detta kommando?"
+msgstr "Ta bort uppgift från kommandot"
 
 #. tpl/issue_info.html
-#, fuzzy
 msgid "Add to command"
-msgstr "Nytt kommando"
+msgstr "Lägg till i kommandot"
 
 #. tpl/issue_info.html
 msgid "Properties"
 msgstr "Egenskaper"
 
 #. tpl/issue_info.html
-#, fuzzy
 msgid "Timetracks"
-msgstr "Ange filter"
+msgstr "Tidspår"
 
 #. tpl/issue_info.html
-#, fuzzy
 msgid "Time tracking"
-msgstr "Ange filter"
+msgstr "Tidsspårning"
 
 #. tpl/issue_info.html
 msgid "Update timetracking"
@@ -3767,9 +3719,8 @@ msgid "Update task info"
 msgstr ""
 
 #. tpl/issue_info.html
-#, fuzzy
 msgid "External Ref"
-msgstr "Extern"
+msgstr "Extern referens"
 
 #. tpl/issue_info.html
 #: classes/issue.class.php:2255 reports/planning_report.php:458
@@ -3789,33 +3740,28 @@ msgid "Severity"
 msgstr ""
 
 #. tpl/issue_info.html
-#, fuzzy
 msgid "Relation"
-msgstr "Omdirigering"
+msgstr "Relation"
 
 #. tpl/issue_info.html
-#, fuzzy
 msgid "Mantis notes"
-msgstr "Mantis-roll"
+msgstr "Mantis-anteckningar"
 
 #. tpl/issue_info.html
-#, fuzzy
 msgid "Get mantis notes"
-msgstr "Skapa Mantis-användare"
+msgstr "Hämta mantis-anteckningar"
 
 #. tpl/issue_info.html
 msgid "Click refresh button to display..."
 msgstr "Klicka på uppdateringsknappen för att visa..."
 
 #. tpl/issue_info.html
-#, fuzzy
 msgid "First Timetrack date"
-msgstr "Ange filter"
+msgstr "Första tidsspårningsdatum"
 
 #. tpl/issue_info.html
-#, fuzzy
 msgid "Latest Timetrack date"
-msgstr "Ange filter"
+msgstr "Senaste tidsspårningsdatum"
 
 #. tpl/issue_info.html
 msgid "WARNING: Prior timetracks could not be displayed !"
@@ -3830,9 +3776,8 @@ msgid "Remove from :"
 msgstr "Ta bort från:"
 
 #. tpl/issue_info.html
-#, fuzzy
 msgid "Add to Command"
-msgstr "Kommando"
+msgstr "Lägg till i kommandot"
 
 #. tpl/issue_info.html
 msgid "set/remove task specific deadline"
@@ -3855,9 +3800,8 @@ msgid "Backlog should not be set if status is : "
 msgstr ""
 
 #. tpl/command_info.html
-#, fuzzy
 msgid "Set command filters"
-msgstr "Kommandofilter"
+msgstr "Ställ in kommandofilter"
 
 #. tpl/command_info.html
 msgid "--- Create New Command ---"
@@ -3918,14 +3862,12 @@ msgstr ""
 
 #. tpl/command_info.html
 #. tpl/gantt.html
-#, fuzzy
 msgid "Task filter:"
-msgstr "Ange filter"
+msgstr "Uppgiftsfilter:"
 
 #. tpl/command_info.html
-#, fuzzy
 msgid "Show resolved tasks"
-msgstr "Visa uppgifter"
+msgstr "Dölj lösta uppgifter"
 
 #. tpl/command_info.html
 #. tpl/gantt.html
@@ -3949,9 +3891,8 @@ msgid "Year"
 msgstr "År"
 
 #. tpl/holidays_report.html
-#, fuzzy
 msgid "Displayed tasks"
-msgstr "Spara alternativ"
+msgstr "Visade uppgifter"
 
 #. tpl/menu/global_menu.html
 msgid "Home"
@@ -3970,14 +3911,12 @@ msgid "Time Tracking (lite)"
 msgstr ""
 
 #. tpl/menu/global_menu.html
-#, fuzzy
 msgid "Time Tracking"
-msgstr "Ange filter"
+msgstr "Tidsspårning"
 
 #. tpl/menu/global_menu.html
-#, fuzzy
 msgid "Holidays Reports"
-msgstr "Beskrivning av helgdag"
+msgstr "Helgdagsrapporter"
 
 #. tpl/menu/global_menu.html
 msgid "Leaves"
@@ -4012,27 +3951,24 @@ msgid "Team Statistics"
 msgstr "Gruppstatistik"
 
 #. tpl/menu/global_menu.html
-#, fuzzy
 msgid "User Statistics"
-msgstr "Gruppstatistik"
+msgstr "Användarstatistik"
 
 #. tpl/menu/global_menu.html
 msgid "History"
 msgstr "Historik"
 
 #. tpl/menu/global_menu.html
-#, fuzzy
 msgid "Contracts & Commands"
-msgstr "Kontrakt"
+msgstr "Kontrakt & kommandon"
 
 #. tpl/menu/global_menu.html
 msgid "Contracts"
 msgstr "Kontrakt"
 
 #. tpl/menu/global_menu.html
-#, fuzzy
 msgid "Mantis Reports"
-msgstr "Mantis-roll"
+msgstr "Mantisrapporter"
 
 #. tpl/menu/global_menu.html
 msgid "Check"
@@ -4064,9 +4000,8 @@ msgid "About CodevTT"
 msgstr "Om CodevTT"
 
 #. tpl/menu/global_menu.html
-#, fuzzy
 msgid "CodevTT Administration"
-msgstr "Ta bort administratör"
+msgstr "CodevTT-administration"
 
 #. tpl/menu/global_menu.html
 msgid "Admin"
@@ -4101,9 +4036,8 @@ msgid "Clone Projects"
 msgstr "Klona projekt"
 
 #. tpl/menu/global_menu.html
-#, fuzzy
 msgid "Plugin Manager"
-msgstr "Ledare"
+msgstr "Plugin-hanteraren"
 
 #. tpl/menu/global_menu.html
 #. plugins/AdminTools/AdminTools.html
@@ -4130,9 +4064,8 @@ msgid "Domain(s)"
 msgstr "Domän(er)"
 
 #. tpl/plugin_manager.html
-#, fuzzy
 msgid "Enable Plugin"
-msgstr "hantera insticksprogram"
+msgstr "Aktivera plugin"
 
 #. tpl/plugin_manager.html
 msgid "Disable Plugin"
@@ -4219,9 +4152,8 @@ msgstr ""
 #. plugins/AdminTools/AdminTools.html
 #. plugins/AdminTools/AdminTools_cfg.html
 #: plugins/AdminTools/AdminTools.class.php:65
-#, fuzzy
 msgid "Administration tools"
-msgstr "Gruppadministratör"
+msgstr "Administrationsverktyg"
 
 #. plugins/AdminTools/AdminTools.html
 msgid "Actions executed !"
@@ -4232,29 +4164,25 @@ msgid "Force the display of the \"Message\" plugin on the homepage"
 msgstr ""
 
 #. plugins/AdminTools/AdminTools_ajax.html
-#, fuzzy
 msgid "users"
-msgstr "Användare"
+msgstr "användare"
 
 #. plugins/AdminTools/AdminTools_ajax.html
-#, fuzzy
 msgid "Change Mantis issue id"
-msgstr "Skapa Mantis-användare"
+msgstr "Ändra Mantis-problem-ID"
 
 #. plugins/IssueBacklogVariationIndicator/IssueBacklogVariationIndicator.html
 #. plugins/IssueBacklogVariationIndicator/IssueBacklogVariationIndicator_cfg.html
-#, fuzzy
 msgid "Task backlog variation"
-msgstr "Uppgiftsinformation"
+msgstr "Uppgifts backlog variation"
 
 #. plugins/LoadPerJobIndicator2/LoadPerJobIndicator2_cfg.html
 msgid "Show Tasks"
 msgstr "Visa uppgifter"
 
 #. plugins/LoadPerJobIndicator2/LoadPerJobIndicator2_cfg.html
-#, fuzzy
 msgid "Display task column"
-msgstr "Spara alternativ"
+msgstr "Visa uppgiftskolumnen"
 
 #. plugins/LoadPerJobIndicator2/LoadPerJobIndicator2_cfg.html
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
@@ -4313,9 +4241,8 @@ msgstr "Intervall"
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator_cfg.html
 #. plugins/BurnDownChart/BurnDownChart_cfg.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_cfg.html
-#, fuzzy
 msgid "Monthly"
-msgstr "månad"
+msgstr "Månatlig"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator_cfg.html
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator_cfg.html
@@ -4323,14 +4250,12 @@ msgstr "månad"
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator_cfg.html
 #. plugins/BurnDownChart/BurnDownChart_cfg.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_cfg.html
-#, fuzzy
 msgid "Weekly"
-msgstr "Vecka"
+msgstr "Veckovis"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
-#, fuzzy
 msgid "User selection"
-msgstr "Omdirigering"
+msgstr "Användarval"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
@@ -4344,32 +4269,28 @@ msgid "Graph"
 msgstr "Graf"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
-#, fuzzy
 msgid "Graph values"
-msgstr "Ändra användare"
+msgstr "Grafvärden"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
-#, fuzzy
 msgid "Range values"
-msgstr "Ändra användare"
+msgstr "Intervallvärden"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 msgid "Available Workforce Options"
 msgstr ""
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
-#, fuzzy
 msgid "Select by group"
-msgstr "Välj användare"
+msgstr "Välj efter grupp"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 msgid "Availability"
 msgstr "Tillgänglighet"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
-#, fuzzy
 msgid "Productivity Coefficient"
-msgstr "Produktivitetsindikatorer"
+msgstr "Produktivitetskoefficient"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 msgid "Prod. Coef"
@@ -4380,9 +4301,8 @@ msgid "SUM(userWorkforce * availability * prodCoef)"
 msgstr ""
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
-#, fuzzy
 msgid "Available workforce"
-msgstr "Tillgängliga filter"
+msgstr "Tillgänglig arbetskraft"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator_ajax2.html
 msgid "Workforce"
@@ -4443,15 +4363,13 @@ msgid "Fill period with timetracks"
 msgstr ""
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator_cfg.html
-#, fuzzy
 msgid "Managemnt load history"
-msgstr "Hanteringskostnader"
+msgstr "Hantering av belastningshistorik"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
-#, fuzzy
 msgid "Progress History Indicator"
-msgstr "Produktivitetsindikatorer"
+msgstr "Indikator för framstegshistorik"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
@@ -4475,9 +4393,8 @@ msgstr ""
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
-#, fuzzy
 msgid "Real progress"
-msgstr "Förlopp"
+msgstr "Verkliga framsteg"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
@@ -4515,9 +4432,8 @@ msgid "comma separated"
 msgstr ""
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
-#, fuzzy
 msgid "Root task list"
-msgstr "Uppgiftslista"
+msgstr "Rotuppgiftslista"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "comma separated list of mantis tasks"
@@ -4541,9 +4457,8 @@ msgid "Import Relationship tree to command"
 msgstr ""
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
-#, fuzzy
 msgid "ERROR, Please check"
-msgstr "FEL: Kontrollera"
+msgstr "FEL, Vänligen kontrollera"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_cfg.html
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator_cfg.html
@@ -4551,9 +4466,8 @@ msgstr "FEL: Kontrollera"
 #. plugins/TimetrackList/TimetrackList_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_cfg.html
-#, fuzzy
 msgid "Timetrack filter"
-msgstr "Ange filter"
+msgstr "Tidspårningsfilter"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_cfg.html
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
@@ -4572,18 +4486,16 @@ msgstr "Endast gruppmedlemmar"
 #. plugins/TimetrackList/TimetrackList_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
-#, fuzzy
 msgid "Display options"
-msgstr "Spara alternativ"
+msgstr "Visningsalternativ"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_cfg.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_ajax.html
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/OngoingTasks/OngoingTasks.html
 #. plugins/OngoingTasks/OngoingTasks_ajax.html
-#, fuzzy
 msgid "Involved users"
-msgstr "Lösta ärenden"
+msgstr "Involverade användare"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_ajax.html
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator_ajax.html
@@ -4592,9 +4504,8 @@ msgstr ""
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_ajax.html
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator_ajax.html
-#, fuzzy
 msgid "sidetasks"
-msgstr "uppgifter"
+msgstr "sidouppgifter"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
 msgid "Groups"
@@ -4605,15 +4516,13 @@ msgid "Display the elapsed time for each user group"
 msgstr ""
 
 #. plugins/DriftAlertIndicator/DriftAlertIndicator_cfg.html
-#, fuzzy
 msgid "Tasks Drift alert"
-msgstr "Uppgifter per användare"
+msgstr "Larm om uppgiftsavvikelse"
 
 #. plugins/DriftAlertIndicator/DriftAlertIndicator_cfg.html
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
-#, fuzzy
 msgid "Display resolved issues"
-msgstr "Lösta ärenden"
+msgstr "Visa lösta problem"
 
 #. plugins/DriftAlertIndicator/DriftAlertIndicator.html
 msgid "Drift current tasks"
@@ -4755,15 +4664,13 @@ msgid "Standard CSV format with :"
 msgstr ""
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
-#, fuzzy
 msgid "enclosure"
-msgstr "stängd"
+msgstr "inhägnad"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 #. plugins/ImportUsers/ImportUsers.html
-#, fuzzy
 msgid "Date format"
-msgstr "Datumintervall"
+msgstr "Datumformat"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 msgid "Number format"
@@ -4796,19 +4703,16 @@ msgid "File"
 msgstr "Fil"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv_ajax.html
-#, fuzzy
 msgid "Set All"
-msgstr "Markera alla"
+msgstr "Ställ in alla"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv_ajax.html
-#, fuzzy
 msgid "TargetVersion"
 msgstr "Målversion"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv_ajax.html
-#, fuzzy
 msgid "Mantis issues to create:"
-msgstr "Mantis-användare att skapa:"
+msgstr "Mantisproblem att skapa:"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv_ajax.html
 msgid "WBS Tree"
@@ -4819,14 +4723,12 @@ msgid "Category not set on all issues"
 msgstr ""
 
 #. plugins/ImportIssueCsv/ImportIssueCsv_ajax.html
-#, fuzzy
 msgid "Type not set on all issues"
-msgstr "Total spenderad tid på detta ärende"
+msgstr "Typen är inte inställd för alla ärenden"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv_ajax.html
-#, fuzzy
 msgid "Import done !"
-msgstr "Importera användare"
+msgstr "Importen är klar!"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
@@ -4895,15 +4797,13 @@ msgstr ""
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks_ajax.html
 #. plugins/TimetrackDetailsIndicator/TimetrackDetailsIndicator_ajax.html
-#, fuzzy
 msgid "Committer"
-msgstr "Kommandofilter"
+msgstr "Åtagare"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks_ajax.html
 #. plugins/TimetrackDetailsIndicator/TimetrackDetailsIndicator_ajax.html
-#, fuzzy
 msgid "Commit date"
-msgstr "Kommandonamn"
+msgstr "Åtagande-datum"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Select All"
@@ -4918,23 +4818,20 @@ msgid "Start"
 msgstr "Start"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
-#, fuzzy
 msgid "End"
-msgstr "och"
+msgstr "Slut"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Origin"
 msgstr "Ursprung"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
-#, fuzzy
 msgid "Destination"
-msgstr "Beskrivning"
+msgstr "Destination"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
-#, fuzzy
 msgid "Please, fill all fields correctly"
-msgstr "Var god fyll i alla fält"
+msgstr "Vänligen fyll i alla fält korrekt"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 #: plugins/MoveIssueTimetracks/MoveIssueTimetracks_ajax.php:75
@@ -4942,9 +4839,8 @@ msgid "Destination task must be different from origin"
 msgstr ""
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
-#, fuzzy
 msgid "Origin task"
-msgstr "antal uppgifter"
+msgstr "Ursprungsuppgift"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Move selected timetracks"
@@ -4959,9 +4855,8 @@ msgid "WARNING : In order to move timetracks, destination task creation date wil
 msgstr ""
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
-#, fuzzy
 msgid "Timetracks moved successfully !"
-msgstr "Ange filter"
+msgstr "Tidsspåren har flyttats!"
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
 #: plugins/StatusHistoryIndicator2/StatusHistoryIndicator2.class.php:67
@@ -4997,14 +4892,12 @@ msgid "Tasks only"
 msgstr ""
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
-#, fuzzy
 msgid "Filter on External ID"
-msgstr "Externt ID"
+msgstr "Filtrera på externt ID"
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
-#, fuzzy
 msgid "Issues with External ID"
-msgstr "Externt ID"
+msgstr "Problem med externt ID"
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
 msgid "Issues without External ID"
@@ -5058,9 +4951,8 @@ msgstr ""
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_cfg.html
 #. plugins/TimetrackList/TimetrackList_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
-#, fuzzy
 msgid "Task name"
-msgstr "Uppgifter i tid"
+msgstr "Uppgiftsnamn"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_cfg.html
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
@@ -5068,9 +4960,8 @@ msgstr "Uppgifter i tid"
 #. plugins/TimetrackList/TimetrackList_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_ajax.html
-#, fuzzy
 msgid "Task ExtRef"
-msgstr "Uppgiftslista"
+msgstr "Uppgiftens extrareferens"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 #. plugins/TimetrackList/TimetrackList_ajax.html
@@ -5130,9 +5021,8 @@ msgid "Real"
 msgstr ""
 
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
-#, fuzzy
 msgid "% Progress"
-msgstr "Förlopp"
+msgstr "% Framsteg"
 
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator_cfg.html
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator.html
@@ -5161,9 +5051,8 @@ msgid "Compares the budget (MgrEffortEstim + checked provisions) to the reestima
 msgstr ""
 
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.html
-#, fuzzy
 msgid "% Budget Drift"
-msgstr "Budgetdagar"
+msgstr "% Budgetavvikelse"
 
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.html
 msgid "( reestimated - budget ) / budget"
@@ -5174,14 +5063,12 @@ msgid "Budget Drift Progression Chart"
 msgstr ""
 
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.html
-#, fuzzy
 msgid "Budget Drift"
-msgstr "Budgetdagar"
+msgstr "Budgetavvikelse"
 
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2_cfg.html
-#, fuzzy
 msgid "Budget history"
-msgstr "Budgetdagar"
+msgstr "Budgethistorik"
 
 #. plugins/LoadPerCustomfieldValues/LoadPerCustomfieldValues_cfg.html
 #: plugins/LoadPerCustomfieldValues/LoadPerCustomfieldValues.class.php:69
@@ -5189,9 +5076,8 @@ msgid "Load per customfield values"
 msgstr ""
 
 #. plugins/LoadPerCustomfieldValues/LoadPerCustomfieldValues.html
-#, fuzzy
 msgid "Custom field"
-msgstr "Anpassade fält"
+msgstr "Anpassat fält"
 
 #. plugins/TimetrackList/TimetrackList.html
 msgid "Timetrack list"
@@ -5217,14 +5103,12 @@ msgstr ""
 
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_ajax.html
-#, fuzzy
 msgid "WBS path"
-msgstr "WBS-exportering"
+msgstr "WBS-sökväg"
 
 #. plugins/OngoingTasks/OngoingTasks.html
-#, fuzzy
 msgid "Ongoing tasks"
-msgstr "antal uppgifter"
+msgstr "Pågående uppgifter"
 
 #. plugins/OngoingTasks/OngoingTasks.html
 msgid "Display only the tasks with activity (timetracks) on the period"
@@ -5264,19 +5148,16 @@ msgid "Submitted/Resolved issues"
 msgstr "Inskickade/lösta ärenden"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator.html
-#, fuzzy
 msgid "Submitted / Resolved Issues"
 msgstr "Inskickade/lösta ärenden"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator.html
-#, fuzzy
 msgid "Submitted"
-msgstr "Antal inskickade"
+msgstr "Inskickad"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator.html
-#, fuzzy
 msgid "Resolved"
-msgstr "Antal lösta"
+msgstr "Löst"
 
 #. plugins/ImportUsers/ImportUsers.html
 msgid "You need to be manager to import issues."
@@ -5310,9 +5191,8 @@ msgid "Send password by mail"
 msgstr "Skicka lösenord via e-post"
 
 #. plugins/ImportUsers/ImportUsers.html
-#, fuzzy
 msgid "Send a password per email to each user"
-msgstr "Skicka lösenord via e-post"
+msgstr "Skicka ett lösenord per e-post till varje användare"
 
 #. plugins/ImportUsers/ImportUsers.html
 #. plugins/ImportUsers/ImportUsers_ajax.html
@@ -5442,9 +5322,8 @@ msgid "Expire"
 msgstr ""
 
 #. plugins/BlogPlugin/BlogPlugin.html
-#, fuzzy
 msgid "Exp. date"
-msgstr "Slutdatum"
+msgstr "Utgångsdatum"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Expiration Date (optional)"
@@ -5455,9 +5334,8 @@ msgid "Everybody (all teams)"
 msgstr ""
 
 #. plugins/BlogPlugin/BlogPlugin.html
-#, fuzzy
 msgid "Message wall options"
-msgstr "Meddelandevägg"
+msgstr "Alternativ för meddelandevägg"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Recipient"
@@ -5472,14 +5350,12 @@ msgid "All my teams"
 msgstr "Alla mina grupper"
 
 #. plugins/BlogPlugin/BlogPlugin.html
-#, fuzzy
 msgid "Assigned to me"
-msgstr "Tilldelad till"
+msgstr "Tilldelad till mig"
 
 #. plugins/BlogPlugin/BlogPlugin.html
-#, fuzzy
 msgid "Posted by me"
-msgstr "Rapporterad av"
+msgstr "Postat av mig"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
@@ -5496,27 +5372,24 @@ msgid "Hide"
 msgstr ""
 
 #. plugins/BlogPlugin/BlogPlugin.html
-#, fuzzy
 msgid "Message wall help"
-msgstr "Meddelandevägg"
+msgstr "Hjälp med meddelandeväggen"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Buttons"
 msgstr ""
 
 #. plugins/BlogPlugin/BlogPlugin.html
-#, fuzzy
 msgid "Add new message"
-msgstr "Lägg till lagmedlem"
+msgstr "Lägg till nytt meddelande"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Post a new message"
 msgstr ""
 
 #. plugins/BlogPlugin/BlogPlugin.html
-#, fuzzy
 msgid "Set message wall options"
-msgstr "Meddelandevägg"
+msgstr "Alternativ för meddelandevägg"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Mark as read. The message can then be hidden"
@@ -5535,9 +5408,8 @@ msgid "Unhide a hidden message"
 msgstr ""
 
 #. plugins/BlogPlugin/BlogPlugin.html
-#, fuzzy
 msgid "Delete a message."
-msgstr "Radera grupp"
+msgstr "Ta bort ett meddelande."
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "This will permanently delete this post, are you sure ?!"
@@ -5577,9 +5449,8 @@ msgid "Submission date"
 msgstr ""
 
 #. plugins/BlogPlugin/BlogPlugin_ajax.html
-#, fuzzy
 msgid "Expiration date"
-msgstr "Slutdatum"
+msgstr "Utgångsdatum"
 
 #. plugins/BlogPlugin/BlogPlugin_ajax.html
 msgid "Author"
@@ -5595,9 +5466,8 @@ msgstr ""
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
-#, fuzzy
 msgid "Task type filter"
-msgstr "Uppgifter per användare"
+msgstr "Filter för uppgiftstyp"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 msgid "Check the submission date of the tasks"
@@ -5633,9 +5503,8 @@ msgid "Open issues seniority"
 msgstr ""
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
-#, fuzzy
 msgid "Display task list"
-msgstr "Spara alternativ"
+msgstr "Visa uppgiftslista"
 
 #. plugins/TimePerStatusIndicator/TimePerStatusIndicator_cfg.html
 #. plugins/TimePerStatusIndicator/TimePerStatusIndicator.html
@@ -5665,9 +5534,8 @@ msgid "Average"
 msgstr ""
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
-#, fuzzy
 msgid "(in days)"
-msgstr "antal dagar"
+msgstr "(i dagar)"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
 msgid "Median"
@@ -5723,9 +5591,8 @@ msgid "Reset selected dashboards"
 msgstr ""
 
 #. plugins/ResetDashboard/ResetDashboard_ajax.html
-#, fuzzy
 msgid "Domain"
-msgstr "Domän(er)"
+msgstr "Domän"
 
 #. plugins/ResetDashboard/ResetDashboard_ajax.html
 msgid "Item"
@@ -5740,9 +5607,8 @@ msgid "Global cost estimation:"
 msgstr ""
 
 #. plugins/CostsIndicator/CostsIndicator.html
-#, fuzzy
 msgid "Costs Mgr"
-msgstr "Kostnader"
+msgstr "Kostnadsansvarig"
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "Sum the costs of each timetrack."
@@ -6750,9 +6616,8 @@ msgid "Display unresolved tasks that should have been delivered"
 msgstr ""
 
 #: plugins/AdminTools/AdminTools.class.php:68
-#, fuzzy
 msgid "CodevTT administration tools"
-msgstr "Ta bort administratör"
+msgstr "CodevTT-administrationsverktyg"
 
 #: plugins/IssueBacklogVariationIndicator/IssueBacklogVariationIndicator.class.php:55
 msgid "Task burndown chart"
@@ -6779,9 +6644,8 @@ msgid "Task is not in team's projects"
 msgstr ""
 
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.class.php:285
-#, fuzzy
 msgid "Timetrack added by "
-msgstr "Ange filter"
+msgstr "Tidsspår tillagt av "
 
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks_ajax.php:76
 msgid "Task does not exist !"
@@ -6830,9 +6694,8 @@ msgid "Display a history of all the teams for a given user"
 msgstr ""
 
 #: plugins/CustomUserData/CustomUserData.class.php:64
-#, fuzzy
 msgid "Custom user data"
-msgstr "Anpassade fält"
+msgstr "Anpassad användardata"
 
 #: plugins/CustomUserData/CustomUserData.class.php:69
 msgid "Allows to set some user specific data such as EmployeeId, userId in other DB/Softwares, phoneNumber, etc."
