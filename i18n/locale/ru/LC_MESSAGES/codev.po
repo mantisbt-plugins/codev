@@ -7,6 +7,7 @@
 # Author: Diralik
 # Author: Dirruw'o
 # Author: Engineer56
+# Author: FobosD
 # Author: Gas22original
 # Author: Ice bulldog
 # Author: Irus
@@ -32,7 +33,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-10-30 12:02:36+0000\n"
+"PO-Revision-Date: 2026-01-19 12:01:11+0000\n"
 "Language: ru\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -195,12 +196,12 @@ msgstr "ВСЕГО"
 
 #. tpl/timetracking_lite.html
 msgid "Hint: Click in a field to edit 'Elapsed time' or 'Backlog'"
-msgstr ""
+msgstr "Подсказка: Щелкните в поле, чтобы отредактировать «Затраченное время» или «Невыполненные задачи»."
 
 #. tpl/timetracking_lite.html
 #. tpl/time_tracking.html
 msgid "Hide tasks not assigned to me"
-msgstr ""
+msgstr "Скрыть задачи, которые мне не назначены"
 
 #. tpl/timetracking_lite.html
 #. tpl/time_tracking.html
@@ -365,7 +366,7 @@ msgstr "Введите ключевое слово или *** для отобр�
 
 #. tpl/timetracking_lite.html
 msgid "Invalid backlog format"
-msgstr ""
+msgstr "Неверный формат списка задач"
 
 #. tpl/timetracking_lite.html
 #. tpl/modal/update_issueBacklog.html
@@ -377,11 +378,11 @@ msgstr ""
 #. tpl/timetracking_lite.html
 #. tpl/modal/update_issueBacklog.html
 msgid "Status can't be : "
-msgstr ""
+msgstr "Статус не может быть: "
 
 #. tpl/timetracking_lite.html
 msgid "Please update status before editing timetracks"
-msgstr ""
+msgstr "Пожалуйста, обновите статус перед редактированием временных шкал."
 
 #. tpl/timetracking_lite.html
 #. tpl/check.html
@@ -1026,7 +1027,7 @@ msgstr "Строгое соблюдение сроков"
 
 #. tpl/statistics.html
 msgid "Efficiency - System Disponibility"
-msgstr ""
+msgstr "Эффективность - Доступность системы"
 
 #. tpl/statistics.html
 msgid "Reopened Rate"
@@ -1037,7 +1038,7 @@ msgstr "Возобновить задачи"
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 #: plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.class.php:71
 msgid "Available Workforce"
-msgstr ""
+msgstr "Доступная рабочая нагрузка"
 
 #. tpl/statistics.html
 #. tpl/productivity_report.html
@@ -1050,7 +1051,7 @@ msgstr "% Задачи"
 
 #. tpl/statistics.html
 msgid "Percentage of tasks delivered before the deadLine"
-msgstr ""
+msgstr "Процент выполненных задач до дедлайна"
 
 #. tpl/statistics.html
 #. plugins/IssueBacklogVariationIndicator/IssueBacklogVariationIndicator.html
@@ -1094,7 +1095,7 @@ msgstr "Дата"
 
 #. tpl/statistics.html
 msgid "Effort deviation on resolved tasks (regarding the MgrEffortEstim)"
-msgstr ""
+msgstr "Отклонение трудозатрат по выполненным задачам (в отношении MgrEffortEstim)"
 
 #. tpl/statistics.html
 msgid "Effort deviation on resolved tasks (regarding the EffortEstim)"
@@ -1112,11 +1113,11 @@ msgstr ""
 
 #. tpl/statistics.html
 msgid "BI"
-msgstr ""
+msgstr "BI"
 
 #. tpl/statistics.html
 msgid "BS"
-msgstr ""
+msgstr "BS"
 
 #. tpl/statistics.html
 msgid "Effort Deviation (ExtRefOnly)"
@@ -1143,7 +1144,7 @@ msgstr "% Эффективность"
 #. tpl/statistics.html
 #, c-format
 msgid "% Sys Disp."
-msgstr ""
+msgstr "% Sys Disp."
 
 #. tpl/statistics.html
 msgid "Sys Disp."
@@ -1228,9 +1229,8 @@ msgstr "Формула"
 #. tpl/statistics.html
 #. tpl/productivity_report.html
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.html
-#, fuzzy
 msgid "EffortAdd"
-msgstr "EffortEstim"
+msgstr "EffortAdd"
 
 #. tpl/statistics.html
 #. tpl/productivity_report.html
@@ -1526,28 +1526,24 @@ msgid "Days spent on the projects during the period (team members only)"
 msgstr "Дни, потраченные на проекты в течение периода (только члены команды)"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "SideTasks: Project Management"
-msgstr "Управление проектом"
+msgstr "Дополнительные задачи: Управление проектами"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "Days spent on project management tasks"
-msgstr "Управление проектами"
+msgstr "Количество дней, затраченных на задачи управления проектом"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "SideTasks: Others"
-msgstr "SideTasks"
+msgstr "Дополнительные задачи: Прочие"
 
 #. tpl/productivity_report.html
 msgid "Days spent on sideTasks, except project management and inactivity tasks"
 msgstr ""
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "Production Days : total"
-msgstr "Производственные Дни"
+msgstr "Дни производства: всего"
 
 #. tpl/productivity_report.html
 #, fuzzy
@@ -1581,18 +1577,16 @@ msgid "Value"
 msgstr "Значение"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "Available Workload"
-msgstr "Доступные фильтры"
+msgstr "Доступная рабочая нагрузка"
 
 #. tpl/productivity_report.html
 msgid "System Availability"
 msgstr "Доступность системы"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "MgrEffortEstim Reliability Rate"
-msgstr "MgrEffortEstim"
+msgstr "Показатель надежности MgrEffortEstim"
 
 #. tpl/productivity_report.html
 msgid "EffortEstim Reliability Rate"
@@ -1615,18 +1609,16 @@ msgid "TotalProdDays"
 msgstr ""
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "Platform Availability"
-msgstr "Доступность системы"
+msgstr "Доступность платформы"
 
 #. tpl/productivity_report.html
 msgid "breakdownDays"
 msgstr ""
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "prodDays"
-msgstr "Дни"
+msgstr "prodDays"
 
 #. tpl/productivity_report.html
 msgid "Tasks having no deadLine are not reported here"
@@ -1665,19 +1657,16 @@ msgid "Tasks delivered on time"
 msgstr "Задачи доставлены вовремя"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "Task list for EffortEstim"
-msgstr "MgrEffortEstim"
+msgstr "Список задач для EffortEstim"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "Note: Drift on tasks resolved in the period"
-msgstr "Количество дней для добавления в этот период"
+msgstr "Примечание: Возможны отклонения от графика выполнения задач в течение отчетного периода."
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "Drift - All tasks"
-msgstr "Все задания"
+msgstr "Дрифт - Все задания"
 
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
@@ -1700,9 +1689,8 @@ msgstr ""
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
 #. plugins/DriftAlertIndicator/DriftAlertIndicator.html
-#, fuzzy
 msgid "Tasks in drift"
-msgstr "Диспетчер задач"
+msgstr "Задачи в дрейфе"
 
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
