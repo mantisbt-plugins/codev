@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2026-01-19 12:01:13+0000\n"
+"PO-Revision-Date: 2026-01-22 12:01:12+0000\n"
 "Language: uk\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -4470,9 +4470,8 @@ msgstr "ПОМИЛКА. Перевірте"
 #. plugins/TimetrackList/TimetrackList_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_cfg.html
-#, fuzzy
 msgid "Timetrack filter"
-msgstr "Фільтр завдань:"
+msgstr "Фільтр хронометражів:"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_cfg.html
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
@@ -4920,9 +4919,8 @@ msgid "Selling price for period"
 msgstr "Ціна продажу за період"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
-#, fuzzy
 msgid "Elapsed during period"
-msgstr "Пройшло за період"
+msgstr "Пройшло протягом періоду"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 msgid "Remaining to produce (at end of period)"
@@ -4984,7 +4982,6 @@ msgstr "Ідентифікатор завдання"
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator.html
 #. plugins/OngoingTasks/OngoingTasks_ajax.html
-#, fuzzy
 msgid "Elapsed on period"
 msgstr "Пройшло за період"
 
@@ -6820,9 +6817,8 @@ msgid "List the active tasks on a given period"
 msgstr "Перелічити активні завдання за певний період"
 
 #: plugins/OngoingTasks/OngoingTasks.class.php:90
-#, fuzzy
 msgid "Tasks having received timetracks during the period"
-msgstr "завдання, що були знову відкриті в період"
+msgstr "Завдання, які отримали хронометраж протягом періоду"
 
 #: plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator.class.php:68
 msgid "Display the number of issues submitted/resolved in a period"

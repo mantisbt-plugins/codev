@@ -5,6 +5,7 @@
 # Author: Albe Albe 460
 # Author: Beta16
 # Author: Champ0999
+# Author: Ciampix
 # Author: Dansita
 # Author: Egidio24
 # Author: Fitoschido
@@ -23,7 +24,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-12-01 12:01:13+0000\n"
+"PO-Revision-Date: 2026-01-22 12:01:06+0000\n"
 "Last-Translator: NSV <gianluca@pierri.org>\n"
 "Language-Team: Italian <gianluca.pierri@linfanet.it>\n"
 "Language: it_it\n"
@@ -3231,23 +3232,20 @@ msgid "TODO: describe how and where it is used in CodevTT"
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "User Daily Costs"
-msgstr "Media del costo giornaliero"
+msgstr "Costi giornalieri utente"
 
 #. tpl/edit_team.html
 msgid "The UDC is the cost of a user for a single day, it overrides the ADC"
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Add UserDailyCost"
-msgstr "Media del costo giornaliero"
+msgstr "Aggiungi UserDailyCost"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Add user daily cost"
-msgstr "Media del costo giornaliero"
+msgstr "Aggiungi il costo giornaliero utente"
 
 #. tpl/edit_team.html
 #, fuzzy
