@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2026-01-22 12:01:12+0000\n"
+"PO-Revision-Date: 2026-01-26 12:01:14+0000\n"
 "Language: uk\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -651,7 +651,7 @@ msgstr "CommandSets"
 
 #. tpl/servicecontract_edit.html
 msgid "SideTasks Projects"
-msgstr "Додаткові завдання проєкту"
+msgstr "Проєкти супутніх завдань"
 
 #. tpl/servicecontract_edit.html
 msgid "--- New CommandSet ---"
@@ -1234,9 +1234,8 @@ msgid "Indicators"
 msgstr "Показники"
 
 #. tpl/user_info.html
-#, fuzzy
 msgid "User info"
-msgstr "Користувач"
+msgstr "Інформація про користувача"
 
 #. tpl/user_info.html
 #. tpl/modal/login.html
@@ -1490,7 +1489,7 @@ msgstr "Управління проєктами"
 
 #. tpl/productivity_report.html
 msgid "Other SideTasks"
-msgstr "Інші сторонні задачі"
+msgstr "Інші супутні завдання"
 
 #. tpl/productivity_report.html
 #. tpl/project_activity_report.html
@@ -1509,7 +1508,7 @@ msgstr "Дні, витрачені на проєкти протягом пері
 
 #. tpl/productivity_report.html
 msgid "SideTasks: Project Management"
-msgstr "Сторонні задачі: Управління проєктами"
+msgstr "Супутні завдання: Управління проєктами"
 
 #. tpl/productivity_report.html
 msgid "Days spent on project management tasks"
@@ -1517,11 +1516,11 @@ msgstr "Дні, витрачені на задачі управління про
 
 #. tpl/productivity_report.html
 msgid "SideTasks: Others"
-msgstr "Сторонні задачі: Інше"
+msgstr "Супутні завдання: Інше"
 
 #. tpl/productivity_report.html
 msgid "Days spent on sideTasks, except project management and inactivity tasks"
-msgstr "Дні, витрачені на сторонні задачі, окрім управління проєктом та неактивними завданнями гіподинамії"
+msgstr "Дні, витрачені на супутні завдання, окрім управління проєктом та неактивними завданнями"
 
 #. tpl/productivity_report.html
 msgid "Production Days : total"
@@ -1539,7 +1538,7 @@ msgstr "проєкти"
 
 #. tpl/productivity_report.html
 msgid "sideTasks"
-msgstr "Сторонні задачі"
+msgstr "Супутні завдання"
 
 #. tpl/productivity_report.html
 msgid "Not available."
@@ -1903,7 +1902,7 @@ msgstr "З проєктом ExternalTasks"
 
 #. tpl/project_activity_report.html
 msgid "With SideTasks Project"
-msgstr "З проєктом SideTasks"
+msgstr "З проєктом супутніх завдань"
 
 #. tpl/form/selectFiltersDialogbox.html
 #. tpl/time_tracking.html
@@ -2669,7 +2668,7 @@ msgstr "Збори"
 #. tpl/create_team.html
 #: plugins/LoadPerJobIndicator2/LoadPerJobIndicator2.class.php:296
 msgid "SideTasks"
-msgstr "Побічні завдання"
+msgstr "Супутні завдання"
 
 #. tpl/servicecontract_info.html
 #: install/install_step4.php:51
@@ -2683,7 +2682,7 @@ msgstr "Команда не знайдена."
 
 #. tpl/servicecontract_info.html
 msgid "No sidetasks found."
-msgstr "Побічних завдань не знайдено."
+msgstr "Супутніх завдань не знайдено."
 
 #. tpl/servicecontract_info.html
 msgid "All tasks"
@@ -2695,7 +2694,7 @@ msgstr "Всього не знайдено."
 
 #. tpl/servicecontract_info.html
 msgid "Note: SideTasks already defined in Commands are not displayed."
-msgstr "Примітка: Додаткові завдання, що вже визначені в командах, не відображаються."
+msgstr "Примітка: супутні завдання, що вже визначені в командах, не відображаються."
 
 #. tpl/servicecontract_info.html
 #. tpl/commandset_info.html
@@ -3154,7 +3153,7 @@ msgstr "додати нову групу"
 
 #. tpl/edit_team.html
 msgid "Create SideTasksProject"
-msgstr "Створення додаткових завдань проєкту"
+msgstr "Створення проєкту супутніх завдань"
 
 #. tpl/edit_team.html
 msgid "Project name"
@@ -3283,7 +3282,7 @@ msgstr "Бездіяльність"
 
 #. tpl/edit_team.html
 msgid "No 'inactivity' task defined in your SideTasks projects."
-msgstr "У ваших проєктах SideTasks не визначено завдання «бездіяльності»."
+msgstr "У ваших проєктах супутніх завдань не визначено завдання «бездіяльності»."
 
 #. tpl/edit_team.html
 msgid "delete OnDuty task"
@@ -3501,7 +3500,7 @@ msgstr "Адміністратор команди"
 
 #. tpl/create_team.html
 msgid "SideTasks Project"
-msgstr "Додаткові завдання проєкту"
+msgstr "Проєкт супутніх завдань"
 
 #. tpl/create_team.html
 msgid "Add common ExternalTasks Project"
@@ -3513,7 +3512,7 @@ msgstr "Створіть спеціальний проєкт для сторон
 
 #. tpl/create_team.html
 msgid "WARNING: Disabling SideTasks project creation is generaly NOT a good idea,so don't do it unless you know exactly what you are doing."
-msgstr "ПОПЕРЕДЖЕННЯ: Відключення створення проєкту Side Tasks, як правило, НЕ гарна ідея, тому не робіть цього, якщо ви точно не знаєте, що робите."
+msgstr "ПОПЕРЕДЖЕННЯ: Відключення створення проєкту супутніх завдань, як правило, НЕ гарна ідея, тому не робіть цього, якщо ви точно не знаєте, що робите."
 
 #. tpl/create_team.html
 msgid "Project Name"
@@ -3571,7 +3570,7 @@ msgstr "MgrEffortEstim, EffortEstim, AddEffort, Backlog, DeadLine, DeliveryDate"
 
 #. tpl/create_team.html
 msgid "These are sample sideTasks, you can create more with Mantis"
-msgstr "Це зразки побічних завдань, ви можете створити більше за допомогою Mantis"
+msgstr "Це зразки супутніх завдань, ви можете створити більше за допомогою Mantis"
 
 #. tpl/create_team.html
 msgid "Project management"
@@ -4308,9 +4307,8 @@ msgid "Available workforce"
 msgstr "Доступна робоча сила"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator_ajax2.html
-#, fuzzy
 msgid "Workforce"
-msgstr "Робочий процес"
+msgstr "Робоча сила"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
@@ -4749,7 +4747,7 @@ msgstr "Перевірте всі часові доріжки періоду т�
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 msgid "Time spent on the projects & sideTasks of the current task selection"
-msgstr "Час, витрачений на проєкти та побічні завдання поточного завдання"
+msgstr "Час, витрачений на проєкти та супутні завдання поточного завдання"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_ajax.html
@@ -4759,7 +4757,7 @@ msgstr "Вставити"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 msgid "'Incident' and 'Inactivity' sideTasks of the current selection.<br>\n         (if 'waste' option has not been selected, this will be included in 'elapsed')"
-msgstr "Сторінки «Інцидент» та «Бездіяльність» поточного виділення.<br>\n         (якщо не вибрано параметр «відходи», це буде включено до «минулого»)"
+msgstr "Супутні завдання «Інцидент» та «Бездіяльність» поточного виділення.<br>\n         (якщо не вибрано параметр «відходи», це буде включено до «минулого»)"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_ajax.html
@@ -4783,11 +4781,11 @@ msgstr "Зовнішні завдання, крім категорії «Вий�
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 msgid "External leave tasks & inactivity sideTasks that are not in the current task selection"
-msgstr "Зовнішні завдання відпустки та завдання бездіяльності, яких немає у поточному виділенні завдання"
+msgstr "Зовнішні завдання відпустки та супутні завдання бездіяльності, яких немає у поточному виділенні завдання"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
 msgid "Show waste sidetasks: 'Incident' and 'Inactivity' categories <br>\n         (if unchecked, sidetasks will be included in 'elapsed')"
-msgstr "Показувати додаткові завдання щодо відходів: категорії «Інциденти» та «Бездіяльність»<br>\n         (якщо цей прапорець не встановлено, бічні завдання будуть включені до «минулих»)"
+msgstr "Показувати супутні завдання щодо відходів: категорії «Інциденти» та «Бездіяльність»<br>\n         (якщо цей прапорець не встановлено, супутні завдання будуть включені до «минулих»)"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
 msgid "Show full activity:\n         <br> If checked, timetracks on tasks not included in current selection will be displayed in additional columns."
@@ -4951,9 +4949,8 @@ msgid "Remaining = MgrEffortEstim - Elapsed since the beginning of the task to e
 msgstr "Залишилося = MgrEffortEstim — минув від початку завдання до кінця періоду"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_cfg.html
-#, fuzzy
 msgid "Include sideTasks"
-msgstr "Сторонні задачі"
+msgstr "Включити супутні завдання"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_cfg.html
 #. plugins/TimetrackList/TimetrackList_cfg.html
@@ -5044,7 +5041,7 @@ msgstr "Історія завантаження"
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator.html
 #: plugins/CostsIndicator/CostsIndicator.class.php:283
 msgid "Sidetasks"
-msgstr "Побічні завдання"
+msgstr "Супутні завдання"
 
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.html
 msgid "MgrEffortEstim + checked provisions"
@@ -6347,7 +6344,7 @@ msgstr "Управління підтримкою CodevTT"
 
 #: install/install_step3.php:641
 msgid "Specific to SideTasks"
-msgstr "Особливо для SideTasks"
+msgstr "Особливо для супутніх завдань"
 
 #: install/install_step3.php:684
 msgid "Proceed Step 3"
@@ -6539,7 +6536,7 @@ msgstr "Зовнішні завдання"
 
 #: timetracking/holidays_report.php:71
 msgid "Sidetasks Inactivity"
-msgstr "Бездіяльність побічних завдань"
+msgstr "Бездіяльність супутніх завдань"
 
 #: timetracking/holidays_report.php:76
 msgid "Activity on other teams"
@@ -6669,7 +6666,7 @@ msgstr "Історія завантаження управління"
 
 #: plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.class.php:62
 msgid "Compares the elapsed time on management sideTasks to the management provisions"
-msgstr "Порівнює час, що минув на управлінських завданнях, із положеннями про управління"
+msgstr "Порівнює час, витрачений на керування супутніх завдань з з положеннями управління"
 
 #: plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.class.php:75
 msgid "Import Mantis relationship-tree to WBS"
@@ -6720,7 +6717,7 @@ msgstr ""
 
 #: plugins/ManagementCosts/ManagementCosts.class.php:61
 msgid "Sum elapsed time on management sideTasks and compare to the sum of command provisions. Returns a result in man-days and costs"
-msgstr "Підсумуйте витрачений час на виконання завдань управління та порівняйте із сумою командних положень. Повертає результат у людських днях та витратах"
+msgstr "Підсумуйте витрачений час на управління супутніх завдань та порівняйте із сумою командних положень. Повертає результат у людських днях та витратах"
 
 #: plugins/ManagementCosts/ManagementCosts.class.php:168
 #: plugins/CostsIndicator/CostsIndicator.class.php:187
@@ -6866,7 +6863,7 @@ msgstr "Перевірити всі часові доріжки періоду �
 
 #: plugins/LoadPerProjCategoryIndicator/LoadPerProjCategoryIndicator.class.php:347
 msgid "All Sidetasks Projects"
-msgstr "Усі проєкти побічних завдань"
+msgstr "Усі проєкти супутніх завдань"
 
 #: plugins/LoadPerProjCategoryIndicator/LoadPerProjCategoryIndicator.class.php:348
 msgid "All Production Projects"
