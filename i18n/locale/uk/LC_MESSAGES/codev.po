@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2026-01-26 12:01:14+0000\n"
+"PO-Revision-Date: 2026-02-02 12:01:15+0000\n"
 "Language: uk\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -3950,9 +3950,8 @@ msgid "Team Statistics"
 msgstr "Статистика команди"
 
 #. tpl/menu/global_menu.html
-#, fuzzy
 msgid "User Statistics"
-msgstr "Статистика періоду"
+msgstr "Статистика користувачів"
 
 #. tpl/menu/global_menu.html
 msgid "History"
@@ -4269,14 +4268,12 @@ msgid "Graph"
 msgstr "Графік"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
-#, fuzzy
 msgid "Graph values"
-msgstr "показати значення"
+msgstr "Значення графіка"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
-#, fuzzy
 msgid "Range values"
-msgstr "показати значення"
+msgstr "Діапазон значень"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 msgid "Available Workforce Options"
@@ -4479,9 +4476,8 @@ msgstr "Фільтр хронометражів:"
 #. plugins/TimetrackList/TimetrackList_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_cfg.html
-#, fuzzy
 msgid "Only team members"
-msgstr "Члени команди"
+msgstr "Тільки члени команди"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_cfg.html
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_cfg.html
@@ -4536,9 +4532,8 @@ msgid "Drift resolved tasks"
 msgstr "Дрейф вирішив завдання"
 
 #. plugins/UserTeamList/UserTeamList.html
-#, fuzzy
 msgid "Update team"
-msgstr "Оновити команду ВІКІ"
+msgstr "Оновити команду"
 
 #. plugins/UserTeamList/UserTeamList_cfg.html
 msgid "User team list"
@@ -4955,9 +4950,8 @@ msgstr "Включити супутні завдання"
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_cfg.html
 #. plugins/TimetrackList/TimetrackList_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
-#, fuzzy
 msgid "Task name"
-msgstr "Інформація щодо завдань"
+msgstr "Назва завдання"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_cfg.html
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
@@ -4965,9 +4959,8 @@ msgstr "Інформація щодо завдань"
 #. plugins/TimetrackList/TimetrackList_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_ajax.html
-#, fuzzy
 msgid "Task ExtRef"
-msgstr "Фільтри завдань"
+msgstr "ExtRef завдання"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 #. plugins/TimetrackList/TimetrackList_ajax.html
@@ -4995,9 +4988,8 @@ msgid "Daily Price"
 msgstr "Щоденна ціна"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
-#, fuzzy
 msgid "Price on period"
-msgstr "Пройшло за період"
+msgstr "Ціна за період"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 msgid "Price"
@@ -5114,9 +5106,8 @@ msgid "WBS path"
 msgstr "Шлях WBS"
 
 #. plugins/OngoingTasks/OngoingTasks.html
-#, fuzzy
 msgid "Ongoing tasks"
-msgstr "к-сть завдань"
+msgstr "Поточні завдання"
 
 #. plugins/OngoingTasks/OngoingTasks.html
 msgid "Display only the tasks with activity (timetracks) on the period"
@@ -5127,9 +5118,8 @@ msgid "The time spent on the task during the period (which can be less than the 
 msgstr "Час, витрачений на виконання завдання протягом періоду (який може бути меншим, ніж загальний час, витрачений з початку виконання завдання)"
 
 #. plugins/OngoingTasks/OngoingTasks.html
-#, fuzzy
 msgid "List the users having spent time on the task during the period"
-msgstr "завдання, що були знову відкриті в період"
+msgstr "Список користувачів, які витратили час на завдання протягом періоду"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator_ajax.html
 msgid "Nb submitted"
@@ -6703,9 +6693,8 @@ msgid "Display a history of all the teams for a given user"
 msgstr "Показати історію всіх команд для певного користувача"
 
 #: plugins/CustomUserData/CustomUserData.class.php:64
-#, fuzzy
 msgid "Custom user data"
-msgstr "Спеціальне поле"
+msgstr "Спецальні дані користувача"
 
 #: plugins/CustomUserData/CustomUserData.class.php:69
 msgid "Allows to set some user specific data such as EmployeeId, userId in other DB/Softwares, phoneNumber, etc."
