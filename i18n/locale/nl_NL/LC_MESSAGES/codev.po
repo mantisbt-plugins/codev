@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-10-30 12:02:34+0000\n"
+"PO-Revision-Date: 2026-02-09 12:01:06+0000\n"
 "Language: nl_nl\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2056,7 +2056,7 @@ msgstr "Taak verwijderen"
 
 #. tpl/edit_jobs.html
 msgid "Remove this link :"
-msgstr "Verwijder deze link :"
+msgstr "Deze koppeling verwijderen:"
 
 #. tpl/edit_jobs.html
 msgid "Job Color"
@@ -2098,7 +2098,7 @@ msgstr "Bestandsnaam"
 #. tpl/uninstall.html
 #. tpl/menu/global_menu.html
 msgid "Uninstall"
-msgstr "Deïnstalleren"
+msgstr "Verwijderen"
 
 #. tpl/uninstall.html
 msgid "Dumping MantisDB to"
