@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2025-10-30 12:02:33+0000\n"
+"PO-Revision-Date: 2026-02-26 12:01:13+0000\n"
 "Language: lb\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -6035,7 +6035,7 @@ msgstr "Problemer no ID sortéieren"
 
 #: filters/IssueIdFilter.php:59
 msgid "Issue ID"
-msgstr "ID-Probleem"
+msgstr "Problem-ID"
 
 #: filters/ProjectVersionFilter.php:45
 msgid "Sort issues per Project TargetVersion"
@@ -7041,7 +7041,7 @@ msgstr ""
 #. 'arrivalDate' = should not be defined here, as another ajax call is doing the $schedulerManager->execute()
 #: scheduler/scheduler_ajax.php:389
 msgid "Issue not found in MantisDB !"
-msgstr "Probleem gouf an der MantisDB net fonnt!"
+msgstr "Problem gouf net an der MantisDB fonnt!"
 
 #: scheduler/scheduler_ajax.php:513
 msgid "Options saved successfully"

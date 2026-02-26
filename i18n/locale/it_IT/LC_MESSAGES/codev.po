@@ -24,7 +24,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2026-01-22 12:01:06+0000\n"
+"PO-Revision-Date: 2026-02-26 12:01:12+0000\n"
 "Last-Translator: NSV <gianluca@pierri.org>\n"
 "Language-Team: Italian <gianluca.pierri@linfanet.it>\n"
 "Language: it_it\n"
@@ -4016,7 +4016,7 @@ msgstr "Rapporto Mantis"
 
 #. tpl/menu/global_menu.html
 msgid "Check"
-msgstr "Controllo"
+msgstr "Controlla"
 
 #. tpl/menu/global_menu.html
 msgid "Import / Export"
