@@ -8,6 +8,7 @@
 # Author: Ktrst
 # Author: Revi
 # Author: Suleiman the Magnificent Television
+# Author: Tensama0415
 # Author: YeBoy371
 # Author: Ykhwong
 # Author: 아라
@@ -17,7 +18,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2026-01-12 12:01:02+0000\n"
+"PO-Revision-Date: 2026-04-16 12:01:05+0000\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -3922,7 +3923,7 @@ msgstr ""
 #. plugins/ManagementCosts/ManagementCosts_ajax.html
 #. plugins/ManagementCosts/ManagementCosts_ajax2.html
 msgid "Days"
-msgstr ""
+msgstr "일"
 
 #. tpl/command_info.html
 msgid "The total charge (MgrEffortEstim + Provisions) should be equal to the 'Sold Charge'"
