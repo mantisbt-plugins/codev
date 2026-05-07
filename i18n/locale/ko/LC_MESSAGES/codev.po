@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2026-05-04 12:00:58+0000\n"
+"PO-Revision-Date: 2026-05-07 12:01:11+0000\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -870,7 +870,7 @@ msgstr "경과됨"
 #: tests/filters.php:72 plugins/WBSExport/WBSExport.class.php:154
 #: plugins/TasksPivotTable/TasksPivotTable.class.php:296
 msgid "Drift Mgr"
-msgstr "파생 Mgr"
+msgstr "드리프트 Mgr"
 
 #. tpl/ajax/issueGeneralInfo.html
 #. tpl/statistics.html
@@ -1023,7 +1023,7 @@ msgstr "재개율"
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 #: plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.class.php:71
 msgid "Available Workforce"
-msgstr "가용 인력"
+msgstr "가용 노동력"
 
 #. tpl/statistics.html
 #. tpl/productivity_report.html
@@ -1551,7 +1551,7 @@ msgstr "사용할 수 없음."
 #. tpl/productivity_report.html
 #. tpl/tools/dashboard.html
 msgid "Indicator"
-msgstr "감지기"
+msgstr "지표"
 
 #. tpl/productivity_report.html
 #. tpl/edit_team.html
@@ -1711,25 +1711,23 @@ msgstr "노력 편차"
 
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
-#, fuzzy
 msgid "Manager Estimation"
-msgstr "대상"
+msgstr "관리자 추정"
 
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
 msgid "Manager"
-msgstr "매니저"
+msgstr "관리자"
 
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
 msgid "Tasks Mgr"
-msgstr "작업 매니저"
+msgstr "작업 관리자"
 
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
-#, fuzzy
 msgid "EffortDeviation"
-msgstr "오류 설명"
+msgstr "EffortDeviation"
 
 #. tpl/productivity_report.html
 msgid "No resolved tasks..."
@@ -1749,30 +1747,27 @@ msgstr ""
 
 #. tpl/productivity_report.html
 msgid "Drift - Tasks (ExtRefOnly)"
-msgstr ""
+msgstr "드리프트 - 작업 (ExtRefOnly)"
 
 #. tpl/productivity_report.html
 msgid "Drift (ExtRefOnly)"
-msgstr ""
+msgstr "드리프트 (ExtRefOnly)"
 
 #. tpl/productivity_report.html
 msgid "Drift ExtRefOnly"
 msgstr ""
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "Tasks without ExternalRef are excluded"
-msgstr "이슈 정렬: 외부 ID와 함께/없이"
+msgstr "ExternalRef이 없는 작업은 제외됩니다"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "Reopened tasks are not included"
-msgstr "다시 열린 작업"
+msgstr "다시 열린 작업은 포함되지 않습니다"
 
 #. tpl/productivity_report.html
-#, fuzzy
 msgid "No Drift on External tasks."
-msgstr "외부 ID의 필터"
+msgstr "외부 작업에 드리프트가 없습니다"
 
 #. tpl/productivity_report.html
 msgid "nb resolved"
@@ -1784,7 +1779,7 @@ msgstr "nb 다시 열림"
 
 #. tpl/productivity_report.html
 msgid "nb reopened / nb resolved"
-msgstr ""
+msgstr "nb 다시 열림 / nb 해결됨"
 
 #. tpl/productivity_report.html
 msgid "Rate"
@@ -1808,7 +1803,7 @@ msgstr "보고자"
 
 #. tpl/export_odt.html
 msgid "Handlers"
-msgstr ""
+msgstr "처리자"
 
 #. tpl/export_odt.html
 msgid "ODT Template"
@@ -1902,19 +1897,16 @@ msgid "No data available"
 msgstr "이용 가능한 데이터 없음"
 
 #. tpl/project_activity_report.html
-#, fuzzy
 msgid "Time spent on Projects per users"
-msgstr "이 이슈에서 총 걸린 시간"
+msgstr "사용자 당 프로젝트에 소요한 시간"
 
 #. tpl/project_activity_report.html
-#, fuzzy
 msgid "With ExternalTasks Project"
-msgstr "사이드작업 프로젝트"
+msgstr "ExternalTasks 프로젝트 포함"
 
 #. tpl/project_activity_report.html
-#, fuzzy
 msgid "With SideTasks Project"
-msgstr "사이드작업 프로젝트"
+msgstr "사이드작업 프로젝트 포함"
 
 #. tpl/form/selectFiltersDialogbox.html
 #. tpl/time_tracking.html
@@ -2049,15 +2041,13 @@ msgid "delete Job"
 msgstr "일 삭제"
 
 #. tpl/edit_jobs.html
-#, fuzzy
 msgid "Edit Job"
-msgstr "휴일 편집"
+msgstr "작업 편집"
 
 #. tpl/edit_jobs.html
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Edit Job list"
-msgstr "휴일 편집"
+msgstr "작업 목록 편집"
 
 #. tpl/edit_jobs.html
 msgid "Delete job"
@@ -2086,7 +2076,7 @@ msgstr ""
 
 #. tpl/uninstall.html
 msgid "This step will clean Mantis DB."
-msgstr ""
+msgstr "이 단계는 Mantis DB를 지웁니다."
 
 #. tpl/uninstall.html
 msgid "It is HIGHLY recommended to backup your Mantis DB before you proceed !"
@@ -2151,9 +2141,8 @@ msgid "Remove CodevTT tables from MantisDB:"
 msgstr "MantisDB에서 CodevTT 테이블을 제거:"
 
 #. tpl/uninstall.html
-#, fuzzy
 msgid "Remove CodevTT config files:"
-msgstr "CodevTT 사용자 지정 필드"
+msgstr "CodevTT 구성 파일 제거:"
 
 #. tpl/uninstall.html
 msgid "Remove Mantis plugin:"
@@ -2164,9 +2153,8 @@ msgid "Remove ExternalTasks project:"
 msgstr "ExternalTasks 프로젝트를 제거:"
 
 #. tpl/uninstall.html
-#, fuzzy
 msgid "Please MANUALY delete the following projects:"
-msgstr "보안 상의 이유로 다음의 디렉터리를 삭제하십시오: "
+msgstr "다음의 프로젝트를 \"수동으로\" 삭제하십시오:"
 
 #. tpl/command_edit.html
 msgid "New command"
@@ -2228,21 +2216,19 @@ msgstr "WBS"
 #: plugins/ManagementCosts/ManagementCosts.class.php:251
 #: plugins/CostsIndicator/CostsIndicator.class.php:303
 msgid "Provisions"
-msgstr ""
+msgstr "규정"
 
 #. tpl/command_edit.html
 msgid "Parent CommandSets"
 msgstr "상위 명령집합"
 
 #. tpl/command_edit.html
-#, fuzzy
 msgid "Add tasks (comma separated)"
-msgstr "쉼표 구분"
+msgstr "작업 추가 (쉼표 구분)"
 
 #. tpl/command_edit.html
-#, fuzzy
 msgid "Create the Command to add some tasks."
-msgstr "먼저 명령을 만드세요."
+msgstr "작업을 추가하기 위해 명령을 만드세요."
 
 #. tpl/command_edit.html
 msgid "delete Command-Task association"
@@ -2253,14 +2239,12 @@ msgid "Remove Task"
 msgstr "작업 제거"
 
 #. tpl/command_edit.html
-#, fuzzy
 msgid "Remove Task from this Command ?"
-msgstr "명령에서 작업 취소"
+msgstr "이 명령에서 작업을 제거합니까 ?"
 
 #. tpl/command_edit.html
-#, fuzzy
 msgid "Create the Command before assigning it to a CommandSet."
-msgstr "명령집합에서 이 명령을 제거하겠습니까 ?"
+msgstr "명령집합에 할당하기 전에 명령을 만드세요."
 
 #. tpl/command_edit.html
 #. tpl/servicecontract_info.html
@@ -2290,7 +2274,7 @@ msgstr "틀 가져오기"
 
 #. tpl/command_edit.html
 msgid "Add Provision"
-msgstr ""
+msgstr "규정 추가"
 
 #. tpl/command_edit.html
 #. tpl/servicecontract_info.html
@@ -2324,9 +2308,8 @@ msgstr "편집"
 #. tpl/servicecontract_info.html
 #. tpl/commandset_info.html
 #. tpl/command_info.html
-#, fuzzy
 msgid "Average Daily Rate"
-msgstr "평균 일일 비용"
+msgstr "평균 일일 효율"
 
 #. tpl/command_edit.html
 msgid "Add to 'check budget'"
@@ -2338,9 +2321,8 @@ msgid "save"
 msgstr "저장"
 
 #. tpl/command_edit.html
-#, fuzzy
 msgid "Delete from the Command ?"
-msgstr "이 명령을 삭제하겠습니까 ?"
+msgstr "명령에서 삭제하겠습니까 ?"
 
 #. tpl/command_edit.html
 msgid "Edit Provision"
@@ -2369,9 +2351,8 @@ msgid "task id"
 msgstr "작업 id"
 
 #. tpl/command_edit.html
-#, fuzzy
 msgid "Not a comma separated number list"
-msgstr "쉼표 구분"
+msgstr "쉼표 구분된 숫자 목록이 아님"
 
 #. tpl/command_edit.html
 msgid "Missing field"
@@ -2465,9 +2446,8 @@ msgid "Remove Command"
 msgstr "명령 제거"
 
 #. tpl/commandset_edit.html
-#, fuzzy
 msgid "Remove Command from this CommandSet ?"
-msgstr "명령집합에서 이 명령을 제거하겠습니까 ?"
+msgstr "이 명령집합에서 명령을 제거하겠습니까 ?"
 
 #. tpl/commandset_edit.html
 #. tpl/servicecontract_info.html
@@ -2481,9 +2461,8 @@ msgid "Command"
 msgstr "명령"
 
 #. tpl/commandset_edit.html
-#, fuzzy
 msgid "Create the CommandSet to add some commands."
-msgstr "먼저 명령을 만드세요."
+msgstr "명령을 추가하기 위해 명령집합을 만드세요."
 
 #. tpl/time_tracking.html
 #. tpl/team_dashboard.html
@@ -2529,9 +2508,8 @@ msgstr "외부.ID"
 
 #. tpl/time_tracking.html
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
-#, fuzzy
 msgid "Timetrack note"
-msgstr "시간트랙"
+msgstr "시간트랙 참고"
 
 #. tpl/time_tracking.html
 #. tpl/edit_team.html
@@ -2553,14 +2531,12 @@ msgstr "트랙 삭제"
 
 #. tpl/missing_timetracks.html
 #. tpl/menu/global_menu.html
-#, fuzzy
 msgid "Missing Timetracks"
-msgstr "이슈의 시간기록 이동하기"
+msgstr "누락된 시간기록"
 
 #. tpl/missing_timetracks.html
-#, fuzzy
 msgid "Missing timetracks per user"
-msgstr "이슈의 시간기록 이동하기"
+msgstr "사용자 당 누락된 시간기록"
 
 #. tpl/missing_timetracks.html
 #. tpl/planning_report.html
@@ -2581,14 +2557,12 @@ msgid "workdays"
 msgstr "작업일"
 
 #. tpl/missing_timetracks.html
-#, fuzzy
 msgid "Missing timetracks"
-msgstr "이슈의 시간기록 이동하기"
+msgstr "누락된 시간기록"
 
 #. tpl/missing_timetracks.html
-#, fuzzy
 msgid "Missing days"
-msgstr "필드 없음"
+msgstr "누락된 날"
 
 #. tpl/missing_timetracks.html
 #. plugins/CustomUserData/CustomUserData.html
@@ -2646,12 +2620,11 @@ msgstr "하위 폴더 추가"
 
 #. tpl/tools/dashboard.html
 msgid "Add an indicator to the dashboard"
-msgstr ""
+msgstr "대시보드에 지표 추가"
 
 #. tpl/tools/dashboard.html
-#, fuzzy
 msgid "Add Indicator"
-msgstr "감지기"
+msgstr "지표 추가"
 
 #. tpl/tools/dashboard.html
 #. tpl/servicecontract_info.html
@@ -2667,14 +2640,12 @@ msgid "Loading"
 msgstr "불러오는 중"
 
 #. tpl/prepare_project.html
-#, fuzzy
 msgid "Preparing project:"
-msgstr "프로젝트 준비"
+msgstr "준비중인 프로젝트:"
 
 #. tpl/prepare_project.html
-#, fuzzy
 msgid "Configure existing Projects"
-msgstr "프로젝트 복제"
+msgstr "기존 프로젝트 구성"
 
 #. tpl/prepare_project.html
 msgid "Select the projects to be managed with CoDevTT"
@@ -2690,9 +2661,8 @@ msgid "ServiceContract"
 msgstr ""
 
 #. tpl/servicecontract_info.html
-#, fuzzy
 msgid "--- Create New ServiceContract ---"
-msgstr "--- 새 명령 만들기 ---"
+msgstr "--- 새 ServiceContract 만들기 ---"
 
 #. tpl/servicecontract_info.html
 msgid "Charges"
@@ -2742,9 +2712,8 @@ msgid "ADR"
 msgstr "ADR"
 
 #. tpl/servicecontract_info.html
-#, fuzzy
 msgid "No provision found."
-msgstr "총계를 찾을 수 없습니다."
+msgstr "규정을 찾을 수 없습니다."
 
 #. tpl/modal/change_managedUser.html
 msgid "Select User"
@@ -2764,16 +2733,15 @@ msgstr ""
 
 #. tpl/modal/edit_issueNote.html
 msgid "Add as Timesheet note"
-msgstr ""
+msgstr "근무 시간 기록표 참고로써 추가"
 
 #. tpl/modal/edit_issueNote.html
-#, fuzzy
 msgid "Edit timesheet note"
-msgstr "타임트랙 편집"
+msgstr "근무 시간 기록표 참고 편집"
 
 #. tpl/modal/edit_issueNote.html
 msgid "Delete timesheet note for task "
-msgstr ""
+msgstr "작업에 대한 근무 시간 기록표 참고 제거 "
 
 #. tpl/modal/update_issueBacklog.html
 msgid "Current backlog"
@@ -2796,14 +2764,12 @@ msgid "Timetracking disabled if current status in : "
 msgstr ""
 
 #. tpl/modal/update_issueBacklog.html
-#, fuzzy
 msgid "Timetrack note is required"
-msgstr "시간트랙"
+msgstr "시간트랙 참고가 필요합니다"
 
 #. tpl/modal/select_issues.html
-#, fuzzy
 msgid "No task selected !"
-msgstr "동작을 실행했습니다!"
+msgstr "선택된 작업이 없습니다 !"
 
 #. tpl/modal/select_issues.html
 msgid "Browse..."
@@ -2874,9 +2840,8 @@ msgid "Weekly Activity"
 msgstr "주간 활동"
 
 #. tpl/team_activity_report.html
-#, fuzzy
 msgid "Timesheets"
-msgstr "시간트랙"
+msgstr "근무 시간 기록표"
 
 #. tpl/team_activity_report.html
 msgid "sum(Backlog) of assigned tasks"
@@ -2887,28 +2852,24 @@ msgid "Workload"
 msgstr "작업량"
 
 #. tpl/team_activity_report.html
-#, fuzzy
 msgid "Timesheet notes"
-msgstr "시간트랙"
+msgstr "근무 시간 기록표 참고"
 
 #. tpl/team_activity_report.html
 msgid "All Tasks"
 msgstr "모든 작업"
 
 #. tpl/team_activity_report.html
-#, fuzzy
 msgid "Timetrack notes"
-msgstr "시간트랙"
+msgstr "시간트랙 참고"
 
 #. tpl/team_activity_report.html
-#, fuzzy
 msgid "Timetrack Note"
-msgstr "시간트랙"
+msgstr "시간트랙 참고"
 
 #. tpl/team_activity_report.html
-#, fuzzy
 msgid "Read by"
-msgstr "보고자"
+msgstr "읽은 사람"
 
 #. tpl/team_activity_report.html
 #. plugins/AdminTools/AdminTools.html
@@ -2946,33 +2907,28 @@ msgid "Options"
 msgstr "옵션"
 
 #. tpl/planning_report.html
-#, fuzzy
 msgid "Planning Options"
-msgstr "계획 중"
+msgstr "계획 옵션"
 
 #. tpl/planning_report.html
-#, fuzzy
 msgid "Unassigned tasks"
-msgstr "할당된 사용자"
+msgstr "할당되지 않은 작업"
 
 #. tpl/planning_report.html
-#, fuzzy
 msgid "Team's backlog"
-msgstr "백로그"
+msgstr "팀의 백로그"
 
 #. tpl/planning_report.html
 msgid "tasks"
 msgstr "작업"
 
 #. tpl/planning_report.html
-#, fuzzy
 msgid "workload"
-msgstr "작업일"
+msgstr "작업량"
 
 #. tpl/planning_report.html
-#, fuzzy
 msgid "nbDaysToDeadLine"
-msgstr "기한"
+msgstr "nbDaysToDeadLine"
 
 #. tpl/planning_report.html
 msgid "day"
@@ -2980,7 +2936,7 @@ msgstr "일"
 
 #. tpl/edit_team.html
 msgid "Team Members"
-msgstr "팀 회원"
+msgstr "팀원"
 
 #. tpl/edit_team.html
 msgid "Team Projects"
@@ -2999,9 +2955,8 @@ msgid "Costs management"
 msgstr "비용 관리"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "OnDuty tasks"
-msgstr "진행 중인 작업"
+msgstr "OnDuty 작업"
 
 #. tpl/edit_team.html
 #. tpl/create_team.html
@@ -3033,31 +2988,28 @@ msgid "add as team administrator"
 msgstr "팀 관리자로 추가"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Add a team administrator"
-msgstr "팀 관리자로 추가"
+msgstr "팀 관리자를 추가"
 
 #. tpl/edit_team.html
 msgid "Remove administrator"
 msgstr "관리자 제거"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Remove the following Team Administrator ?"
-msgstr "관리자 제거"
+msgstr "다음 팀 관리자를 제거합니까 ?"
 
 #. tpl/edit_team.html
 msgid "Delete team"
 msgstr "팀 삭제"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Active team members"
-msgstr "회원 추가"
+msgstr "활성 팀원"
 
 #. tpl/edit_team.html
 msgid "Add team member"
-msgstr "회원 추가"
+msgstr "팀원 추가"
 
 #. tpl/edit_team.html
 msgid "Arrival-Date"
@@ -3068,9 +3020,8 @@ msgid "Add User"
 msgstr "사용자 추가"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Import all users from team"
-msgstr "CSV로부터 사용자 그룹 가져오기"
+msgstr "팀으로부터 모든 사용자 가져오기"
 
 #. tpl/edit_team.html
 #. plugins/ImportIssueCsv/ImportIssueCsv_ajax.html
@@ -3121,15 +3072,15 @@ msgstr "CSV 파일 포맷"
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 #. plugins/ImportUsers/ImportUsers.html
 msgid "delimiter"
-msgstr ""
+msgstr "구분자"
 
 #. tpl/edit_team.html
 msgid "1st column"
-msgstr ""
+msgstr "첫 번째 열"
 
 #. tpl/edit_team.html
 msgid "2nd column"
-msgstr ""
+msgstr "두 번째 열"
 
 #. tpl/edit_team.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
@@ -3139,9 +3090,8 @@ msgstr "색상"
 
 #. tpl/edit_team.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
-#, fuzzy
 msgid "Team members assigned to a group"
-msgstr "사용자가 어느 그룹에도 할당되지 않았습니다"
+msgstr "팀원이 그룹에 할당되었습니다"
 
 #. tpl/edit_team.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
@@ -3150,19 +3100,16 @@ msgstr "사용자가 어느 그룹에도 할당되지 않았습니다"
 
 #. tpl/edit_team.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
-#, fuzzy
 msgid "Not a team member, but assigned to a group"
-msgstr "사용자가 어느 그룹에도 할당되지 않았습니다"
+msgstr "팀원은 아니지만 그룹에 할당되었습니다"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Number of team members"
-msgstr "팀원만"
+msgstr "팀원 수"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Arrival date in the team"
-msgstr "도착일"
+msgstr "도착일 (팀에)"
 
 #. tpl/edit_team.html
 #. plugins/UserTeamList/UserTeamList.html
@@ -3170,9 +3117,8 @@ msgid "Arrival Date"
 msgstr "도착일"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Departure date from the team"
-msgstr "출발일"
+msgstr "출발일 (팀에서)"
 
 #. tpl/edit_team.html
 #. plugins/UserTeamList/UserTeamList.html
@@ -3181,7 +3127,7 @@ msgstr "출발일"
 
 #. tpl/edit_team.html
 msgid "Update team member"
-msgstr "회원 업데이트"
+msgstr "팀원 업데이트"
 
 #. tpl/edit_team.html
 #. plugins/UserTeamList/UserTeamList.html
@@ -3210,9 +3156,8 @@ msgid "add new group"
 msgstr "새 그룹 추가"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Create SideTasksProject"
-msgstr "사이드작업 프로젝트"
+msgstr "사이드작업 프로젝트 만들기"
 
 #. tpl/edit_team.html
 msgid "Project name"
@@ -3231,9 +3176,8 @@ msgid "The ADC is the default UDC for team members"
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Team Currency"
-msgstr "팀 프로젝트"
+msgstr "팀 통화"
 
 #. tpl/edit_team.html
 msgid "Team Average Daily Cost"
@@ -3241,7 +3185,7 @@ msgstr "팀 평균 일일 비용"
 
 #. tpl/edit_team.html
 msgid "Default currency for the team."
-msgstr ""
+msgstr "팀의 기본 통화입니다."
 
 #. tpl/edit_team.html
 msgid "All indicators will use this currency and all values defined in other currencies will be converted."
@@ -3292,23 +3236,20 @@ msgid "User Daily Cost"
 msgstr "사용자 일일 비용"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Timetracking settings"
-msgstr "시간 트래킹"
+msgstr "시간 트래킹 설정"
 
 #. tpl/edit_team.html
 msgid "Timetracking disabled if task status in"
-msgstr ""
+msgstr "작업 상태가 설정된 경우 시간 트래킹 비활성됨"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Edit Forbidden status list"
-msgstr "휴일 편집"
+msgstr "금지 상태 목록 편집"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Edit Forbiden status list"
-msgstr "휴일 편집"
+msgstr "금지 상태 목록 편집"
 
 #. tpl/edit_team.html
 msgid "Issue Tooltips"
@@ -3324,7 +3265,6 @@ msgstr "프로젝트에 지정된 사용자 지정 이슈툴팁이 없습니다.
 
 #. tpl/edit_team.html
 #. tpl/menu/global_menu.html
-#, fuzzy
 msgid "Consistency Check"
 msgstr "일관성 검사"
 
@@ -3342,17 +3282,15 @@ msgstr ""
 
 #. tpl/edit_team.html
 msgid "Inactivity tasks"
-msgstr ""
+msgstr "비활동 작업"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "No 'inactivity' task defined in your SideTasks projects."
-msgstr "프로젝트에 지정된 사용자 지정 이슈툴팁이 없습니다."
+msgstr "사이드작업 프로젝트에 정의된 '비활동' 작업이 없습니다"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "delete OnDuty task"
-msgstr "작업 선택"
+msgstr "OnDuty 작업 삭제"
 
 #. tpl/edit_team.html
 msgid "Timetrack durations list"
@@ -3390,9 +3328,8 @@ msgid "Display"
 msgstr "표시"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "add a custom duration"
-msgstr "팀 관리자로 추가"
+msgstr "사용자 지정 기간 추가"
 
 #. tpl/edit_team.html
 msgid "Delete duration"
@@ -3404,44 +3341,39 @@ msgstr ""
 
 #. tpl/edit_team.html
 msgid "Team Member"
-msgstr "팀 회원"
+msgstr "팀원"
 
 #. tpl/edit_team.html
 msgid "Source Team"
 msgstr "소스 팀"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Inactivity task"
-msgstr "활동"
+msgstr "비활동 작업"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Remove user from this team ?"
-msgstr "이 프로젝트를 팀에서 제거하시겠습니까 ?"
+msgstr "이 사용자를 팀에서 제거하시겠습니까?"
 
 #. tpl/edit_team.html
 msgid "Remove this project from the team ?"
 msgstr "이 프로젝트를 팀에서 제거하시겠습니까 ?"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Remove IssueTooltip customisation for project"
-msgstr "프로젝트의 이슈 툴팁"
+msgstr "프로젝트의 이슈 툴팁 사용자 지정 기능 제거"
 
 #. tpl/edit_team.html
 msgid "This task will no longer be identified as an 'OnDuty' task."
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Job list for project :"
-msgstr "프로젝트의 이슈 툴팁"
+msgstr "프로젝트의 일 목록 :"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Forbiden Status for project:"
-msgstr "프로젝트의 이슈 툴팁"
+msgstr "프로젝트의 금지 상태:"
 
 #. tpl/edit_team.html
 msgid "Please select a CSV file"
@@ -3452,9 +3384,8 @@ msgid "Please check table below and click 'OK' button to accept changes"
 msgstr "변경사항을 수락하려면 아래의 표를 확인하고 '확인' 단추를 클릭해 주십시오"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Sorry, you need to be Team Leader to access this page."
-msgstr "이 페이지에 접근하려면 관리자 팀에 속해야 합니다."
+msgstr "죄송합니다, 이 페이지에 접근하려면 팀 리더여야 합니다."
 
 #. tpl/commandset_info.html
 msgid "--- Create New CommandSet ---"
@@ -3496,28 +3427,24 @@ msgid "settings ?"
 msgstr "설정하겠습니까 ?"
 
 #. tpl/workflow.html
-#, fuzzy
 msgid "Clonning"
-msgstr "계획 중"
+msgstr "복제"
 
 #. tpl/workflow.html
 msgid "into"
 msgstr ""
 
 #. tpl/workflow.html
-#, fuzzy
 msgid "Clone project settings"
-msgstr "프로젝트 복제"
+msgstr "프로젝트 설정 복제"
 
 #. tpl/workflow.html
-#, fuzzy
 msgid "Clone From"
-msgstr "프로젝트 복제"
+msgstr "다음으로 부터 복제"
 
 #. tpl/workflow.html
-#, fuzzy
 msgid "Clone To"
-msgstr "프로젝트 복제"
+msgstr "다음으로 복제"
 
 #. tpl/workflow.html
 msgid "Workflow transitions"
@@ -3548,9 +3475,8 @@ msgid "Unassigned tasks will not be displayed"
 msgstr ""
 
 #. tpl/forecasting_report.html
-#, fuzzy
 msgid "deviation"
-msgstr "대상"
+msgstr "편차"
 
 #. tpl/forecasting_report.html
 #. plugins/ManagementCosts/ManagementCosts.html
@@ -3581,14 +3507,12 @@ msgid "SideTasks Project"
 msgstr "사이드작업 프로젝트"
 
 #. tpl/create_team.html
-#, fuzzy
 msgid "Add common ExternalTasks Project"
-msgstr "사이드작업 프로젝트"
+msgstr "공통 사이드작업 프로젝트 추가"
 
 #. tpl/create_team.html
-#, fuzzy
 msgid "Create specific SideTask Project"
-msgstr "사이드작업 프로젝트"
+msgstr "특정 사이드작업 프로젝트 만들기"
 
 #. tpl/create_team.html
 msgid "WARNING: Disabling SideTasks project creation is generaly NOT a good idea,so don't do it unless you know exactly what you are doing."
@@ -3630,7 +3554,7 @@ msgstr ""
 #: admin/edit_team.php:159
 #: plugins/LoadPerUserIndicator/LoadPerUserIndicator.class.php:395
 msgid "Inactivity"
-msgstr ""
+msgstr "비활동"
 
 #. tpl/create_team.html
 msgid "On Duty, Waste, other special cases"
@@ -3711,9 +3635,8 @@ msgid "Add user"
 msgstr "사용자 추가"
 
 #. tpl/scheduler.html
-#, fuzzy
 msgid "Time on task"
-msgstr "시간 트래킹"
+msgstr "작업 시간"
 
 #. tpl/scheduler.html
 msgid "Auto"
@@ -3820,40 +3743,36 @@ msgid "Severity"
 msgstr ""
 
 #. tpl/issue_info.html
-#, fuzzy
 msgid "Relation"
-msgstr "대상"
+msgstr "관계"
 
 #. tpl/issue_info.html
 msgid "Mantis notes"
-msgstr ""
+msgstr "Mantis 노트"
 
 #. tpl/issue_info.html
 msgid "Get mantis notes"
-msgstr ""
+msgstr "Mantis 노트 얻기"
 
 #. tpl/issue_info.html
 msgid "Click refresh button to display..."
-msgstr ""
+msgstr "새로 고침 버튼을 클릭하여 표시하기..."
 
 #. tpl/issue_info.html
-#, fuzzy
 msgid "First Timetrack date"
-msgstr "시간트랙"
+msgstr "첫 시간트랙 날짜"
 
 #. tpl/issue_info.html
-#, fuzzy
 msgid "Latest Timetrack date"
-msgstr "시간트랙"
+msgstr "최신 시간트랙 날짜"
 
 #. tpl/issue_info.html
 msgid "WARNING: Prior timetracks could not be displayed !"
 msgstr ""
 
 #. tpl/issue_info.html
-#, fuzzy
 msgid "Update timetracking values"
-msgstr "시간트래킹 업데이트"
+msgstr "시간트래킹 값 업데이트"
 
 #. tpl/issue_info.html
 msgid "Remove from :"
@@ -3868,16 +3787,14 @@ msgid "set/remove task specific deadline"
 msgstr ""
 
 #. tpl/issue_info.html
-#, fuzzy
 msgid "Delivery date"
 msgstr "배송 일자"
 
 #. tpl/issue_info.html
 msgid "set/remove delivery date"
-msgstr ""
+msgstr "배송 일자 설정/제거"
 
 #. tpl/issue_info.html
-#, fuzzy
 msgid "Task is resolved, backlog should be '0'"
 msgstr "작업이 해결되었으며, 백로그는 '0'이어야 합니다"
 
@@ -3886,9 +3803,8 @@ msgid "Backlog should not be set if status is : "
 msgstr "상태가 다음과 같으면 백로그를 설정하지 않아야 합니다 : "
 
 #. tpl/command_info.html
-#, fuzzy
 msgid "Set command filters"
-msgstr "명령 필터"
+msgstr "명령 필터 설정"
 
 #. tpl/command_info.html
 msgid "--- Create New Command ---"
@@ -4003,16 +3919,15 @@ msgstr "시간 추적"
 
 #. tpl/menu/global_menu.html
 msgid "Holidays Reports"
-msgstr ""
+msgstr "휴일 보고서"
 
 #. tpl/menu/global_menu.html
 msgid "Leaves"
 msgstr "떠나기"
 
 #. tpl/menu/global_menu.html
-#, fuzzy
 msgid "Check DeadLines"
-msgstr "기한"
+msgstr "마감일 검사"
 
 #. tpl/menu/global_menu.html
 msgid "Workload planning"
@@ -4047,18 +3962,16 @@ msgid "History"
 msgstr "역사"
 
 #. tpl/menu/global_menu.html
-#, fuzzy
 msgid "Contracts & Commands"
-msgstr "먼저 명령을 만드세요."
+msgstr "계약 및 명령"
 
 #. tpl/menu/global_menu.html
 msgid "Contracts"
-msgstr ""
+msgstr "계약"
 
 #. tpl/menu/global_menu.html
-#, fuzzy
 msgid "Mantis Reports"
-msgstr "보고자"
+msgstr "Mantis 보고서"
 
 #. tpl/menu/global_menu.html
 msgid "Check"
@@ -4110,9 +4023,8 @@ msgid "Tools & Statistics"
 msgstr "도구와 통계"
 
 #. tpl/menu/global_menu.html
-#, fuzzy
 msgid "Edit Jobs"
-msgstr "휴일 편집"
+msgstr "일 편집"
 
 #. tpl/menu/global_menu.html
 msgid "Edit Holidays"
@@ -4222,9 +4134,8 @@ msgid "Title"
 msgstr "제목"
 
 #. plugins/DeadlineAlertIndicator/DeadlineAlertIndicator_cfg.html
-#, fuzzy
 msgid "Deadline alerts"
-msgstr "작업 마감일 경보"
+msgstr "마감일 경보"
 
 #. plugins/DeadlineAlertIndicator/DeadlineAlertIndicator.html
 msgid "No late task."
@@ -4265,18 +4176,16 @@ msgstr ""
 
 #. plugins/IssueBacklogVariationIndicator/IssueBacklogVariationIndicator.html
 #. plugins/IssueBacklogVariationIndicator/IssueBacklogVariationIndicator_cfg.html
-#, fuzzy
 msgid "Task backlog variation"
-msgstr "백로그"
+msgstr "작업 백로그 변종"
 
 #. plugins/LoadPerJobIndicator2/LoadPerJobIndicator2_cfg.html
 msgid "Show Tasks"
 msgstr "작업 보기"
 
 #. plugins/LoadPerJobIndicator2/LoadPerJobIndicator2_cfg.html
-#, fuzzy
 msgid "Display task column"
-msgstr "표시된 작업"
+msgstr "표시된 작업 열"
 
 #. plugins/LoadPerJobIndicator2/LoadPerJobIndicator2_cfg.html
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
@@ -4294,7 +4203,7 @@ msgstr "날짜 범위"
 #. plugins/LoadPerProjCategoryIndicator/LoadPerProjCategoryIndicator_cfg.html
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2_cfg.html
 msgid "dashboard default"
-msgstr ""
+msgstr "기본 대시보드"
 
 #. plugins/LoadPerJobIndicator2/LoadPerJobIndicator2_cfg.html
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
@@ -4371,9 +4280,8 @@ msgid "Range values"
 msgstr "범위 값"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
-#, fuzzy
 msgid "Available Workforce Options"
-msgstr "이용 가능한 필드"
+msgstr "가용 노동력 옵션"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 msgid "Select by group"
@@ -4396,9 +4304,8 @@ msgid "SUM(userWorkforce * availability * prodCoef)"
 msgstr ""
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
-#, fuzzy
 msgid "Available workforce"
-msgstr "이용 가능한 필드"
+msgstr "가용 노동력"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator_ajax2.html
 msgid "Workforce"
@@ -4429,9 +4336,8 @@ msgid "Nb days"
 msgstr "Nb 일"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
-#, fuzzy
 msgid "Task backlog"
-msgstr "백로그"
+msgstr "작업 백로그"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "Fill Period With Timetracks"
@@ -4460,9 +4366,8 @@ msgid "Fill period with timetracks"
 msgstr "시간 추적으로 기간 채우기"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator_cfg.html
-#, fuzzy
 msgid "Managemnt load history"
-msgstr "관리 비용"
+msgstr "관리 로드 역사"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
@@ -4476,9 +4381,8 @@ msgstr ""
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
-#, fuzzy
 msgid "Theoretical progress"
-msgstr "실제 진행도"
+msgstr "이론적 진행도"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
@@ -4511,32 +4415,28 @@ msgid "Historical Progression Chart"
 msgstr ""
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
-#, fuzzy
 msgid "Mngt Elapsed"
-msgstr "경과됨"
+msgstr "Mngt 경과됨"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 msgid "Mngt Provisions"
-msgstr ""
+msgstr "Mngt 규정"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
-#, fuzzy
 msgid "Sorry, you need to be manager to use this plugin"
-msgstr "이 페이지에 접근하려면 관리자 팀에 속해야 합니다."
+msgstr "이 플러그인을 사용하려면 관리자여야 합니다."
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
-#, fuzzy
 msgid "Root task"
-msgstr "지연된 작업 없음."
+msgstr "루트 작업"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "comma separated"
-msgstr "쉼표 구분"
+msgstr "쉼표로 구분됨"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
-#, fuzzy
 msgid "Root task list"
-msgstr "지연된 작업 없음."
+msgstr "루트 작업 목록"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "comma separated list of mantis tasks"
@@ -4602,13 +4502,11 @@ msgstr "참여 중인 사용자"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_ajax.html
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator_ajax.html
-#, fuzzy
 msgid "Total elapsed"
-msgstr "경과됨"
+msgstr "총 경과됨"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_ajax.html
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator_ajax.html
-#, fuzzy
 msgid "sidetasks"
 msgstr "사이드작업"
 
@@ -4618,28 +4516,24 @@ msgstr "그룹"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
 msgid "Display the elapsed time for each user group"
-msgstr ""
+msgstr "각 사용자 그룹에 대해 경과된 시간 표시"
 
 #. plugins/DriftAlertIndicator/DriftAlertIndicator_cfg.html
-#, fuzzy
 msgid "Tasks Drift alert"
 msgstr "작업 드리프트 경보"
 
 #. plugins/DriftAlertIndicator/DriftAlertIndicator_cfg.html
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
-#, fuzzy
 msgid "Display resolved issues"
-msgstr "표시된 작업"
+msgstr "해결된 이슈 표시"
 
 #. plugins/DriftAlertIndicator/DriftAlertIndicator.html
-#, fuzzy
 msgid "Drift current tasks"
-msgstr "해결된 작업 없음..."
+msgstr "드리프트 현재 작업"
 
 #. plugins/DriftAlertIndicator/DriftAlertIndicator.html
-#, fuzzy
 msgid "Drift resolved tasks"
-msgstr "해결된 작업 없음..."
+msgstr "드래프트 해결된 작업"
 
 #. plugins/UserTeamList/UserTeamList.html
 msgid "Update team"
@@ -4755,7 +4649,7 @@ msgstr "이슈 가져오기"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 msgid "Sorry, only team members can import tasks."
-msgstr "죄송하지만, 오직 회원만이 작업을 가져올 수 있습니다."
+msgstr "죄송하지만, 오직 팀원만이 작업을 가져올 수 있습니다."
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 #. plugins/ImportUsers/ImportUsers.html
@@ -4773,9 +4667,8 @@ msgid "Standard CSV format with :"
 msgstr ""
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
-#, fuzzy
 msgid "enclosure"
-msgstr "닫힘"
+msgstr "첨부 파일"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 #. plugins/ImportUsers/ImportUsers.html
@@ -4817,13 +4710,12 @@ msgid "Set All"
 msgstr "모두 설정"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv_ajax.html
-#, fuzzy
 msgid "TargetVersion"
 msgstr "목표 버전"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv_ajax.html
 msgid "Mantis issues to create:"
-msgstr "만들 맨티스 이슈:"
+msgstr "만들 Mantis 이슈:"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv_ajax.html
 msgid "WBS Tree"
@@ -4834,9 +4726,8 @@ msgid "Category not set on all issues"
 msgstr "분류가 모든 이슈에서 설정되어 있지 않음"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv_ajax.html
-#, fuzzy
 msgid "Type not set on all issues"
-msgstr "이 이슈에서 총 걸린 시간"
+msgstr "유형이 모든 이슈에서 설정되어 있지 않음"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv_ajax.html
 msgid "Import done !"
@@ -4881,7 +4772,7 @@ msgstr ""
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_ajax.html
 #: plugins/LoadPerUserIndicator/LoadPerUserIndicator.class.php:394
 msgid "External"
-msgstr ""
+msgstr "외부"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 msgid "External tasks except 'Leave' category"
@@ -4904,21 +4795,18 @@ msgid "WARN: this option will be disabled if 'Only team members' is unchecked"
 msgstr ""
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks_cfg.html
-#, fuzzy
 msgid "Move issue timetracks"
 msgstr "이슈의 시간기록 이동하기"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks_ajax.html
 #. plugins/TimetrackDetailsIndicator/TimetrackDetailsIndicator_ajax.html
-#, fuzzy
 msgid "Committer"
-msgstr "명령 필터"
+msgstr "커밋한 사람"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks_ajax.html
 #. plugins/TimetrackDetailsIndicator/TimetrackDetailsIndicator_ajax.html
-#, fuzzy
 msgid "Commit date"
-msgstr "시작 날짜"
+msgstr "커밋 날짜"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Select All"
@@ -4954,18 +4842,16 @@ msgid "Destination task must be different from origin"
 msgstr "최종 작업은 원본과 달라야 합니다."
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
-#, fuzzy
 msgid "Origin task"
-msgstr "시간 트래킹"
+msgstr "원본 작업"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Move selected timetracks"
 msgstr "선택된 시간 추적 이동하기"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
-#, fuzzy
 msgid "Destination task"
-msgstr "대상"
+msgstr "대상 작업"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "WARNING : In order to move timetracks, destination task creation date will be moved to "
@@ -4989,9 +4875,8 @@ msgid "Yes"
 msgstr "예"
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
-#, fuzzy
 msgid "Filter on Issue type"
-msgstr "이슈 유형"
+msgstr "이슈 유형으로 필터링"
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
 msgid "No filter"
@@ -5015,12 +4900,11 @@ msgstr "외부 ID의 필터"
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
 msgid "Issues with External ID"
-msgstr "외부 ID의 이슈"
+msgstr "이슈 (외부 ID와 함께)"
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
-#, fuzzy
 msgid "Issues without External ID"
-msgstr "이슈 정렬: 외부 ID와 함께/없이"
+msgstr "이슈 (외부 ID 없이)"
 
 #. plugins/LoadPerProjectIndicator/LoadPerProjectIndicator.html
 #: plugins/LoadPerProjectIndicator/LoadPerProjectIndicator.class.php:77
@@ -5105,7 +4989,7 @@ msgstr "잔여"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 msgid "Daily Price"
-msgstr ""
+msgstr "일일 가격"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 msgid "Price on period"
@@ -5118,7 +5002,7 @@ msgstr "가격"
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2_cfg.html
 #: plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.class.php:64
 msgid "Progress history"
-msgstr ""
+msgstr "진행도 역사"
 
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator.html
@@ -5148,12 +5032,12 @@ msgstr "% 진행도"
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 #: plugins/LoadHistoryIndicator/LoadHistoryIndicator.class.php:68
 msgid "Load History"
-msgstr ""
+msgstr "역사 불러오기"
 
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator.html
 #: plugins/CostsIndicator/CostsIndicator.class.php:283
 msgid "Sidetasks"
-msgstr ""
+msgstr "사이드작업"
 
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.html
 msgid "MgrEffortEstim + checked provisions"
@@ -5179,16 +5063,15 @@ msgstr ""
 
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.html
 msgid "Budget Drift Progression Chart"
-msgstr ""
+msgstr "예산 드리프트 진행 차트"
 
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.html
 msgid "Budget Drift"
-msgstr ""
+msgstr "예산 드리프트"
 
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2_cfg.html
-#, fuzzy
 msgid "Budget history"
-msgstr "백로그 역사"
+msgstr "예산 역사"
 
 #. plugins/LoadPerCustomfieldValues/LoadPerCustomfieldValues_cfg.html
 #: plugins/LoadPerCustomfieldValues/LoadPerCustomfieldValues.class.php:69
@@ -5214,9 +5097,8 @@ msgid "Backlog per User"
 msgstr "사용자별 백로그"
 
 #. plugins/BacklogPerUserIndicator/BacklogPerUserIndicator.html
-#, fuzzy
 msgid "No task with backlog"
-msgstr "백로그"
+msgstr "백로그가 있는 작업 없음"
 
 #. plugins/BacklogPerUserIndicator/BacklogPerUserIndicator.html
 msgid "For each user, return the sum of the backlog of its assigned tasks"
@@ -5252,14 +5134,12 @@ msgid "Nb resolved"
 msgstr "Nb 해결됨"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator_ajax.html
-#, fuzzy
 msgid "Submitted issues"
-msgstr "제출됨"
+msgstr "제출된 이슈"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator_ajax.html
-#, fuzzy
 msgid "Resolved issues"
-msgstr "표시된 작업"
+msgstr "해결된 이슈"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator_cfg.html
 #: plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator.class.php:65
@@ -5267,9 +5147,8 @@ msgid "Submitted/Resolved Issues History"
 msgstr ""
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator.html
-#, fuzzy
 msgid "Submitted/Resolved issues"
-msgstr "제출된 / 해결된 이슈"
+msgstr "제출된/해결된 이슈"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator.html
 msgid "Submitted / Resolved Issues"
@@ -5284,9 +5163,8 @@ msgid "Resolved"
 msgstr "해결됨"
 
 #. plugins/ImportUsers/ImportUsers.html
-#, fuzzy
 msgid "You need to be manager to import issues."
-msgstr "사용자를 가져올 권한이 없습니다"
+msgstr "이슈를 가져오려면 관리자여야 합니다."
 
 #. plugins/ImportUsers/ImportUsers.html
 msgid "Only team administrators can create users"
@@ -5307,9 +5185,8 @@ msgid "Add users to CodevTT team & projects"
 msgstr ""
 
 #. plugins/ImportUsers/ImportUsers.html
-#, fuzzy
 msgid "Only team-leaders & administrators are allowed to do this action."
-msgstr "팀 관리자만이 사용자를 만들 수 있습니다"
+msgstr "팀 관리자 및 관리자만이 이 작업을 할 수 있습니다."
 
 #. plugins/ImportUsers/ImportUsers.html
 #. plugins/ImportUsers/ImportUsers_ajax.html
@@ -5317,9 +5194,8 @@ msgid "Send password by mail"
 msgstr "메일로 비밀번호 보내기"
 
 #. plugins/ImportUsers/ImportUsers.html
-#, fuzzy
 msgid "Send a password per email to each user"
-msgstr "메일로 비밀번호 보내기"
+msgstr "각 사용자에게 메일로 비밀번호 보내기"
 
 #. plugins/ImportUsers/ImportUsers.html
 #. plugins/ImportUsers/ImportUsers_ajax.html
@@ -5341,7 +5217,7 @@ msgstr "사용자가 이미 존재합니다"
 #. plugins/ImportUsers/ImportUsers.html
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "Mantis project access level"
-msgstr ""
+msgstr "Mantis 프로젝트 접근 레벨"
 
 #. plugins/ImportUsers/ImportUsers.html
 msgid "User can't be added to Mantis projects"
@@ -5361,9 +5237,8 @@ msgid "User can't be added to this team"
 msgstr "사용자를 이 팀에 추가할 수 없습니다"
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
-#, fuzzy
 msgid "Mantis users to create:"
-msgstr "만들 맨티스 이슈:"
+msgstr "만들 Mantis 사용자:"
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "First name"
@@ -5375,30 +5250,27 @@ msgstr "사용자 이름"
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "Mantis role"
-msgstr ""
+msgstr "Mantis 역할"
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "Date of entry in team"
-msgstr ""
+msgstr "팀에 가입한 날짜"
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
-#, fuzzy
 msgid "Username not set on all users"
-msgstr "이 이슈에서 총 걸린 시간"
+msgstr "사용자 이름이 모든 사용자한테 설정되지 않음"
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "Project access level not set on all users"
-msgstr ""
+msgstr "프로젝트 접근 레벨이 모든 사용자한테 설정되지 않음"
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
-#, fuzzy
 msgid "CodevTT roles not set on all users"
-msgstr "이 이슈에서 총 걸린 시간"
+msgstr "CodevTT 역할이 모든 사용자한테 설정되지 않음"
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
-#, fuzzy
 msgid "Date of entry in team not set on all users"
-msgstr "분류가 모든 이슈에서 설정되어 있지 않음"
+msgstr "팀에 가입한 날짜가 모든 사용자한테 설정되지 않음"
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "Import Done ! The password for every created users is"
@@ -5438,7 +5310,7 @@ msgstr "Hello World"
 #. plugins/TimetrackDetailsIndicator/TimetrackDetailsIndicator_cfg.html
 #: plugins/TimetrackDetailsIndicator/TimetrackDetailsIndicator.class.php:60
 msgid "Timetrack details"
-msgstr ""
+msgstr "시간 추적 세부 정보"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Refresh"
@@ -5453,9 +5325,8 @@ msgid "Expire"
 msgstr "만료"
 
 #. plugins/BlogPlugin/BlogPlugin.html
-#, fuzzy
 msgid "Exp. date"
-msgstr "끝 날짜"
+msgstr "만료 날짜"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Expiration Date (optional)"
@@ -5501,7 +5372,7 @@ msgstr "숨겨진 메시지"
 #. plugins/BlogPlugin/BlogPlugin.html
 #: plugins/BlogPlugin/BlogPost.class.php:430
 msgid "Hide"
-msgstr ""
+msgstr "숨김"
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "Message wall help"
@@ -5598,9 +5469,8 @@ msgstr "백로그 역사"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
-#, fuzzy
 msgid "Task type filter"
-msgstr "작업 필터:"
+msgstr "작업 유형 필터"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 msgid "Check the submission date of the tasks"
@@ -5621,42 +5491,41 @@ msgstr "열기"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_ajax.html
 msgid "Nb Issues"
-msgstr ""
+msgstr "Nb 이슈"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_ajax.html
 msgid "Nb new"
-msgstr ""
+msgstr "Nb 새"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_ajax.html
 msgid "Nb open"
-msgstr ""
+msgstr "Nb 열림"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
 msgid "Open issues seniority"
 msgstr ""
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
-#, fuzzy
 msgid "Display task list"
-msgstr "표시된 작업"
+msgstr "작업 목록 표시"
 
 #. plugins/TimePerStatusIndicator/TimePerStatusIndicator_cfg.html
 #. plugins/TimePerStatusIndicator/TimePerStatusIndicator.html
 #. plugins/CostsIndicator/CostsIndicator.html
 #: plugins/TimePerStatusIndicator/TimePerStatusIndicator.class.php:62
 msgid "Time per status"
-msgstr ""
+msgstr "상태별 시간"
 
 #. plugins/TimePerStatusIndicator/TimePerStatusIndicator.html
 #: plugins/TimePerStatusIndicator/TimePerStatusIndicator.class.php:65
 msgid "Time allocation by status"
-msgstr ""
+msgstr "상태 별 시간 배분"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_cfg.html
 #: plugins/TimetrackingAnalysis/TimetrackingAnalysis.class.php:69
 msgid "Timetracking analysis"
-msgstr ""
+msgstr "시간 추적 분석"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis.html
 msgid "Average delay between the timetrack date and it's creation date (in days)"
@@ -5668,13 +5537,12 @@ msgid "Average"
 msgstr "평균"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
-#, fuzzy
 msgid "(in days)"
-msgstr "일"
+msgstr "(일 단위)"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
 msgid "Median"
-msgstr ""
+msgstr "중간값"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
 msgid "Mode"
@@ -5742,9 +5610,8 @@ msgid "Global cost estimation:"
 msgstr ""
 
 #. plugins/CostsIndicator/CostsIndicator.html
-#, fuzzy
 msgid "Costs Mgr"
-msgstr "비용"
+msgstr "비용 Mgr"
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "Sum the costs of each timetrack."
@@ -5755,9 +5622,8 @@ msgid "Team AverageDailyCost and UserDailyCosts must be defined in team settings
 msgstr "팀의 AverageDailyCost와 UserDailyCosts는 팀 설정에서 정의되어야 합니다."
 
 #. plugins/CostsIndicator/CostsIndicator.html
-#, fuzzy
 msgid "AverageDailyCost is used when no UserDailyCosts is defined for the timetrack's user."
-msgstr "팀의 AverageDailyCost와 UserDailyCosts는 팀 설정에서 정의되어야 합니다."
+msgstr "AverageDailyCost는 시간 추적 사용자에 대해 UserDailyCosts가 정의되지 않은 경우에 사용되어야 합니다."
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "AverageDailyCost is used if the task is not yet assigned to anyone."
@@ -5781,11 +5647,11 @@ msgstr ""
 
 #: admin/edit_holidays.php:46
 msgid "Couldn't add the holiday"
-msgstr ""
+msgstr "휴일을 추가할 수 없음"
 
 #: admin/edit_holidays.php:51
 msgid "Couldn't remove the holiday"
-msgstr ""
+msgstr "휴일을 제거할 수 없음"
 
 #: admin/edit_team_ajax.php:92
 msgid "Issue tooltips for project"
@@ -6215,7 +6081,7 @@ msgstr "Y-m-d"
 
 #: indicator_plugins/BacklogVariationIndicator/BacklogVariationIndicator.class.php:286
 msgid "Average backlog"
-msgstr ""
+msgstr "평균 백로그"
 
 #: install/install.php:25 install/install.php:133
 #: install/install_menu.inc.php:22
@@ -6224,7 +6090,7 @@ msgstr "설치"
 
 #: install/install.php:122
 msgid "Upgrade instructions"
-msgstr ""
+msgstr "지침 업그레이드"
 
 #: install/install.php:123
 msgid "If you're upgrading from an older CodevTT version, do the following steps:"
@@ -6374,7 +6240,7 @@ msgstr "Mantis URL"
 
 #: install/install_step2.php:119
 msgid "URL to CodevTT"
-msgstr ""
+msgstr "CodevTT URL"
 
 #: install/install_step2.php:134
 msgid "Proceed Step 2"
@@ -6390,15 +6256,15 @@ msgstr "CodevTT 관리자 팀"
 
 #: install/install_step3.php:388
 msgid "CodevTT_EffortEstim"
-msgstr ""
+msgstr "CodevTT_EffortEstim"
 
 #: install/install_step3.php:391
 msgid "CodevTT_Type"
-msgstr ""
+msgstr "CodevTT_Type"
 
 #: install/install_step3.php:398
 msgid "CodevTT_Manager EffortEstim"
-msgstr ""
+msgstr "CodevTT_Manager EffortEstim"
 
 #: install/install_step3.php:400
 msgid "CodevTT_DailyPrice"
@@ -6406,20 +6272,20 @@ msgstr "CodevTT_DailyPrice"
 
 #: install/install_step3.php:406
 msgid "CodevTT_External ID"
-msgstr ""
+msgstr "CodevTT_External ID"
 
 #: install/install_step3.php:409
 msgid "CodevTT_Deadline"
-msgstr ""
+msgstr "CodevTT_Deadline"
 
 #: install/install_step3.php:419
 msgid "CodevTT_Backlog"
-msgstr ""
+msgstr "CodevTT_Backlog"
 
 #. createCustomField(T_("CodevTT_Delivery ticket"),   $mType_string,  "customField_deliveryId", $attributes);  // CoDev FDJ custom
 #: install/install_step3.php:426
 msgid "CodevTT_Delivery Date"
-msgstr ""
+msgstr "CodevTT_Delivery Date"
 
 #. ------ Reports
 #: install/install_step3.php:478
@@ -6546,7 +6412,7 @@ msgstr "4단계"
 
 #: management/servicecontract_tools.php:182
 msgid "Provision"
-msgstr ""
+msgstr "규정"
 
 #: management/command_info_ajax.php:340 scheduler/scheduler_ajax.php:379
 #: gantt/gantt_ajax.php:166
@@ -6559,7 +6425,7 @@ msgstr ""
 
 #: management/command_edit_ajax.php:66
 msgid "Provisions updated FAILED !"
-msgstr ""
+msgstr "규정 업데이트 실패함 !"
 
 #: reports/issue_info_ajax.php:105
 msgid "Sorry, only managers can remove tasks from commands"
@@ -6664,7 +6530,7 @@ msgstr ""
 
 #: timetracking/holidays_report.php:71
 msgid "Sidetasks Inactivity"
-msgstr ""
+msgstr "사이드작업 비활동"
 
 #: timetracking/holidays_report.php:76
 msgid "Activity on other teams"
@@ -6990,7 +6856,7 @@ msgstr ""
 
 #: plugins/LoadPerProjCategoryIndicator/LoadPerProjCategoryIndicator.class.php:347
 msgid "All Sidetasks Projects"
-msgstr ""
+msgstr "모든 사이드작업 프로젝트"
 
 #: plugins/LoadPerProjCategoryIndicator/LoadPerProjCategoryIndicator.class.php:348
 msgid "All Production Projects"
@@ -7039,7 +6905,7 @@ msgstr "홈페이지에 메시지 담벼락을 표시합니다"
 
 #: plugins/BlogPlugin/BlogPlugin.class.php:71
 msgid "Allows Administrators & team members to send messages that will be displayed on other users' wall"
-msgstr "관리자와 팀 회원이 다른 사용자의 담벼락에 표시되는 메시지를 보낼 수 있게 합니다"
+msgstr "관리자와 팀원이 다른 사용자의 담벼락에 표시되는 메시지를 보낼 수 있게 합니다"
 
 #: plugins/BurnDownChart/BurnDownChart.class.php:66
 msgid "Display the backlog history"
