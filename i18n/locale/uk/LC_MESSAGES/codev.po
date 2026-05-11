@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2026-02-02 12:01:15+0000\n"
+"PO-Revision-Date: 2026-05-11 12:01:18+0000\n"
 "Language: uk\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -177,7 +177,7 @@ msgstr "ВСЬОГО"
 
 #. tpl/timetracking_lite.html
 msgid "Hint: Click in a field to edit 'Elapsed time' or 'Backlog'"
-msgstr ""
+msgstr "Підказка: Натисніть у полі, щоб редагувати «Витрачений час» або «Відставання»"
 
 #. tpl/timetracking_lite.html
 #. tpl/time_tracking.html
@@ -347,7 +347,7 @@ msgstr "Введіть ключове слово або ***, щоб відобр
 
 #. tpl/timetracking_lite.html
 msgid "Invalid backlog format"
-msgstr ""
+msgstr "Недійсний формат відставань"
 
 #. tpl/timetracking_lite.html
 #. tpl/modal/update_issueBacklog.html
@@ -363,7 +363,7 @@ msgstr "Статус не може бути :\\"
 
 #. tpl/timetracking_lite.html
 msgid "Please update status before editing timetracks"
-msgstr ""
+msgstr "Будь ласка, оновіть статус перед редагуванням хрономтеражів"
 
 #. tpl/timetracking_lite.html
 #. tpl/check.html
@@ -2495,7 +2495,7 @@ msgstr "Приховати завдання із забороненим стат
 
 #. tpl/time_tracking.html
 msgid "Week timetracks"
-msgstr "Тижневі хронометри"
+msgstr "Тижневі хронометражі"
 
 #. tpl/time_tracking.html
 #. tpl/team_activity_report.html
@@ -2519,7 +2519,7 @@ msgstr "Редагувати хронометраж"
 
 #. tpl/time_tracking.html
 msgid "Future timetracks"
-msgstr "Майбутні хронометри"
+msgstr "Майбутні хронометражі"
 
 #. tpl/time_tracking.html
 msgid "Delete track"
@@ -2528,11 +2528,11 @@ msgstr "Видалити завдання"
 #. tpl/missing_timetracks.html
 #. tpl/menu/global_menu.html
 msgid "Missing Timetracks"
-msgstr "Відсутні хронометри"
+msgstr "Відсутні хронометражі"
 
 #. tpl/missing_timetracks.html
 msgid "Missing timetracks per user"
-msgstr "Відсутні хронометри для кожного користувача"
+msgstr "Відсутні хронометражі для кожного користувача"
 
 #. tpl/missing_timetracks.html
 #. tpl/planning_report.html
@@ -2554,7 +2554,7 @@ msgstr "робочі дні"
 
 #. tpl/missing_timetracks.html
 msgid "Missing timetracks"
-msgstr "Відсутні хронометри"
+msgstr "Відсутні хронометражі"
 
 #. tpl/missing_timetracks.html
 msgid "Missing days"
@@ -2745,7 +2745,7 @@ msgstr "Поточні відставання"
 
 #. tpl/modal/update_issueBacklog.html
 msgid "Fixed in version"
-msgstr ""
+msgstr "Виправлено у версії"
 
 #. tpl/modal/update_issueBacklog.html
 msgid "Update Backlog"
@@ -2757,11 +2757,11 @@ msgstr "Завдання вирішено, відставання має бут�
 
 #. tpl/modal/update_issueBacklog.html
 msgid "Timetracking disabled if current status in : "
-msgstr "Відстеження часу вимкнено, якщо поточний стан :\\"
+msgstr "Хронометражі вимкнено, якщо поточний стан у : "
 
 #. tpl/modal/update_issueBacklog.html
 msgid "Timetrack note is required"
-msgstr "Потрібна примітка про часові доріжки"
+msgstr "Потрібна примітка про хронометражі"
 
 #. tpl/modal/select_issues.html
 msgid "No task selected !"
@@ -3233,11 +3233,11 @@ msgstr "Щоденні витрати користувача"
 
 #. tpl/edit_team.html
 msgid "Timetracking settings"
-msgstr "Налаштування відстеження часу"
+msgstr "Налаштування хронометражу"
 
 #. tpl/edit_team.html
 msgid "Timetracking disabled if task status in"
-msgstr "Відстеження часу вимкнено, якщо статус завдання"
+msgstr "Хронометражі вимкнено, якщо статус завдання у"
 
 #. tpl/edit_team.html
 msgid "Edit Forbidden status list"
@@ -3294,7 +3294,7 @@ msgstr "Список тривалості хронометражу"
 
 #. tpl/edit_team.html
 msgid "These are the values proposed in the Timetracking page, when adding a timetrack."
-msgstr "Це значення, запропоновані на сторінці Timetracking при додаванні timetrack."
+msgstr "Це значення, запропоновані на сторінці Timetracking при додаванні хронометражу."
 
 #. tpl/edit_team.html
 #. tpl/menu/global_menu.html
@@ -3707,7 +3707,7 @@ msgstr "Облік часу"
 
 #. tpl/issue_info.html
 msgid "Update timetracking"
-msgstr "Оновити облік часу"
+msgstr "Оновити хронометраж"
 
 #. tpl/issue_info.html
 msgid "Task Info"
@@ -3764,11 +3764,11 @@ msgstr "Дата останнього хронометражу"
 
 #. tpl/issue_info.html
 msgid "WARNING: Prior timetracks could not be displayed !"
-msgstr "УВАГА: Неможливо відобразити попередні часові доріжки!"
+msgstr "УВАГА: Неможливо відобразити попередні хронометражі!"
 
 #. tpl/issue_info.html
 msgid "Update timetracking values"
-msgstr "Оновити значення відстеження часу"
+msgstr "Оновити значення хронометражу"
 
 #. tpl/issue_info.html
 msgid "Remove from :"
@@ -3899,7 +3899,7 @@ msgstr "Головна"
 
 #. tpl/menu/global_menu.html
 msgid "TimeTracking & team activity"
-msgstr "Облік часу та діяльність команди"
+msgstr "Хронометраж та діяльність команди"
 
 #. tpl/menu/global_menu.html
 msgid "Activity"
@@ -3907,7 +3907,7 @@ msgstr "Діяльність"
 
 #. tpl/menu/global_menu.html
 msgid "Time Tracking (lite)"
-msgstr ""
+msgstr "Облік часу (спрощено)"
 
 #. tpl/menu/global_menu.html
 msgid "Time Tracking"
@@ -4218,7 +4218,7 @@ msgstr "поточний місяць"
 #. plugins/LoadPerJobIndicator2/LoadPerJobIndicator2.html
 #: plugins/LoadPerJobIndicator2/LoadPerJobIndicator2.class.php:79
 msgid "Check all the timetracks of the period and return their repartition per Job"
-msgstr "Перевірте всі часові доріжки періоду та поверніть їх перерозподіл за роботу"
+msgstr "Перевірте всі хронометражі періоду та поверніть їх перерозподіл за роботу"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator_cfg.html
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator_cfg.html
@@ -4337,16 +4337,16 @@ msgstr "Відставання завдань"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "Fill Period With Timetracks"
-msgstr "Період заповнення відмітками часу"
+msgstr "Заповнити період хронометражами"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.class.php:77
 msgid "Add multiple timetracks at once"
-msgstr "Додайте кілька часових доріжок одночасно"
+msgstr "Додайте кілька хронометражів одночасно"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "It is not in the philosophy of CodevTT to allow users to enter several timetracks at the same time. However it is sometimes necessary to enter missing timetracks over large periods (eg. Catch up when CodevTT is installed late on a project).\nThis right is only given to team administrators."
-msgstr "У філософії CodevTT не входить дозволяти користувачам вводити кілька часових доріжок одночасно. Однак іноді доводиться вводити відсутні часові доріжки протягом тривалих періодів (наприклад, наздоганяти, коли CodevTT інстальовано із запізненням у проєкті).\nЦе право надається тільки адміністраторам команди."
+msgstr "У філософії CodevTT не входить дозволяти користувачам вводити кілька хронометражів одночасно. Однак іноді доводиться вводити відсутні хронометражі протягом тривалих періодів (наприклад, наздоганяти, коли CodevTT інстальовано із запізненням у проєкті).\nЦе право надається тільки адміністраторам команди."
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "Error !"
@@ -4359,7 +4359,7 @@ msgstr "днів на період"
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks_cfg.html
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.class.php:74
 msgid "Fill period with timetracks"
-msgstr "Період заповнення відмітками часу"
+msgstr "Заповнити період хронометражами"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator_cfg.html
 msgid "Managemnt load history"
@@ -4738,7 +4738,7 @@ msgstr "Завантаження на користувача"
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 #: plugins/LoadPerUserIndicator/LoadPerUserIndicator.class.php:83
 msgid "Check all the timetracks of the period and return their repartition per User"
-msgstr "Перевірте всі часові доріжки періоду та поверніть їх перерозподіл для кожного користувача"
+msgstr "Перевірте всі хронометражі періоду та поверніть їх перерозподіл для кожного користувача"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 msgid "Time spent on the projects & sideTasks of the current task selection"
@@ -4784,7 +4784,7 @@ msgstr "Показувати супутні завдання щодо відхо
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
 msgid "Show full activity:\n         <br> If checked, timetracks on tasks not included in current selection will be displayed in additional columns."
-msgstr "Показати повну активність:\n         <br>Якщо встановлено прапорець, часові доріжки для завдань, не включених у поточний вибір, відображатимуться у додаткових стовпцях."
+msgstr "Показати повну активність:\n         <br>Якщо встановлено прапорець, хронометражі для завдань, не включених у поточний вибір, відображатимуться у додаткових стовпцях."
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
 msgid "WARN: this option will be disabled if 'Only team members' is unchecked"
@@ -4792,7 +4792,7 @@ msgstr "ПОПЕРЕДЖЕННЯ: ця опція буде вимкнена, я�
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks_cfg.html
 msgid "Move issue timetracks"
-msgstr "Перемістити часові доріжки видачі"
+msgstr "Перемістити хронометражі видачі"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks_ajax.html
 #. plugins/TimetrackDetailsIndicator/TimetrackDetailsIndicator_ajax.html
@@ -4843,7 +4843,7 @@ msgstr "Початкове завдання"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Move selected timetracks"
-msgstr "Перемістити вибрані часові доріжки"
+msgstr "Перемістити вибрані хронометражі"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Destination task"
@@ -4851,7 +4851,7 @@ msgstr "Завдання призначення"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "WARNING : In order to move timetracks, destination task creation date will be moved to "
-msgstr "УВАГА: Для того, щоб перемістити часові доріжки, дата створення цільового завдання буде переміщена до "
+msgstr "УВАГА: Для того, щоб перемістити хронометражі, дата створення цільового завдання буде переміщена до "
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Timetracks moved successfully !"
@@ -4905,7 +4905,7 @@ msgstr "Проблеми без зовнішнього ідентифікато�
 #. plugins/LoadPerProjectIndicator/LoadPerProjectIndicator.html
 #: plugins/LoadPerProjectIndicator/LoadPerProjectIndicator.class.php:77
 msgid "Check all the timetracks of the period and return their repartition per Project"
-msgstr "Перевірте всі часові доріжки періоду та поверніть їх перерозподіл для кожного проєкту"
+msgstr "Перевірте всі хронометражі періоду та поверніть їх перерозподіл для кожного проєкту"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 msgid "Selling price for period"
@@ -5111,7 +5111,7 @@ msgstr "Поточні завдання"
 
 #. plugins/OngoingTasks/OngoingTasks.html
 msgid "Display only the tasks with activity (timetracks) on the period"
-msgstr "Відображати лише завдання з активністю (часові доріжки) за період"
+msgstr "Відображати лише завдання з активністю (хронометражі) за період"
 
 #. plugins/OngoingTasks/OngoingTasks.html
 msgid "The time spent on the task during the period (which can be less than the total time spent since the beginning of the task)"
@@ -5521,11 +5521,11 @@ msgstr "Розподіл часу за статусом"
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_cfg.html
 #: plugins/TimetrackingAnalysis/TimetrackingAnalysis.class.php:69
 msgid "Timetracking analysis"
-msgstr "Аналіз відстеження часу"
+msgstr "Аналіз хронометражів"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis.html
 msgid "Average delay between the timetrack date and it's creation date (in days)"
-msgstr "Середня затримка між датою відліку часу та датою її створення (у днях)"
+msgstr "Середня затримка між датою хронометражу та його датою створення (у днях)"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
@@ -5611,7 +5611,7 @@ msgstr "Витрати Мгр"
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "Sum the costs of each timetrack."
-msgstr "Підсумуйте витрати кожної часової доріжки."
+msgstr "Підсумуйте витрати кожного хронометражу."
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "Team AverageDailyCost and UserDailyCosts must be defined in team settings."
@@ -5619,7 +5619,7 @@ msgstr "Team AverageDailyCost та UserDailyCosts мають бути визна
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "AverageDailyCost is used when no UserDailyCosts is defined for the timetrack's user."
-msgstr "AverageDailyCost використовується, коли UserDailyCosts не визначено для користувача часової доріжки."
+msgstr "AverageDailyCost використовується, коли UserDailyCosts не визначено для хронометражу користувача."
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "AverageDailyCost is used if the task is not yet assigned to anyone."
@@ -5853,7 +5853,7 @@ msgstr "Питання слід передавати комусь"
 
 #: classes/consistency_check2.class.php:187
 msgid "Check timetracks on removed issues (not needed if Mantis plugin is enabled)"
-msgstr "Перевіряйте часові доріжки на вилучені проблеми (не потрібно, якщо плагін Mantis ввімкнено)"
+msgstr "Перевіряйте хронометражі на вилучені проблеми (не потрібно, якщо плагін Mantis ввімкнено)"
 
 #. for all timetracks of the team, check that the Mantis issue exist.
 #: classes/consistency_check2.class.php:188
@@ -6549,19 +6549,19 @@ msgstr "Інша команда"
 #: timetracking/timetracking_lite_ajax.php:139
 #: timetracking/timetracking_lite_ajax.php:144
 msgid "REFUSED"
-msgstr ""
+msgstr "ВІДМОВА"
 
 #: timetracking/timetracking_lite_ajax.php:154
 msgid "ERROR: Failed to update backlog !"
-msgstr ""
+msgstr "ПОМИЛКА: Не вдалося оновити список відставань!"
 
 #: timetracking/timetracking_lite_ajax.php:178
 msgid "ERROR: Failed to getAvailableStatusList !"
-msgstr ""
+msgstr "ПОМИЛКА: Не вдалося отримати список доступних статусів getAvailableStatusList!"
 
 #: timetracking/timetracking_lite_ajax.php:219
 msgid "ERROR: Failed to setStatus !"
-msgstr ""
+msgstr "ПОМИЛКА: Не вдалося встановити статус з setStatus!"
 
 #: timetracking/timetracking_lite_ajax.php:245
 #: timetracking/time_tracking_ajax.php:161
@@ -6575,11 +6575,11 @@ msgstr "Відстеження хронометражу заборонено, я
 #: timetracking/timetracking_lite_ajax.php:337
 #: timetracking/timetracking_lite_ajax.php:342
 msgid "Sorry, multiple existing timetracks, please use the regular Timetracking page"
-msgstr ""
+msgstr "Вибачте, існує декілька хронометражів, будь ласка, використовуйте звичайну сторінку хронометражів"
 
 #: timetracking/timetracking_lite_ajax.php:358
 msgid "ERROR: Failed to add/update timetrack !"
-msgstr ""
+msgstr "ПОМИЛКА: Не вдалося додати/оновити хронометраж!"
 
 #: timetracking/time_tracking_ajax.php:442
 msgid "ERROR: Failed to delete the timetrack !"
@@ -6588,7 +6588,7 @@ msgstr "ПОМИЛКА: Не вдалося видалити хронометр�
 #. forbid adding timetrack, return error
 #: timetracking/time_tracking_ajax.php:475
 msgid "Timetrack not added: Timetrack note is mandatory"
-msgstr "Відеомережа не додана: Примітка про часову доріжку є обов’язковою"
+msgstr "Відеомережа не додана: Примітка про хронометраж є обов’язковою"
 
 #: timetracking/time_tracking_ajax.php:479
 msgid "Timetrack not added: Job is not specified"
@@ -6656,7 +6656,7 @@ msgstr "Історія завантаження управління"
 
 #: plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.class.php:62
 msgid "Compares the elapsed time on management sideTasks to the management provisions"
-msgstr "Порівнює час, витрачений на керування супутніх завдань з з положеннями управління"
+msgstr "Порівнює час, витрачений на керування супутніх завдань з положеннями управління"
 
 #: plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.class.php:75
 msgid "Import Mantis relationship-tree to WBS"
@@ -6672,7 +6672,7 @@ msgstr "Навантаження на групи користувачів"
 
 #: plugins/LoadPerUserGroups/LoadPerUserGroups.class.php:74
 msgid "Check all the timetracks of the period and return their repartition per User groups"
-msgstr "Перевірити всі часові доріжки періоду та повернути їх перерозподіл за групами користувачів"
+msgstr "Перевірити всі хронометражі періоду та повернути їх перерозподіл за групами користувачів"
 
 #: plugins/LoadPerUserGroups/LoadPerUserGroups.class.php:334
 msgid "No group defined"
@@ -6698,11 +6698,11 @@ msgstr "Спецальні дані користувача"
 
 #: plugins/CustomUserData/CustomUserData.class.php:69
 msgid "Allows to set some user specific data such as EmployeeId, userId in other DB/Softwares, phoneNumber, etc."
-msgstr ""
+msgstr "Дозволяє встановлювати деякі дані користувачів, такі як \"EmployeeId\", \"userId\" в інших DB/Software, \"phoneNumber\", тощо"
 
 #: plugins/CustomUserData/CustomUserData.class.php:70
 msgid "The initial goal is to ease the export of CodevTT data to other tools."
-msgstr ""
+msgstr "Початкова мета — полегшити експорт даних CodevTT до інших інструментів."
 
 #: plugins/ManagementCosts/ManagementCosts.class.php:61
 msgid "Sum elapsed time on management sideTasks and compare to the sum of command provisions. Returns a result in man-days and costs"
@@ -6728,11 +6728,11 @@ msgstr "Імпортувати список проблем до MantisBT/CodevTT
 
 #: plugins/MoveIssueTimetracks/MoveIssueTimetracks.class.php:60
 msgid "Move Issue Timetracks"
-msgstr "Перемістити хронометри випуску"
+msgstr "Перемістити хронометражі випуску"
 
 #: plugins/MoveIssueTimetracks/MoveIssueTimetracks.class.php:64
 msgid "Move timetracks from one issue to another"
-msgstr "Переміщення хронометражів з одного випуску на іншу"
+msgstr "Переміщення хронометражів з однієї проблеми на іншу"
 
 #: plugins/MoveIssueTimetracks/MoveIssueTimetracks_ajax.php:71
 msgid "Please, fill all fields"
@@ -6752,7 +6752,7 @@ msgstr "Для цього пошуку немає хронометражів"
 
 #: plugins/MoveIssueTimetracks/MoveIssueTimetracks_ajax.php:171
 msgid "Please, display timetracks before moving them"
-msgstr "Будь ласка, покажіть часові доріжки перед їх переміщенням"
+msgstr "Будь ласка, покажіть хронометражі перед їх переміщенням"
 
 #: plugins/StatusHistoryIndicator2/StatusHistoryIndicator2.class.php:70
 msgid "Display Issue Status history"
@@ -6848,7 +6848,7 @@ msgstr "[CodevTT] Ваш пароль"
 
 #: plugins/LoadPerProjCategoryIndicator/LoadPerProjCategoryIndicator.class.php:73
 msgid "Check all the timetracks of the period and return their repartition per project categories"
-msgstr "Перевірити всі часові доріжки періоду та повернути їх перерозподіл за категоріями проектів"
+msgstr "Перевірити всі хронометражі періоду та повернути їх перерозподіл за категоріями проектів"
 
 #: plugins/LoadPerProjCategoryIndicator/LoadPerProjCategoryIndicator.class.php:347
 msgid "All Sidetasks Projects"
@@ -6872,7 +6872,7 @@ msgstr "Експортуйте WBS у файл CSV"
 
 #: plugins/TimetrackDetailsIndicator/TimetrackDetailsIndicator.class.php:63
 msgid "Display additional info on timetracks"
-msgstr "Відображення додаткової інформації про часові доріжки"
+msgstr "Відображення додаткової інформації про хронометражі"
 
 #: plugins/BlogPlugin/BlogPost.class.php:112
 msgid "Low"
@@ -6953,7 +6953,7 @@ msgstr "Усі (завдання та помилки)"
 
 #: plugins/TimetrackingAnalysis/TimetrackingAnalysis.class.php:72
 msgid "Display the delay between the timetrack date and it's creation date"
-msgstr "Відображення затримки між датою відліку часу та датою створення"
+msgstr "Відображення затримки між датою хронометражу та датою його створення"
 
 #: plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.class.php:68
 msgid "Display the EffortEstim reliability rate history"
