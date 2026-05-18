@@ -18,12 +18,12 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2026-05-07 12:01:11+0000\n"
+"PO-Revision-Date: 2026-05-18 12:27:14+0000\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-POT-Import-Date: 2024-02-04 11:30:40+0000\n"
-"X-Generator: MediaWiki 1.46.0-alpha; Translate 2025-07-31\n"
+"X-Generator: MediaWiki 1.47.0-alpha; Translate 2025-07-31\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
 
@@ -6300,7 +6300,7 @@ msgstr ""
 #. ------ Status
 #: install/install_step3.php:497
 msgid "Workflow"
-msgstr "워크플로우"
+msgstr "워크플로"
 
 #: install/install_step3.php:498
 msgid "Set equivalences in accordance to your Mantis workflow"
