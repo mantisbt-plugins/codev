@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2026-05-18 12:27:14+0000\n"
+"PO-Revision-Date: 2026-05-21 12:00:53+0000\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2876,7 +2876,7 @@ msgstr "읽은 사람"
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Action"
-msgstr "동작"
+msgstr "작업"
 
 #. tpl/team_activity_report.html
 #. plugins/BlogPlugin/BlogPlugin.html
@@ -4143,7 +4143,7 @@ msgstr "지연된 작업 없음."
 
 #. plugins/AdminTools/AdminTools.html
 msgid "Run selected actions"
-msgstr "선택된 동작 실행"
+msgstr "선택된 작업 실행"
 
 #. plugins/AdminTools/AdminTools.html
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
@@ -4160,7 +4160,7 @@ msgstr "관리 도구"
 
 #. plugins/AdminTools/AdminTools.html
 msgid "Actions executed !"
-msgstr "동작을 실행했습니다!"
+msgstr "작업을 실행했습니다!"
 
 #. plugins/AdminTools/AdminTools_ajax.html
 msgid "Force the display of the \"Message\" plugin on the homepage"
