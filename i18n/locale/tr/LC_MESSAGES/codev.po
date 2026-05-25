@@ -26,7 +26,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2026-05-18 12:27:18+0000\n"
+"PO-Revision-Date: 2026-05-25 12:01:22+0000\n"
 "Language: tr\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1351,7 +1351,7 @@ msgstr "Kullanıcı başına Görev"
 #. plugins/TasksPivotTable/TasksPivotTable_ajax2.html
 #. plugins/TasksPivotTable/TasksPivotTable_ajax.html
 msgid "Export to CSV"
-msgstr "CSV’ye Aktar"
+msgstr "CSV'ye aktar"
 
 #. tpl/team_monthly_activity_report.html
 msgid "Elapsed in period"
