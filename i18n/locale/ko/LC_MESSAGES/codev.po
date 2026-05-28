@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2026-05-21 12:00:53+0000\n"
+"PO-Revision-Date: 2026-05-28 12:01:13+0000\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -397,7 +397,7 @@ msgstr "이 문서에 접근하려면 팀을 선택해 주십시오."
 
 #. tpl/check.html
 msgid " Error(s) in Mantis Tasks"
-msgstr " Mantis 작업에서의 오류"
+msgstr " 맨티스 작업에서의 오류"
 
 #. tpl/check.html
 #. tpl/project_activity_report.html
@@ -597,18 +597,18 @@ msgstr "시작 날짜"
 
 #. tpl/servicecontract_edit.html
 msgid "StartDate"
-msgstr "시작 날짜"
+msgstr "시작날짜"
 
 #. tpl/servicecontract_edit.html
 #. tpl/command_edit.html
 #. tpl/servicecontract_info.html
 #. tpl/command_info.html
 msgid "End date"
-msgstr "종료일"
+msgstr "종료 날짜"
 
 #. tpl/servicecontract_edit.html
 msgid "EndDate"
-msgstr "종료일"
+msgstr "종료날짜"
 
 #. tpl/servicecontract_edit.html
 #. tpl/command_edit.html
@@ -637,11 +637,11 @@ msgstr "서비스 계약 이름"
 
 #. tpl/servicecontract_edit.html
 msgid "Delete ServiceContract"
-msgstr "서비스 계약 삭제"
+msgstr "서비스계약 삭제"
 
 #. tpl/servicecontract_edit.html
 msgid "Delete this ServiceContract ?"
-msgstr "이 서비스 계약을 삭제하시겠습니까 ?"
+msgstr "이 서비스계약을 삭제하시겠습니까 ?"
 
 #. tpl/servicecontract_edit.html
 msgid "Nb CommandSets"
@@ -708,7 +708,7 @@ msgstr "명령집합"
 
 #. tpl/servicecontract_edit.html
 msgid "delete Contract-CommandSet association"
-msgstr ""
+msgstr "게약-명령집합 연관 삭제"
 
 #. tpl/servicecontract_edit.html
 #. tpl/command_edit.html
@@ -729,7 +729,7 @@ msgstr "Id"
 
 #. tpl/servicecontract_edit.html
 msgid "delete Contract-Project association"
-msgstr ""
+msgstr "게약-프로젝트 연관 삭제"
 
 #. tpl/servicecontract_edit.html
 msgid "Remove Project"
@@ -787,7 +787,7 @@ msgstr "진행도"
 #: plugins/WBSExport/WBSExport.class.php:150
 #: plugins/TasksPivotTable/TasksPivotTable.class.php:291 tools.php:1491
 msgid "MgrEffortEstim"
-msgstr ""
+msgstr "관리자노력추정"
 
 #. tpl/ajax/issueGeneralInfo.html
 #. tpl/ajax/schedulerAffectationSummary.html
@@ -806,7 +806,7 @@ msgstr ""
 #: plugins/WBSExport/WBSExport.class.php:151
 #: plugins/TasksPivotTable/TasksPivotTable.class.php:292 tools.php:1494
 msgid "EffortEstim"
-msgstr ""
+msgstr "노력추정"
 
 #. tpl/ajax/issueGeneralInfo.html
 #. tpl/productivity_report.html
@@ -870,7 +870,7 @@ msgstr "경과됨"
 #: tests/filters.php:72 plugins/WBSExport/WBSExport.class.php:154
 #: plugins/TasksPivotTable/TasksPivotTable.class.php:296
 msgid "Drift Mgr"
-msgstr "드리프트 Mgr"
+msgstr "드리프트 관리자"
 
 #. tpl/ajax/issueGeneralInfo.html
 #. tpl/statistics.html
@@ -1008,7 +1008,7 @@ msgstr "연산"
 #. tpl/statistics.html
 #. tpl/productivity_report.html
 msgid "Adherence to deadlines"
-msgstr "기간을 준수"
+msgstr "마감일을 준수"
 
 #. tpl/statistics.html
 msgid "Efficiency - System Disponibility"
@@ -1028,7 +1028,7 @@ msgstr "가용 노동력"
 #. tpl/statistics.html
 #. tpl/productivity_report.html
 msgid "EffortEstim Reliability"
-msgstr ""
+msgstr "노력추정 신뢰성"
 
 #. tpl/statistics.html
 msgid "% Tasks"
@@ -1036,7 +1036,7 @@ msgstr "작업 %개"
 
 #. tpl/statistics.html
 msgid "Percentage of tasks delivered before the deadLine"
-msgstr "deadLine 이전에 수행된 작업의 비율"
+msgstr "마감일 이전에 수행된 작업의 비율"
 
 #. tpl/statistics.html
 #. plugins/IssueBacklogVariationIndicator/IssueBacklogVariationIndicator.html
@@ -1080,11 +1080,11 @@ msgstr "날짜"
 
 #. tpl/statistics.html
 msgid "Effort deviation on resolved tasks (regarding the MgrEffortEstim)"
-msgstr ""
+msgstr "해결된 작업에 대한 노력 편차 (관리자노력추정에 대한)"
 
 #. tpl/statistics.html
 msgid "Effort deviation on resolved tasks (regarding the EffortEstim)"
-msgstr ""
+msgstr "해결된 작업에 대한 노력 편차 (노력추정에 대한)"
 
 #. tpl/statistics.html
 #. tpl/productivity_report.html
@@ -1106,7 +1106,7 @@ msgstr "BS"
 
 #. tpl/statistics.html
 msgid "Effort Deviation (ExtRefOnly)"
-msgstr ""
+msgstr "노력 편차 (외부참조Only)"
 
 #. tpl/statistics.html
 #. tpl/productivity_report.html
@@ -1115,7 +1115,7 @@ msgstr "효율률"
 
 #. tpl/statistics.html
 msgid "Exclude side tasks to get the percent of time spent working on the projects"
-msgstr ""
+msgstr "프로젝트 작업에 소비한 시간 비율을 얻으려면 사이드 작업을 제외하세요"
 
 #. tpl/statistics.html
 msgid "Efficiency"
@@ -1129,15 +1129,15 @@ msgstr "% 효력"
 #. tpl/statistics.html
 #, c-format
 msgid "% Sys Disp."
-msgstr ""
+msgstr "% 시스템 사용 가능성"
 
 #. tpl/statistics.html
 msgid "Sys Disp."
-msgstr ""
+msgstr "시스템 사용 가능성"
 
 #. tpl/statistics.html
 msgid "Number of reopened external tasks (tasks having an ExternalRef)."
-msgstr ""
+msgstr "다시 열린 작업 갯수 (외부참조를 가진 작업)"
 
 #. tpl/statistics.html
 msgid "% Reopened"
@@ -1149,7 +1149,7 @@ msgstr "재개된 작업의 수와 해결된 작업의 숫자를 비교"
 
 #. tpl/statistics.html
 msgid "Nb Reopened"
-msgstr "Nb 재개됨"
+msgstr "Nb 다시 열림"
 
 #. tpl/statistics.html
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
@@ -1172,7 +1172,7 @@ msgstr "nb 생산 일수"
 #. tpl/productivity_report.html
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.html
 msgid "Compares the effort estimation to the elapsed time."
-msgstr ""
+msgstr "노력 추정을 걸린 시간과 비교합니다."
 
 #. tpl/statistics.html
 #. tpl/productivity_report.html
@@ -1197,7 +1197,7 @@ msgstr "(해결된 작업만)"
 #. tpl/productivity_report.html
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.html
 msgid "rate = 1 : estimation was perfect.<br>rate &lt; 1 : underestimated<br>rate &gt; 1 : overestimated"
-msgstr ""
+msgstr "rate = 1 : 추정이 완벽했습니다.<br>rate &lt; 1 : 과소 추정<br>rate &gt; 1 : 과대 추정"
 
 #. tpl/statistics.html
 #. tpl/productivity_report.html
@@ -1215,7 +1215,7 @@ msgstr "공식"
 #. tpl/productivity_report.html
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.html
 msgid "EffortAdd"
-msgstr ""
+msgstr "추가노력"
 
 #. tpl/statistics.html
 #. tpl/productivity_report.html
@@ -1347,7 +1347,7 @@ msgstr "CSV로 내보내기"
 
 #. tpl/team_monthly_activity_report.html
 msgid "Elapsed in period"
-msgstr ""
+msgstr "기간동안 경과된 시간"
 
 #. tpl/index.html
 msgid "IE may not correctly display this website"
@@ -1367,11 +1367,11 @@ msgstr "고정된 휴일 추가"
 
 #. tpl/edit_holidays.html
 msgid "In here you can set National Days, religious holidays, etc."
-msgstr ""
+msgstr "여기에서 국경일, 종교 공휴일 등을 설정할 수 있습니다"
 
 #. tpl/edit_holidays.html
 msgid "Note: adding RTTs is not a good idea, users may decide to work anyways and productionDaysForecast will be wrong."
-msgstr ""
+msgstr "참고: RTT를 추가하는 것은 좋은 생각이 아닙니다. 사용자가 어쨌든 일하기로 결정할 수 있으며 생산일예측이 잘못될 것입니다."
 
 #. tpl/edit_holidays.html
 msgid "Holiday Description"
@@ -1508,7 +1508,7 @@ msgstr "총"
 
 #. tpl/productivity_report.html
 msgid "Days spent on the projects during the period (team members only)"
-msgstr ""
+msgstr "프로젝트 관리 작업에 소요된 일수 (팀원만)"
 
 #. tpl/productivity_report.html
 msgid "SideTasks: Project Management"
@@ -1524,7 +1524,7 @@ msgstr "사이드작업: 기타"
 
 #. tpl/productivity_report.html
 msgid "Days spent on sideTasks, except project management and inactivity tasks"
-msgstr ""
+msgstr "프로젝트 관리와 비활동 작업을 제외한, 사이드작업에 소요된 일수"
 
 #. tpl/productivity_report.html
 msgid "Production Days : total"
@@ -1570,15 +1570,15 @@ msgstr "시스템 가용성"
 
 #. tpl/productivity_report.html
 msgid "MgrEffortEstim Reliability Rate"
-msgstr "MgrEffortEstime 신뢰성 비율"
+msgstr "관리자노력추정 신뢰성 비율"
 
 #. tpl/productivity_report.html
 msgid "EffortEstim Reliability Rate"
-msgstr "EffortEstim 신뢰성 비율"
+msgstr "노력추정 신뢰성 비율"
 
 #. tpl/productivity_report.html
 msgid "Workload Forecasting (holidays & externalTasks not included, developers only)"
-msgstr ""
+msgstr "작업량 예측(공휴일 및 외부작업 제외, 개발자 전용)"
 
 #. tpl/productivity_report.html
 msgid "Development workload (developers only)"
@@ -1586,7 +1586,7 @@ msgstr "개발 작업량 (개발자만)"
 
 #. tpl/productivity_report.html
 msgid "ProjProdDays"
-msgstr ""
+msgstr "프로젝트생산일"
 
 #. tpl/productivity_report.html
 msgid "TotalProdDays"
@@ -1598,15 +1598,15 @@ msgstr "플랫폼 가용성"
 
 #. tpl/productivity_report.html
 msgid "breakdownDays"
-msgstr ""
+msgstr "고장일수"
 
 #. tpl/productivity_report.html
 msgid "prodDays"
-msgstr ""
+msgstr "생산일"
 
 #. tpl/productivity_report.html
 msgid "Tasks having no deadLine are not reported here"
-msgstr ""
+msgstr "마감일이 없는 작업은 여기에 보고되지 않습니다"
 
 #. tpl/productivity_report.html
 msgid "Tasks NOT delivered on time"
@@ -1630,11 +1630,11 @@ msgstr "nb 일"
 #. $tooltipAttr[T_('DeliveryDate')] = Tools::formatDate("%d %b %Y", $issue->getDeliveryDate());
 #: reports/issue_info_tools.php:109
 msgid "DeliveryDate"
-msgstr "배송 일자"
+msgstr "배송일자"
 
 #. tpl/productivity_report.html
 msgid "DeadLine"
-msgstr "기한"
+msgstr "마감일"
 
 #. tpl/productivity_report.html
 msgid "Tasks delivered on time"
@@ -1642,11 +1642,11 @@ msgstr "시간 내에 전달된 임무"
 
 #. tpl/productivity_report.html
 msgid "Task list for EffortEstim"
-msgstr ""
+msgstr "노력추정을 위한 작업 목록"
 
 #. tpl/productivity_report.html
 msgid "Note: Drift on tasks resolved in the period"
-msgstr ""
+msgstr "참고: 해당 기간에 해결된 작업의 드리프트"
 
 #. tpl/productivity_report.html
 msgid "Drift - All tasks"
@@ -1655,20 +1655,20 @@ msgstr "드리프트 - 모든 작업"
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
 msgid "Overflow day quantity"
-msgstr ""
+msgstr "초과일 수량"
 
 #. tpl/productivity_report.html
 msgid "Computed on task Resolved/Closed in the given period"
-msgstr ""
+msgstr "지정된 기간에 해결된/닫힌 작업을 기준으로 계산됨"
 
 #. tpl/productivity_report.html
 msgid "Reopened tasks are not taken into account"
-msgstr ""
+msgstr "다시 열린 작업은 고려되지 않습니다"
 
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
 msgid "If < 0 then ahead on planning."
-msgstr ""
+msgstr "< 0이면 계획보다 앞서 있습니다."
 
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
@@ -1679,7 +1679,7 @@ msgstr "드리프트 내 작업"
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
 msgid "Tasks for which the elapsed time is greater than the estimated effort"
-msgstr ""
+msgstr "추정된 노력보다 걸린 시간이 더 큰 작업"
 
 #. tpl/productivity_report.html
 msgid "drift"
@@ -1703,7 +1703,7 @@ msgstr "앞으로의 작업"
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
 msgid "Tasks resolved in less time than the estimated effort"
-msgstr ""
+msgstr "예상 노력보다 짧은 시간에 해결된 작업"
 
 #. tpl/productivity_report.html
 msgid "Effort deviation"
@@ -1727,7 +1727,7 @@ msgstr "작업 관리자"
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
 msgid "EffortDeviation"
-msgstr "EffortDeviation"
+msgstr "노력편차"
 
 #. tpl/productivity_report.html
 msgid "No resolved tasks..."
@@ -1737,29 +1737,29 @@ msgstr "해결된 작업 없음..."
 #. tpl/forecasting_report.html
 #. plugins/DriftAlertIndicator/DriftAlertIndicator.html
 msgid "Drift relatively to the managers Estimation"
-msgstr ""
+msgstr "드리프트 (관리자 참조에 상대적으로)"
 
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
 #. plugins/DriftAlertIndicator/DriftAlertIndicator.html
 msgid "Drift relatively to (EE + AddEE)"
-msgstr ""
+msgstr "드리프트 ((노력추정 + 추가노력추정)에 상대적으로)"
 
 #. tpl/productivity_report.html
 msgid "Drift - Tasks (ExtRefOnly)"
-msgstr "드리프트 - 작업 (ExtRefOnly)"
+msgstr "드리프트 - 작업 (외부참조Only)"
 
 #. tpl/productivity_report.html
 msgid "Drift (ExtRefOnly)"
-msgstr "드리프트 (ExtRefOnly)"
+msgstr "드리프트 (외부참조Only)"
 
 #. tpl/productivity_report.html
 msgid "Drift ExtRefOnly"
-msgstr ""
+msgstr "드리프트 외부참조Only"
 
 #. tpl/productivity_report.html
 msgid "Tasks without ExternalRef are excluded"
-msgstr "ExternalRef이 없는 작업은 제외됩니다"
+msgstr "외부참조가 없는 작업은 제외됩니다"
 
 #. tpl/productivity_report.html
 msgid "Reopened tasks are not included"
@@ -1787,7 +1787,7 @@ msgstr "평가"
 
 #. tpl/productivity_report.html
 msgid "tasks having been reopened in the period"
-msgstr ""
+msgstr "작업들이 기간동안 다시 열렸습니다"
 
 #. tpl/filters.html
 msgid "Set project filters"
@@ -1795,7 +1795,7 @@ msgstr "프로젝트 필터 설정"
 
 #. tpl/export_odt.html
 msgid "The following fields need to be set"
-msgstr ""
+msgstr "다음 필드는 설정되어야 합니다"
 
 #. tpl/export_odt.html
 msgid "Reporters"
@@ -1816,7 +1816,7 @@ msgstr "분류"
 
 #. tpl/export_odt.html
 msgid "errorThrown"
-msgstr ""
+msgstr "errorThrown"
 
 #. tpl/export_odt.html
 #. tpl/holidays_report.html
@@ -1902,7 +1902,7 @@ msgstr "사용자 당 프로젝트에 소요한 시간"
 
 #. tpl/project_activity_report.html
 msgid "With ExternalTasks Project"
-msgstr "ExternalTasks 프로젝트 포함"
+msgstr "외부작업 프로젝트 포함"
 
 #. tpl/project_activity_report.html
 msgid "With SideTasks Project"
@@ -2072,15 +2072,15 @@ msgstr "일"
 
 #. tpl/uninstall.html
 msgid "Do you want to remove CodevTT from your Mantis server ?"
-msgstr ""
+msgstr "맨티스 서버에서 CodevTT를 제거합니까 ?"
 
 #. tpl/uninstall.html
 msgid "This step will clean Mantis DB."
-msgstr "이 단계는 Mantis DB를 지웁니다."
+msgstr "이 단계는 맨티스 DB를 지웁니다."
 
 #. tpl/uninstall.html
 msgid "It is HIGHLY recommended to backup your Mantis DB before you proceed !"
-msgstr "계속하기 전에 Mantis DB를 백업할 것을 강력히 권고합니다 !"
+msgstr "계속하기 전에 맨티스 DB를 백업할 것을 강력히 권고합니다 !"
 
 #. tpl/uninstall.html
 msgid "Backup data"
@@ -2088,7 +2088,7 @@ msgstr "데이터 백업"
 
 #. tpl/uninstall.html
 msgid "Backup file will be saved in CodevTT reports directory"
-msgstr ""
+msgstr "CodevTT 보고서 디렉토리에 백업 파일이 저장됩니다"
 
 #. tpl/uninstall.html
 msgid "Filename"
@@ -2101,7 +2101,7 @@ msgstr "제거"
 
 #. tpl/uninstall.html
 msgid "Dumping MantisDB to"
-msgstr ""
+msgstr "MantisDB를 덤핑할 디렉토리"
 
 #. tpl/uninstall.html
 msgid "Backup successfully done"
@@ -2113,7 +2113,7 @@ msgstr "제거가 중단되었습니다 !"
 
 #. tpl/uninstall.html
 msgid "Remove CodevTT from Mantis menu:"
-msgstr "Mantis 메뉴에서 CodevTT를 제거:"
+msgstr "맨티스 메뉴에서 CodevTT를 제거:"
 
 #. tpl/uninstall.html
 #. tpl/edit_team.html
@@ -2129,7 +2129,7 @@ msgstr "실패했습니다"
 
 #. tpl/uninstall.html
 msgid "Remove CodevTT customFields:"
-msgstr "CodevTT 사용자 지정 필드를 제거:"
+msgstr "CodevTT 사용자지정필드를 제거:"
 
 #. tpl/uninstall.html
 #. tpl/prepare_project.html
@@ -2146,11 +2146,11 @@ msgstr "CodevTT 구성 파일 제거:"
 
 #. tpl/uninstall.html
 msgid "Remove Mantis plugin:"
-msgstr "Mantis 플러그인 제거:"
+msgstr "맨티스 플러그인 제거:"
 
 #. tpl/uninstall.html
 msgid "Remove ExternalTasks project:"
-msgstr "ExternalTasks 프로젝트를 제거:"
+msgstr "외부작업 프로젝트를 제거:"
 
 #. tpl/uninstall.html
 msgid "Please MANUALY delete the following projects:"
@@ -2170,12 +2170,12 @@ msgstr "새 명령"
 #: scheduler/SchedulerEvent.class.php:143 gantt/gantt_ajax.php:198
 #: gantt/gantt_ajax.php:226 gantt/gantt_ajax.php:235 tools.php:1500
 msgid "Deadline"
-msgstr "기한"
+msgstr "마감일"
 
 #. tpl/command_edit.html
 #. tpl/command_info.html
 msgid "Sold Charge"
-msgstr ""
+msgstr "판매된 금액"
 
 #. tpl/command_edit.html
 #. tpl/planning_report.html
@@ -2216,7 +2216,7 @@ msgstr "WBS"
 #: plugins/ManagementCosts/ManagementCosts.class.php:251
 #: plugins/CostsIndicator/CostsIndicator.class.php:303
 msgid "Provisions"
-msgstr "규정"
+msgstr "충당금"
 
 #. tpl/command_edit.html
 msgid "Parent CommandSets"
@@ -2232,7 +2232,7 @@ msgstr "작업을 추가하기 위해 명령을 만드세요."
 
 #. tpl/command_edit.html
 msgid "delete Command-Task association"
-msgstr ""
+msgstr "게약-작업 연관 삭제"
 
 #. tpl/command_edit.html
 msgid "Remove Task"
@@ -2254,7 +2254,7 @@ msgstr "명령집합을 찾을 수 없습니다."
 #. tpl/command_edit.html
 #. tpl/commandset_edit.html
 msgid "delete CommandSet-Command association"
-msgstr ""
+msgstr "명령집합-명령 연관 삭제"
 
 #. tpl/command_edit.html
 msgid "Remove this Command from the CommandSet ?"
@@ -2274,14 +2274,14 @@ msgstr "틀 가져오기"
 
 #. tpl/command_edit.html
 msgid "Add Provision"
-msgstr "규정 추가"
+msgstr "충당금 추가"
 
 #. tpl/command_edit.html
 #. tpl/servicecontract_info.html
 #. tpl/commandset_info.html
 #. tpl/command_info.html
 msgid "Budget Days"
-msgstr ""
+msgstr "예산 일수"
 
 #. tpl/command_edit.html
 #. tpl/servicecontract_info.html
@@ -2293,7 +2293,7 @@ msgstr "예산"
 
 #. tpl/command_edit.html
 msgid "add to budget check"
-msgstr ""
+msgstr "예산 확인에 추가"
 
 #. tpl/command_edit.html
 #. tpl/servicecontract_info.html
@@ -2313,7 +2313,7 @@ msgstr "평균 일일 효율"
 
 #. tpl/command_edit.html
 msgid "Add to 'check budget'"
-msgstr ""
+msgstr "'확인 예산'에 추가"
 
 #. tpl/command_edit.html
 #. tpl/edit_team.html
@@ -2326,7 +2326,7 @@ msgstr "명령에서 삭제하겠습니까 ?"
 
 #. tpl/command_edit.html
 msgid "Edit Provision"
-msgstr ""
+msgstr "충당금 편집"
 
 #. tpl/command_edit.html
 #. tpl/edit_team.html
@@ -2397,7 +2397,7 @@ msgstr "개발자에게 연락하기: "
 #. tpl/command_info.html
 #. tpl/gantt.html
 msgid "IMPORTANT: unassigned tasks will not be displayed !"
-msgstr ""
+msgstr "중요: 할당되지 않은 작업은 표시되지 않습니다!"
 
 #. tpl/commandset_edit.html
 msgid "New command set"
@@ -2421,7 +2421,7 @@ msgstr "Nb 명령"
 
 #. tpl/commandset_edit.html
 msgid "Service Contracts"
-msgstr ""
+msgstr "서비스 계약"
 
 #. tpl/commandset_edit.html
 #. tpl/servicecontract_info.html
@@ -2491,11 +2491,11 @@ msgstr "참고"
 
 #. tpl/time_tracking.html
 msgid "Reduce the tasks selection by setting some filters"
-msgstr ""
+msgstr "필터를 몇 개 설정해서 작업 선택을 줄이기"
 
 #. tpl/time_tracking.html
 msgid "Hide tasks with forbiden status (closed, ...)"
-msgstr ""
+msgstr "금지된 상태를 가진 작업을 숨기기 (닫힘, ...)"
 
 #. tpl/time_tracking.html
 msgid "Week timetracks"
@@ -2595,15 +2595,15 @@ msgstr "저장"
 
 #. tpl/tools/wbsEditor.html
 msgid "WBS Root element cannot be renamed."
-msgstr ""
+msgstr "WBS 루트 요소의 이름은 바꿀 수 없습니다."
 
 #. tpl/tools/wbsEditor.html
 msgid "Root element cannot be deleted."
-msgstr ""
+msgstr "루트 요소는 삭제될 수 없습니다."
 
 #. tpl/tools/wbsEditor.html
 msgid "Delete Failed: Folder must be empty."
-msgstr ""
+msgstr "삭제 실패: 폴더는 비어 있어야 합니다."
 
 #. tpl/tools/wbsEditor.html
 msgid "New Folder"
@@ -2649,7 +2649,7 @@ msgstr "기존 프로젝트 구성"
 
 #. tpl/prepare_project.html
 msgid "Select the projects to be managed with CoDevTT"
-msgstr ""
+msgstr "CoDevTT로 관리될 프로젝트를 선택"
 
 #. tpl/prepare_project.html
 msgid "Prepare"
@@ -2658,15 +2658,15 @@ msgstr "준비"
 #. tpl/servicecontract_info.html
 #. tpl/menu/global_menu.html
 msgid "ServiceContract"
-msgstr ""
+msgstr "서비스계약"
 
 #. tpl/servicecontract_info.html
 msgid "--- Create New ServiceContract ---"
-msgstr "--- 새 ServiceContract 만들기 ---"
+msgstr "--- 새 서비스계약 만들기 ---"
 
 #. tpl/servicecontract_info.html
 msgid "Charges"
-msgstr "수수료"
+msgstr "금액"
 
 #. tpl/servicecontract_info.html
 #. tpl/create_team.html
@@ -2698,7 +2698,7 @@ msgstr "총계를 찾을 수 없습니다."
 
 #. tpl/servicecontract_info.html
 msgid "Note: SideTasks already defined in Commands are not displayed."
-msgstr ""
+msgstr "참고: 명령에 이미 정의된 사이드작업은 표시되지 않습니다."
 
 #. tpl/servicecontract_info.html
 #. tpl/commandset_info.html
@@ -2713,7 +2713,7 @@ msgstr "ADR"
 
 #. tpl/servicecontract_info.html
 msgid "No provision found."
-msgstr "규정을 찾을 수 없습니다."
+msgstr "충당금을 찾을 수 없습니다."
 
 #. tpl/modal/change_managedUser.html
 msgid "Select User"
@@ -2729,7 +2729,7 @@ msgstr "사용자 바꾸기"
 
 #. tpl/modal/edit_issueNote.html
 msgid "If unchecked, a 'standard' Mantis note will be created"
-msgstr ""
+msgstr "선택하지 않으면 '표준' 맨티스 노트가 생성됩니다"
 
 #. tpl/modal/edit_issueNote.html
 msgid "Add as Timesheet note"
@@ -2749,7 +2749,7 @@ msgstr "현재 백로그"
 
 #. tpl/modal/update_issueBacklog.html
 msgid "Fixed in version"
-msgstr ""
+msgstr "해결버전"
 
 #. tpl/modal/update_issueBacklog.html
 msgid "Update Backlog"
@@ -2761,7 +2761,7 @@ msgstr "작업이 해결되었으며, 백로그는 '0'이어야 합니다"
 
 #. tpl/modal/update_issueBacklog.html
 msgid "Timetracking disabled if current status in : "
-msgstr ""
+msgstr "현재 상태가 다음에 해당하면 시간 추적 비활성화: "
 
 #. tpl/modal/update_issueBacklog.html
 msgid "Timetrack note is required"
@@ -2782,11 +2782,11 @@ msgstr "모두 선택"
 
 #. tpl/modal/login.html
 msgid "Length of"
-msgstr ""
+msgstr "다음의 길이"
 
 #. tpl/modal/login.html
 msgid "must be between"
-msgstr ""
+msgstr "은(는) 다음 둘의 사이에 있어야 합니다:"
 
 #. tpl/modal/login.html
 msgid "and"
@@ -2824,15 +2824,15 @@ msgstr "리다이렉션"
 
 #. tpl/modal/fairplay.html
 msgid "Fair play !"
-msgstr ""
+msgstr "페어플레이!"
 
 #. tpl/modal/fairplay.html
 msgid "You are using CodevTT since"
-msgstr ""
+msgstr "CodevTT를 사용한 기간:"
 
 #. tpl/modal/fairplay.html
 msgid "If you like this software, please consider making a donation."
-msgstr ""
+msgstr "이 소프트웨어가 마음에 든다면 기부를 고려해 주세요."
 
 #. tpl/team_activity_report.html
 #. tpl/menu/global_menu.html
@@ -2845,7 +2845,7 @@ msgstr "근무 시간 기록표"
 
 #. tpl/team_activity_report.html
 msgid "sum(Backlog) of assigned tasks"
-msgstr ""
+msgstr "할당된 작업의 총합(백로그)"
 
 #. tpl/team_activity_report.html
 msgid "Workload"
@@ -2977,7 +2977,7 @@ msgstr "활성화됨"
 
 #. tpl/edit_team.html
 msgid "Note: A <em>Team Admin</em> must also be declared as <em>TeamMember</em> to be included in the team's productivity report."
-msgstr ""
+msgstr "참고: <em>팀 관리자</em>도 팀 생산성 보고서에 포함되려면 <em>팀원</em>으로 선언되어야 합니다."
 
 #. tpl/edit_team.html
 msgid "Team Administrators"
@@ -3062,7 +3062,7 @@ msgstr "정보"
 
 #. tpl/edit_team.html
 msgid "Group examples: FrontEnd, BackEnd, Architect, Designers, Qualifiers"
-msgstr ""
+msgstr "그룹 예: FrontEnd, BackEnd, Architect, Designers, Qualifiers"
 
 #. tpl/edit_team.html
 msgid "CSV File Format"
@@ -3173,7 +3173,7 @@ msgstr "평균 일일 비용"
 
 #. tpl/edit_team.html
 msgid "The ADC is the default UDC for team members"
-msgstr ""
+msgstr "ADC는 팀 구성원의 기본 UDC입니다"
 
 #. tpl/edit_team.html
 msgid "Team Currency"
@@ -3189,7 +3189,7 @@ msgstr "팀의 기본 통화입니다."
 
 #. tpl/edit_team.html
 msgid "All indicators will use this currency and all values defined in other currencies will be converted."
-msgstr ""
+msgstr "모든 지표는 이 통화를 사용하며, 다른 통화로 정의된 모든 값은 변환됩니다."
 
 #. tpl/edit_team.html
 msgid "Currency"
@@ -3197,15 +3197,15 @@ msgstr "통화"
 
 #. tpl/edit_team.html
 msgid "Coef"
-msgstr ""
+msgstr "계수"
 
 #. tpl/edit_team.html
 msgid "referal currency"
-msgstr ""
+msgstr "리퍼럴 환율"
 
 #. tpl/edit_team.html
 msgid "TODO: describe how and where it is used in CodevTT"
-msgstr ""
+msgstr "TODO: CodevTT에서 사용되는 방식과 위치 설명"
 
 #. tpl/edit_team.html
 msgid "User Daily Costs"
@@ -3213,7 +3213,7 @@ msgstr "사용자 일일 비용"
 
 #. tpl/edit_team.html
 msgid "The UDC is the cost of a user for a single day, it overrides the ADC"
-msgstr ""
+msgstr "UDC는 하루 동안의 사용자 비용이며 ADC를 재정의합니다"
 
 #. tpl/edit_team.html
 msgid "Add UserDailyCost"
@@ -3266,7 +3266,7 @@ msgstr "프로젝트에 지정된 사용자 지정 이슈툴팁이 없습니다.
 #. tpl/edit_team.html
 #. tpl/menu/global_menu.html
 msgid "Consistency Check"
-msgstr "일관성 검사"
+msgstr "일관성 확인"
 
 #. tpl/edit_team.html
 msgid "Enable/Disable alerts"
@@ -3274,11 +3274,11 @@ msgstr "경보 활성화/비활성화"
 
 #. tpl/edit_team.html
 msgid "Add OnDuty tasks"
-msgstr ""
+msgstr "OnDuty 작업 추가"
 
 #. tpl/edit_team.html
 msgid "Note: OnDuty tasks are team specific 'Leave' tasks, with a slightly different behaviour."
-msgstr ""
+msgstr "참고: OnDuty 작업은 팀별 '휴가' 작업이며 동작이 약간 다릅니다."
 
 #. tpl/edit_team.html
 msgid "Inactivity tasks"
@@ -3298,7 +3298,7 @@ msgstr "시간 추적 기간 목록"
 
 #. tpl/edit_team.html
 msgid "These are the values proposed in the Timetracking page, when adding a timetrack."
-msgstr ""
+msgstr "시간 추적을 추가할 때 Timetracking 페이지에서 제안되는 값입니다."
 
 #. tpl/edit_team.html
 #. tpl/menu/global_menu.html
@@ -3337,7 +3337,7 @@ msgstr "기간 삭제"
 
 #. tpl/edit_team.html
 msgid "Deleted the following duration ?"
-msgstr ""
+msgstr "다음 기간을 삭제합니까 ?"
 
 #. tpl/edit_team.html
 msgid "Team Member"
@@ -3361,11 +3361,11 @@ msgstr "이 프로젝트를 팀에서 제거하시겠습니까 ?"
 
 #. tpl/edit_team.html
 msgid "Remove IssueTooltip customisation for project"
-msgstr "프로젝트의 이슈 툴팁 사용자 지정 기능 제거"
+msgstr "프로젝트의 이슈툴팁 사용자 지정 기능 제거"
 
 #. tpl/edit_team.html
 msgid "This task will no longer be identified as an 'OnDuty' task."
-msgstr ""
+msgstr "이 작업은 더 이상 'OnDuty' 작업으로 식별되지 않습니다."
 
 #. tpl/edit_team.html
 msgid "Job list for project :"
@@ -3393,7 +3393,7 @@ msgstr "--- 새 명령집합 만들기 ---"
 
 #. tpl/commandset_info.html
 msgid "Service Contract"
-msgstr ""
+msgstr "서비스 계약"
 
 #. tpl/commandset_info.html
 #. tpl/command_info.html
@@ -3403,20 +3403,20 @@ msgstr "없음"
 #. tpl/commandset_info.html
 #. tpl/command_info.html
 msgid "Provision included in 'check budget'"
-msgstr ""
+msgstr "'확인 예산'에 포함된 충당금"
 
 #. tpl/commandset_info.html
 #. tpl/command_info.html
 msgid "Provision NOT included in 'check budget'"
-msgstr ""
+msgstr "'확인 예산'에 포함되지 않은 충당금"
 
 #. tpl/mantis_reports.html
 msgid "Bilan mensuel SAUF SuiviOp."
-msgstr ""
+msgstr "월간 보고서(SuiviOp 제외)."
 
 #. tpl/mantis_reports.html
 msgid "Bilan mensuel (nbre de fiches / status &agrave; la fin du mois)"
-msgstr ""
+msgstr "월간 보고서(월말 기준 티켓 수 / 상태)"
 
 #. tpl/workflow.html
 msgid "Are you sure you want to change"
@@ -3432,7 +3432,7 @@ msgstr "복제"
 
 #. tpl/workflow.html
 msgid "into"
-msgstr ""
+msgstr "다음으로"
 
 #. tpl/workflow.html
 msgid "Clone project settings"
@@ -3448,7 +3448,7 @@ msgstr "다음으로 복제"
 
 #. tpl/workflow.html
 msgid "Workflow transitions"
-msgstr ""
+msgstr "워크플로 전환"
 
 #. tpl/workflow.html
 msgid "Settings"
@@ -3456,7 +3456,7 @@ msgstr "설정"
 
 #. tpl/workflow.html
 msgid "No workflow transitions defined, using default configuration."
-msgstr ""
+msgstr "정의된 워크플로 전환이 없어 기본 구성을 사용합니다."
 
 #. tpl/workflow.html
 msgid "Configuration Option"
@@ -3464,15 +3464,15 @@ msgstr "구성 옵션"
 
 #. tpl/workflow.html
 msgid "No configuration options defined, using default configuration."
-msgstr ""
+msgstr "정의된 구성 옵션이 없어 기본 구성을 사용합니다."
 
 #. tpl/forecasting_report.html
 msgid "Computed on task NOT Resolved/Closed on "
-msgstr ""
+msgstr "다음 동안 해결된/닫힌 이 아닌 작업을 기준으로 계산됨 "
 
 #. tpl/forecasting_report.html
 msgid "Unassigned tasks will not be displayed"
-msgstr ""
+msgstr "할당되지 않은 작업은 표시되지 않습니다"
 
 #. tpl/forecasting_report.html
 msgid "deviation"
@@ -3516,7 +3516,7 @@ msgstr "특정 사이드작업 프로젝트 만들기"
 
 #. tpl/create_team.html
 msgid "WARNING: Disabling SideTasks project creation is generaly NOT a good idea,so don't do it unless you know exactly what you are doing."
-msgstr ""
+msgstr "경고: 사이드작업 프로젝트 생성을 비활성화하는 것은 일반적으로 좋은 생각이 아닙니다. 무엇을 하는지 정확히 알고 있지 않다면 하지 마세요."
 
 #. tpl/create_team.html
 msgid "Project Name"
@@ -3524,20 +3524,20 @@ msgstr "프로젝트 이름"
 
 #. tpl/create_team.html
 msgid "Meeting, Pre-sales, ProjectManagement, ..."
-msgstr ""
+msgstr "회의, 프리세일즈, 프로젝트관리, ..."
 
 #. tpl/create_team.html
 #: admin/edit_team.php:160
 msgid "Incident"
-msgstr ""
+msgstr "인시던트"
 
 #. tpl/create_team.html
 msgid "Server or Platform down, ..."
-msgstr ""
+msgstr "서버 또는 플랫폼 다운, ..."
 
 #. tpl/create_team.html
 msgid "Sys. Admin, Scritps, ..."
-msgstr ""
+msgstr "시스템 관리자, 스크립트, ..."
 
 #. tpl/create_team.html
 #: admin/edit_team.php:162
@@ -3546,7 +3546,7 @@ msgstr "팀 워크숍"
 
 #. tpl/create_team.html
 msgid "Support, Doc, Training, Wiki, ..."
-msgstr ""
+msgstr "지원, 문서, 교육, 위키, ..."
 
 #. tpl/create_team.html
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
@@ -3558,7 +3558,7 @@ msgstr "비활동"
 
 #. tpl/create_team.html
 msgid "On Duty, Waste, other special cases"
-msgstr ""
+msgstr "당직, 낭비, 기타 특수 사례"
 
 #. tpl/create_team.html
 msgid "Custom Fields"
@@ -3570,11 +3570,11 @@ msgstr "CodevTT 사용자 지정 필드"
 
 #. tpl/create_team.html
 msgid "MgrEffortEstim, EffortEstim, AddEffort, Backlog, DeadLine, DeliveryDate"
-msgstr ""
+msgstr "관리자노력추정, 노력추정, 추가노력, 백로그, 마감일, 배송일자"
 
 #. tpl/create_team.html
 msgid "These are sample sideTasks, you can create more with Mantis"
-msgstr ""
+msgstr "이것들은 샘플 사이드작업이며, 맨티스로 더 만들 수 있습니다"
 
 #. tpl/create_team.html
 msgid "Project management"
@@ -3598,7 +3598,7 @@ msgstr "팀 위키 업데이트"
 
 #. tpl/create_team.html
 msgid "Other activity charged on the project"
-msgstr ""
+msgstr "프로젝트에 청구된 기타 활동"
 
 #. tpl/create_team.html
 #. ------ Display Empty Command Form
@@ -3644,20 +3644,20 @@ msgstr "자동"
 
 #. tpl/scheduler.html
 msgid "Total assigned effort"
-msgstr ""
+msgstr "총 할당된 노력"
 
 #. tpl/scheduler.html
 msgid "Save user assignment for this task"
-msgstr ""
+msgstr "이 작업에 대한 사용자 할당 저장"
 
 #. tpl/scheduler.html
 msgid "Scheduling method"
-msgstr ""
+msgstr "일정 계획 방식"
 
 #. tpl/scheduler.html
 #. plugins/BacklogPerUserIndicator/BacklogPerUserIndicator_cfg.html
 msgid "Display ExtRef instead of mantis_id"
-msgstr ""
+msgstr "mantis_id 대신 외부참조 표시"
 
 #. tpl/scheduler.html
 msgid "Initial date"
@@ -3665,15 +3665,15 @@ msgstr "시작 날짜"
 
 #. tpl/scheduler.html
 msgid "Number of days to display"
-msgstr ""
+msgstr "표시할 일 수"
 
 #. tpl/scheduler.html
 msgid "Number of days to compute"
-msgstr ""
+msgstr "계산할 일 수"
 
 #. tpl/scheduler.html
 msgid "Task warning threshold (n days before dealine)"
-msgstr ""
+msgstr "작업 경고 임계값(마감일 n일 전)"
 
 #. tpl/scheduler.html
 msgid "Save options"
@@ -3681,7 +3681,7 @@ msgstr "저장 옵션"
 
 #. tpl/issue_info.html
 msgid "Hide tasks from observed teams"
-msgstr ""
+msgstr "관찰 중인 팀의 작업 숨기기"
 
 #. tpl/issue_info.html
 #: scheduler/SchedulerEvent.class.php:116 gantt/gantt_ajax.php:224
@@ -3740,7 +3740,7 @@ msgstr "우선 순위"
 #: scheduler/SchedulerEvent.class.php:138 gantt/gantt_ajax.php:223
 #: tools.php:1569
 msgid "Severity"
-msgstr ""
+msgstr "심각도"
 
 #. tpl/issue_info.html
 msgid "Relation"
@@ -3748,11 +3748,11 @@ msgstr "관계"
 
 #. tpl/issue_info.html
 msgid "Mantis notes"
-msgstr "Mantis 노트"
+msgstr "맨티스 노트"
 
 #. tpl/issue_info.html
 msgid "Get mantis notes"
-msgstr "Mantis 노트 얻기"
+msgstr "맨티스 노트 얻기"
 
 #. tpl/issue_info.html
 msgid "Click refresh button to display..."
@@ -3768,7 +3768,7 @@ msgstr "최신 시간트랙 날짜"
 
 #. tpl/issue_info.html
 msgid "WARNING: Prior timetracks could not be displayed !"
-msgstr ""
+msgstr "경고: 이전 시간 추적을 표시할 수 없습니다 !"
 
 #. tpl/issue_info.html
 msgid "Update timetracking values"
@@ -3784,7 +3784,7 @@ msgstr "명령에 추가"
 
 #. tpl/issue_info.html
 msgid "set/remove task specific deadline"
-msgstr ""
+msgstr "작업에 특정 마감일을 설정/제거"
 
 #. tpl/issue_info.html
 msgid "Delivery date"
@@ -3816,23 +3816,23 @@ msgstr "명령 필터"
 
 #. tpl/command_info.html
 msgid "Reduce the command selection by setting some filters"
-msgstr ""
+msgstr "필터를 몇 개 설정해서 명령 선택을 줄이기"
 
 #. tpl/command_info.html
 msgid "MgrEffortEstim + Checked Provisions (days)"
-msgstr ""
+msgstr "관리자노력추정 + 확인된 충당금 (일)"
 
 #. tpl/command_info.html
 msgid "Reestimated (days)"
-msgstr ""
+msgstr "재추정됨 (일)"
 
 #. tpl/command_info.html
 msgid "Drift (days)"
-msgstr ""
+msgstr "드리프트 (일)"
 
 #. tpl/command_info.html
 msgid "Drift (percent)"
-msgstr ""
+msgstr "드리프트 (퍼센트)"
 
 #. tpl/command_info.html
 #. plugins/ManagementCosts/ManagementCosts_ajax3.html
@@ -3843,17 +3843,17 @@ msgstr "일"
 
 #. tpl/command_info.html
 msgid "The total charge (MgrEffortEstim + Provisions) should be equal to the 'Sold Charge'"
-msgstr ""
+msgstr "총 금액 (관리자노력추정 + 충당금)은 '판매된 금액'과 같아야 합니다"
 
 #. tpl/command_info.html
 msgid "balance"
-msgstr ""
+msgstr "잔고"
 
 #. tpl/command_info.html
 #. tpl/gantt.html
 #. tpl/menu/global_menu.html
 msgid "Gantt"
-msgstr ""
+msgstr "간트"
 
 #. tpl/command_info.html
 msgid "Default ADR"
@@ -3861,7 +3861,7 @@ msgstr "기본 ADR"
 
 #. tpl/command_info.html
 msgid "Tasks & Provisions"
-msgstr ""
+msgstr "작업 & 충당금"
 
 #. tpl/command_info.html
 #. tpl/gantt.html
@@ -3883,7 +3883,7 @@ msgstr "경고"
 
 #. tpl/command_info.html
 msgid "Reload page to update charges & indicators"
-msgstr ""
+msgstr "청구 및 지표를 업데이트하려면 페이지를 다시 불러오세요"
 
 #. tpl/command_info.html
 msgid "Format"
@@ -3903,7 +3903,7 @@ msgstr "홈"
 
 #. tpl/menu/global_menu.html
 msgid "TimeTracking & team activity"
-msgstr ""
+msgstr "시간추적 & 팀 활동"
 
 #. tpl/menu/global_menu.html
 msgid "Activity"
@@ -3911,7 +3911,7 @@ msgstr "활동"
 
 #. tpl/menu/global_menu.html
 msgid "Time Tracking (lite)"
-msgstr ""
+msgstr "시간 추적 (라이트)"
 
 #. tpl/menu/global_menu.html
 msgid "Time Tracking"
@@ -3927,19 +3927,19 @@ msgstr "떠나기"
 
 #. tpl/menu/global_menu.html
 msgid "Check DeadLines"
-msgstr "마감일 검사"
+msgstr "마감일 확인"
 
 #. tpl/menu/global_menu.html
 msgid "Workload planning"
-msgstr ""
+msgstr "작업량 계획"
 
 #. tpl/menu/global_menu.html
 msgid "Timeline scheduler"
-msgstr ""
+msgstr "타임라인 스케줄러"
 
 #. tpl/menu/global_menu.html
 msgid "Gantt Chart"
-msgstr ""
+msgstr "간트 차트"
 
 #. tpl/menu/global_menu.html
 msgid "Task Information"
@@ -3971,11 +3971,11 @@ msgstr "계약"
 
 #. tpl/menu/global_menu.html
 msgid "Mantis Reports"
-msgstr "Mantis 보고서"
+msgstr "맨티스 보고서"
 
 #. tpl/menu/global_menu.html
 msgid "Check"
-msgstr "검사"
+msgstr "확인"
 
 #. tpl/menu/global_menu.html
 msgid "Import / Export"
@@ -4051,11 +4051,11 @@ msgstr "기록 목록"
 
 #. tpl/plugin_manager.html
 msgid "Check for new plugins in 'plugins' directory."
-msgstr ""
+msgstr "'plugins' 디렉터리에서 새 플러그인을 확인하세요."
 
 #. tpl/plugin_manager.html
 msgid "Discover new plugins"
-msgstr ""
+msgstr "새 플러그인 발견하기"
 
 #. tpl/plugin_manager.html
 #. plugins/ResetDashboard/ResetDashboard_ajax.html
@@ -4080,7 +4080,7 @@ msgstr "연결 끊기"
 
 #. tpl/template.html
 msgid "Note: For a better user experience, use a standards compliant browser such as :"
-msgstr ""
+msgstr "참고: 더 나은 사용자 경험을 위해 다음과 같은 표준 준수 브라우저를 사용하세요:"
 
 #. tpl/template.html
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
@@ -4172,7 +4172,7 @@ msgstr "사용자"
 
 #. plugins/AdminTools/AdminTools_ajax.html
 msgid "Change Mantis issue id"
-msgstr ""
+msgstr "맨티스 이슈 ID 변경"
 
 #. plugins/IssueBacklogVariationIndicator/IssueBacklogVariationIndicator.html
 #. plugins/IssueBacklogVariationIndicator/IssueBacklogVariationIndicator_cfg.html
@@ -4222,7 +4222,7 @@ msgstr "이번 달"
 #. plugins/LoadPerJobIndicator2/LoadPerJobIndicator2.html
 #: plugins/LoadPerJobIndicator2/LoadPerJobIndicator2.class.php:79
 msgid "Check all the timetracks of the period and return their repartition per Job"
-msgstr ""
+msgstr "해당 기간의 모든 시간 추적을 확인하고 작업별 분포를 반환합니다"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator_cfg.html
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator_cfg.html
@@ -4293,15 +4293,15 @@ msgstr "가용성"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 msgid "Productivity Coefficient"
-msgstr ""
+msgstr "생산성 계수"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 msgid "Prod. Coef"
-msgstr ""
+msgstr "생산성 계수"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 msgid "SUM(userWorkforce * availability * prodCoef)"
-msgstr ""
+msgstr "총합(사용자노동력 * 가용성 * 생산계수)"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 msgid "Available workforce"
@@ -4329,7 +4329,7 @@ msgstr "종료 날짜"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "Number of days to add on the period"
-msgstr ""
+msgstr "기간에 추가할 일수"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "Nb days"
@@ -4346,11 +4346,11 @@ msgstr "시간 추적으로 기간 채우기"
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.class.php:77
 msgid "Add multiple timetracks at once"
-msgstr ""
+msgstr "여러 시간 추적을 한번에 추가"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "It is not in the philosophy of CodevTT to allow users to enter several timetracks at the same time. However it is sometimes necessary to enter missing timetracks over large periods (eg. Catch up when CodevTT is installed late on a project).\nThis right is only given to team administrators."
-msgstr ""
+msgstr "사용자가 동시에 여러 시간 추적을 입력하도록 허용하는 것은 CodevTT의 철학에 맞지 않습니다. 하지만 큰 기간에 누락된 시간 추적을 입력해야 할 때가 있습니다(예: 프로젝트 중간에 CodevTT를 늦게 설치한 경우 따라잡기)."
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "Error !"
@@ -4358,7 +4358,7 @@ msgstr "오류 !"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "days available on period"
-msgstr ""
+msgstr "기간동안 가능한 일 수"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks_cfg.html
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.class.php:74
@@ -4372,12 +4372,12 @@ msgstr "관리 로드 역사"
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
 msgid "Progress History Indicator"
-msgstr ""
+msgstr "진행도 역사 지표"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
 msgid "Evolution of the real progress vs the theoretical progress."
-msgstr ""
+msgstr "실제 진행률과 이론적 진행률의 변화."
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
@@ -4387,12 +4387,12 @@ msgstr "이론적 진행도"
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
 msgid "Compares the EffortEstim to the Elapsed days"
-msgstr ""
+msgstr "노력추정을 걸린 일수와 비교"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
 msgid "Elapsed / max(MgrEffortEstim, EffortEstim)"
-msgstr ""
+msgstr "경과된 시간 / 최대(관리자노력추정, 노력추정)"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
@@ -4407,12 +4407,12 @@ msgstr "백로그를 표시합니다"
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
 msgid "Elapsed / (Elapsed +  Backlog)"
-msgstr ""
+msgstr "경과된 시간 / (경과된 시간 + 백로그)"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
 msgid "Historical Progression Chart"
-msgstr ""
+msgstr "역사 진행 차트"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 msgid "Mngt Elapsed"
@@ -4420,7 +4420,7 @@ msgstr "Mngt 경과됨"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 msgid "Mngt Provisions"
-msgstr "Mngt 규정"
+msgstr "Mngt 충당금"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Sorry, you need to be manager to use this plugin"
@@ -4440,24 +4440,24 @@ msgstr "루트 작업 목록"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "comma separated list of mantis tasks"
-msgstr ""
+msgstr "쉼표로 구분된 맨티스 작업 목록"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Also include parent-tasks in the tree (unchecked: include as folder only)"
-msgstr ""
+msgstr "트리에 상위 작업도 포함(선택 해제: 폴더로만 포함)"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Include parent-tasks in its own folder (unchecked: include above)"
-msgstr ""
+msgstr "상위 작업을 자체 폴더에 포함(선택 해제: 위를 포함)"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Clear the WBS before import (remove all existing issues from the command)"
-msgstr ""
+msgstr "가져오기 전에 WBS 지우기(명령에서 기존 이슈 모두 제거)"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand_cfg.html
 msgid "Import Relationship tree to command"
-msgstr ""
+msgstr "관계 트리를 명령으로 가져오기"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "ERROR, Please check"
@@ -4563,7 +4563,7 @@ msgstr "관리 비용"
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2_cfg.html
 #: plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.class.php:61
 msgid "Reopened rate history"
-msgstr ""
+msgstr "비율 역사 다시 열림"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2_cfg.html
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
@@ -4591,23 +4591,23 @@ msgstr "월"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "BugValidation History Indicator"
-msgstr ""
+msgstr "버그검증 이력 지표"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "Resolved bugs must be validated. This shows how many bugs have been Rejected or Accepted during the validation stage. Bugs in 'resolved' status (not yet validated) are excluded."
-msgstr ""
+msgstr "해결된 버그는 검증되어야 합니다. 이는 검증 단계에서 거부 또는 승인된 버그 수를 보여 줍니다. '해결됨' 상태의 버그(아직 검증되지 않음)는 제외됩니다."
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "% Validated"
-msgstr ""
+msgstr "% 검증됨"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "Displays the percent of bugs having successfully pass the validation tests"
-msgstr ""
+msgstr "검증 테스트를 성공적으로 통과한 버그의 비율을 표시"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "status changed from 'resolved' to any higher status (and still in this state at the end of the period)."
-msgstr ""
+msgstr "상태가 '해결됨'에서 더 높은 상태로 변경됨(기간 종료 시에도 이 상태 유지)."
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "% Rejected"
@@ -4615,19 +4615,19 @@ msgstr "% 거부됨"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "Displays the percent of bugs having failed the validation tests"
-msgstr ""
+msgstr "검증 테스트에 실패한 버그의 비율을 표시"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "status changed from 'resolved (or higher) to any lower status (and still unresolved at the end of the period)"
-msgstr ""
+msgstr "상태가 '해결됨(또는 그 이상)'에서 더 낮은 상태로 변경됨(기간 종료 시에도 미해결 상태 유지)"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "Bug Refusal Rate"
-msgstr ""
+msgstr "버그 거부율"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "Nb of issues having fail validation tests"
-msgstr ""
+msgstr "검증 테스트에 실패한 이슈 수"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "Nb Fail"
@@ -4635,11 +4635,11 @@ msgstr "Nb 실패"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "Nb of issues having pass validation tests"
-msgstr ""
+msgstr "검증 테스트에 통과한 이슈 수"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "Nb Pass"
-msgstr ""
+msgstr "Nb 통과"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv_cfg.html
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
@@ -4664,7 +4664,7 @@ msgstr "파일 형식"
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 #. plugins/ImportUsers/ImportUsers.html
 msgid "Standard CSV format with :"
-msgstr ""
+msgstr "표준 CSV 형식 :"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 msgid "enclosure"
@@ -4693,11 +4693,11 @@ msgstr "열"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 msgid "the file must contain 7 columns, the 1st line contains the column names."
-msgstr ""
+msgstr "파일에는 7개 열이 포함되어야 하며, 첫 번째 줄에는 열 이름이 포함됩니다."
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 msgid "Summary ; MgrEffortEstim ; EffortEstim ; Description ; Deadline ; ExternalRef ; WBS tree"
-msgstr ""
+msgstr "요약 ; 관리자노력추정 ; 노력추정 ; 설명 ; 마감일 ; 외부참조 ; WBS 트리"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 #. plugins/ImportIssueCsv/ImportIssueCsv_ajax.html
@@ -4715,7 +4715,7 @@ msgstr "목표 버전"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv_ajax.html
 msgid "Mantis issues to create:"
-msgstr "만들 Mantis 이슈:"
+msgstr "만들 맨티스 이슈:"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv_ajax.html
 msgid "WBS Tree"
@@ -4737,22 +4737,22 @@ msgstr "가져오기 완료 !"
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
 #: plugins/LoadPerUserIndicator/LoadPerUserIndicator.class.php:80
 msgid "Load per User"
-msgstr ""
+msgstr "사용자별 부하"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 #: plugins/LoadPerUserIndicator/LoadPerUserIndicator.class.php:83
 msgid "Check all the timetracks of the period and return their repartition per User"
-msgstr ""
+msgstr "해당 기간의 모든 시간 추적을 확인하고 사용자별 분포를 반환합니다"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 msgid "Time spent on the projects & sideTasks of the current task selection"
-msgstr ""
+msgstr "현재 작업 선택의 프로젝트 및 사이드작업에 사용한 시간"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_ajax.html
 #: plugins/LoadPerUserIndicator/LoadPerUserIndicator.class.php:400
 msgid "Waste"
-msgstr ""
+msgstr "낭비"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 msgid "'Incident' and 'Inactivity' sideTasks of the current selection.<br>\n         (if 'waste' option has not been selected, this will be included in 'elapsed')"
@@ -4762,11 +4762,11 @@ msgstr ""
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_ajax.html
 #: plugins/LoadPerUserIndicator/LoadPerUserIndicator.class.php:393
 msgid "Other"
-msgstr ""
+msgstr "기타"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 msgid "The time spent on tasks & sideTasks that are not in the current task selection"
-msgstr ""
+msgstr "현재 작업 선택에 포함되지 않은 작업 및 사이드작업에 사용한 시간"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_ajax.html
@@ -4776,11 +4776,11 @@ msgstr "외부"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 msgid "External tasks except 'Leave' category"
-msgstr ""
+msgstr "'휴가' 분류를 제외한 외부 작업"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 msgid "External leave tasks & inactivity sideTasks that are not in the current task selection"
-msgstr ""
+msgstr "현재 작업 선택에 포함되지 않은 외부 휴가 작업 및 비활동 사이드작업"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
 msgid "Show waste sidetasks: 'Incident' and 'Inactivity' categories <br>\n         (if unchecked, sidetasks will be included in 'elapsed')"
@@ -4792,7 +4792,7 @@ msgstr ""
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
 msgid "WARN: this option will be disabled if 'Only team members' is unchecked"
-msgstr ""
+msgstr "경고: '팀원만'이 선택 해제되어 있으면 이 옵션은 비활성화됩니다"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks_cfg.html
 msgid "Move issue timetracks"
@@ -4855,7 +4855,7 @@ msgstr "대상 작업"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "WARNING : In order to move timetracks, destination task creation date will be moved to "
-msgstr ""
+msgstr "경고: 시간 추적을 이동하려면 대상 작업 생성 날짜가 다음으로 이동됩니다 "
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Timetracks moved successfully !"
@@ -4909,43 +4909,43 @@ msgstr "이슈 (외부 ID 없이)"
 #. plugins/LoadPerProjectIndicator/LoadPerProjectIndicator.html
 #: plugins/LoadPerProjectIndicator/LoadPerProjectIndicator.class.php:77
 msgid "Check all the timetracks of the period and return their repartition per Project"
-msgstr ""
+msgstr "해당 기간의 모든 시간 추적을 확인하고 프로젝트별 분포를 반환합니다"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 msgid "Selling price for period"
-msgstr ""
+msgstr "기간동안 팔린 가격"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 msgid "Elapsed during period"
-msgstr ""
+msgstr "기간동안 경과된 시간"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 msgid "Remaining to produce (at end of period)"
-msgstr ""
+msgstr "생산 잔여량(기간 종료 시점)"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_cfg.html
 #: plugins/SellingPriceForPeriod/SellingPriceForPeriod.class.php:83
 msgid "Selling Price for the Period"
-msgstr ""
+msgstr "기간에 대한 팔린 가격"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 #: plugins/SellingPriceForPeriod/SellingPriceForPeriod.class.php:88
 msgid "If you sell daily services with a specific price for each task, this plugin will give you the price of your batch of tasks over a given period of time."
-msgstr ""
+msgstr "각 작업에 특정 가격이 있는 일일 서비스를 판매하는 경우, 이 플러그인은 지정된 기간 동안 작업 묶음의 가격을 제공합니다."
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 #: plugins/SellingPriceForPeriod/SellingPriceForPeriod.class.php:89
 msgid "For this plugin, you need to add the \"CodevTT_DailyPrice\" customField to your mantis projects and set a value for each task."
-msgstr ""
+msgstr "이 플러그인을 사용하려면 맨티스 프로젝트에 \"CodevTT_DailyPrice\" 사용자지정필드를 추가하고 각 작업에 값을 설정해야 합니다."
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 msgid "SellingPrice = DailyPrice x Elapsed during period"
-msgstr ""
+msgstr "팔린가격 = 일일가격 x 기간동안 경과된 시간"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 msgid "Remaining = MgrEffortEstim - Elapsed since the beginning of the task to end of period"
-msgstr ""
+msgstr "잔여량 = 관리자노력추정 - 작업 시작부터 기간 종료까지의 경과됨"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_cfg.html
 msgid "Include sideTasks"
@@ -4977,11 +4977,11 @@ msgstr "작업 ID"
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator.html
 #. plugins/OngoingTasks/OngoingTasks_ajax.html
 msgid "Elapsed on period"
-msgstr ""
+msgstr "기간동안 경과된 시간"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 msgid "Remaining to produce at end of period"
-msgstr ""
+msgstr "기간 종료 시점의 생산 잔여량"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 msgid "Remaining"
@@ -4993,7 +4993,7 @@ msgstr "일일 가격"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 msgid "Price on period"
-msgstr ""
+msgstr "기간 내 가격"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 msgid "Price"
@@ -5017,11 +5017,11 @@ msgstr "값"
 
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
 msgid "Theoric"
-msgstr ""
+msgstr "이론값"
 
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
 msgid "Real"
-msgstr "진짜"
+msgstr "실제값"
 
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
 msgid "% Progress"
@@ -5041,25 +5041,25 @@ msgstr "사이드작업"
 
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.html
 msgid "MgrEffortEstim + checked provisions"
-msgstr ""
+msgstr "관리자노력추정 + 확인된 충당금"
 
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.html
 #. plugins/BurnDownChart/BurnDownChart_cfg.html
 #. plugins/BurnDownChart/BurnDownChart.html
 msgid "Burndown chart"
-msgstr ""
+msgstr "번다운 차트"
 
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.html
 msgid "Compares the budget (MgrEffortEstim + checked provisions) to the reestimated time (nb days needed to finish the tasks)."
-msgstr ""
+msgstr "예산(관리자노력추정 + 검사된 충당금)을 재추정된 시간(작업을 완료하는 데 필요한 일수)과 비교합니다."
 
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.html
 msgid "% Budget Drift"
-msgstr ""
+msgstr "% 예산 드리프트"
 
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.html
 msgid "( reestimated - budget ) / budget"
-msgstr ""
+msgstr "( 재추정됨 - 예산 ) / 예산"
 
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.html
 msgid "Budget Drift Progression Chart"
@@ -5076,7 +5076,7 @@ msgstr "예산 역사"
 #. plugins/LoadPerCustomfieldValues/LoadPerCustomfieldValues_cfg.html
 #: plugins/LoadPerCustomfieldValues/LoadPerCustomfieldValues.class.php:69
 msgid "Load per customfield values"
-msgstr ""
+msgstr "사용자지정필드 값별 부하"
 
 #. plugins/LoadPerCustomfieldValues/LoadPerCustomfieldValues.html
 msgid "Custom field"
@@ -5102,7 +5102,7 @@ msgstr "백로그가 있는 작업 없음"
 
 #. plugins/BacklogPerUserIndicator/BacklogPerUserIndicator.html
 msgid "For each user, return the sum of the backlog of its assigned tasks"
-msgstr ""
+msgstr "각 사용자에 대해 할당된 작업의 백로그 합계를 반환합니다"
 
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_ajax.html
@@ -5115,15 +5115,15 @@ msgstr "진행 중인 작업"
 
 #. plugins/OngoingTasks/OngoingTasks.html
 msgid "Display only the tasks with activity (timetracks) on the period"
-msgstr ""
+msgstr "기간 내 활동(시간 추적)이 있는 작업만 표시"
 
 #. plugins/OngoingTasks/OngoingTasks.html
 msgid "The time spent on the task during the period (which can be less than the total time spent since the beginning of the task)"
-msgstr ""
+msgstr "기간 동안 작업에 사용한 시간(작업 시작 이후 사용한 총 시간보다 적을 수 있음)"
 
 #. plugins/OngoingTasks/OngoingTasks.html
 msgid "List the users having spent time on the task during the period"
-msgstr ""
+msgstr "기간 동안 작업에 시간을 사용한 사용자 목록"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator_ajax.html
 msgid "Nb submitted"
@@ -5144,7 +5144,7 @@ msgstr "해결된 이슈"
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator_cfg.html
 #: plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator.class.php:65
 msgid "Submitted/Resolved Issues History"
-msgstr ""
+msgstr "제출됨/해결됨 이슈 역사"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator.html
 msgid "Submitted/Resolved issues"
@@ -5178,11 +5178,11 @@ msgstr "사용자 가져오기"
 
 #. plugins/ImportUsers/ImportUsers.html
 msgid "Create Mantis users"
-msgstr ""
+msgstr "맨티스 사용자 만들기"
 
 #. plugins/ImportUsers/ImportUsers.html
 msgid "Add users to CodevTT team & projects"
-msgstr ""
+msgstr "CodevTT 팀 및 프로젝트에 사용자 추가"
 
 #. plugins/ImportUsers/ImportUsers.html
 msgid "Only team-leaders & administrators are allowed to do this action."
@@ -5204,7 +5204,7 @@ msgstr "비밀번호 생성"
 
 #. plugins/ImportUsers/ImportUsers.html
 msgid "Display a generated password (common to all created users)"
-msgstr ""
+msgstr "생성된 비밀번호 표시(생성된 모든 사용자에게 공통)"
 
 #. plugins/ImportUsers/ImportUsers.html
 msgid "username"
@@ -5217,11 +5217,11 @@ msgstr "사용자가 이미 존재합니다"
 #. plugins/ImportUsers/ImportUsers.html
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "Mantis project access level"
-msgstr "Mantis 프로젝트 접근 레벨"
+msgstr "맨티스 프로젝트 접근 레벨"
 
 #. plugins/ImportUsers/ImportUsers.html
 msgid "User can't be added to Mantis projects"
-msgstr "사용자를 Mantis 프로젝트에 추가할 수 없습니다"
+msgstr "사용자를 맨티스 프로젝트에 추가할 수 없습니다"
 
 #. plugins/ImportUsers/ImportUsers.html
 #. plugins/ImportUsers/ImportUsers_ajax.html
@@ -5238,7 +5238,7 @@ msgstr "사용자를 이 팀에 추가할 수 없습니다"
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "Mantis users to create:"
-msgstr "만들 Mantis 사용자:"
+msgstr "만들 맨티스 사용자:"
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "First name"
@@ -5250,7 +5250,7 @@ msgstr "사용자 이름"
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "Mantis role"
-msgstr "Mantis 역할"
+msgstr "맨티스 역할"
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "Date of entry in team"
@@ -5274,11 +5274,11 @@ msgstr "팀에 가입한 날짜가 모든 사용자한테 설정되지 않음"
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "Import Done ! The password for every created users is"
-msgstr ""
+msgstr "가져오기 완료 ! 생성된 모든 사용자의 비밀번호는"
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "Import Done ! An email with login and password has been sent to each user."
-msgstr ""
+msgstr "가져오기 완료 ! 로그인과 비밀번호가 포함된 이메일이 각 사용자에게 전송되었습니다."
 
 #. plugins/IssueConsistencyCheck/IssueConsistencyCheck.html
 msgid "No errors"
@@ -5286,7 +5286,7 @@ msgstr "오류 없음"
 
 #. plugins/IssueConsistencyCheck/IssueConsistencyCheck.html
 msgid "Consistency check"
-msgstr "일관성 검사"
+msgstr "일관성 확인"
 
 #. plugins/IssueConsistencyCheck/IssueConsistencyCheck.html
 #: plugins/IssueConsistencyCheck/IssueConsistencyCheck.class.php:62
@@ -5296,12 +5296,12 @@ msgstr "이슈에서의 오류를 확인"
 #. plugins/IssueConsistencyCheck/IssueConsistencyCheck_cfg.html
 #: plugins/IssueConsistencyCheck/IssueConsistencyCheck.class.php:59
 msgid "Issue consistency check"
-msgstr "이슈 일관성 검사"
+msgstr "이슈 일관성 확인"
 
 #. plugins/LoadPerProjCategoryIndicator/LoadPerProjCategoryIndicator_cfg.html
 #: plugins/LoadPerProjCategoryIndicator/LoadPerProjCategoryIndicator.class.php:70
 msgid "Load per project categories"
-msgstr ""
+msgstr "프로젝트 분류별 부하"
 
 #. plugins/WBSExport/WBSExport_cfg.html
 msgid "Hello World"
@@ -5444,7 +5444,7 @@ msgstr "거대하게"
 
 #. plugins/BlogPlugin/BlogPlugin_ajax.html
 msgid "Acknowledged by"
-msgstr ""
+msgstr "확인자"
 
 #. plugins/BlogPlugin/BlogPlugin_ajax.html
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_ajax.html
@@ -5461,7 +5461,7 @@ msgstr "만든이"
 
 #. plugins/BlogPlugin/BlogPlugin_ajax.html
 msgid "Dest"
-msgstr ""
+msgstr "대상"
 
 #. plugins/BurnDownChart/BurnDownChart.html
 msgid "Backlog history"
@@ -5474,12 +5474,12 @@ msgstr "작업 유형 필터"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 msgid "Check the submission date of the tasks"
-msgstr ""
+msgstr "작업 제출일 확인"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:73
 msgid "Statistics on the age of open tasks"
-msgstr ""
+msgstr "열린 작업의 경과 기간 통계"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.html
 msgid "New"
@@ -5503,7 +5503,7 @@ msgstr "Nb 열림"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
 msgid "Open issues seniority"
-msgstr ""
+msgstr "열린 이슈 경과 기간"
 
 #. plugins/IssueSeniorityIndicator/IssueSeniorityIndicator_cfg.html
 msgid "Display task list"
@@ -5529,7 +5529,7 @@ msgstr "시간 추적 분석"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis.html
 msgid "Average delay between the timetrack date and it's creation date (in days)"
-msgstr ""
+msgstr "시간 추적 날짜와 생성 날짜 사이의 평균 지연(일)"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
@@ -5559,35 +5559,35 @@ msgstr "없음"
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.html
 #: plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.class.php:65
 msgid "Effort estimation reliability rate"
-msgstr ""
+msgstr "노력 추정 신뢰성 비율"
 
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.html
 msgid "EffortEstim ReliabilityRate"
-msgstr ""
+msgstr "노력추정 신뢰성비율"
 
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.html
 msgid "MgrEffortEstim ReliabilityRate"
-msgstr ""
+msgstr "관리자노력추정 신뢰성비율"
 
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2_cfg.html
 msgid "EffortEstim reliability history"
-msgstr ""
+msgstr "노력추정 신뢰성 역사"
 
 #. plugins/TasksPivotTable/TasksPivotTable_ajax.html
 #: scheduler/SchedulerEvent.class.php:163 gantt/gantt_ajax.php:257
 #: tools.php:275
 msgid "DriftMgr"
-msgstr ""
+msgstr "드리프트관리자"
 
 #. plugins/TasksPivotTable/TasksPivotTable.html
 msgid "Drag, drop and set the order of the filters"
-msgstr ""
+msgstr "필터를 끌어다 놓고 순서를 설정하세요"
 
 #. plugins/TasksPivotTable/TasksPivotTable.html
 #. plugins/TasksPivotTable/TasksPivotTable_cfg.html
 #: plugins/TasksPivotTable/TasksPivotTable.class.php:76
 msgid "Tasks pivot table"
-msgstr ""
+msgstr "작업 피벗 테이블"
 
 #. plugins/ResetDashboard/ResetDashboard.html
 msgid "Reset selected dashboards"
@@ -5607,43 +5607,43 @@ msgstr "대시보드 초기화"
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "Global cost estimation:"
-msgstr ""
+msgstr "전역 비용 추정:"
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "Costs Mgr"
-msgstr "비용 Mgr"
+msgstr "비용 관리자"
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "Sum the costs of each timetrack."
-msgstr ""
+msgstr "각 시간 추적의 비용을 합산합니다."
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "Team AverageDailyCost and UserDailyCosts must be defined in team settings."
-msgstr "팀의 AverageDailyCost와 UserDailyCosts는 팀 설정에서 정의되어야 합니다."
+msgstr "팀의 평균일일비용과 사용자일일비용이 팀 설정에서 정의되어야 합니다."
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "AverageDailyCost is used when no UserDailyCosts is defined for the timetrack's user."
-msgstr "AverageDailyCost는 시간 추적 사용자에 대해 UserDailyCosts가 정의되지 않은 경우에 사용되어야 합니다."
+msgstr "평균일일비용은 시간 추적 사용자에 대해 사용자일일비용이 정의되지 않은 경우에 사용되어야 합니다."
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "AverageDailyCost is used if the task is not yet assigned to anyone."
-msgstr ""
+msgstr "작업이 아직 누구에게도 할당되지 않은 경우 평균일일비용이 사용됩니다."
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "The backlog is computed with the current assigned user's UserDailyCost"
-msgstr ""
+msgstr "백로그는 현재 할당된 사용자의 사용자일일비용으로 계산됩니다"
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "Respectively sum the MgrEffortEstim, EffortEstim, Reestimated, Elapsed, Backlog of each task."
-msgstr ""
+msgstr "각 작업의 관리자노력추정, 노력추정, 재추정됨, 경과됨, 백로그를 각각 합산합니다."
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "The backlog depends on the status (always 0 if status >= Resolved)"
-msgstr ""
+msgstr "백로그는 상태에 따라 달라집니다(상태 >= 해결됨이면 항상 0)"
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "Sum the Provisions that are 'checked' as included in the budget."
-msgstr ""
+msgstr "예산에 포함된 것으로 '확인됨' 처리된 충당금을 합산합니다."
 
 #: admin/edit_holidays.php:46
 msgid "Couldn't add the holiday"
@@ -5671,7 +5671,7 @@ msgstr "툴팁"
 
 #: admin/edit_team_ajax.php:445
 msgid "ERROR: joblist cannot be empty !"
-msgstr ""
+msgstr "오류: 일목록은 비워 둘 수 없습니다!"
 
 #: admin/edit_team_ajax.php:494
 msgid "Invalid team name"
@@ -5683,44 +5683,44 @@ msgstr "팀을 활성화/비활성화할 수 없습니다"
 
 #: admin/edit_team_ajax.php:501
 msgid "Couldn't update the creation date"
-msgstr ""
+msgstr "생성 날짜를 업데이트할 수 없습니다"
 
 #: admin/edit_team_ajax.php:694 management/command_edit_ajax.php:375
 #: plugins/LoadPerUserGroups/LoadPerUserGroups.class.php:223
 #: plugins/ImportIssueCsv/ImportIssueCsv.class.php:204
 #: plugins/ImportUsers/ImportUsers.class.php:237
 msgid "Please upload files with the following extension: "
-msgstr ""
+msgstr "다음 확장자를 가진 파일을 업로드하세요: "
 
 #: admin/edit_team_ajax.php:782
 #: plugins/LoadPerUserGroups/LoadPerUserGroups.class.php:311
 msgid "No group defined for team member"
-msgstr ""
+msgstr "팀원에 대해 정의된 그룹이 없습니다"
 
 #: admin/admin_dashboard.php:75 import/import_dashboard.php:66
 #: reports/team_dashboard.php:98
 msgid "Sorry, you need to be identified."
-msgstr ""
+msgstr "죄송합니다. 인증되어야 합니다."
 
 #: admin/plugin_manager.php:69
 msgid "Could not create classmap: "
-msgstr ""
+msgstr "클래스맵을 만들 수 없습니다: "
 
 #: admin/edit_jobs.php:86
 msgid "Sorry, this Job cannot be changed"
-msgstr ""
+msgstr "죄송합니다, 이 일은 변경될 수 없습니다"
 
 #: admin/edit_jobs.php:92
 msgid "This job must not be deleted."
-msgstr ""
+msgstr "이 일은 삭제되어서는 안 됩니다."
 
 #: admin/edit_jobs.php:99
 msgid "Couldn't remove the job association"
-msgstr ""
+msgstr "일 연관을 제거할 수 없습니다"
 
 #: admin/edit_jobs.php:106
 msgid "Couldn't delete the job"
-msgstr ""
+msgstr "일을 삭제할 수 없습니다"
 
 #: admin/logs.php:59
 msgid "Sorry, logfile not found:"
@@ -5732,11 +5732,11 @@ msgstr "팀을 삭제할 수 없습니다"
 
 #: admin/edit_team.php:95
 msgid "Couldn't update the team leader"
-msgstr ""
+msgstr "팀 리더를 업데이트할 수 없습니다"
 
 #: admin/edit_team.php:199
 msgid "Couldn't add the project to the team"
-msgstr ""
+msgstr "프로젝트를 팀에 추가할 수 없습니다"
 
 #: admin/edit_team.php:205
 msgid "Could NOT remove the project from the team"
@@ -5756,7 +5756,7 @@ msgstr "비활성화됨"
 
 #: classes/command.class.php:59
 msgid "to be sent"
-msgstr ""
+msgstr "보내질 것"
 
 #: classes/command.class.php:60
 msgid "Sent"
@@ -5764,15 +5764,15 @@ msgstr "보내기"
 
 #: classes/command.class.php:61
 msgid "to be validated"
-msgstr ""
+msgstr "검증될 것"
 
 #: classes/command.class.php:62
 msgid "validated"
-msgstr ""
+msgstr "검증됨"
 
 #: classes/command.class.php:63
 msgid "to be closed"
-msgstr ""
+msgstr "닫힐 것"
 
 #: classes/command.class.php:64
 msgid "closed"
@@ -5780,23 +5780,23 @@ msgstr "닫힘"
 
 #: classes/command.class.php:65
 msgid "bill must be sent"
-msgstr ""
+msgstr "청구서는 보내져야 합니다"
 
 #: classes/command.class.php:66
 msgid "bill sent"
-msgstr ""
+msgstr "청구서 보내짐"
 
 #: classes/command.class.php:67
 msgid "payed"
-msgstr ""
+msgstr "지급됨"
 
 #: classes/user.class.php:1560
 msgid "for team"
-msgstr ""
+msgstr "팀용"
 
 #: classes/user.class.php:1562
 msgid "[CodevTT] Timesheet reminder !"
-msgstr ""
+msgstr "[CodevTT] 작업표 알림!"
 
 #: classes/user.class.php:1564 plugins/ImportUsers/ImportUsers_ajax.php:163
 msgid "Dear "
@@ -5804,15 +5804,15 @@ msgstr "\\님에게"
 
 #: classes/user.class.php:1565
 msgid "Please fill your CodevTT timesheet"
-msgstr ""
+msgstr "CodevTT 작업표를 작성해 주세요"
 
 #: classes/user.class.php:1576 classes/consistency_check2.class.php:704
 msgid "incomplete (missing "
-msgstr ""
+msgstr "미완료(누락 "
 
 #: classes/user.class.php:1579 classes/consistency_check2.class.php:719
 msgid "not defined."
-msgstr ""
+msgstr "정의되지 않음."
 
 #: classes/consistency_check2.class.php:69 reports/export_odt.php:263
 #: reports/export_odt.php:273 tests/odt.php:74 tests/odt.php:84
@@ -5829,7 +5829,7 @@ msgstr "해결되지 않은 이슈의 백로그는 0이 아니어야 합니다"
 
 #: classes/consistency_check2.class.php:180
 msgid "EffortEstim should not be 0"
-msgstr ""
+msgstr "노력추정은 0이어서는 안됩니다"
 
 #: classes/consistency_check2.class.php:181
 msgid "There should be no timetracks on \"new\" issues "
@@ -5845,11 +5845,11 @@ msgstr "이슈는 여러 명령에서 참조되어서는 안 됩니다"
 
 #: classes/consistency_check2.class.php:184
 msgid "Commands should be referenced in a CommandSet"
-msgstr ""
+msgstr "명령은 명령집합에서 참조되어야 합니다"
 
 #: classes/consistency_check2.class.php:185
 msgid "CommandSets should be referenced in a ServiceContract"
-msgstr ""
+msgstr "명령집합은 서비스계약에서 참조되어야 합니다"
 
 #: classes/consistency_check2.class.php:186
 msgid "Issues should be assigned to someone"
@@ -5862,47 +5862,47 @@ msgstr "제거된 이슈에서의 시간 추적을 확인 (맨티스 플러그�
 #. for all timetracks of the team, check that the Mantis issue exist.
 #: classes/consistency_check2.class.php:188
 msgid "Command issues should belong to the team's project-list"
-msgstr ""
+msgstr "명령 이슈는 팀의 프로젝트 목록에 속해야 합니다"
 
 #: classes/consistency_check2.class.php:286
 msgid "Backlog should be 0 (not "
-msgstr ""
+msgstr "백로그는 0이어야 합니다(다음이어서는 안됨 "
 
 #: classes/consistency_check2.class.php:308
 msgid "Backlog must be defined !"
-msgstr ""
+msgstr "백로그를 정의해야 합니다 !"
 
 #: classes/consistency_check2.class.php:310
 msgid "Backlog == 0: Backlog may not be up to date."
-msgstr ""
+msgstr "백로그 == 0: 백로그가 최신 상태가 아닐 수 있습니다."
 
 #: classes/consistency_check2.class.php:356
 msgid "MgrEffortEstim not set."
-msgstr ""
+msgstr "관리자노력추정이 설정되지 않았습니다."
 
 #: classes/consistency_check2.class.php:388
 msgid "EffortEstim not set."
-msgstr ""
+msgstr "노력추정이 설정되지 않았습니다."
 
 #: classes/consistency_check2.class.php:414
 msgid "Status should not be"
-msgstr ""
+msgstr "상태는 다음이면 안 됩니다"
 
 #: classes/consistency_check2.class.php:452
 msgid "The task is not assigned to anybody."
-msgstr ""
+msgstr "작업이 누구에게도 할당되어 있지 않습니다."
 
 #: classes/consistency_check2.class.php:506
 msgid "The task is not referenced in any Command."
-msgstr ""
+msgstr "작업이 어떤 명령에서도 참조되지 않습니다."
 
 #: classes/consistency_check2.class.php:605
 msgid "is not referenced in any CommandSet"
-msgstr ""
+msgstr "어떤 명령집합에서도 참조되지 않습니다"
 
 #: classes/consistency_check2.class.php:630
 msgid "is not referenced in any ServiceContract"
-msgstr ""
+msgstr "어떤 서비스계약에서도 참조되지 않습니다"
 
 #: classes/consistency_check2.class.php:704
 msgid " days"
@@ -5914,19 +5914,19 @@ msgstr "일관성 없음"
 
 #: classes/consistency_check2.class.php:744
 msgid "No default project workflow defined, check config file: "
-msgstr ""
+msgstr "기본 프로젝트 워크플로가 정의되지 않았습니다. 구성 파일을 확인하세요: "
 
 #: classes/consistency_check2.class.php:764
 msgid ") Please run <a href='tools/update_codevtt.php'>update_codevtt.php</a>"
-msgstr ""
+msgstr ") <a href='tools/update_codevtt.php'>update_codevtt.php</a>를 실행하세요"
 
 #: classes/consistency_check2.class.php:783
 msgid "Project not defined in the team's project-list"
-msgstr ""
+msgstr "프로젝트가 팀의 프로젝트 목록에 정의되어 있지 않습니다"
 
 #: classes/consistency_check2.class.php:802
 msgid "Please move config file to: "
-msgstr ""
+msgstr "구성 파일을 다음 위치로 이동하세요: "
 
 #: classes/consistency_check2.class.php:807
 msgid "Please remove: "
@@ -5934,36 +5934,36 @@ msgstr "제거해 주십시오: "
 
 #: classes/scheduler.class.php:81 reports/planning_report.php:202
 msgid "monitored"
-msgstr ""
+msgstr "모니터링됨"
 
 #: classes/issue.class.php:59
 msgid "Duplicate of"
-msgstr ""
+msgstr "다음의 중복:"
 
 #: classes/issue.class.php:60
 msgid "Has duplicate"
-msgstr ""
+msgstr "중복이 존재"
 
 #: classes/issue.class.php:61 classes/issue.class.php:62
 msgid "Related to"
-msgstr ""
+msgstr "다음에 관련됨:"
 
 #: classes/issue.class.php:63
 msgid "Parent of"
-msgstr ""
+msgstr "다음의 상위:"
 
 #. 2
 #: classes/issue.class.php:64
 msgid "Child of"
-msgstr ""
+msgstr "다음의 하위:"
 
 #: classes/issue.class.php:65
 msgid "Constrained by"
-msgstr ""
+msgstr "다음에 제약됨:"
 
 #: classes/issue.class.php:66
 msgid "Constrains"
-msgstr ""
+msgstr "제약 조건"
 
 #: classes/issue.class.php:2215 tools.php:1549
 msgid "Tags"
@@ -5975,11 +5975,11 @@ msgstr "없음"
 
 #: classes/issue.class.php:2228 reports/issue_info_tools.php:115
 msgid "DriftColor"
-msgstr ""
+msgstr "드리프트색상"
 
 #: classes/issue.class.php:2232
 msgid "DriftMgrColor"
-msgstr ""
+msgstr "드리프트관리자색상"
 
 #: classes/issue.class.php:2249 tools.php:1563
 msgid "Assigned"
@@ -5987,7 +5987,7 @@ msgstr "할당됨"
 
 #: classes/issue.class.php:2257 tools.php:1571
 msgid "ETA"
-msgstr ""
+msgstr "처리예정시간"
 
 #: classes/PluginManager.class.php:79
 msgid "Disabled"
@@ -6000,19 +6000,19 @@ msgstr "제거됨"
 #. avoid divisions by zero
 #: classes/Currencies.class.php:126
 msgid "ERROR: invalid currency: (coef is null, zero, or not a number)"
-msgstr ""
+msgstr "오류: 잘못된 통화입니다(계수가 null, 0 또는 숫자가 아님)"
 
 #: classes/Currencies.class.php:131
 msgid "ERROR: First define the referal currency (with coef=1)"
-msgstr ""
+msgstr "오류: 먼저 기준 통화를 정의하세요(계수=1)"
 
 #: classes/Currencies.class.php:136
 msgid "ERROR: there can be only one 'referal' currency (with coef=1)"
-msgstr ""
+msgstr "오류: '리퍼럴' 통화는 하나만 있을 수 있습니다(계수=1)"
 
 #: classes/Currencies.class.php:140
 msgid "ERROR: currency already defined"
-msgstr ""
+msgstr "오류: 통화가 이미 정의되어 있습니다"
 
 #: filters/ProjectFilter.php:51
 msgid "Sort issues per Project"
@@ -6072,7 +6072,7 @@ msgstr "사용자지정필드별 이슈 정렬: CodevTT_Type"
 
 #: filters/IssueCodevTypeFilter.php:63
 msgid "Type (Task/Bug)"
-msgstr ""
+msgstr "유형 (작업/버그)"
 
 #: indicator_plugins/StatusHistoryIndicator/StatusHistoryIndicator.class.php:186
 #: plugins/StatusHistoryIndicator2/StatusHistoryIndicator2.class.php:337
@@ -6094,11 +6094,11 @@ msgstr "지침 업그레이드"
 
 #: install/install.php:123
 msgid "If you're upgrading from an older CodevTT version, do the following steps:"
-msgstr ""
+msgstr "이전 CodevTT 버전에서 업그레이드하는 경우 다음 단계를 수행하세요:"
 
 #: install/install.php:125
 msgid "Upgrade Mantis first ! (not mandatory)"
-msgstr "먼저 Mantis를 업그레이드하십시오! (필수는 아님)"
+msgstr "먼저 맨티스를 업그레이드하십시오! (필수는 아님)"
 
 #: install/install.php:126
 msgid "Backup your database"
@@ -6106,7 +6106,7 @@ msgstr "내 데이터베이스 백업"
 
 #: install/install.php:127
 msgid "Copy CodevTT configuration files from your previous installation"
-msgstr ""
+msgstr "이전 설치에서 CodevTT 구성 파일 복사"
 
 #: install/install.php:128
 msgid "Run this script: "
@@ -6122,41 +6122,41 @@ msgstr "설치 - 4단계"
 
 #: install/install_step4.php:44
 msgid "Manual steps"
-msgstr ""
+msgstr "수동 단계"
 
 #: install/install_step4.php:48
 msgid "Check Mantis Plugins"
-msgstr ""
+msgstr "맨티스 플러그인을 확인"
 
 #: install/install_step4.php:50
 msgid "Login to Mantis as 'Administrator'."
-msgstr ""
+msgstr "맨티스에 '관리자'로 로그인하세요."
 
 #: install/install_step4.php:51
 msgid "manage plugins"
-msgstr ""
+msgstr "플러그인 관리"
 
 #: install/install_step4.php:52
 msgid "Check that the <b>CodevTT</b> plugin is installed and activated."
-msgstr ""
+msgstr "<b>CodevTT</b> 플러그인이 설치되어 활성화되어 있는지 확인하세요."
 
 #. echo '<br>';
 #: install/install_step4.php:58
 msgid "Check generated configuration files"
-msgstr ""
+msgstr "생성된 구성 파일 확인"
 
 #: install/install_step4.php:60
 msgid "Mantis Path & URL in "
-msgstr ""
+msgstr "맨티스 경로 및 URL 위치 "
 
 #: install/install_step4.php:61
 msgid "Log directory in "
-msgstr ""
+msgstr "로그 디렉터리 위치 "
 
 #. echo '<br>';
 #: install/install_step4.php:66
 msgid "Remove CodevTT Installation files"
-msgstr ""
+msgstr "CodevTT 설치 파일 제거"
 
 #: install/install_step4.php:68
 msgid "For security reasons, delete the following directory: "
@@ -6172,7 +6172,7 @@ msgstr "설치 - 1단계"
 
 #: install/install_step1.php:214
 msgid "Mantis Database Info"
-msgstr "Mantis 데이터베이스 정보"
+msgstr "맨티스 데이터베이스 정보"
 
 #: install/install_step1.php:218
 msgid "SGBD"
@@ -6196,7 +6196,7 @@ msgstr "데이터베이스 테이블 접미사 "
 
 #: install/install_step1.php:255
 msgid "WARN Windows Install: to avoid a SUPER privilege error, use <b>root</b> mysql user (This can be changed in config.ini when installation is finished)."
-msgstr ""
+msgstr "경고 윈도우 설치: SUPER 권한 오류를 피하려면 <b>root</b> mysql 사용자를 사용하세요(설치가 완료되면 config.ini에서 변경할 수 있습니다)."
 
 #: install/install_step1.php:260
 msgid "Proxy Settings"
@@ -6228,15 +6228,15 @@ msgstr "설치 - 2단계"
 
 #: install/install_step2.php:104
 msgid "Get Mantis customizations"
-msgstr ""
+msgstr "맨티스 맞춤 설정 가져오기"
 
 #: install/install_step2.php:109
 msgid "Path to Mantis"
-msgstr "Mantis 경로"
+msgstr "맨티스 경로"
 
 #: install/install_step2.php:114
 msgid "URL to Mantis"
-msgstr "Mantis URL"
+msgstr "맨티스 URL"
 
 #: install/install_step2.php:119
 msgid "URL to CodevTT"
@@ -6264,7 +6264,7 @@ msgstr "CodevTT_Type"
 
 #: install/install_step3.php:398
 msgid "CodevTT_Manager EffortEstim"
-msgstr "CodevTT_Manager EffortEstim"
+msgstr "CodevTT_Manager 노력추정"
 
 #: install/install_step3.php:400
 msgid "CodevTT_DailyPrice"
@@ -6295,7 +6295,7 @@ msgstr "출력 파일 경로"
 #. T_("Note: <b>/var/local/codevtt</b> is a good location for this, but you'll need to create it first and give read/write access.")
 #: install/install_step3.php:480
 msgid "Path to log files and other temporary files."
-msgstr ""
+msgstr "로그 파일 및 기타 임시 파일 경로입니다."
 
 #. ------ Status
 #: install/install_step3.php:497
@@ -6304,7 +6304,7 @@ msgstr "워크플로"
 
 #: install/install_step3.php:498
 msgid "Set equivalences in accordance to your Mantis workflow"
-msgstr ""
+msgstr "맨티스 워크플로에 맞게 동등 관계 설정"
 
 #. ------ Administrator
 #: install/install_step3.php:556
@@ -6313,32 +6313,32 @@ msgstr "CodevTT 관리자"
 
 #: install/install_step3.php:568
 msgid "More administrators can be defined later, for now you just need one."
-msgstr ""
+msgstr "나중에 더 많은 관리자를 정의할 수 있으며, 지금은 한 명만 필요합니다."
 
 #. ------- External ID
 #: install/install_step3.php:572
 msgid "Tasks external ID field"
-msgstr ""
+msgstr "작업 외부 ID 필드"
 
 #: install/install_step3.php:594
 msgid "Create a new CustomField"
-msgstr ""
+msgstr "새 사용자지정필드 만들기"
 
 #: install/install_step3.php:596
 msgid "Use this CustomField :"
-msgstr ""
+msgstr "이 사용자지정필드 사용 :"
 
 #: install/install_step3.php:623
 msgid "Default Jobs"
-msgstr ""
+msgstr "기본 일"
 
 #: install/install_step3.php:630
 msgid "CodevTT support management"
-msgstr ""
+msgstr "CodevTT 지원 관리"
 
 #: install/install_step3.php:641
 msgid "Specific to SideTasks"
-msgstr ""
+msgstr "특히 사이드작업에 대해"
 
 #: install/install_step3.php:684
 msgid "Proceed Step 3"
@@ -6346,7 +6346,7 @@ msgstr "3단계 진행하기"
 
 #: install/install_step3.php:837
 msgid "CodevTT admin"
-msgstr ""
+msgstr "CodevTT 관리자"
 
 #: install/install_step3.php:864
 msgid "Other external activity"
@@ -6354,11 +6354,11 @@ msgstr "기타 외부 활동"
 
 #: install/install_step3.php:865
 msgid "Leave"
-msgstr ""
+msgstr "휴가"
 
 #: install/install_step3.php:866
 msgid "Sick Leave"
-msgstr ""
+msgstr "병가"
 
 #: install/install_step3.php:867
 msgid "Analyse"
@@ -6374,25 +6374,25 @@ msgstr "테스트"
 
 #: install/install_step3.php:956
 msgid "CodevTT_ExternalTasks"
-msgstr ""
+msgstr "CodevTT_외부작업"
 
 #: install/install_step3.php:956
 msgid "CodevTT ExternalTasks Project"
-msgstr ""
+msgstr "CodevTT 외부작업 프로젝트"
 
 #. cat="OtherInternal", status="closed"
 #: install/install_step3.php:995
 msgid "Any external task, NOT referenced in any Mantis project"
-msgstr ""
+msgstr "어떤 맨티스 프로젝트에서도 참조되지 않는 모든 외부 작업"
 
 #. --- Create the 'Leave' task in ExternalTasks Project
 #: install/install_step3.php:998
 msgid "On holiday, leave, ..."
-msgstr ""
+msgstr "휴일, 휴가, ..."
 
 #: install/install_step3.php:999
 msgid "Sick"
-msgstr ""
+msgstr "아픔"
 
 #: install/install_menu.inc.php:26
 msgid "Step 1"
@@ -6412,7 +6412,7 @@ msgstr "4단계"
 
 #: management/servicecontract_tools.php:182
 msgid "Provision"
-msgstr "규정"
+msgstr "충당금"
 
 #: management/command_info_ajax.php:340 scheduler/scheduler_ajax.php:379
 #: gantt/gantt_ajax.php:166
@@ -6421,38 +6421,38 @@ msgstr "자동"
 
 #: management/commandset_info.php:88
 msgid "Errors affecting the CommandSet"
-msgstr ""
+msgstr "명령집합에 영향을 주는 오류"
 
 #: management/command_edit_ajax.php:66
 msgid "Provisions updated FAILED !"
-msgstr "규정 업데이트 실패함 !"
+msgstr "충당금 업데이트 실패함 !"
 
 #: reports/issue_info_ajax.php:105
 msgid "Sorry, only managers can remove tasks from commands"
-msgstr ""
+msgstr "죄송합니다. 관리자만 명령에서 작업을 제거할 수 있습니다"
 
 #: reports/issue_info_ajax.php:130 reports/issue_info_ajax.php:172
 msgid "Sorry, only managers can add tasks to commands"
-msgstr ""
+msgstr "죄송합니다. 관리자만 명령에 작업을 추가할 수 있습니다"
 
 #: reports/issue_info_ajax.php:132 reports/issue_info_ajax.php:174
 #: reports/issue_info_ajax.php:205 reports/issue_info_ajax.php:254
 #: reports/issue_info_ajax.php:301 reports/issue_info_ajax.php:366
 msgid "Sorry, this task is not in your team's projects"
-msgstr ""
+msgstr "죄송합니다. 이 작업은 당신의 팀의 프로젝트에 없습니다"
 
 #: reports/issue_info_ajax.php:203 reports/issue_info_ajax.php:252
 #: reports/issue_info_ajax.php:299 reports/issue_info_ajax.php:364
 msgid "Sorry, you're not an active member of this team"
-msgstr ""
+msgstr "죄송합니다. 당신은 이 팀의 활성 구성원이 아닙니다"
 
 #: reports/issue_info.php:90
 msgid "You do not have permissions to display task :"
-msgstr ""
+msgstr "이 작업을 표시할 권한이 없습니다 :"
 
 #: reports/issue_info.php:101
 msgid "Task not found in Mantis DB :"
-msgstr ""
+msgstr "Mantis DB에서 작업을 찾을 수 없습니다 :"
 
 #: reports/statistics.php:86
 msgid "No projects in this team"
@@ -6461,33 +6461,33 @@ msgstr "이 팀에 프로젝트가 없습니다"
 #: reports/project_info.php:322
 #: plugins/TasksPivotTable/TasksPivotTable.class.php:389
 msgid "New Tasks"
-msgstr ""
+msgstr "새 작업"
 
 #: reports/project_info.php:323
 #: plugins/TasksPivotTable/TasksPivotTable.class.php:390
 msgid "Current Tasks"
-msgstr ""
+msgstr "현재 작업"
 
 #: reports/project_info.php:324
 #: plugins/TasksPivotTable/TasksPivotTable.class.php:391
 msgid "Resolved Tasks"
-msgstr ""
+msgstr "해결된 작업"
 
 #: reports/planning_report.php:199
 msgid "onTime"
-msgstr ""
+msgstr "정시"
 
 #: reports/planning_report.php:200
 msgid "NOT onTime"
-msgstr ""
+msgstr "정시 아님"
 
 #: reports/planning_report.php:201
 msgid "no deadLine"
-msgstr ""
+msgstr "마감일 없음"
 
 #: reports/planning_report.php:494
 msgid "Monitored"
-msgstr ""
+msgstr "모니터링됨"
 
 #: reports/issue_info_tools.php:39
 msgid "No date defined"
@@ -6495,11 +6495,11 @@ msgstr "정의한 날짜가 없습니다"
 
 #: reports/issue_info_tools.php:41
 msgid "No target version defined"
-msgstr ""
+msgstr "정의된 대상 버전 없음"
 
 #: tests/odt.php:8
 msgid "Test: export to ODT"
-msgstr ""
+msgstr "테스트: ODT로 내보내기"
 
 #: tests/odt.php:155
 msgid "Sorry, there are no projects defined for your team."
@@ -6510,7 +6510,7 @@ msgstr "죄송합니다. 당신의 팀에 정의된 프로젝트가 없습니다
 #: timetracking/missing_timetracks.php:70
 #: timetracking/timetracking_lite.php:120
 msgid "days are incomplete or undefined"
-msgstr ""
+msgstr "일수가 불완전하거나 정의되지 않았습니다"
 
 #: timetracking/team_monthly_activity_report.php:143
 #: timetracking/time_tracking.php:303 timetracking/time_tracking_tools.php:90
@@ -6518,15 +6518,15 @@ msgstr ""
 #: timetracking/time_tracking_tools.php:692
 #: timetracking/team_activity_report.php:199
 msgid "Error: Task not found in Mantis DB !"
-msgstr ""
+msgstr "오류: Mantis DB에서 작업을 찾을 수 없습니다!"
 
 #: timetracking/time_tracking_tools.php:363
 msgid "Click to add a note"
-msgstr ""
+msgstr "노트를 추가하려면 클릭"
 
 #: timetracking/holidays_report.php:66
 msgid "External Tasks"
-msgstr ""
+msgstr "외부 작업"
 
 #: timetracking/holidays_report.php:71
 msgid "Sidetasks Inactivity"
@@ -6534,7 +6534,7 @@ msgstr "사이드작업 비활동"
 
 #: timetracking/holidays_report.php:76
 msgid "Activity on other teams"
-msgstr ""
+msgstr "다른 팀의 활동"
 
 #: timetracking/holidays_report.php:140
 msgid "today"
@@ -6543,7 +6543,7 @@ msgstr "오늘"
 #. light grey
 #: timetracking/holidays_report.php:206
 msgid "User not in team"
-msgstr ""
+msgstr "사용자가 팀에 없음"
 
 #: timetracking/holidays_report.php:244
 msgid "Other team"
@@ -6553,24 +6553,24 @@ msgstr "다른 팀"
 #: timetracking/timetracking_lite_ajax.php:139
 #: timetracking/timetracking_lite_ajax.php:144
 msgid "REFUSED"
-msgstr ""
+msgstr "거부됨"
 
 #: timetracking/timetracking_lite_ajax.php:154
 msgid "ERROR: Failed to update backlog !"
-msgstr ""
+msgstr "오류: 백로그 업데이트 실패!"
 
 #: timetracking/timetracking_lite_ajax.php:178
 msgid "ERROR: Failed to getAvailableStatusList !"
-msgstr ""
+msgstr "오류: getAvailableStatusList 실패!"
 
 #: timetracking/timetracking_lite_ajax.php:219
 msgid "ERROR: Failed to setStatus !"
-msgstr ""
+msgstr "오류: setStatus 실패!"
 
 #: timetracking/timetracking_lite_ajax.php:245
 #: timetracking/time_tracking_ajax.php:161
 msgid "Timetracking is forbidden when issue's status is :"
-msgstr ""
+msgstr "이슈 상태가 다음일 때 시간 추적이 금지됩니다:"
 
 #. existing tt is too small to be decreased, FORBID the change, do nothing !
 #. $logger->error("DEBUG: existing tt is too small to be decreased tt=".$timetrackCandidate->getDuration()." diff=$diffToRemove");
@@ -6579,24 +6579,24 @@ msgstr ""
 #: timetracking/timetracking_lite_ajax.php:337
 #: timetracking/timetracking_lite_ajax.php:342
 msgid "Sorry, multiple existing timetracks, please use the regular Timetracking page"
-msgstr ""
+msgstr "죄송합니다. 기존 시간 추적이 여러 개 있습니다. 일반 Timetracking 페이지를 사용하세요"
 
 #: timetracking/timetracking_lite_ajax.php:358
 msgid "ERROR: Failed to add/update timetrack !"
-msgstr ""
+msgstr "오류: 시간 추적 추가/업데이트 실패 !"
 
 #: timetracking/time_tracking_ajax.php:442
 msgid "ERROR: Failed to delete the timetrack !"
-msgstr ""
+msgstr "오류: 시간 추적 삭제 실패 !"
 
 #. forbid adding timetrack, return error
 #: timetracking/time_tracking_ajax.php:475
 msgid "Timetrack not added: Timetrack note is mandatory"
-msgstr ""
+msgstr "시간 추적이 추가되지 않음: 시간 추적 노트는 필수입니다"
 
 #: timetracking/time_tracking_ajax.php:479
 msgid "Timetrack not added: Job is not specified"
-msgstr ""
+msgstr "시간 추적이 추가되지 않음: 작업이 지정되지 않았습니다"
 
 #: timetracking/time_tracking_ajax.php:482
 msgid "Timetrack not added: bugid is not specified"
@@ -6616,7 +6616,7 @@ msgstr "작업 마감일 경보"
 
 #: plugins/DeadlineAlertIndicator/DeadlineAlertIndicator.class.php:65
 msgid "Display unresolved tasks that should have been delivered"
-msgstr ""
+msgstr "전달되었어야 했던 미해결 작업 표시"
 
 #: plugins/AdminTools/AdminTools.class.php:68
 msgid "CodevTT administration tools"
@@ -6624,19 +6624,19 @@ msgstr "CodevTT 관리 도구"
 
 #: plugins/IssueBacklogVariationIndicator/IssueBacklogVariationIndicator.class.php:55
 msgid "Task burndown chart"
-msgstr ""
+msgstr "작업 번다운 차트"
 
 #: plugins/IssueBacklogVariationIndicator/IssueBacklogVariationIndicator.class.php:58
 msgid "Display task backlog updates since the task creation"
-msgstr ""
+msgstr "작업 생성 이후 작업 백로그 업데이트 표시"
 
 #: plugins/IssueBacklogVariationIndicator/IssueBacklogVariationIndicator.class.php:157
 msgid "Backlog (days)"
-msgstr ""
+msgstr "백로그(일)"
 
 #: plugins/LoadPerJobIndicator2/LoadPerJobIndicator2.class.php:276
 msgid "Management"
-msgstr ""
+msgstr "관리"
 
 #: plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.class.php:74
 msgid "Man-days available in period, except leaves and external tasks"
@@ -6644,7 +6644,7 @@ msgstr ""
 
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.class.php:199
 msgid "Task is not in team's projects"
-msgstr ""
+msgstr "작업이 팀의 프로젝트에 없습니다"
 
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.class.php:285
 msgid "Timetrack added by "
@@ -6652,23 +6652,23 @@ msgstr "\\님이 추가한 시간 추적"
 
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks_ajax.php:76
 msgid "Task does not exist !"
-msgstr ""
+msgstr "작업이 존재하지 않습니다!"
 
 #: plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.class.php:59
 msgid "Management load history"
-msgstr ""
+msgstr "관리 부하 역사"
 
 #: plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.class.php:62
 msgid "Compares the elapsed time on management sideTasks to the management provisions"
-msgstr ""
+msgstr "관리 사이드작업에 사용한 경과 시간을 관리 충당금과 비교"
 
 #: plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.class.php:75
 msgid "Import Mantis relationship-tree to WBS"
-msgstr ""
+msgstr "맨티스 관계 트리를 WBS로 가져오기"
 
 #: plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.class.php:78
 msgid "Import a mantis parent-child relationship issue structure to a command WBS structure"
-msgstr ""
+msgstr "맨티스 부모-자식 관계 이슈 구조를 명령 WBS 구조로 가져오기"
 
 #: plugins/LoadPerUserGroups/LoadPerUserGroups.class.php:71
 msgid "Load per user groups"
@@ -6676,7 +6676,7 @@ msgstr "사용자 그룹별로 불러오기"
 
 #: plugins/LoadPerUserGroups/LoadPerUserGroups.class.php:74
 msgid "Check all the timetracks of the period and return their repartition per User groups"
-msgstr ""
+msgstr "해당 기간의 모든 시간 추적을 확인하고 사용자 그룹별 분포를 반환"
 
 #: plugins/LoadPerUserGroups/LoadPerUserGroups.class.php:334
 msgid "No group defined"
@@ -6690,11 +6690,11 @@ msgstr "작업 드리프트 경보"
 #. return T_('Display tasks in drift');
 #: plugins/DriftAlertIndicator/DriftAlertIndicator.class.php:72
 msgid "Display tasks where the elapsed time is greater than the estimated effort"
-msgstr ""
+msgstr "경과 시간이 예상 노력을 초과하는 작업 표시"
 
 #: plugins/UserTeamList/UserTeamList.class.php:63
 msgid "Display a history of all the teams for a given user"
-msgstr ""
+msgstr "지정된 사용자의 모든 팀 역사 표시"
 
 #: plugins/CustomUserData/CustomUserData.class.php:64
 msgid "Custom user data"
@@ -6702,20 +6702,20 @@ msgstr "사용자 지정 데이터"
 
 #: plugins/CustomUserData/CustomUserData.class.php:69
 msgid "Allows to set some user specific data such as EmployeeId, userId in other DB/Softwares, phoneNumber, etc."
-msgstr ""
+msgstr "EmployeeId, 다른 DB/소프트웨어의 userId, phoneNumber 등 사용자별 데이터를 설정할 수 있습니다."
 
 #: plugins/CustomUserData/CustomUserData.class.php:70
 msgid "The initial goal is to ease the export of CodevTT data to other tools."
-msgstr ""
+msgstr "초기 목표는 CodevTT 데이터를 다른 도구로 쉽게 내보내는 것입니다."
 
 #: plugins/ManagementCosts/ManagementCosts.class.php:61
 msgid "Sum elapsed time on management sideTasks and compare to the sum of command provisions. Returns a result in man-days and costs"
-msgstr ""
+msgstr "관리 사이드작업의 경과 시간을 합산하고 명령 충당금 합계와 비교합니다. 결과를 인일 및 비용으로 반환합니다"
 
 #: plugins/ManagementCosts/ManagementCosts.class.php:168
 #: plugins/CostsIndicator/CostsIndicator.class.php:187
 msgid "No AverageDailyCost defined in team settings"
-msgstr "팀 설정에 AverageDailyCost가 정의되어 있지 않음"
+msgstr "팀 설정에 평균일일비용이 정의되어 있지 않음"
 
 #: plugins/ManagementCosts/ManagementCosts.class.php:175
 #: plugins/CostsIndicator/CostsIndicator.class.php:194
@@ -6724,11 +6724,11 @@ msgstr "죄송합니다. 관리자만 이 플러그인에 접근할 수 있습�
 
 #: plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.class.php:64
 msgid "Display the bug reopened rate history"
-msgstr ""
+msgstr "버그 재개율 이력 표시"
 
 #: plugins/ImportIssueCsv/ImportIssueCsv.class.php:65
 msgid "Import a list of issues to MantisBT / CodevTT from a CSV file"
-msgstr ""
+msgstr "CSV 파일에서 MantisBT / CodevTT로 이슈 목록 가져오기"
 
 #: plugins/MoveIssueTimetracks/MoveIssueTimetracks.class.php:60
 msgid "Move Issue Timetracks"
@@ -6736,7 +6736,7 @@ msgstr "이슈의 시간기록 이동하기"
 
 #: plugins/MoveIssueTimetracks/MoveIssueTimetracks.class.php:64
 msgid "Move timetracks from one issue to another"
-msgstr ""
+msgstr "시간 추적을 한 이슈에서 다른 이슈로 이동"
 
 #: plugins/MoveIssueTimetracks/MoveIssueTimetracks_ajax.php:71
 msgid "Please, fill all fields"
@@ -6764,59 +6764,59 @@ msgstr "이슈 상태 역사 표시"
 
 #: plugins/SellingPriceForPeriod/SellingPriceForPeriod.class.php:91
 msgid "SellingPrice = DailyPrice x Elapsed on period"
-msgstr ""
+msgstr "팔린가격 = 일일가격 x 기간동안 경과된 시간"
 
 #: plugins/SellingPriceForPeriod/SellingPriceForPeriod.class.php:385
 msgid "WARNING: You need to assign the \"CodevTT_DailyPrice\" customField to the following projects: "
-msgstr ""
+msgstr "경고: 다음 프로젝트에 \"CodevTT_DailyPrice\" 사용자지정필드를 할당해야 합니다: "
 
 #: plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.class.php:67
 msgid "Display the progress history"
-msgstr ""
+msgstr "진행률 이력 표시"
 
 #: plugins/LoadHistoryIndicator/LoadHistoryIndicator.class.php:71
 msgid "Display the elapsed time in a period"
-msgstr ""
+msgstr "기간동안 경과된 시간을 표시"
 
 #: plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.class.php:63
 msgid "Budget drift history"
-msgstr ""
+msgstr "예산 드리프트 역사"
 
 #: plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.class.php:66
 msgid "Display the budget history"
-msgstr ""
+msgstr "예산 이력 표시"
 
 #: plugins/LoadPerCustomfieldValues/LoadPerCustomfieldValues.class.php:72
 msgid "Choose a customfield, return the elapsed time for each customField value"
-msgstr ""
+msgstr "사용자지정필드를 선택하면 각 사용자지정필드 값에 대한 경과 시간을 반환함"
 
 #: plugins/TimetrackList/TimetrackList.class.php:84
 msgid "List and edit timetracks"
-msgstr ""
+msgstr "시간 추적 목록 및 편집"
 
 #: plugins/BacklogPerUserIndicator/BacklogPerUserIndicator.class.php:72
 msgid "Check all the tasks and return the backlog per User"
-msgstr ""
+msgstr "모든 작업을 확인하고 사용자별 백로그를 반환"
 
 #: plugins/BacklogPerUserIndicator/BacklogPerUserIndicator.class.php:258
 msgid "(unknown 0)"
-msgstr ""
+msgstr "(알 수 없음 0)"
 
 #: plugins/OngoingTasks/OngoingTasks.class.php:88
 msgid "List the active tasks on a given period"
-msgstr ""
+msgstr "지정된 기간의 활성 작업 목록"
 
 #: plugins/OngoingTasks/OngoingTasks.class.php:90
 msgid "Tasks having received timetracks during the period"
-msgstr ""
+msgstr "기간 동안 시간 추적을 받은 작업"
 
 #: plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator.class.php:68
 msgid "Display the number of issues submitted/resolved in a period"
-msgstr ""
+msgstr "기간 내 제출/해결된 이슈 수 표시"
 
 #: plugins/ImportUsers/ImportUsers.class.php:71
 msgid "Import a list of users to MantisBT / CodevTT"
-msgstr ""
+msgstr "MantisBT / CodevTT로 사용자 목록 가져오기"
 
 #: plugins/ImportUsers/ImportUsers.class.php:74
 msgid "Note: only available for administrators & team leaders"
@@ -6828,7 +6828,7 @@ msgstr "사용자를 가져올 권한이 없습니다"
 
 #: plugins/ImportUsers/ImportUsers_ajax.php:164
 msgid "Your CodevTT / Mantis account has been created: "
-msgstr ""
+msgstr "CodevTT / 맨티스 계정이 생성되었습니다: "
 
 #: plugins/ImportUsers/ImportUsers_ajax.php:167
 msgid "Please, change your password on your first connection."
@@ -6840,11 +6840,11 @@ msgstr "CodevTT URL: "
 
 #: plugins/ImportUsers/ImportUsers_ajax.php:169
 msgid "Mantis  URL: "
-msgstr ""
+msgstr "맨티스  URL: "
 
 #: plugins/ImportUsers/ImportUsers_ajax.php:170
 msgid "Best regards"
-msgstr ""
+msgstr "감사합니다"
 
 #: plugins/ImportUsers/ImportUsers_ajax.php:171
 msgid "[CodevTT] Your password"
@@ -6852,7 +6852,7 @@ msgstr "[CodevTT] 당신의 비밀번호"
 
 #: plugins/LoadPerProjCategoryIndicator/LoadPerProjCategoryIndicator.class.php:73
 msgid "Check all the timetracks of the period and return their repartition per project categories"
-msgstr ""
+msgstr "해당 기간의 모든 시간 추적을 확인하고 프로젝트 분류별 분포를 반환합니다"
 
 #: plugins/LoadPerProjCategoryIndicator/LoadPerProjCategoryIndicator.class.php:347
 msgid "All Sidetasks Projects"
@@ -6860,7 +6860,7 @@ msgstr "모든 사이드작업 프로젝트"
 
 #: plugins/LoadPerProjCategoryIndicator/LoadPerProjCategoryIndicator.class.php:348
 msgid "All Production Projects"
-msgstr ""
+msgstr "모든 생산 프로젝트"
 
 #: plugins/LoadPerProjCategoryIndicator/LoadPerProjCategoryIndicator.class.php:349
 msgid "All Projects"
@@ -6876,7 +6876,7 @@ msgstr "WBS를 CSV 파일로 내보내기"
 
 #: plugins/TimetrackDetailsIndicator/TimetrackDetailsIndicator.class.php:63
 msgid "Display additional info on timetracks"
-msgstr ""
+msgstr "시간 추적에 추가 정보 표시"
 
 #: plugins/BlogPlugin/BlogPost.class.php:112
 msgid "Low"
@@ -6909,11 +6909,11 @@ msgstr "관리자와 팀원이 다른 사용자의 담벼락에 표시되는 메
 
 #: plugins/BurnDownChart/BurnDownChart.class.php:66
 msgid "Display the backlog history"
-msgstr ""
+msgstr "백로그 역사 표시"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:70
 msgid "Open issues seniority statistics"
-msgstr ""
+msgstr "열린 이슈 경과 기간 통계"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:174
 msgid "Last week"
@@ -6949,7 +6949,7 @@ msgstr "+6개월"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:182
 msgid "Over a year"
-msgstr ""
+msgstr "1년 초과"
 
 #: plugins/IssueSeniorityIndicator/IssueSeniorityIndicator.class.php:271
 msgid "All (tasks & bugs)"
@@ -6957,27 +6957,27 @@ msgstr "모두 (일감 및 버그)"
 
 #: plugins/TimetrackingAnalysis/TimetrackingAnalysis.class.php:72
 msgid "Display the delay between the timetrack date and it's creation date"
-msgstr ""
+msgstr "시간 추적 날짜와 생성 날짜 사이의 지연 표시"
 
 #: plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.class.php:68
 msgid "Display the EffortEstim reliability rate history"
-msgstr ""
+msgstr "노력추정 신뢰성 비율 역사를 표시"
 
 #: plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.class.php:69
 msgid "rate = EffortEstim / elapsed (on resolved tasks only)"
-msgstr ""
+msgstr "비율 = 노력추정 / 경과 시간 (완료된 작업에 한함)"
 
 #: plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.class.php:72
 msgid "REM: An issue that has been reopened before endTimestamp will NOT be recorded."
-msgstr "REM: endTimestamp가 기록되지 않기 전에 이슈가 재개되었습니다."
+msgstr "REM: endTimestamp가 기록되지 않기 전에 이슈가 다시 열렸습니다."
 
 #: plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2.class.php:73
 msgid "(For the bugs that where re-opened, the EffortEstim may not have been re-estimated, and thus the result is not reliable.)"
-msgstr ""
+msgstr "(다시 열린 버그의 경우 효과추정이 재추정되지 않았을 수 있으므로 결과가 신뢰할 수 없습니다.)"
 
 #: plugins/TasksPivotTable/TasksPivotTable.class.php:79
 msgid "Group tasks by adding multiple filters"
-msgstr ""
+msgstr "여러 필터를 추가하여 작업 그룹화"
 
 #: plugins/ResetDashboard/ResetDashboard.class.php:60
 msgid "Remove dashboard plugins"
@@ -6993,7 +6993,7 @@ msgstr "팀 설정에 정의된 사용자일일비용을 사용하여 비용을 
 
 #: scheduler/SchedulerTaskProvider0.class.php:44
 msgid "Standard issue priority scheduling"
-msgstr ""
+msgstr "표준 이슈 우선순위 일정 계획"
 
 #. TODO use this value to stop scheduler computing if OPTION_nbDaysForecast is too big
 #. $max_time = ini_get("max_execution_time");
@@ -7033,15 +7033,15 @@ msgstr "3개월"
 
 #: scheduler/SchedulerTaskProvider.class.php:46
 msgid "Daily breakdown scheduling"
-msgstr ""
+msgstr "일일 고장 계획"
 
 #: scheduler/scheduler_ajax.php:328
 msgid "Assignments rules not valid for task"
-msgstr ""
+msgstr "작업에 대한 할당 규칙이 유효하지 않습니다"
 
 #: scheduler/scheduler_ajax.php:342
 msgid "Assignments updated for task"
-msgstr ""
+msgstr "작업에 대한 할당이 업데이트되었습니다"
 
 #. 'arrivalDate' = should not be defined here, as another ajax call is doing the $schedulerManager->execute()
 #: scheduler/scheduler_ajax.php:389
@@ -7058,9 +7058,9 @@ msgstr "모든 프로젝트"
 
 #: smarty_tools.php:126
 msgid "W"
-msgstr ""
+msgstr "주"
 
 #: tools.php:1503
 msgid "Delivery Date"
-msgstr ""
+msgstr "배송 일자"
 

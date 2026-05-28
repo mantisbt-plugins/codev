@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2026-05-18 12:27:14+0000\n"
+"PO-Revision-Date: 2026-05-28 12:01:13+0000\n"
 "Language: lb\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -3682,7 +3682,7 @@ msgstr ""
 #: scheduler/SchedulerEvent.class.php:116 gantt/gantt_ajax.php:224
 #: tools.php:1482
 msgid "External ID"
-msgstr ""
+msgstr "Extern ID"
 
 #. tpl/issue_info.html
 msgid "Remove task from command"
