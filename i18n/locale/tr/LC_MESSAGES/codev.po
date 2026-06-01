@@ -6,6 +6,7 @@
 # Author: BaRaN6161 TURK
 # Author: Can
 # Author: Grkn gll
+# Author: HakanIST
 # Author: Hedda
 # Author: Joseph
 # Author: Katpatuka
@@ -26,7 +27,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2026-05-25 12:01:22+0000\n"
+"PO-Revision-Date: 2026-06-01 12:02:34+0000\n"
 "Language: tr\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -6043,14 +6044,12 @@ msgid "Project Category"
 msgstr "Proje Kategorisi"
 
 #: filters/IssueIdFilter.php:51
-#, fuzzy
 msgid "Sort issues per ID"
-msgstr "Etiket başına sayıları sırala"
+msgstr "Sorunları kimlik numarasına göre sırala"
 
 #: filters/IssueIdFilter.php:59
-#, fuzzy
 msgid "Issue ID"
-msgstr "Etiket Sorunu"
+msgstr "Sorun Kimliği"
 
 #: filters/ProjectVersionFilter.php:45
 msgid "Sort issues per Project TargetVersion"
@@ -6277,9 +6276,8 @@ msgid "CodevTT_Manager EffortEstim"
 msgstr "CodevTT_Manager EffortEstim"
 
 #: install/install_step3.php:400
-#, fuzzy
 msgid "CodevTT_DailyPrice"
-msgstr "CodevTT_Deadline"
+msgstr "CodevTT_DailyPrice"
 
 #: install/install_step3.php:406
 msgid "CodevTT_External ID"

@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2026-05-28 12:01:13+0000\n"
+"PO-Revision-Date: 2026-06-01 12:02:28+0000\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1154,7 +1154,7 @@ msgstr "Nb 다시 열림"
 #. tpl/statistics.html
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 msgid "man-days"
-msgstr "인-일"
+msgstr "노동일"
 
 #. tpl/statistics.html
 msgid "Available man-days on the period (excluding leave and external tasks)"
@@ -1390,7 +1390,7 @@ msgstr "색"
 #. tpl/edit_jobs.html
 #: install/install_step3.php:634
 msgid "open a colorPicker in a new Tab"
-msgstr ""
+msgstr "새 탭에서 색상선택기 열기"
 
 #. tpl/edit_holidays.html
 msgid "Permanently remove this date ?"
@@ -2370,7 +2370,7 @@ msgstr "일반"
 
 #. tpl/doc.html
 msgid "Task priority in Planning & Gantt"
-msgstr ""
+msgstr "계획 및 간트 차트에서의 작업 우선순위"
 
 #. tpl/doc.html
 msgid "Documentation is available at "
@@ -3529,7 +3529,7 @@ msgstr "회의, 프리세일즈, 프로젝트관리, ..."
 #. tpl/create_team.html
 #: admin/edit_team.php:160
 msgid "Incident"
-msgstr "인시던트"
+msgstr "사고"
 
 #. tpl/create_team.html
 msgid "Server or Platform down, ..."
@@ -4756,7 +4756,7 @@ msgstr "낭비"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 msgid "'Incident' and 'Inactivity' sideTasks of the current selection.<br>\n         (if 'waste' option has not been selected, this will be included in 'elapsed')"
-msgstr ""
+msgstr "현재 선택 항목의 '사고' 및 '비활동' 사이드작업입니다.<br>\n         ('낭비' 옵션을 선택하지 않은 경우, 이 값은 '경과됨'에 포함됩니다)"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_ajax.html
@@ -4784,11 +4784,11 @@ msgstr "현재 작업 선택에 포함되지 않은 외부 휴가 작업 및 비
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
 msgid "Show waste sidetasks: 'Incident' and 'Inactivity' categories <br>\n         (if unchecked, sidetasks will be included in 'elapsed')"
-msgstr ""
+msgstr "낭비 사이드작업을 표시: '사고' 및 '비활동' 분류<br>\n         (체크되지 않은 경우, 사이드작업은 '경과됨'에 포함됩니다)"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
 msgid "Show full activity:\n         <br> If checked, timetracks on tasks not included in current selection will be displayed in additional columns."
-msgstr ""
+msgstr "전체 활동을 표시:\n         <br>체크된 경우, 현재 선택 항목에 포함되지 않은 작업의 시간 추적 정보가 추가 열에 표시됩니다."
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
 msgid "WARN: this option will be disabled if 'Only team members' is unchecked"
@@ -6640,7 +6640,7 @@ msgstr "관리"
 
 #: plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.class.php:74
 msgid "Man-days available in period, except leaves and external tasks"
-msgstr ""
+msgstr "휴가 및 외부 업작업을 제외한 해당 기간 내 가용 노동일"
 
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.class.php:199
 msgid "Task is not in team's projects"
@@ -6710,7 +6710,7 @@ msgstr "초기 목표는 CodevTT 데이터를 다른 도구로 쉽게 내보내�
 
 #: plugins/ManagementCosts/ManagementCosts.class.php:61
 msgid "Sum elapsed time on management sideTasks and compare to the sum of command provisions. Returns a result in man-days and costs"
-msgstr "관리 사이드작업의 경과 시간을 합산하고 명령 충당금 합계와 비교합니다. 결과를 인일 및 비용으로 반환합니다"
+msgstr "관리 사이드작업의 경과 시간을 합산하고 명령 충당금 합계와 비교합니다. 결과를 노동일 및 비용으로 반환합니다"
 
 #: plugins/ManagementCosts/ManagementCosts.class.php:168
 #: plugins/CostsIndicator/CostsIndicator.class.php:187
