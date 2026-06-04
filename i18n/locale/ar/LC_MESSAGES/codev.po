@@ -11,6 +11,7 @@
 # Author: Mr. Ibrahem
 # Author: Tala Ali
 # Author: Withsalah
+# Author: أبو هشام
 # Author: أَحمد
 # Author: ديفيد
 # Author: محمد أحمد عبد الفتاح
@@ -20,7 +21,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2026-05-18 12:27:09+0000\n"
+"PO-Revision-Date: 2026-06-04 12:01:21+0000\n"
 "Language: ar\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1429,7 +1430,7 @@ msgstr "المدة (بالأيام)"
 
 #. tpl/set_holidays.html
 msgid "Monday"
-msgstr "الإثنين"
+msgstr "الاثنين"
 
 #. tpl/set_holidays.html
 msgid "Tuesday"
