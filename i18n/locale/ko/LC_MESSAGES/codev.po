@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2026-06-01 12:02:28+0000\n"
+"PO-Revision-Date: 2026-06-08 12:01:06+0000\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -5416,7 +5416,7 @@ msgstr "메시지를 삭제합니다."
 
 #. plugins/BlogPlugin/BlogPlugin.html
 msgid "This will permanently delete this post, are you sure ?!"
-msgstr "이 게시글을 영구적으로 삭제하시겠습니까 ?!"
+msgstr "이 게시물을 영구적으로 삭제하시겠습니까 ?!"
 
 #. plugins/BlogPlugin/BlogPlugin_cfg.html
 msgid "Message wall"

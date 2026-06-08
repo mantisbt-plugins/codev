@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2026-05-21 12:00:54+0000\n"
+"PO-Revision-Date: 2026-06-08 12:01:07+0000\n"
 "Language: nl_nl\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -646,13 +646,13 @@ msgstr "Dit servicecontract verwijderen?"
 
 #. tpl/servicecontract_edit.html
 msgid "Nb CommandSets"
-msgstr "Aantal commandosets"
+msgstr "Aantal OpdrachtSets"
 
 #. tpl/servicecontract_edit.html
 #. tpl/command_edit.html
 #. tpl/servicecontract_info.html
 msgid "CommandSets"
-msgstr "Commandosets"
+msgstr "OpdrachtSets"
 
 #. tpl/servicecontract_edit.html
 msgid "SideTasks Projects"
@@ -660,7 +660,7 @@ msgstr "BijTaken-projecten"
 
 #. tpl/servicecontract_edit.html
 msgid "--- New CommandSet ---"
-msgstr "--- Nieuwe commandoset ---"
+msgstr "--- Nieuwe OpdrachtSet ---"
 
 #. tpl/servicecontract_edit.html
 #. tpl/edit_holidays.html
@@ -705,20 +705,20 @@ msgstr "Ref"
 #. tpl/command_info.html
 #. tpl/menu/global_menu.html
 msgid "CommandSet"
-msgstr "CommandSet"
+msgstr "OpdrachtSet"
 
 #. tpl/servicecontract_edit.html
 msgid "delete Contract-CommandSet association"
-msgstr "Contract-CommandSet-koppeling verwijderen"
+msgstr "Contract-OpdrachtSet-koppeling verwijderen"
 
 #. tpl/servicecontract_edit.html
 #. tpl/command_edit.html
 msgid "Remove CommandSet"
-msgstr "Commandoset verwijderen"
+msgstr "OpdrachtSet verwijderen"
 
 #. tpl/servicecontract_edit.html
 msgid "Remove CommandSet from this Contract ?"
-msgstr "Commandoset uit dit contract verwijderen?"
+msgstr "OpdrachtSet uit dit contract verwijderen?"
 
 #. tpl/servicecontract_edit.html
 #. tpl/command_edit.html
@@ -2147,7 +2147,7 @@ msgstr "CodevTT-configuratiebestanden verwijderen:"
 
 #. tpl/uninstall.html
 msgid "Remove Mantis plugin:"
-msgstr "Mantis-plugin verwijderen:"
+msgstr "Mantis-plug-in verwijderen:"
 
 #. tpl/uninstall.html
 msgid "Remove ExternalTasks project:"
@@ -2192,16 +2192,16 @@ msgstr "dagen"
 
 #. tpl/command_edit.html
 msgid "Delete Command"
-msgstr "Commando verwijderen"
+msgstr "Opdracht verwijderen"
 
 #. tpl/command_edit.html
 msgid "Delete this Command ?"
-msgstr "Dit commando verwijderen?"
+msgstr "Deze Opdracht verwijderen?"
 
 #. tpl/command_edit.html
 #. plugins/BacklogPerUserIndicator/BacklogPerUserIndicator.html
 msgid "Nb tasks"
-msgstr "Nb taken"
+msgstr "Nb-taken"
 
 #. tpl/command_edit.html
 #. tpl/command_info.html
@@ -2221,7 +2221,7 @@ msgstr "Voorzieningen"
 
 #. tpl/command_edit.html
 msgid "Parent CommandSets"
-msgstr "Bovenliggende commandosets"
+msgstr "Bovenliggende OpdrachtSets"
 
 #. tpl/command_edit.html
 msgid "Add tasks (comma separated)"
@@ -2245,29 +2245,29 @@ msgstr "Taak verwijderen uit deze opdracht?"
 
 #. tpl/command_edit.html
 msgid "Create the Command before assigning it to a CommandSet."
-msgstr "Maak de opdracht aan voordat u deze aan een CommandSet toewijst."
+msgstr "Maak de opdracht aan voordat u deze aan een OpdrachtSet toewijst."
 
 #. tpl/command_edit.html
 #. tpl/servicecontract_info.html
 msgid "No CommandSet found."
-msgstr "Geen CommandSet gevonden."
+msgstr "Geen OpdrachtSet gevonden."
 
 #. tpl/command_edit.html
 #. tpl/commandset_edit.html
 msgid "delete CommandSet-Command association"
-msgstr "CommandSet-Opdracht-koppeling verwijderen"
+msgstr "OpdrachtSet-Opdracht-koppeling verwijderen"
 
 #. tpl/command_edit.html
 msgid "Remove this Command from the CommandSet ?"
-msgstr "Deze opdracht verwijderen uit de commandoset?"
+msgstr "Deze opdracht verwijderen uit de OpdrachtSet?"
 
 #. tpl/command_edit.html
 msgid "Create the Command first."
-msgstr "Maak eerst het commando aan."
+msgstr "Maak eerst de Opdracht aan."
 
 #. tpl/command_edit.html
 msgid "CSV Import"
-msgstr "CSV Importeren"
+msgstr "CSV importeren"
 
 #. tpl/command_edit.html
 msgid "Import templates"
@@ -2323,7 +2323,7 @@ msgstr "opslaan"
 
 #. tpl/command_edit.html
 msgid "Delete from the Command ?"
-msgstr "Van het commando verwijderen?"
+msgstr "Van de Opdracht verwijderen?"
 
 #. tpl/command_edit.html
 msgid "Edit Provision"
@@ -2332,7 +2332,7 @@ msgstr "Voorziening bewerken"
 #. tpl/command_edit.html
 #. tpl/edit_team.html
 msgid "Updated successfully !"
-msgstr "Bijwerken gelukt!"
+msgstr "Bijwerken voltooid!"
 
 #. tpl/command_edit.html
 #. tpl/commandset_edit.html
@@ -2341,7 +2341,7 @@ msgstr "Veld ontbreekt"
 
 #. tpl/command_edit.html
 msgid "Command name"
-msgstr "Commandonaam"
+msgstr "Opdrachtnaam"
 
 #. tpl/command_edit.html
 msgid "Not a number"
@@ -2402,23 +2402,23 @@ msgstr "BELANGRIJK: niet-toegewezen taken worden niet weergegeven!"
 
 #. tpl/commandset_edit.html
 msgid "New command set"
-msgstr "Nieuwe commandoset"
+msgstr "Nieuwe OpdrachtSet"
 
 #. tpl/commandset_edit.html
 msgid "Command set name"
-msgstr "Naam commandoset"
+msgstr "Naam voor OpdrachtSet"
 
 #. tpl/commandset_edit.html
 msgid "Delete CommandSet"
-msgstr "Commandoset verwijderen"
+msgstr "OpdrachtSet verwijderen"
 
 #. tpl/commandset_edit.html
 msgid "Delete this CommandSet ?"
-msgstr "Deze commandoset verwijderen?"
+msgstr "Deze OpdrachtSet verwijderen?"
 
 #. tpl/commandset_edit.html
 msgid "Nb Commands"
-msgstr "Aantal commando's"
+msgstr "Aantal Opdrachten"
 
 #. tpl/commandset_edit.html
 msgid "Service Contracts"
@@ -2436,19 +2436,19 @@ msgstr "Servicecontracten"
 #. plugins/OngoingTasks/OngoingTasks_ajax.html
 #: classes/issue.class.php:2223
 msgid "Commands"
-msgstr "Commando's"
+msgstr "Opdrachten"
 
 #. tpl/commandset_edit.html
 msgid "--- New Command ---"
-msgstr "--- Nieuw commando ---"
+msgstr "--- Nieuwe Opdracht ---"
 
 #. tpl/commandset_edit.html
 msgid "Remove Command"
-msgstr "Commando verwijderen"
+msgstr "Opdracht verwijderen"
 
 #. tpl/commandset_edit.html
 msgid "Remove Command from this CommandSet ?"
-msgstr "Commando verwijderen uit deze commandoset?"
+msgstr "Opdracht verwijderen uit deze OpdrachtSet?"
 
 #. tpl/commandset_edit.html
 #. tpl/servicecontract_info.html
@@ -2459,11 +2459,11 @@ msgstr "Commando verwijderen uit deze commandoset?"
 #. plugins/ManagementCosts/ManagementCosts_ajax3.html
 #. plugins/ImportIssueCsv/ImportIssueCsv_ajax.html
 msgid "Command"
-msgstr "Commando"
+msgstr "Opdracht"
 
 #. tpl/commandset_edit.html
 msgid "Create the CommandSet to add some commands."
-msgstr "Maak de CommandSet aan om opdrachten toe te voegen."
+msgstr "Maak de OpdrachtSet aan om opdrachten toe te voegen."
 
 #. tpl/time_tracking.html
 #. tpl/team_dashboard.html
@@ -2477,7 +2477,7 @@ msgstr "Query MISLUKT"
 
 #. tpl/time_tracking.html
 msgid "Add timetrack"
-msgstr "Tijdspoor toevoegen"
+msgstr "Tijdregistratie toevoegen"
 
 #. tpl/time_tracking.html
 #. tpl/modal/update_issueBacklog.html
@@ -2500,7 +2500,7 @@ msgstr "Taken met verboden status verbergen (gesloten, ...)"
 
 #. tpl/time_tracking.html
 msgid "Week timetracks"
-msgstr "Wekelijkse tijdsporen"
+msgstr "Wekelijkse tijdregistraties"
 
 #. tpl/time_tracking.html
 #. tpl/team_activity_report.html
@@ -2510,7 +2510,7 @@ msgstr "Ext.ID"
 #. tpl/time_tracking.html
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "Timetrack note"
-msgstr "Tijdspoor-notitie"
+msgstr "Tijdregistratienotitie"
 
 #. tpl/time_tracking.html
 #. tpl/edit_team.html
@@ -2520,24 +2520,24 @@ msgstr "deze rij verwijderen"
 #. tpl/time_tracking.html
 #. plugins/TimetrackList/TimetrackList_ajax.html
 msgid "Edit timetrack"
-msgstr "Tijdspoor bewerken"
+msgstr "Tijdregistratie bewerken"
 
 #. tpl/time_tracking.html
 msgid "Future timetracks"
-msgstr "Toekomstige tijdlijnen"
+msgstr "Toekomstige tijdregistraties"
 
 #. tpl/time_tracking.html
 msgid "Delete track"
-msgstr "Traject wissen"
+msgstr "Registratie wissen"
 
 #. tpl/missing_timetracks.html
 #. tpl/menu/global_menu.html
 msgid "Missing Timetracks"
-msgstr "Ontbrekende tijdsporen"
+msgstr "Ontbrekende tijdregistraties"
 
 #. tpl/missing_timetracks.html
 msgid "Missing timetracks per user"
-msgstr "Ontbrekende tijdsporen per gebruiker"
+msgstr "Ontbrekende tijdregistraties per gebruiker"
 
 #. tpl/missing_timetracks.html
 #. tpl/planning_report.html
@@ -2559,7 +2559,7 @@ msgstr "werkdagen"
 
 #. tpl/missing_timetracks.html
 msgid "Missing timetracks"
-msgstr "Ontbrekende tijdsporen"
+msgstr "Ontbrekende tijdregistraties"
 
 #. tpl/missing_timetracks.html
 msgid "Missing days"
@@ -2585,7 +2585,7 @@ msgstr "Fout"
 #. tpl/command_info.html
 #. tpl/gantt.html
 msgid "Reload"
-msgstr "Herladen"
+msgstr "Vernieuwen"
 
 #. tpl/tools/wbsEditor.html
 #. tpl/scheduler.html
@@ -2596,11 +2596,11 @@ msgstr "Opslaan"
 
 #. tpl/tools/wbsEditor.html
 msgid "WBS Root element cannot be renamed."
-msgstr "WBS-Root element kan niet worden gewijzigd."
+msgstr "WBS-hoofdelement kan niet worden gewijzigd."
 
 #. tpl/tools/wbsEditor.html
 msgid "Root element cannot be deleted."
-msgstr "Root element kan niet worden verwijderd."
+msgstr "Hoofdelement kan niet worden verwijderd."
 
 #. tpl/tools/wbsEditor.html
 msgid "Delete Failed: Folder must be empty."
@@ -2608,7 +2608,7 @@ msgstr "Verwijderen mislukt: map moet leeg zijn."
 
 #. tpl/tools/wbsEditor.html
 msgid "New Folder"
-msgstr "Nieuwe Map"
+msgstr "Nieuwe map"
 
 #. tpl/tools/wbsEditor.html
 #. plugins/WBSExport/WBSExport_ajax.html
@@ -2617,11 +2617,11 @@ msgstr "Hernoemen"
 
 #. tpl/tools/wbsEditor.html
 msgid "Add subfolder"
-msgstr "Toevoegen submap"
+msgstr "Submap toevoegen"
 
 #. tpl/tools/dashboard.html
 msgid "Add an indicator to the dashboard"
-msgstr "Het toevoegen van een indicator op het dashboard"
+msgstr "Een indicator toevoegen aan het dashboard"
 
 #. tpl/tools/dashboard.html
 msgid "Add Indicator"
@@ -2642,11 +2642,11 @@ msgstr "Bezig met laden"
 
 #. tpl/prepare_project.html
 msgid "Preparing project:"
-msgstr "De voorbereiding van het project:"
+msgstr "Project voorbereiden:"
 
 #. tpl/prepare_project.html
 msgid "Configure existing Projects"
-msgstr "Configureren van bestaande Projecten"
+msgstr "Bestaande projecten configureren"
 
 #. tpl/prepare_project.html
 msgid "Select the projects to be managed with CoDevTT"
@@ -2659,7 +2659,7 @@ msgstr "Voorbereiden"
 #. tpl/servicecontract_info.html
 #. tpl/menu/global_menu.html
 msgid "ServiceContract"
-msgstr "ServiceContract"
+msgstr "Servicecontract"
 
 #. tpl/servicecontract_info.html
 msgid "--- Create New ServiceContract ---"
@@ -2734,15 +2734,15 @@ msgstr "Indien niet aangevinkt, wordt een 'standaard' Mantis-notitie aangemaakt"
 
 #. tpl/modal/edit_issueNote.html
 msgid "Add as Timesheet note"
-msgstr "Voeg toe als Timesheet opmerking"
+msgstr "Als Urenstaatopmerking toevoegen"
 
 #. tpl/modal/edit_issueNote.html
 msgid "Edit timesheet note"
-msgstr "Notitie urenstaat bewerken"
+msgstr "Urenstaatnotitie bewerken"
 
 #. tpl/modal/edit_issueNote.html
 msgid "Delete timesheet note for task "
-msgstr "Urenstaat-notitie voor taak verwijderen"
+msgstr "Urenstaatnotitie voor taak verwijderen"
 
 #. tpl/modal/update_issueBacklog.html
 msgid "Current backlog"
@@ -2766,11 +2766,11 @@ msgstr "Tijdregistratie uitgeschakeld als huidige status in:"
 
 #. tpl/modal/update_issueBacklog.html
 msgid "Timetrack note is required"
-msgstr "Tijdspoor-notitie is vereist"
+msgstr "Tijdregistratienotitie is vereist"
 
 #. tpl/modal/select_issues.html
 msgid "No task selected !"
-msgstr "Geen taak geselecteerd"
+msgstr "Geen taak geselecteerd!"
 
 #. tpl/modal/select_issues.html
 msgid "Browse..."
@@ -2854,7 +2854,7 @@ msgstr "Werkdruk"
 
 #. tpl/team_activity_report.html
 msgid "Timesheet notes"
-msgstr "Aantekeningen op de urenstaat"
+msgstr "Urenstaatnotities"
 
 #. tpl/team_activity_report.html
 msgid "All Tasks"
@@ -2862,11 +2862,11 @@ msgstr "Alle taken"
 
 #. tpl/team_activity_report.html
 msgid "Timetrack notes"
-msgstr "Tijdspoor-notities"
+msgstr "Tijdregistratienotities"
 
 #. tpl/team_activity_report.html
 msgid "Timetrack Note"
-msgstr "Tijdspoor-notitie"
+msgstr "Tijdregistratienotitie"
 
 #. tpl/team_activity_report.html
 msgid "Read by"
@@ -2949,7 +2949,7 @@ msgstr "Voorkeuren"
 
 #. tpl/edit_team.html
 msgid "Timetrack Durations"
-msgstr "Duur tijdsporen"
+msgstr "Tijdregistratieduur"
 
 #. tpl/edit_team.html
 msgid "Costs management"
@@ -2957,7 +2957,7 @@ msgstr "Kostenbeheer"
 
 #. tpl/edit_team.html
 msgid "OnDuty tasks"
-msgstr "OnDuty taken"
+msgstr "Piketdiensttaken"
 
 #. tpl/edit_team.html
 #. tpl/create_team.html
@@ -2978,7 +2978,7 @@ msgstr "Ingeschakeld"
 
 #. tpl/edit_team.html
 msgid "Note: A <em>Team Admin</em> must also be declared as <em>TeamMember</em> to be included in the team's productivity report."
-msgstr "Opmerking: Een <em>Team Admin</em> moet ook worden verklaard als <em>Teamlid</em> om te worden opgenomen in het productiviteitsrapport van het team."
+msgstr "Opmerking: Een <em>Teambeheerder</em> moet ook worden ingesteld als <em>Teamlid</em> om te worden opgenomen in het productiviteitsrapport van het team."
 
 #. tpl/edit_team.html
 msgid "Team Administrators"
@@ -3275,11 +3275,11 @@ msgstr "Waarschuwingen in- of uitschakelen"
 
 #. tpl/edit_team.html
 msgid "Add OnDuty tasks"
-msgstr "OnDuty-taken toevoegen"
+msgstr "Piketdiensttaken toevoegen"
 
 #. tpl/edit_team.html
 msgid "Note: OnDuty tasks are team specific 'Leave' tasks, with a slightly different behaviour."
-msgstr "Opmerking: OnDuty-taken zijn teamspecifieke 'Verlof'-taken, met een iets ander gedrag."
+msgstr "Opmerking: Piketdiensttaken zijn teamspecifieke 'Verlof'-taken, met een iets ander gedrag."
 
 #. tpl/edit_team.html
 msgid "Inactivity tasks"
@@ -3291,11 +3291,11 @@ msgstr "Geen 'inactiviteit'-taak gedefinieerd in uw BijTaken-projecten."
 
 #. tpl/edit_team.html
 msgid "delete OnDuty task"
-msgstr "OnDuty-taak verwijderen"
+msgstr "Piketdiensttaak verwijderen"
 
 #. tpl/edit_team.html
 msgid "Timetrack durations list"
-msgstr "Lijst duur tijdsporen"
+msgstr "Tijdregistratieduurlijst"
 
 #. tpl/edit_team.html
 msgid "These are the values proposed in the Timetracking page, when adding a timetrack."
@@ -3330,7 +3330,7 @@ msgstr "Weergeven"
 
 #. tpl/edit_team.html
 msgid "add a custom duration"
-msgstr "voeg een aangepaste duur toe"
+msgstr "een aangepaste duur toevoegen"
 
 #. tpl/edit_team.html
 msgid "Delete duration"
@@ -3366,7 +3366,7 @@ msgstr "IssueTooltip-aanpassing voor project verwijderen"
 
 #. tpl/edit_team.html
 msgid "This task will no longer be identified as an 'OnDuty' task."
-msgstr "Deze taak wordt niet meer herkend als een 'OnDuty'-taak."
+msgstr "Deze taak wordt niet meer herkend als een 'Piketdienst'-taak."
 
 #. tpl/edit_team.html
 msgid "Job list for project :"
@@ -3390,7 +3390,7 @@ msgstr "U moet teamleider zijn om toegang te krijgen tot deze pagina."
 
 #. tpl/commandset_info.html
 msgid "--- Create New CommandSet ---"
-msgstr "--- Nieuwe commandoset aanmaken ---"
+msgstr "--- Nieuwe OpdrachtSet aanmaken ---"
 
 #. tpl/commandset_info.html
 msgid "Service Contract"
@@ -3461,7 +3461,7 @@ msgstr "Geen workflowtransities gedefinieerd, standaardconfiguratie wordt gebrui
 
 #. tpl/workflow.html
 msgid "Configuration Option"
-msgstr "Configuratie-Optie"
+msgstr "Configuratie-optie"
 
 #. tpl/workflow.html
 msgid "No configuration options defined, using default configuration."
@@ -3493,11 +3493,11 @@ msgstr "Takenlijst"
 
 #. tpl/create_team.html
 msgid "Team Info"
-msgstr "Team Info"
+msgstr "Teamgegevens"
 
 #. tpl/create_team.html
 msgid "Team Name"
-msgstr "Team Naam"
+msgstr "Teamnaam"
 
 #. tpl/create_team.html
 msgid "Team Administrator"
@@ -3543,7 +3543,7 @@ msgstr "Sys. Admin, Scripts, ..."
 #. tpl/create_team.html
 #: admin/edit_team.php:162
 msgid "Team Workshop"
-msgstr "Team Workshop"
+msgstr "Teamworkshop"
 
 #. tpl/create_team.html
 msgid "Support, Doc, Training, Wiki, ..."
@@ -3583,7 +3583,7 @@ msgstr "Projectmanagement"
 
 #. tpl/create_team.html
 msgid "Team meeting"
-msgstr "Team vergadering"
+msgstr "Teamvergadering"
 
 #. tpl/create_team.html
 msgid "Network is down"
@@ -3688,7 +3688,7 @@ msgstr "Taken van geobserveerde teams verbergen"
 #: scheduler/SchedulerEvent.class.php:116 gantt/gantt_ajax.php:224
 #: tools.php:1482
 msgid "External ID"
-msgstr "Extern ID"
+msgstr "Externe ID"
 
 #. tpl/issue_info.html
 msgid "Remove task from command"
@@ -3696,7 +3696,7 @@ msgstr "Taak uit opdracht verwijderen"
 
 #. tpl/issue_info.html
 msgid "Add to command"
-msgstr "Voeg toe aan opdracht"
+msgstr "Aan opdracht toevoegen"
 
 #. tpl/issue_info.html
 msgid "Properties"
@@ -3704,7 +3704,7 @@ msgstr "Eigenschappen"
 
 #. tpl/issue_info.html
 msgid "Timetracks"
-msgstr "Tijdsporen"
+msgstr "Tijdregistraties"
 
 #. tpl/issue_info.html
 msgid "Time tracking"
@@ -3716,7 +3716,7 @@ msgstr "Tijdregistratie bijwerken"
 
 #. tpl/issue_info.html
 msgid "Task Info"
-msgstr "Taak Info"
+msgstr "Taakgegevens"
 
 #. tpl/issue_info.html
 msgid "Update task info"
@@ -3761,27 +3761,27 @@ msgstr "Klik op de verversknop om weer te geven..."
 
 #. tpl/issue_info.html
 msgid "First Timetrack date"
-msgstr "Datum eerste tijdspoor"
+msgstr "Datum eerste tijdregistratie"
 
 #. tpl/issue_info.html
 msgid "Latest Timetrack date"
-msgstr "Datum laatste tijdspoor"
+msgstr "Datum laatste tijdregistratie"
 
 #. tpl/issue_info.html
 msgid "WARNING: Prior timetracks could not be displayed !"
-msgstr "WAARSCHUWING: eerdere tijdsporen konden niet worden weergegeven!"
+msgstr "WAARSCHUWING: eerdere tijdregistraties konden niet worden weergegeven!"
 
 #. tpl/issue_info.html
 msgid "Update timetracking values"
-msgstr "Tijdregistratie-waarden bijwerken"
+msgstr "Tijdregistratiewaarden bijwerken"
 
 #. tpl/issue_info.html
 msgid "Remove from :"
-msgstr "Verwijderen van :"
+msgstr "Verwijderen van:"
 
 #. tpl/issue_info.html
 msgid "Add to Command"
-msgstr "Voeg toe aan Opdracht"
+msgstr "Aan Opdracht toevoegen"
 
 #. tpl/issue_info.html
 msgid "set/remove task specific deadline"
@@ -3789,11 +3789,11 @@ msgstr "taakspecifieke deadline instellen/verwijderen"
 
 #. tpl/issue_info.html
 msgid "Delivery date"
-msgstr "Bezorgdatum"
+msgstr "Leveringsdatum"
 
 #. tpl/issue_info.html
 msgid "set/remove delivery date"
-msgstr "bezorgdatum instellen/verwijderen"
+msgstr "lleveringsdatum instellen of verwijderen"
 
 #. tpl/issue_info.html
 msgid "Task is resolved, backlog should be '0'"
@@ -3805,15 +3805,15 @@ msgstr "De backlog mag niet worden ingesteld als status: \\ is"
 
 #. tpl/command_info.html
 msgid "Set command filters"
-msgstr "Commandofilters instellen"
+msgstr "Opdrachtfilters instellen"
 
 #. tpl/command_info.html
 msgid "--- Create New Command ---"
-msgstr "--- Nieuw commando aanmaken ---"
+msgstr "--- Nieuwe Opdracht aanmaken ---"
 
 #. tpl/command_info.html
 msgid "Command Filters"
-msgstr "Opdracht Filters"
+msgstr "Opdrachtfilters"
 
 #. tpl/command_info.html
 msgid "Reduce the command selection by setting some filters"
@@ -3848,7 +3848,7 @@ msgstr "De totale lading (MgrMoeiteSchatting + Voorzieningen) moet gelijk zijn a
 
 #. tpl/command_info.html
 msgid "balance"
-msgstr "Balans"
+msgstr "balans"
 
 #. tpl/command_info.html
 #. tpl/gantt.html
@@ -3862,7 +3862,7 @@ msgstr "Standaard ADR"
 
 #. tpl/command_info.html
 msgid "Tasks & Provisions"
-msgstr "Taken & Voorzieningen"
+msgstr "Taken en voorzieningen"
 
 #. tpl/command_info.html
 #. tpl/gantt.html
@@ -3876,7 +3876,7 @@ msgstr "Opgeloste taken weergeven"
 #. tpl/command_info.html
 #. tpl/gantt.html
 msgid "Filter"
-msgstr "Filter"
+msgstr "Filteren"
 
 #. tpl/command_info.html
 msgid "Warning"
@@ -3884,7 +3884,7 @@ msgstr "Waarschuwing"
 
 #. tpl/command_info.html
 msgid "Reload page to update charges & indicators"
-msgstr "Pagina herladen om ladingen en indicatoren bij te werken"
+msgstr "Pagina vernieuwen om ladingen en indicatoren bij te werken"
 
 #. tpl/command_info.html
 msgid "Format"
@@ -3912,7 +3912,7 @@ msgstr "Activiteit"
 
 #. tpl/menu/global_menu.html
 msgid "Time Tracking (lite)"
-msgstr "Tijdregistratie (lite)"
+msgstr "Tijdregistratie (eenvoudig)"
 
 #. tpl/menu/global_menu.html
 msgid "Time Tracking"
@@ -3944,15 +3944,15 @@ msgstr "Gantt-diagram"
 
 #. tpl/menu/global_menu.html
 msgid "Task Information"
-msgstr "Taak Informatie"
+msgstr "Taakgegevens"
 
 #. tpl/menu/global_menu.html
 msgid "Project Information"
-msgstr "Project Informatie"
+msgstr "Projectgegevens"
 
 #. tpl/menu/global_menu.html
 msgid "Team Statistics"
-msgstr "Team Statistieken"
+msgstr "Teamstatistieken"
 
 #. tpl/menu/global_menu.html
 msgid "User Statistics"
@@ -4021,7 +4021,7 @@ msgstr "Team bewerken"
 
 #. tpl/menu/global_menu.html
 msgid "Tools & Statistics"
-msgstr "Hulpmiddelen & Statistieken"
+msgstr "Hulpmiddelen en statistieken"
 
 #. tpl/menu/global_menu.html
 msgid "Edit Jobs"
@@ -4052,7 +4052,7 @@ msgstr "Logboeken"
 
 #. tpl/plugin_manager.html
 msgid "Check for new plugins in 'plugins' directory."
-msgstr "Check voor nieuwe plugins in 'plugins' map."
+msgstr "Op nieuwe plug-ins controleren in de map 'plugins'."
 
 #. tpl/plugin_manager.html
 msgid "Discover new plugins"
@@ -4140,11 +4140,11 @@ msgstr "Deadline-waarschuwingen"
 
 #. plugins/DeadlineAlertIndicator/DeadlineAlertIndicator.html
 msgid "No late task."
-msgstr "Geen verlate opdracht."
+msgstr "Geen taken die te laat zijn."
 
 #. plugins/AdminTools/AdminTools.html
 msgid "Run selected actions"
-msgstr "Geselecteerde acties uitvoeren"
+msgstr "Geselecteerde handelingen uitvoeren"
 
 #. plugins/AdminTools/AdminTools.html
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
@@ -4161,7 +4161,7 @@ msgstr "Administratiehulpmiddelen"
 
 #. plugins/AdminTools/AdminTools.html
 msgid "Actions executed !"
-msgstr "Acties uitgevoerd!"
+msgstr "Handelingen uitgevoerd!"
 
 #. plugins/AdminTools/AdminTools_ajax.html
 msgid "Force the display of the \"Message\" plugin on the homepage"
@@ -4282,7 +4282,7 @@ msgstr "Bereikwaarden"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 msgid "Available Workforce Options"
-msgstr "Beschikbare opties werkkracht"
+msgstr "Beschikbare medewerkersopties"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 msgid "Select by group"
@@ -4306,11 +4306,11 @@ msgstr "SOM(userWorkforce * beschikbaarheid * prodCoef)"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 msgid "Available workforce"
-msgstr "Beschikbare werkkracht"
+msgstr "Beschikbare medewerkers"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator_ajax2.html
 msgid "Workforce"
-msgstr "Workforce"
+msgstr "Medewerkers"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
@@ -4342,7 +4342,7 @@ msgstr "Taakbacklog"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "Fill Period With Timetracks"
-msgstr "Periode vullen met tijdsporen"
+msgstr "Periode vullen met tijdregistraties"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.class.php:77
@@ -4355,7 +4355,7 @@ msgstr "Het is niet de filosofie van CodevTT om gebruikers meerdere tijdregistra
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "Error !"
-msgstr "Fout !"
+msgstr "Fout!"
 
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.html
 msgid "days available on period"
@@ -4364,11 +4364,11 @@ msgstr "dagen beschikbaar in periode"
 #. plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks_cfg.html
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.class.php:74
 msgid "Fill period with timetracks"
-msgstr "Periode vullen met tijdsporen"
+msgstr "Periode vullen met tijdregistraties"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator_cfg.html
 msgid "Managemnt load history"
-msgstr "Beheerslastgeschiedenis"
+msgstr "Beheerderslastgeschiedenis"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
@@ -4383,7 +4383,7 @@ msgstr "Evolutie van de werkelijke voortgang versus de theoretische voortgang."
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
 msgid "Theoretical progress"
-msgstr "Theoretische vooruitgang"
+msgstr "Theoretische voortgang"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
@@ -4398,7 +4398,7 @@ msgstr "Verstreken / max(MgrMoeiteSchatting, MoeiteSchatting)"
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
 msgid "Real progress"
-msgstr "Echte vooruitgang"
+msgstr "Echte voortgang"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
@@ -4417,7 +4417,7 @@ msgstr "Historisch voortgangsdiagram"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 msgid "Mngt Elapsed"
-msgstr "Beheer Verstreken"
+msgstr "Beheer verstreken"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 msgid "Mngt Provisions"
@@ -4429,7 +4429,7 @@ msgstr "U moet manager zijn om toegang te krijgen tot deze plug-in."
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "Root task"
-msgstr "Roottaak"
+msgstr "Hoofdtaak"
 
 #. plugins/ImportRelationshipTreeToCommand/ImportRelationshipTreeToCommand.html
 msgid "comma separated"
@@ -4471,7 +4471,7 @@ msgstr "FOUT, controleer"
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_cfg.html
 msgid "Timetrack filter"
-msgstr "Tijdspoorfilter"
+msgstr "Tijdregistratiefilter"
 
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_cfg.html
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
@@ -4521,12 +4521,12 @@ msgstr "De verstreken tijd voor elke gebruikersgroep weergeven"
 
 #. plugins/DriftAlertIndicator/DriftAlertIndicator_cfg.html
 msgid "Tasks Drift alert"
-msgstr "Waarschuwing afdwaling taken"
+msgstr "Waarschuwing taakafdwalingen"
 
 #. plugins/DriftAlertIndicator/DriftAlertIndicator_cfg.html
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
 msgid "Display resolved issues"
-msgstr "Opgeloste problemen weergeven"
+msgstr "Opgeloste meldingen weergeven"
 
 #. plugins/DriftAlertIndicator/DriftAlertIndicator.html
 msgid "Drift current tasks"
@@ -4538,7 +4538,7 @@ msgstr "Afdwaling opgeloste taken"
 
 #. plugins/UserTeamList/UserTeamList.html
 msgid "Update team"
-msgstr "Team updaten"
+msgstr "Team bijwerken"
 
 #. plugins/UserTeamList/UserTeamList_cfg.html
 msgid "User team list"
@@ -4604,7 +4604,7 @@ msgstr "% Gevalideerd"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "Displays the percent of bugs having successfully pass the validation tests"
-msgstr "Geeft het percentage bugs weer dat de validatietests succesvol heeft doorstaan"
+msgstr "Geeft het percentage bugs weer dat de validatietests heeft doorstaan"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "status changed from 'resolved' to any higher status (and still in this state at the end of the period)."
@@ -4612,7 +4612,7 @@ msgstr "status gewijzigd van 'opgelost' naar een hogere status (en nog steeds in
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "% Rejected"
-msgstr "% Verworpen"
+msgstr "% Afgewezen"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "Displays the percent of bugs having failed the validation tests"
@@ -4646,7 +4646,7 @@ msgstr "Aantal geslaagd"
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 #: plugins/ImportIssueCsv/ImportIssueCsv.class.php:62
 msgid "Import issues"
-msgstr "Problemen importeren"
+msgstr "Meldingen importeren"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 msgid "Sorry, only team members can import tasks."
@@ -4655,7 +4655,7 @@ msgstr "Sorry, alleen teamleden kunnen taken importeren."
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 #. plugins/ImportUsers/ImportUsers.html
 msgid "Preview import"
-msgstr "Voorbeeld importeren"
+msgstr "Voorbeeldweergave voor importeren"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 #. plugins/ImportUsers/ImportUsers.html
@@ -4665,7 +4665,7 @@ msgstr "Bestandsformaat"
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 #. plugins/ImportUsers/ImportUsers.html
 msgid "Standard CSV format with :"
-msgstr "Standaard CSV-formaat met :"
+msgstr "Standaard CSV-formaat met:"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 msgid "enclosure"
@@ -4797,7 +4797,7 @@ msgstr "WAARSCHUWING: deze optie wordt uitgeschakeld als 'Alleen teamleden' niet
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks_cfg.html
 msgid "Move issue timetracks"
-msgstr "Verplaats probleem-tijdsporen"
+msgstr "Tijdsregistraties voor melding verplaatsen"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks_ajax.html
 #. plugins/TimetrackDetailsIndicator/TimetrackDetailsIndicator_ajax.html
@@ -4819,7 +4819,7 @@ msgstr "Datums"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Start"
-msgstr "Start"
+msgstr "Begin"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "End"
@@ -4844,11 +4844,11 @@ msgstr "Doeltaak moet verschillen van de brontaak"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Origin task"
-msgstr "Oorsprong taak"
+msgstr "Taakoorsprong"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Move selected timetracks"
-msgstr "Geselecteerde tijdsporen verplaatsen"
+msgstr "Geselecteerde tijdregistraties verplaatsen"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Destination task"
@@ -4860,7 +4860,7 @@ msgstr "WAARSCHUWING: Om tijdregistraties te verplaatsen, wordt de aanmaakdatum 
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Timetracks moved successfully !"
-msgstr "De tijdsporen zijn verplaatst!"
+msgstr "De tijdregistraties zijn verplaatst!"
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
 #: plugins/StatusHistoryIndicator2/StatusHistoryIndicator2.class.php:67
@@ -4877,7 +4877,7 @@ msgstr "Ja"
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
 msgid "Filter on Issue type"
-msgstr "Filter op probleemtype"
+msgstr "Op probleemtype filteren"
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
 msgid "No filter"
@@ -4897,7 +4897,7 @@ msgstr "Alleen taken"
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
 msgid "Filter on External ID"
-msgstr "Filter op externe ID"
+msgstr "Op externe ID filteren"
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
 msgid "Issues with External ID"
@@ -4914,7 +4914,7 @@ msgstr "Controleer alle tijdregistraties van de periode en geef hun verdeling pe
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 msgid "Selling price for period"
-msgstr "Verkoopsprijs gedurende de periode"
+msgstr "Verkoopprijs gedurende de periode"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 msgid "Elapsed during period"
@@ -4928,7 +4928,7 @@ msgstr "Nog te produceren (op einde periode)"
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_cfg.html
 #: plugins/SellingPriceForPeriod/SellingPriceForPeriod.class.php:83
 msgid "Selling Price for the Period"
-msgstr "Verkoopsprijs gedurende de periode"
+msgstr "Verkoopprijs gedurende de periode"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 #: plugins/SellingPriceForPeriod/SellingPriceForPeriod.class.php:88
@@ -4942,7 +4942,7 @@ msgstr "Voor deze plug-in moet u het gepersonaliseerde veld \"CodevTT_DailyPrice
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 msgid "SellingPrice = DailyPrice x Elapsed during period"
-msgstr "Verkoopsprijs = Dagprijs x Verstreken gedurende periode"
+msgstr "Verkoopprijs = Dagprijs x Verstreken gedurende periode"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod.html
 msgid "Remaining = MgrEffortEstim - Elapsed since the beginning of the task to end of period"
@@ -4965,7 +4965,7 @@ msgstr "Taaknaam"
 #. plugins/OngoingTasks/OngoingTasks_cfg.html
 #. plugins/OngoingTasks/OngoingTasks_ajax.html
 msgid "Task ExtRef"
-msgstr "ExtRef taak"
+msgstr "ExtRef voor taak"
 
 #. plugins/SellingPriceForPeriod/SellingPriceForPeriod_ajax.html
 #. plugins/TimetrackList/TimetrackList_ajax.html
@@ -5026,7 +5026,7 @@ msgstr "Werkelijk"
 
 #. plugins/ProgressHistoryIndicator2/ProgressHistoryIndicator2.html
 msgid "% Progress"
-msgstr "% Voortgang"
+msgstr "% voortgang"
 
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator_cfg.html
 #. plugins/LoadHistoryIndicator/LoadHistoryIndicator.html
@@ -5089,7 +5089,7 @@ msgstr "Tijdregistratielijst"
 
 #. plugins/TimetrackList/TimetrackList.html
 msgid "Update timetrack"
-msgstr "Tijdspoor bijwerken"
+msgstr "Tijdregistratie bijwerken"
 
 #. plugins/BacklogPerUserIndicator/BacklogPerUserIndicator_cfg.html
 #. plugins/BacklogPerUserIndicator/BacklogPerUserIndicator.html
@@ -5116,15 +5116,15 @@ msgstr "Lopende taken"
 
 #. plugins/OngoingTasks/OngoingTasks.html
 msgid "Display only the tasks with activity (timetracks) on the period"
-msgstr "Enkel de taken weergeven die actief waren (tijdsporen) gedurende de periode"
+msgstr "Enkel de taken weergeven die actief waren (tijdregistraties) gedurende de periode"
 
 #. plugins/OngoingTasks/OngoingTasks.html
 msgid "The time spent on the task during the period (which can be less than the total time spent since the beginning of the task)"
-msgstr "De tijd besteed aan de taak gedurende de periode (dit kan minder zijn dan de totale tijd besteed sinds het beginnen van de taak)"
+msgstr "De tijd die gedurende de periode aan de taak is besteed (die korter kan zijn dan de totale tijd die sinds het begin van de taak is besteed)"
 
 #. plugins/OngoingTasks/OngoingTasks.html
 msgid "List the users having spent time on the task during the period"
-msgstr "Lijst de gebruikers op die tijd gespendeerd hebben op de taak tijdens de periode"
+msgstr "Lijst van gebruikers die gedurende de periode tijd hebben besteed aan de taak"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator_ajax.html
 msgid "Nb submitted"
@@ -5136,11 +5136,11 @@ msgstr "Aantal opgelost"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator_ajax.html
 msgid "Submitted issues"
-msgstr "Ingediende problemen"
+msgstr "Ingediende meldingen"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator_ajax.html
 msgid "Resolved issues"
-msgstr "Opgeloste problemen"
+msgstr "Opgeloste meldingen"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator_cfg.html
 #: plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator.class.php:65
@@ -5149,11 +5149,11 @@ msgstr "Geschiedenis ingediende/opgeloste issues"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator.html
 msgid "Submitted/Resolved issues"
-msgstr "Ingediende/opgeloste problemen"
+msgstr "Ingediende/opgeloste meldingen"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator.html
 msgid "Submitted / Resolved Issues"
-msgstr "Ingediende/opgeloste problemen"
+msgstr "Ingediende/opgeloste meldingen"
 
 #. plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator.html
 msgid "Submitted"
@@ -5551,7 +5551,7 @@ msgstr "Modus"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
 msgid "Nb timetracks"
-msgstr "Aantal tijdsporen"
+msgstr "Aantal tijdregistraties"
 
 #. plugins/TimetrackingAnalysis/TimetrackingAnalysis_ajax.html
 msgid "Missing"
@@ -5592,7 +5592,7 @@ msgstr "Taken-draaitabel"
 
 #. plugins/ResetDashboard/ResetDashboard.html
 msgid "Reset selected dashboards"
-msgstr "Geselecteerde dashboards resetten"
+msgstr "Geselecteerde dashboards opnieuw instellen"
 
 #. plugins/ResetDashboard/ResetDashboard_ajax.html
 msgid "Domain"
@@ -5691,7 +5691,7 @@ msgstr "Kon de aanmaakdatum niet bijwerken"
 #: plugins/ImportIssueCsv/ImportIssueCsv.class.php:204
 #: plugins/ImportUsers/ImportUsers.class.php:237
 msgid "Please upload files with the following extension: "
-msgstr "Upload bestanden met de volgende extensie: "
+msgstr "Upload bestanden met het volgende achtervoegsel: "
 
 #: admin/edit_team_ajax.php:782
 #: plugins/LoadPerUserGroups/LoadPerUserGroups.class.php:311
@@ -5749,7 +5749,7 @@ msgstr "Tooltips configureren"
 
 #: admin/edit_team.php:408
 msgid "enabled"
-msgstr "Ingeschakeld"
+msgstr "ingeschakeld"
 
 #: admin/edit_team.php:408
 msgid "disabled"
@@ -5757,7 +5757,7 @@ msgstr "uitgeschakeld"
 
 #: classes/command.class.php:59
 msgid "to be sent"
-msgstr "om verzonden te worden"
+msgstr "te verzenden"
 
 #: classes/command.class.php:60
 msgid "Sent"
@@ -5797,11 +5797,11 @@ msgstr "voor het team"
 
 #: classes/user.class.php:1562
 msgid "[CodevTT] Timesheet reminder !"
-msgstr "[CodevTT] Urenstaat-herinnering!"
+msgstr "[CodevTT] Urenstaatherinnering!"
 
 #: classes/user.class.php:1564 plugins/ImportUsers/ImportUsers_ajax.php:163
 msgid "Dear "
-msgstr "Geachte "
+msgstr "Beste "
 
 #: classes/user.class.php:1565
 msgid "Please fill your CodevTT timesheet"
@@ -5846,11 +5846,11 @@ msgstr "Issues mogen niet in meerdere opdrachten worden gerefereerd"
 
 #: classes/consistency_check2.class.php:184
 msgid "Commands should be referenced in a CommandSet"
-msgstr "Opdrachten moeten worden gerefereerd in een CommandSet"
+msgstr "Opdrachten moeten worden gerefereerd in een OpdrachtSet"
 
 #: classes/consistency_check2.class.php:185
 msgid "CommandSets should be referenced in a ServiceContract"
-msgstr "CommandSets moeten worden gerefereerd in een ServiceContract"
+msgstr "OpdrachtSets moeten worden gerefereerd in een ServiceContract"
 
 #: classes/consistency_check2.class.php:186
 msgid "Issues should be assigned to someone"
@@ -5899,7 +5899,7 @@ msgstr "De taak is niet gerefereerd in een opdracht."
 
 #: classes/consistency_check2.class.php:605
 msgid "is not referenced in any CommandSet"
-msgstr "is niet gerefereerd in een CommandSet"
+msgstr "is niet gerefereerd in een OpdrachtSet"
 
 #: classes/consistency_check2.class.php:630
 msgid "is not referenced in any ServiceContract"
@@ -5939,11 +5939,11 @@ msgstr "gecontroleerd"
 
 #: classes/issue.class.php:59
 msgid "Duplicate of"
-msgstr "duplicaat van"
+msgstr "Duplicaat van"
 
 #: classes/issue.class.php:60
 msgid "Has duplicate"
-msgstr "heeft duplicaat"
+msgstr "Heeft duplicaat"
 
 #: classes/issue.class.php:61 classes/issue.class.php:62
 msgid "Related to"
@@ -5956,7 +5956,7 @@ msgstr "Ouder van"
 #. 2
 #: classes/issue.class.php:64
 msgid "Child of"
-msgstr "Kind van"
+msgstr "Deel van"
 
 #: classes/issue.class.php:65
 msgid "Constrained by"
@@ -6422,7 +6422,7 @@ msgstr "auto"
 
 #: management/commandset_info.php:88
 msgid "Errors affecting the CommandSet"
-msgstr "Fouten die de CommandSet beïnvloeden"
+msgstr "Fouten die de OpdrachtSet beïnvloeden"
 
 #: management/command_edit_ajax.php:66
 msgid "Provisions updated FAILED !"
@@ -6649,7 +6649,7 @@ msgstr "Taak staat niet in de projecten van het team"
 
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks.class.php:285
 msgid "Timetrack added by "
-msgstr "Tijdspoor toegevoegd door "
+msgstr "Tijdregistratie toegevoegd door "
 
 #: plugins/FillPeriodWithTimetracks/FillPeriodWithTimetracks_ajax.php:76
 msgid "Task does not exist !"
@@ -6809,7 +6809,7 @@ msgstr "Lijst met de actieve taken gedurende een bepaalde periode"
 
 #: plugins/OngoingTasks/OngoingTasks.class.php:90
 msgid "Tasks having received timetracks during the period"
-msgstr "Taken die gedurende de periode tijdsporen hebben ontvangen"
+msgstr "Taken die gedurende de periode tijdregistraties hebben ontvangen"
 
 #: plugins/SubmittedResolvedHistoryIndicator/SubmittedResolvedHistoryIndicator.class.php:68
 msgid "Display the number of issues submitted/resolved in a period"
