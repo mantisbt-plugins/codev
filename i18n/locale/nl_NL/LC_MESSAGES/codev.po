@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2026-06-08 12:01:07+0000\n"
+"PO-Revision-Date: 2026-06-11 12:01:28+0000\n"
 "Language: nl_nl\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -6237,11 +6237,11 @@ msgstr "Pad naar Mantis"
 
 #: install/install_step2.php:114
 msgid "URL to Mantis"
-msgstr "URL naar Mantis"
+msgstr "Url naar Mantis"
 
 #: install/install_step2.php:119
 msgid "URL to CodevTT"
-msgstr "URL naar CodevTT"
+msgstr "Url naar CodevTT"
 
 #: install/install_step2.php:134
 msgid "Proceed Step 2"
@@ -6837,7 +6837,7 @@ msgstr "Verander alstublieft uw wachtwoord bij de eerste verbinding."
 
 #: plugins/ImportUsers/ImportUsers_ajax.php:168
 msgid "CodevTT URL: "
-msgstr "CodevTT-URL: "
+msgstr "CodevTT-url: "
 
 #: plugins/ImportUsers/ImportUsers_ajax.php:169
 msgid "Mantis  URL: "
