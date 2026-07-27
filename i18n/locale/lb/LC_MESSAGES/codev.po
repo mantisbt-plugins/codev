@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2026-07-23 12:01:11+0000\n"
+"PO-Revision-Date: 2026-07-27 12:01:26+0000\n"
 "Language: lb\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -3455,7 +3455,7 @@ msgstr ""
 
 #. tpl/workflow.html
 msgid "Configuration Option"
-msgstr ""
+msgstr "Konfiguratiounsoptioun"
 
 #. tpl/workflow.html
 msgid "No configuration options defined, using default configuration."
