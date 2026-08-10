@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2026-07-09 12:01:06+0000\n"
+"PO-Revision-Date: 2026-08-10 12:01:43+0000\n"
 "Language: nl_nl\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -4596,7 +4596,7 @@ msgstr "BugValidation-geschiedenisindicator"
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "Resolved bugs must be validated. This shows how many bugs have been Rejected or Accepted during the validation stage. Bugs in 'resolved' status (not yet validated) are excluded."
-msgstr "Opgeloste bugs moeten worden gevalideerd. Dit toont hoeveel bugs zijn afgewezen of geaccepteerd tijdens de validatiefase. Bugs met de status 'opgelost' (nog niet gevalideerd) zijn uitgesloten."
+msgstr "Opgeloste bugs moeten worden gevalideerd. Dit geeft aan hoeveel bugs zijn afgewezen of geaccepteerd tijdens de validatiefase. Bugs met de status 'opgelost' (nog niet gevalideerd) zijn uitgesloten."
 
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2.html
 msgid "% Validated"
