@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2026-08-03 12:02:03+0000\n"
+"PO-Revision-Date: 2026-08-17 12:01:20+0000\n"
 "Language: hu\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -29,7 +29,7 @@ msgstr "Feladat hozzáadása"
 #. tpl/modal/consistency_check.html
 #. tpl/planning_report.html
 msgid "Click to show errors"
-msgstr ""
+msgstr "Kattints a hibák megjelenítéséhez"
 
 #. tpl/timetracking_lite.html
 #. tpl/time_tracking.html
@@ -184,9 +184,8 @@ msgstr ""
 
 #. tpl/timetracking_lite.html
 #. tpl/time_tracking.html
-#, fuzzy
 msgid "Hide resolved tasks"
-msgstr "(csak megoldott feladatokra)"
+msgstr "Megoldott feladatok elrejtése"
 
 #. tpl/timetracking_lite.html
 #. tpl/check.html
@@ -480,9 +479,8 @@ msgstr ""
 
 #. tpl/check.html
 #. plugins/IssueConsistencyCheck/IssueConsistencyCheck.html
-#, fuzzy
 msgid "Error Description"
-msgstr "Leírás"
+msgstr "Hiba leírása"
 
 #. tpl/servicecontract_edit.html
 msgid "New service contract"
