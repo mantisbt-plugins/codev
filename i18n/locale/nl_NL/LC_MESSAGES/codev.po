@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2026-08-10 12:01:43+0000\n"
+"PO-Revision-Date: 2026-08-27 12:01:24+0000\n"
 "Language: nl_nl\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -6131,7 +6131,7 @@ msgstr "Mantis-plug-ins controleren"
 
 #: install/install_step4.php:50
 msgid "Login to Mantis as 'Administrator'."
-msgstr "Log in bij Mantis als 'Administrator'."
+msgstr "Aanmelden bij Mantis als 'Administrator'."
 
 #: install/install_step4.php:51
 msgid "manage plugins"
