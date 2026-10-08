@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2026-09-14 12:00:20+0000\n"
+"PO-Revision-Date: 2026-10-08 12:00:21+0000\n"
 "Language: ar\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2137,7 +2137,7 @@ msgstr "إزالة حقول CodevTT المخصصة:"
 #. tpl/uninstall.html
 #. tpl/prepare_project.html
 msgid "Done"
-msgstr "نُفذ"
+msgstr "تم"
 
 #. tpl/uninstall.html
 msgid "Remove CodevTT tables from MantisDB:"
@@ -4821,7 +4821,7 @@ msgstr "تواريخ"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Start"
-msgstr "البداية"
+msgstr "بداية"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "End"
@@ -5427,7 +5427,7 @@ msgstr "حائط الرسالة"
 
 #. plugins/BlogPlugin/BlogPlugin_cfg.html
 msgid "Size"
-msgstr "مقاس"
+msgstr "الحجم"
 
 #. plugins/BlogPlugin/BlogPlugin_cfg.html
 msgid "Small"

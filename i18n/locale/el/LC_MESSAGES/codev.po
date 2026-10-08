@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2026-09-14 12:00:20+0000\n"
+"PO-Revision-Date: 2026-10-08 12:00:22+0000\n"
 "Language: el\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1262,7 +1262,7 @@ msgstr "Ταυτότητα χρήστη"
 #. plugins/LoadPerUserGroups/LoadPerUserGroups_ajax.html
 #. plugins/LoadPerUserGroups/LoadPerUserGroups.html
 msgid "Group"
-msgstr ""
+msgstr "Ομάδα"
 
 #. tpl/user_info.html
 #. tpl/edit_team.html
@@ -1369,22 +1369,20 @@ msgid "A new CodevTT version is available !"
 msgstr "Μια νέα έκδοση του CodevTT είναι διαθέσιμη!"
 
 #. tpl/edit_holidays.html
-#, fuzzy
 msgid "Add fixed holidays"
-msgstr "Επεξεργασία διακοπών"
+msgstr "Προσθήκη σταθερών αργιών"
 
 #. tpl/edit_holidays.html
 msgid "In here you can set National Days, religious holidays, etc."
-msgstr ""
+msgstr "Εδώ μπορείτε να ορίσετε Εθνικές Ημέρες, θρησκευτικές γιορτές, κλπ."
 
 #. tpl/edit_holidays.html
 msgid "Note: adding RTTs is not a good idea, users may decide to work anyways and productionDaysForecast will be wrong."
 msgstr ""
 
 #. tpl/edit_holidays.html
-#, fuzzy
 msgid "Holiday Description"
-msgstr "Περιγραφή"
+msgstr "Περιγραφή αργίας"
 
 #. tpl/edit_holidays.html
 #. tpl/edit_jobs.html
