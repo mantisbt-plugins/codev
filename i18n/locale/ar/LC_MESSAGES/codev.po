@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2026-10-15 12:00:21+0000\n"
+"PO-Revision-Date: 2026-10-19 12:00:15+0000\n"
 "Language: ar\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -4734,7 +4734,7 @@ msgstr "لا يتم ضبط النوع على جميع المشكلات"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv_ajax.html
 msgid "Import done !"
-msgstr "تم الاستيراد !"
+msgstr "نُفذ الإستيراد!"
 
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator.html
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
@@ -5767,11 +5767,11 @@ msgstr "تم إرسالها"
 
 #: classes/command.class.php:61
 msgid "to be validated"
-msgstr "ليتم التحقق من صحتها"
+msgstr "لم يتَحقق مُحرّر منها"
 
 #: classes/command.class.php:62
 msgid "validated"
-msgstr "تم التحقق من صحتها"
+msgstr "تَحقق مُحرّر منها"
 
 #: classes/command.class.php:63
 msgid "to be closed"
