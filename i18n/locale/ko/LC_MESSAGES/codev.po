@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2026-10-15 12:00:23+0000\n"
+"PO-Revision-Date: 2026-10-29 12:00:09+0000\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1137,7 +1137,7 @@ msgstr "시스템 사용 가능성"
 
 #. tpl/statistics.html
 msgid "Number of reopened external tasks (tasks having an ExternalRef)."
-msgstr "다시 열린 작업 갯수 (외부참조를 가진 작업)"
+msgstr "다시 열린 작업 개수 (외부참조를 가진 작업)"
 
 #. tpl/statistics.html
 msgid "% Reopened"
