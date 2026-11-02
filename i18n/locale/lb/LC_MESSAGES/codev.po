@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: CodevTT\n"
 "Report-Msgid-Bugs-To: translatewiki.net\n"
 "POT-Creation-Date: 2024-02-04 11:09+0100\n"
-"PO-Revision-Date: 2026-10-15 12:00:23+0000\n"
+"PO-Revision-Date: 2026-11-02 12:00:16+0000\n"
 "Language: lb\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -4027,11 +4027,11 @@ msgstr ""
 
 #. tpl/menu/global_menu.html
 msgid "Prepare Projects"
-msgstr ""
+msgstr "Projete virbereeden"
 
 #. tpl/menu/global_menu.html
 msgid "Clone Projects"
-msgstr ""
+msgstr "Projete klonen"
 
 #. tpl/menu/global_menu.html
 msgid "Plugin Manager"
